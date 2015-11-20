@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>238</JournalID>
+      <JournalDOI>10.1007/238.1435-0130</JournalDOI>
+      <JournalPrintISSN>0930-343X</JournalPrintISSN>
+      <JournalElectronicISSN>1435-0130</JournalElectronicISSN>
+      <JournalTitle>European Journal of Plastic Surgery</JournalTitle>
+      <JournalAbbreviatedTitle>Eur J Plast Surg</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH59087" Priority="1" Type="Secondary">Plastic Surgery</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <JournalOnlineFirst>
+      <Article ID="s00238-015-1112-3" OutputMedium="All">
+        <ArticleInfo ArticleType="Letter" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+          <ArticleID>1112</ArticleID>
+          <ArticleDOI>10.1007/s00238-015-1112-3</ArticleDOI>
+          <ArticleTitle Language="En">Sunitinib related osteonecrosis of the jaw (SURONJ): a rare occurrence?</ArticleTitle>
+          <ArticleCategory>Letter to the Editor</ArticleCategory>
+          <ArticleFirstPage>1</ArticleFirstPage>
+          <ArticleLastPage>2</ArticleLastPage>
+          <ArticleHistory>
+            <RegistrationDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>16</Day>
+            </RegistrationDate>
+            <Received>
+              <Year>2014</Year>
+              <Month>9</Month>
+              <Day>30</Day>
+            </Received>
+            <Accepted>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>15</Day>
+            </Accepted>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+          </ArticleHistory>
+          <ArticleCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </ArticleCopyright>
+          <ArticleGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ArticleGrants>
+        </ArticleInfo>
+        <ArticleHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Carlo</GivenName>
+                <FamilyName>Melloni</FamilyName>
+              </AuthorName>
+              <Contact>
+                <Phone>+39 3297395952</Phone>
+                <Email>carlomelloni.unipa@gmail.com</Email>
+              </Contact>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Adriana</GivenName>
+                <FamilyName>Tuttolomondo</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Ampelio</GivenName>
+                <FamilyName>Anfosso</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Chiara</GivenName>
+                <FamilyName>Calamia</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Filippo</GivenName>
+                <GivenName>Daniele</GivenName>
+                <FamilyName>Clemente</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Adriana</GivenName>
+                <FamilyName>Cordova</FamilyName>
+              </AuthorName>
+            </Author>
+            <Affiliation ID="Aff1">
+              <OrgDivision>Department of Surgical, Oncological and Oral Sciences-Plastic and Reconstructive Surgery Unit</OrgDivision>
+              <OrgName>University of Palermo</OrgName>
+              <OrgAddress>
+                <City>Palermo</City>
+                <Country>Italy</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+        </ArticleHeader>
+        <Body>
+          <Para ID="Par1">Sir,</Para>
+          <Para ID="Par2">Sunitinib is a drug approved in 2006 by the FDA for the treatment of renal cell carcinoma (RCC) and resistant gastrointestinal stromal tumor (GIST).</Para>
+          <Para ID="Par3">The capillary endothelium is the first target of sunitinib: it blocks several pathways central to proliferation, migration, differentiation, neoangiogenesis, and invasion of cancer cells, including vascular endothelial growth factor receptors (VEGFRs), platelet-derived growth factor receptors (PDGFR-α and PGRF-β), the stem cell factor receptor (c-Kit) and the Fms-like tyrosine kinase 3 (FLT3), and glial cell–derived neurotrophic factor receptor (RET), colony-stimulating factor type 1 (CSF-1R) [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>].</Para>
+          <Para ID="Par4">In literature, several adverse effects of sunitinib have been described (pain, fatigue, hypertension, gastrointestinal toxicity, proteinuria, neurotoxicity, coagulation disorders, mucositis, hypothyroidism, nausea, diarrhea, altered taste, skin abnormalities and, rarely, osteonecrosis) but its long-term side effects are not completely known [<CitationRef CitationID="CR2">2</CitationRef>].</Para>
+          <Para ID="Par5">We report a case of osteonecrosis of the jaw related to sunitinib hesitated in a multifragmentary fracture.</Para>
+          <Para ID="Par6">A 62-years-old male patient presented with a painful and infected lesion to the cutaneous side of the left jaw of 1-month duration.</Para>
+          <Para ID="Par7">Eleven years before, he experienced a radical left nephrectomy for a clear renal cell carcinoma, followed by a 6-month therapy with IFN and IL-2. Five years after nephrectomy, he developed a cutaneous metastasis on the left maxillary region that was removed. During the follow-up, few months later, imaging showed the presence of metastasis on the neck lymph nodes bilaterally. He underwent a 50 mg/day sunitinib therapy (Sutent®) for four consecutive weeks of therapy followed by 2 weeks of discontinuation (4/2 scheme). The patient felt limited mouth opening since the beginning of sunitinib treatment and, 18 months later, the lesion appeared at the jaw and sunitinib has been discontinued.</Para>
+          <Para ID="Par8">Accurate intraoral exam showed exposed bone measuring 7 mm in diameter in the left jaw (Fig. <InternalRef RefID="Fig1">1</InternalRef>) with swelling and slight purulent excretion. He had no previous history of bisphosphonate treatment. The patient had undergone dental extraction procedures and presented a complete healing of the mucosa 1 year before starting the therapy with sunitinib. The patient had difficulty in mastication but not in deglutition or phonation. He underwent antimicrobial rinses and broad-spectrum antibiotics (amoxicillin/clavulanic acid) treatment for 6 days as first-line drugs documented in the literature [<CitationRef CitationID="CR3">3</CitationRef>].<Figure Category="Standard" Float="Yes" ID="Fig1">
+              <!--SingleCol-->
+              <Caption Language="En">
+                <CaptionNumber>Fig. 1</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Intraoral examination showed a 7-mm exposed bone with purulent excretion</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO1">
+                <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1112_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+              </MediaObject>
+            </Figure>
+          </Para>
+          <Para ID="Par9">Dental panograph and CT scan revealed, in IV sextant, a multifragmentary fracture of the left horizontal branch of the jaw with dislocation of the stumps and diffuse trabecular bone hyperdensity due to reactive osteosclerosis with seizures bone (Fig. <InternalRef RefID="Fig2">2</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig2">
+              <!--SingleCol-->
+              <Caption Language="En">
+                <CaptionNumber>Fig. 2</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Dental panograph showing a multifragmentary fracture of the jaw</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <MediaObject ID="MO2">
+                <ImageObject Color="BlackWhite" FileRef="MediaObjects/238_2015_1112_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+              </MediaObject>
+            </Figure>
+          </Para>
+          <Para ID="Par10">The patient refused any invasive procedure as fixation of the fracture so we performed a surgical sequestrectomy, ablation of the necrotic bone and a mucosal flap to cover the loss of substance. Thirty minutes prior to the operation, we administered i.v. antibiotic therapy with amoxicillin + clavulanic acid (1000 + 200 mg).</Para>
+          <Para ID="Par11">Pathology revealed the presence of necrotic bone with osteomyelitis, while microbiological culture showed the presence of <Emphasis Type="Italic">Streptococcus mitis</Emphasis> sensitive to ofloxacine. The patient received oral antibiotics treatment with 400 mg ofloxacine twice a day for 2 weeks. The patient returned for a follow-up visit after 1, 6, and 12 month: intraoral lesion was completely healed; he partially recovered mouth opening and normal alimentation.</Para>
+          <Para ID="Par12">Osteonecrosis of the jaw (ONJ) constitutes a serious complication following radiation treatment of head/neck tumors, trauma, dental surgery procedures, odontogenic infections, chemotherapy for malignant diseases, and treatment with bisphosphonates [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>].</Para>
+          <Para ID="Par13">Bisphosphonate-related osteonecrosis of the jaw (BRONJ) has been frequently discussed [<CitationRef CitationID="CR4">4</CitationRef>] because of its consequences on patient’s quality of life but its etiopathogenesis has not been completely elucidated. Various hypotheses suggest that inhibition of osteoclasts, inhibition of angiogenesis, and infection may all play some role in ONJ. The latter is increasingly being recognized as a critical component in this multifactorial disease [<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>].</Para>
+          <Para ID="Par14">Recent reports have indicated that antiangiogenic agents, such as bevacizumab, sunitinib, and sorafenib may amplify the inhibition of bone remodeling promoting the development of ONJ in combination with BP [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>].</Para>
+          <Para ID="Par15">Several case reports of jaw osteonecrosis in patients treated with TKIs and bisphosphonates have been published, as well as some retrospective series, but only three cases (Table <InternalRef RefID="Tab1">1</InternalRef>) of osteonecrosis due to sunitinib only have been reported [<CitationRef CitationID="CR6">6</CitationRef>].<Table Float="Yes" ID="Tab1">
+              <Caption Language="En">
+                <CaptionNumber>Table 1</CaptionNumber>
+                <CaptionContent>
+                  <SimplePara>Cases reported in literature</SimplePara>
+                </CaptionContent>
+              </Caption>
+              <tgroup align="left" cols="3">
+                <colspec align="left" colname="c1" colnum="1"/>
+                <colspec align="left" colname="c2" colnum="2"/>
+                <colspec align="left" colname="c3" colnum="3"/>
+                <thead>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Authors</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>Reported case/overall number of patients</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Association with bisphosphonates</SimplePara>
+                    </entry>
+                  </row>
+                </thead>
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Brunello et al.(2009)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>1/1</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Previous treatment with bisphosphonates</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Christodolou et al. (2009)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>1/116</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Concurrent treatment with zoledronic acid</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Bozas et al. (2010)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>1/1</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Single dose of zoledronic acid</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Hoefert et al. (2010)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>3/3</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Under treatment with bisphosphonates</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Koch et al. (2011)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>1/1</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Sunitinib only</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Nicolatou-Galitis et al. (2012)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>1/1</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Sunitinib only</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Fleissig et al. (2012)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>
+                        <Emphasis Type="Bold">1/1</Emphasis>
+                      </SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Sunitinib only</SimplePara>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry colname="c1">
+                      <SimplePara>Smidt-Hanson et al. (2013)</SimplePara>
+                    </entry>
+                    <entry colname="c2">
+                      <SimplePara>7/30</SimplePara>
+                    </entry>
+                    <entry colname="c3">
+                      <SimplePara>Concurrent treatment with zoledronic acid</SimplePara>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </Table>
+          </Para>
+          <Para ID="Par16">These results suggest the possibility that sunitinib, independently, can cause ONJ because of its antiangiogenic role.</Para>
+          <Para ID="Par17">At the moment, there are no specific guidelines for the prevention and management of this condition, but it can apply the same recommendations available for the management of patients exposed to bisphosphonates.</Para>
+          <Para ID="Par18">We recommend a careful monitoring of the oral health for patients treated with sunitinib, in order to prevent infections of the oral mucosa, which may give rise to ulceration with real soft tissue damage, and hesitating, chronically, the dreaded osteonecrosis of the jaw.</Para>
+          <Para ID="Par19">Additional studies and surveys seem to be necessary to highlight the correlation between ONJ and sunitinib therapy.</Para>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/238_2015_Article_1112.pdf" TargetType="OnlinePDF"/>
+        <ArticleBackmatter>
+          <Acknowledgments>
+            <FormalPara ID="FPar2" RenderingStyle="Style1">
+              <Heading>Conflict of interest</Heading>
+              <Para ID="Par21">Carlo Melloni, Adriana Tuttolomondo, Ampelio Anfosso, Chiara Calamia, Filippo Daniele Clemente and Adriana Cordova declare that they have no conflict of interest.</Para>
+            </FormalPara>
+            <FormalPara ID="FPar3" RenderingStyle="Style1">
+              <Heading>Patient consent</Heading>
+              <Para ID="Par22">Patient provided written consent for his inclusion in the study and use of his images.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Ethical standards</Heading>
+              <Para>For this type of retrospective study a formal consent from an ethic committee is not required.</Para>
+            </FormalPara>
+          </Acknowledgments>
+          <Bibliography ID="Bib1">
+            <Heading>References</Heading>
+            <Citation ID="CR1">
+              <CitationNumber>1.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>NB</Initials>
+                  <FamilyName>Haas</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>RG</Initials>
+                  <FamilyName>Uzzo</FamilyName>
+                </BibAuthorName>
+                <Year>2007</Year>
+                <ArticleTitle Language="En">Tyrosine kinase inhibitors and anti-angiogenic therapies in kidney cancer</ArticleTitle>
+                <JournalTitle>Curr Treat Options in Oncol</JournalTitle>
+                <VolumeID>8</VolumeID>
+                <FirstPage>211</FirstPage>
+                <LastPage>226</LastPage>
+              </BibArticle>
+              <BibUnstructured>Haas NB, Uzzo RG (2007) Tyrosine kinase inhibitors and anti-angiogenic therapies in kidney cancer. Curr Treat Options in Oncol 8:211–226</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <CitationNumber>2.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>JM</Initials>
+                  <FamilyName>Roodhart</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MH</Initials>
+                  <FamilyName>Langenberg</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Witteveen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>EE</Initials>
+                  <FamilyName>Voest</FamilyName>
+                </BibAuthorName>
+                <Year>2008</Year>
+                <ArticleTitle Language="En">The molecular basis of class side effects due to treatment with inhibitors of the VEGF/VEGFR pathway</ArticleTitle>
+                <JournalTitle>Curr Clin Pharmacol</JournalTitle>
+                <VolumeID>3</VolumeID>
+                <FirstPage>132</FirstPage>
+                <LastPage>143</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1cXpvVGntrY%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>18690886</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Roodhart JM, Langenberg MH, Witteveen E, Voest EE (2008) The molecular basis of class side effects due to treatment with inhibitors of the VEGF/VEGFR pathway. Curr Clin Pharmacol 3:132–143</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <CitationNumber>3.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Campisi</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Fedele</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>V</Initials>
+                  <FamilyName>Fusco</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Pizzo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>O</Initials>
+                  <FamilyName>Fede</FamilyName>
+                  <Particle>Di</Particle>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Bedogni</FamilyName>
+                </BibAuthorName>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">Epidemiology, clinical manifestations, risk reduction and treatment strategies of jaw osteonecrosis in cancer patients exposed to antiresorptive agents</ArticleTitle>
+                <JournalTitle>Future Oncol</JournalTitle>
+                <VolumeID>10</VolumeID>
+                <IssueID>2</IssueID>
+                <FirstPage>257</FirstPage>
+                <LastPage>275</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC2cXhslSitL4%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>24490612</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Campisi G, Fedele S, Fusco V, Pizzo G, Di Fede O, Bedogni A (2014) Epidemiology, clinical manifestations, risk reduction and treatment strategies of jaw osteonecrosis in cancer patients exposed to antiresorptive agents. Future Oncol 10(2):257–275</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <CitationNumber>4.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Bast</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Groß</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>L</Initials>
+                  <FamilyName>Hecht</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Schrom</FamilyName>
+                </BibAuthorName>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Etiology and treatment of osteonecrosis of the mandible</ArticleTitle>
+                <JournalTitle>Wspolczesna Onkol</JournalTitle>
+                <VolumeID>17</VolumeID>
+                <IssueID>3</IssueID>
+                <FirstPage>281</FirstPage>
+                <LastPage>285</LastPage>
+              </BibArticle>
+              <BibUnstructured>Bast F, Groß A, Hecht L, Schrom T (2013) Etiology and treatment of osteonecrosis of the mandible. Wspolczesna Onkol 17(3):281–285</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <CitationNumber>5.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Walter</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Sagheb</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Bitzer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Rahimi-Nedjat</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>KJ</Initials>
+                  <FamilyName>Taylor</FamilyName>
+                </BibAuthorName>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">Analysis of reasons for osteonecrosis of the jaws</ArticleTitle>
+                <JournalTitle>Clin Oral Investig</JournalTitle>
+                <VolumeID>18</VolumeID>
+                <FirstPage>2221</FirstPage>
+                <LastPage>2226</LastPage>
+                <Occurrence Type="PID">
+                  <Handle>24535075</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Walter C, Sagheb K, Bitzer J, Rahimi-Nedjat R, Taylor KJ (2014) Analysis of reasons for osteonecrosis of the jaws. Clin Oral Investig 18:2221–2226</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <CitationNumber>6.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>FP</Initials>
+                  <FamilyName>Koch</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Walter</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Hansen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Jäger</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>W</Initials>
+                  <FamilyName>Wagner</FamilyName>
+                </BibAuthorName>
+                <Year>2011</Year>
+                <ArticleTitle Language="En">Osteonecrosis of the jaw related to sunitinib</ArticleTitle>
+                <JournalTitle>Oral Maxillofac Surg</JournalTitle>
+                <VolumeID>15</VolumeID>
+                <IssueID>1</IssueID>
+                <FirstPage>63</FirstPage>
+                <LastPage>66</LastPage>
+                <Occurrence Type="PID">
+                  <Handle>20401503</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Koch FP, Walter C, Hansen T, Jäger E, Wagner W (2011) Osteonecrosis of the jaw related to sunitinib. Oral Maxillofac Surg 15(1):63–66</BibUnstructured>
+            </Citation>
+            <Citation ID="CR7">
+              <CitationNumber>7.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>RC</Initials>
+                  <FamilyName>Boff</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>FG</Initials>
+                  <FamilyName>Salum</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MA</Initials>
+                  <FamilyName>Figueiredo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Cherubini</FamilyName>
+                </BibAuthorName>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">Important aspects regarding the role of microorganisms in bisphosphonate-related osteonecrosis of the jaws</ArticleTitle>
+                <JournalTitle>Arch Oral Biol</JournalTitle>
+                <VolumeID>59</VolumeID>
+                <IssueID>8</IssueID>
+                <FirstPage>790</FirstPage>
+                <LastPage>799</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC2cXpvFSqsbo%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>24859766</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Boff RC, Salum FG, Figueiredo MA, Cherubini K (2014) Important aspects regarding the role of microorganisms in bisphosphonate-related osteonecrosis of the jaws. Arch Oral Biol 59(8):790–799</BibUnstructured>
+            </Citation>
+            <Citation ID="CR8">
+              <CitationNumber>8.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>AM</Initials>
+                  <FamilyName>Hinson</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>CW</Initials>
+                  <FamilyName>Smith</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>ER</Initials>
+                  <FamilyName>Siegel</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>BC</Initials>
+                  <FamilyName>Stack</FamilyName>
+                  <Suffix>Jr</Suffix>
+                </BibAuthorName>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">Is bisphosphonate-related osteonecrosis of the jaw an infection? A histological and microbiological ten-year summary</ArticleTitle>
+                <JournalTitle>Int J Dent</JournalTitle>
+                <VolumeID>2014</VolumeID>
+                <FirstPage>452737</FirstPage>
+                <Occurrence Type="PMCID">
+                  <Handle>4095654</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BC2cbos12isg%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>25089126</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Hinson AM, Smith CW, Siegel ER, Stack BC Jr (2014) Is bisphosphonate-related osteonecrosis of the jaw an infection? A histological and microbiological ten-year summary. Int J Dent 2014:452737</BibUnstructured>
+            </Citation>
+            <Citation ID="CR9">
+              <CitationNumber>9.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Troeltzsch</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Woodlock</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Kriegelstein</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Steiner</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Messlinger</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Troeltzsch</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Physiology and pharmacology of nonbisphosphonate drugs implicated in osteonecrosis of the jaw</ArticleTitle>
+                <JournalTitle>J Can Dent Assoc</JournalTitle>
+                <VolumeID>78</VolumeID>
+                <FirstPage>c85</FirstPage>
+                <Occurrence Type="PID">
+                  <Handle>22985897</Handle>
+                </Occurrence>
+                <BibComments>Review</BibComments>
+              </BibArticle>
+              <BibUnstructured>Troeltzsch M, Woodlock T, Kriegelstein S, Steiner T, Messlinger K, Troeltzsch M (2012) Physiology and pharmacology of nonbisphosphonate drugs implicated in osteonecrosis of the jaw. J Can Dent Assoc 78:c85, Review</BibUnstructured>
+            </Citation>
+            <Citation ID="CR10">
+              <CitationNumber>10.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Christodoulou</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Pervena</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Klouvas</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Galani</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>ME</Initials>
+                  <FamilyName>Falagas</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Tsakalos</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Visvikis</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Nikolakopoulou</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>V</Initials>
+                  <FamilyName>Acholos</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Karapanagiotidis</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Batziou</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>DV</Initials>
+                  <FamilyName>Skarlos</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Combination of bisphosphonates and antiangiogenic factors induces osteonecrosis of the jaw more frequently than bisphosphonates alone</ArticleTitle>
+                <JournalTitle>Oncology</JournalTitle>
+                <VolumeID>76</VolumeID>
+                <IssueID>3</IssueID>
+                <FirstPage>209</FirstPage>
+                <LastPage>211</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1159/000201931</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1MXis12gsb4%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>19212145</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Christodoulou C, Pervena A, Klouvas G, Galani E, Falagas ME, Tsakalos G, Visvikis A, Nikolakopoulou A, Acholos V, Karapanagiotidis G, Batziou E, Skarlos DV (2009) Combination of bisphosphonates and antiangiogenic factors induces osteonecrosis of the jaw more frequently than bisphosphonates alone. Oncology 76(3):209–211</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ArticleBackmatter>
+      </Article>
+    </JournalOnlineFirst>
+  </Journal>
+</Publisher>

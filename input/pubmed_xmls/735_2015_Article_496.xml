@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0496-4" OutputMedium="All">
+          <ArticleInfo ArticleType="EditorialNotes" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>496</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0496-4</ArticleDOI>
+            <ArticleSequenceNumber>1</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Gleiche Behandlung</ArticleTitle>
+            <ArticleCategory>editorial</ArticleCategory>
+            <ArticleFirstPage>1</ArticleFirstPage>
+            <ArticleLastPage>1</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Verena</GivenName>
+                  <FamilyName>Kienast</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>verena.kienast@springer.at</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgAddress>
+                  <City>Vienna</City>
+                  <Country>Austria</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para>Die Arbeitszeitrichtlinie der EU, die die maximale Wochenarbeitszeit auf 48 Stunden begrenzen soll, hat vor allem in der Berufsgruppe der Ärzte für große Aufregung gesorgt. Weniger Arbeit würde weniger Bezahlung bedeuten. Lösungen sind teilweise erzielt worden, teilweise spießt es sich noch. Die anderen Berufsgruppen des Gesundheitssystems sind in dieser Diskussion mit weniger Aufmerksamkeit bedacht worden. Allerdings stellten sich manche Beobachter die Frage, woher denn das Geld genommen wird, wenn die Gehälter der Ärzte um satte 20 oder 30 Prozent erhöht werden, bei reduzierter Arbeitszeit. Die Befürchtung, dass dies auf dem Rücken, besonders der Pflegepersonen, ausgetragen werden könnte, äußerte denn auch der Präsident des Österreichischen Gewerkschaftsbundes, Erich Foglar, kürzlich im Zeitungsgespräch und stieß damit endlich eine überfällige Diskussion an.</Para>
+            <Para>„Wir erwarten uns selbstverständlich eine gleiche Behandlung bei den Themen Arbeitszeit und Lohnerhöhung wie die Ärztinnen und Ärzte“, unterstreicht die Präsidentin des Österreichischen Gesundheits- und Krankenpflegeverbandes, Ursula Frohner, im Interview mit procare, das Sie in dieser Ausgabe lesen können — genau richtig zum ÖGKV-Kongress im Juni in Graz. Nicht zuletzt aufgrund der geringeren Verfügbarkeit von Ärzten, werden die Leistungen, die Pflegepersonen übernehmen sollen, immer mehr und immer komplexer. Das erfordert eine entsprechende personelle Ausstattung und angemessene Bezahlung. Das erfordert aber auch eine entsprechende Ausbildung und das Auslaufen der herkömmlichen Ausbildungsform für den gehobenen Dienst der Gesundheits- und Krankenpflege, wie von den Landesgesundheitsräten vor einem Jahr beschlossen.</Para>
+            <Para>Die Bevölkerung sieht übrigens durchaus Bedarf für eine bessere Entlohnung der Gesundheits- und Krankenpflegepersonen, wie eine Umfrage zeigt. Die allgemeine Bevölkerung ist sich offenbar der Situation sehr wohl bewusst — im Gegensatz zu manchen Politikern</Para>
+            <Para>meint Ihre</Para>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_496.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

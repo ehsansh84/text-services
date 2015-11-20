@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-015-0835-1" OutputMedium="All">
+          <ArticleInfo ArticleType="BookReview" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>835</ArticleID>
+            <ArticleDOI>10.1007/s00066-015-0835-1</ArticleDOI>
+            <ArticleSequenceNumber>12</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Prognostischer Vorteil durch postoperative Strahlentherapie zusätzlich zur adjuvanten Chemotherapie bei nicht-kleinzelligen Bronchialkarzinomen im Stadium IIIA/N2</ArticleTitle>
+            <ArticleTitle Language="En">Prognostic benefit of postoperative radiotherapy with adjuvant chemotherapy for stage IIIA/N2, pathologic non-small-cell lung cancer</ArticleTitle>
+            <ArticleCategory>Literatur kommentiert</ArticleCategory>
+            <ArticleFirstPage>539</ArticleFirstPage>
+            <ArticleLastPage>540</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Prof. Dr. med.</Prefix>
+                  <GivenName>Carsten</GivenName>
+                  <FamilyName>Nieder</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>cnied@hotmail.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Dept. of Oncology and Palliative Medicine</OrgDivision>
+                <OrgName>Nordland Hospital Trust</OrgName>
+                <OrgAddress>
+                  <Postbox> 1480</Postbox>
+                  <City>Bodø</City>
+                  <Country>Norwegen</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <ArticleNote Type="Misc">
+              <Heading>Originalpublikation</Heading>
+              <SimplePara>Robinson CG, Patel AP, Bradley JD et al (2015) Postoperative radiotherapy for pathologic N2 non-small-cell lung cancer treated with adjuvant chemotherapy: a review of the national cancer data base. J Clin Oncol 33(8):870–6</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Fragestellung und Hintergrund</Heading>
+              <Para>Nach kurativer Resektion von nicht-kleinzelligen Bronchialkarzinomen (NSCLC) mit mediastinalen N2-Lymphknotenmetastasen wird allgemein eine adjuvante platinhaltige Chemotherapie empfohlen. Trotz der dadurch erzielbaren Verbesserung der Überlebensraten kommt es allzu oft zu Rezidiven. Logischerweise sollte deshalb prinzipiell eine zusätzliche adjuvante Strahlentherapie (PORT) vorteilhaft sein, da ein Teil der Rezidive lokoregional begrenzt und potentiell vermeidbar ist. Eine vielzitierte Metaanalyse älterer Studien hatte jedoch einen negativen Einfluss der PORT auf das Überleben bei N0/1-Stadien gefunden und keinen Nutzen bei N2-Lymphknotenmetastasen [<CitationRef CitationID="CR1">1</CitationRef>]. Inwieweit moderne Behandlungstechniken zu anderen Resultaten führen, ist Gegenstand weiterer Studien und dieser Arbeit.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Material und Methodik</Heading>
+              <Para>Die retrospektive Studie basiert auf einem US-amerikanischen Register (National Cancer Data Base), in das mehr als 1500 Behandlungsinstitutionen Daten einspeisen [<CitationRef CitationID="CR2">2</CitationRef>]. Etwa 70% aller neu diagnostizierten Krebsfälle werden so erfasst. Inklusionskriterien sind: pathologisches Stadium IIIA (pN2, das klinische Stadium war in 34% der Fälle günstiger), Erhalt einer adjuvanten Chemotherapie, Intervall zwischen Operation und erster adjuvanter Behandlung (Chemotherapie oder PORT) maximal 120 Tage. Ausgeschlossen waren Patienten mit neoadjuvanter Behandlung, inkompletter Resektion, Strahlendosen &lt; 45 Gy oder Beginn der PORT &gt; 240 Tage nach Operation. Die Behandlung erfolgte zwischen 2006 und 2010. Das Überleben wurde ab dem Zeitpunkt der Diagnose berechnet.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Ergebnisse</Heading>
+              <Para>Die Studie konnte die Daten von 4483 Patienten auswerten (1850 oder 41% erhielten eine PORT). Bedingt durch die hohe Fallzahl waren auch kleinere Unterschiede zwischen den Gruppen statistisch signifikant. Zum Beispiel waren PORT-Patienten signifikant jünger (median 64 vs. 66 Jahre). Komorbiditäten waren seltener (61 vs. 55%). In der PORT-Gruppe waren auch seltener Pneumonektomien durchgeführt worden (6 vs. 10%) und der mediane Klinikaufenthalt war um einen Tag kürzer. Auch der mediane Tumordurchmesser war geringfügig vorteilhafter, wobei die Verteilung der T-Stadien leider nicht mitgeteilt wird. Es überrascht daher nicht, dass auch das Zeitfenster zwischen Operation und Chemotherapie in der PORT-Gruppe signifikant kürzer war (median 42 vs. 46 Tage). Die PORT startete nach median 73 Tagen und dauerte median 43 Tage (Gesamtdosis 45–82,8 Gy, median 54 Gy). Die mediane Nachbeobachtungszeit aller Patienten lag bei 22 Monaten. In der multivariaten Analyse waren u. a. folgende Faktoren mit einer besseren Prognose assoziiert: jüngeres Alter, weibliches Geschlecht, urbanes Einzugsgebiet, weniger Komorbidität, kleinerer Tumor und PORT (Hazard Ratio 0,89; 95%-Konfidenzintervall 0,8–0,99; <Emphasis Type="Italic">p</Emphasis> = 0,029). Das mediane Überleben verbesserte sich von 40,7 auf 45,2 Monate (3-Jahres-Überleben + 4%).</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Schlussfolgerung der Autoren</Heading>
+              <Para>Im Falle einer ansonsten optimalen Behandlung (komplette Resektion, adjuvante Chemotherapie) verbessert eine moderne PORT das Überleben von Patienten mit N2-NSCLC signifikant.</Para>
+            </FormalPara>
+            <Section1 ID="Sec1">
+              <Heading>Kommentar</Heading>
+              <Para>Die vorliegende Studie mit beeindruckender Fallzahl und einer für unser Fach wichtigen Botschaft versucht die Nachteile des retrospektiven Designs abzumildern, indem eine Reihe sinnvoller In- und Exklusionskriterien gewählt werden. Dennoch sind die beiden Gruppen nicht bezüglich aller Prognosefaktoren vergleichbar. Eine der großen Herausforderungen bei solchen Registerstudien ist die nicht immer eindeutige Festlegung des Behandlungsziels. Mit anderen Worten, wie vermeidet man die Inklusion von Patienten, die schon progredient waren und eher eine Salvage- als eine unmittelbare postoperative Behandlung erhielten? Durch eine randomisierte Studie mit strikter Intention-to-treat-Auswertung könnten ohne Zweifel einige der Hürden umgangen werden. Andererseits wäre es schwierig, die Zahl von 1850 PORT-Patienten zu inkludieren.</Para>
+              <Para>Ein typisches Setting in der vorliegenden Studie war der Beginn der adjuvanten Chemotherapie 6 Wochen nach der Operation (median 42 Tage) und der PORT einen Monat später (median 73 Tage, d. h. zwischen 2. und 3. Zyklus). Somit sind offenbar Teile der Behandlung konkomitant erfolgt. Allerdings war die Variation enorm und Einzelheiten werden nicht berichtet. Durchführbarkeit der Behandlung und Nebenwirkungen bleiben im Dunkeln, ebenso Rezidivmuster und Todesursachen. Tendenziell erfolgte eine PORT öfter bei prognostisch günstigeren Patienten. Eine vollständige Beurteilung der Prognose ist uns nicht möglich, da histologischer Tumortyp, Mutationsstatus, T-Stadium, Anzahl der entfernten und befallenen Lymphknoten und ein eventueller Gewichtsverlust nicht mitgeteilt werden. Das liegt vermutlich daran, dass nicht alle Daten an das Register gemeldet wurden. Es wird auch nicht berichtet, wie letztlich die moderne PORT erfolgte (Zielvolumenkonzepte, Normalgewebedosen, Technik) und ob bzw. wann ein PET-Staging zum Einsatz kam. Da 1500 Behandlungsinstitutionen Daten lieferten, ist eine gewisse Inhomogenität mit Unterschieden in der Behandlungsqualität wahrscheinlich.</Para>
+              <Para>Trotz solcher Qualitätsunterschiede, die in einer randomisierten Studie eher vermeidbar sind, insbesondere wenn die Zielvolumina vorab zentral begutachtet werden, war die PORT mit einem besseren Überleben assoziiert. Dieses Ergebnis wurde auch in der multivariaten Analyse nach Korrektur der prognostischen Unterschiede bestätigt. Der unter Alltagsbedingungen außerhalb einer randomisierten Studie observierte signifikante Überlebensvorteil dürfte realistischer sein als der Unterschied, den Studienzentren unter strenger kontrollierten Bedingungen in einer prospektiven Studie produziert hätten.</Para>
+              <Para>Interessanterweise wurde im letzten Jahr eine Metaanalyse moderner PORT-Studien für das Stadium IIIA/N2 publiziert [<CitationRef CitationID="CR3">3</CitationRef>]. Hier wurde berichtet, dass die Strahlentherapie mit Linearbeschleunigern im Vergleich zu historischen Telekobalt-Geräten das Überleben signifikant verbessert. Auch eine Analyse der National Cancer Data Base von 1998 bis 2006 zeigte einen signifikanten Vorteil in der N2-Situation im Gegensatz zu N0–1 [<CitationRef CitationID="CR4">4</CitationRef>]. Dasselbe gilt für das SEER-Register, wobei hier zusätzlich der Anteil befallener Lymphknoten betont wurde: Benefit für N2 mit mindestens 50% befallenen Lymphknoten [<CitationRef CitationID="CR5">5</CitationRef>]. Insofern wäre es eine schöne Bestätigung des derzeitigen Kenntnisstands, wenn auch die laufende randomisierte Lung-ART-Studie (NCT00410683) einen Vorteil nach PORT zeigen würde.</Para>
+              <Para>
+                <Emphasis Type="Italic">Carsten Nieder, Bodø</Emphasis>
+              </Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2015_Article_835.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Ethics>
+              <Heading>Einhaltung ethischer Richtlinien</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Interessenkonflikt</Heading>
+                <Para>C. Nieder gibt an, dass kein Interessenkonflikt besteht.</Para>
+              </FormalPara>
+              <SimplePara>Dieser Beitrag beinhaltet keine Studien an Menschen oder Tieren.</SimplePara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>Literatur</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibArticle>
+                  <InstitutionalAuthorName>PORT Meta-analysis Trialists Group</InstitutionalAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="De">Postoperative radiotherapy for non-small cell lung cancer</ArticleTitle>
+                  <JournalTitle>Cochrane Database Syst Rev</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>CD002142</FirstPage>
+                </BibArticle>
+                <BibUnstructured>PORT Meta-analysis Trialists Group (2005) Postoperative radiotherapy for non-small cell lung cancer. Cochrane Database Syst Rev 2:CD002142</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibUnstructured>Robinson CG, Patel AP, Bradley JD et al (2015) Postoperative radiotherapy for pathologic N2 non-small-cell lung cancer treated with adjuvant chemotherapy: a review of the National Cancer Data Base. J Clin Oncol. doi:JCO.2014.58.5380</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Billiet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Decaluwe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Peeters</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="De">Modern post-operative radiotherapy for stage III non-small cell lung cancer may improve local control and survival: a meta-analysis</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>110</VolumeID>
+                  <FirstPage>3</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2013.08.011</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24100149</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Billiet C, Decaluwe H, Peeters S et al (2014) Modern post-operative radiotherapy for stage III non-small cell lung cancer may improve local control and survival: a meta-analysis. Radiother Oncol 110:3–8</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Corso</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CE</Initials>
+                    <FamilyName>Rutter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LD</Initials>
+                    <FamilyName>Wilson</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2015</Year>
+                  <ArticleTitle Language="De">Re-evaluation of the role of postoperative radiotherapy and the impact of radiation dose for non-small-cell lung cancer using the National Cancer Database</ArticleTitle>
+                  <JournalTitle>J Thorac Oncol</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>148</FirstPage>
+                  <LastPage>155</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/JTO.0000000000000406</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC2MXisF2gsLk%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25325781</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Corso CD, Rutter CE, Wilson LD et al (2015) Re-evaluation of the role of postoperative radiotherapy and the impact of radiation dose for non-small-cell lung cancer using the National Cancer Database. J Thorac Oncol 10:148–155</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Urban</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Solomon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Ball</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="De">Lymph node ratio may predict the benefit of postoperative radiotherapy in non-small-cell lung cancer</ArticleTitle>
+                  <JournalTitle>J Thorac Oncol</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>940</FirstPage>
+                  <LastPage>946</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/JTO.0b013e318292c53e</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23695418</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urban D, Bar J, Solomon B, Ball D (2013) Lymph node ratio may predict the benefit of postoperative radiotherapy in non-small-cell lung cancer. J Thorac Oncol 8:940–946</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

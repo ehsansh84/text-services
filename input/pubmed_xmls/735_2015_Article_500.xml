@@ -1,0 +1,3220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0500-z" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>500</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0500-z</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Fragebogen zur Erfassung der funktionalen Gesundheit von zu Hause lebenden älteren Menschen</ArticleTitle>
+            <ArticleSubTitle Language="De">Entwicklungsprozess und Dimensionsanalyse</ArticleSubTitle>
+            <ArticleTitle Language="En">Questionnaire for the assessment of the functional health of elderly people living at home</ArticleTitle>
+            <ArticleSubTitle Language="En">Process of development and dimension analysis</ArticleSubTitle>
+            <ArticleCategory>originalarbeit</ArticleCategory>
+            <ArticleFirstPage>7</ArticleFirstPage>
+            <ArticleLastPage>15</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+              </Received>
+              <Accepted>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>10</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Eva</GivenName>
+                  <FamilyName>Schulc</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>eva.schulc@umit.at</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gerhard</GivenName>
+                  <FamilyName>Müller</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Petra</GivenName>
+                  <FamilyName>Schumacher</FamilyName>
+                  <Degrees>BSc</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Christa</GivenName>
+                  <FamilyName>Them</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Departments für Pflegewissenschaft und Gerontologie, UMIT</OrgDivision>
+                <OrgName>Institut für Pflegewissenschaft</OrgName>
+                <OrgAddress>
+                  <City>Hall i. Tirol</City>
+                  <Country>Österreich</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>Departments für Pflegewissenschaft und Gerontologie, UMIT</OrgName>
+                <OrgAddress>
+                  <City>Hall i. Tirol</City>
+                  <Country>Österreich</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="De">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec1" OutputMedium="All">
+                <Heading>Hintergrund</Heading>
+                <Para>Zur Durchführung präventiver Hausbesuche bedarf es eines multidimensionalen Assessments (MA). Aufgrund geringer personeller, zeitlicher und finanzieller Ressourcen mobiler Dienste in Österreich ist die Nutzung eines multidimensionalen Assessments im Routineablauf von Hauskrankenpflegeeinsätzen schwer denkbar. Daher wurde der Fragebogen zur subjektiven Einschätzung der funktionalen Gesundheit durch die Senioren (F-FG) in Anlehnung an den Patientenfragebogen des evidenzbasierten präventiven Assessment-Programms Standardized Assessment of Elderly People in Primary Care in Europe („STEP“) eingesetzt.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2" OutputMedium="All">
+                <Heading>Ziel/Methode</Heading>
+                <Para>Die Zielsetzung war es, den F-FG, der von zu Hause lebenden ≥ 70-jährigen Menschen ausgefüllt worden war, einer ersten Qualitätsüberprüfung mithilfe einer Hauptkomponentenanalyse zu unterziehen. Zur Qualitätsüberprüfung des F-FG wurden Daten (<Emphasis Type="Italic">n</Emphasis> = 516) aus dem Projekt „Seniorenberatung im Tennengau/Salzburg“ herangezogen.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3" OutputMedium="All">
+                <Heading>Ergebnisse</Heading>
+                <Para>Die erste Qualitätsüberprüfung zur Bestimmung der Dimensionalität des F-FG mit 11 Dimensionen (<Emphasis Type="Italic">n</Emphasis> = 55 Items) resultierte in einer 5-dimensionalen Lösung mit 20 Items (Gesamtvarianz 57,58 %).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4" OutputMedium="All">
+                <Heading>Schlussfolgerung</Heading>
+                <Para>Entsprechend den theoretischen Vorannahmen zur Mehrdimensionalität der funktionalen Gesundheit eines ≥ 70-jährigen Menschen erscheint dies als eine inhaltlich sinnvolle Lösung. Im Sinne der International Classification of Functioning, Disability and Health der World Health Organization (ICF der WHO) lassen sich die 5 Dimensionen den wesentlichen 3 Komponenten (Körperfunktionen und -strukturen, Aktivitäten, Partizipation) auf der Ebene der Funktionsfähigkeit eines Menschen unterordnen. Aus dieser ersten Qualitätsüberprüfung konnten wesentliche Erkenntnisse zur Weiterentwicklung des Fragebogens zur „präventiven Seniorenbenberatung“ für Tirol gewonnen werden, indem eine inhaltliche Erweiterung der analysierten Dimensionen [z. B. Barthel- sowie Instrumental Activities of Daily Living (IADL) Index] und der Antwortmöglichkeiten angestrebt wurde.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="En">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec6" OutputMedium="All">
+                <Heading>Background</Heading>
+                <Para>In order to carry out preventive home visits a multidimensional assessment (MA) is necessary. Due to a lack of personnel, time and financial resources of mobile services in Austria, the application of MA in the routine course of home nursing visits is difficult to imagine. Therefore, the questionnaire for subjective estimation of functional health (Q-FH) by the elderly, based on the patient questionnaire of the evidence-based preventive assessment program, the standardized assessment of elderly people in primary care in Europe (STEP) was applied.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7" OutputMedium="All">
+                <Heading>Aim/methods</Heading>
+                <Para>The objective was to undertake an initial quality testing of the Q-FH by over 70-year-old people living at home using a main component analysis. For quality testing of the Q-FH, data (<Emphasis Type="Italic">n</Emphasis> = 516) from the counseling of seniors in Tennengau/Salzburg project were included.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8" OutputMedium="All">
+                <Heading>Results</Heading>
+                <Para>The first quality testing for determination of the dimensionality of the Q-FH with 11 dimensions (<Emphasis Type="Italic">n</Emphasis> = 55 items) resulted in a 5-dimensional solution with 20 items (total variance 57.58 %).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec9" OutputMedium="All">
+                <Heading>Conclusion</Heading>
+                <Para>In accordance with the theoretical assumption of multidemensionaity of the functional health of an over 70-year-old person, this appears to be a reasonable solution with respect to contents. In the sense of the International Classification of Functioning, Disability and Health (ICF) of the World Health Organization (WHO), the five dimensions can be subordinated to the three essential components (physical function and structures, activities and participation) at the level of the functional ability of a person. From this first quality testing essential knowledge for the further development of the questionnaire on “preventive counseling of seniors” for Tirol could be gained, in that an extension of the analyzed dimensions with respect to contents, e.g. Barthel index and instrumental activities of daily living (IADL) index, and the answer possibilities were targeted.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Funktionaler Gesundheitszustand</Keyword>
+              <Keyword>Hauptkomponentenanalyse</Keyword>
+              <Keyword>Präventiver Hausbesuch</Keyword>
+              <Keyword>Selbstständigkeit</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Functional state of health</Keyword>
+              <Keyword>Main component analysis</Keyword>
+              <Keyword>Preventive home visit</Keyword>
+              <Keyword>Self-sufficiency</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Eva Schulc und Gerhard Müller haben zu gleichen Teilen zu dieser Arbeit beigetragen.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <Para>In der Versorgung von älteren Menschen wird aufgrund der sozialpolitischen Strategie „ambulant statt stationär“ dem präventiven Hausbesuch, im Sinne einer aufsuchenden Beratung, zunehmende Bedeutung beigemessen. Die aufsuchende Beratung gilt als Instrument für den präventiven Hausbesuch, dessen Kerngedanke es ist, die aktuelle Lebenssituation des Klienten zu verbessern, insbesondere im Hinblick auf Risikofaktoren und Erkrankungen. Gegenstand ist die Förderung der Selbstständigkeit von älteren Menschen, die von Kruse [<CitationRef CitationID="CR13">13</CitationRef>] folgendermaßen beschrieben wird:</Para>
+            <Para>Selbstständigkeit beschreibt die Fähigkeit des Individuums, ein von Hilfen anderer Menschen weitgehend unabhängiges Leben zu führen oder im Falle des Angewiesenseins auf Hilfen diese so zu gebrauchen, dass ein selbstständiges Leben in den für die Person zentralen Lebensbereichen möglich ist.</Para>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Hintergrund</Heading>
+              <Para>Die Operationalisierung der selbstständigen Lebensführung eines Menschen kann entsprechend des biopsychosozialen Rahmenmodells der „International Classification of Functioning, Disability and Health“ der World Health Organization (ICF der WHO) [<CitationRef CitationID="CR5">5</CitationRef>] erfolgen. Dabei wird die selbstständige Lebensführung als funktionale Gesundheit eines Menschen gleichgesetzt, die durch körperliche Faktoren, Aktivitäten und Partizipation sowie Umwelt- und persönliche Faktoren beeinflusst wird und den Grad der Selbstständigkeit oder Pflegebedürftigkeit beschreibt [<CitationRef CitationID="CR6">6</CitationRef>].</Para>
+              <Para>Entsprechend des biopsychosozialen Ansatzes wird zur Durchführung präventiver Hausbesuche ein multidimensionales geriatrisches Assessment eingesetzt, um medizinische, psychosoziale und funktionelle Ressourcen sowie Problembereiche älterer Menschen erfassen und in der Folge als Grundlage gezielter Unterstützungsplanungen heranziehen zu können [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>]. Zur Abgrenzung eines Screenings, das die frühzeitige Erkennung von Erkrankungen und Risikofaktoren zum Ziel hat, bewirkt das präventive geriatrische Assessment die optimierte Intervention [<CitationRef CitationID="CR11">11</CitationRef>].</Para>
+              <Para>Bereits in den 1970er Jahren erwies sich in England die Notwendigkeit der Durchführung eines umfassenden geriatrischen Assessments. Eine der ersten diesbezüglichen wissenschaftlichen Untersuchungen bestätigte die Reduktion von Pflegeheimeinweisungen [<CitationRef CitationID="CR26">26</CitationRef>]. Metaanalysen jüngeren Datums deckten jedoch nur kleine Effekte für Mortalität, Funktionsstatus und Institutionalisierung auf, zumal die jeweiligen Assessments auf sehr intensiven diagnostischen und therapeutischen Verfahren beruhten [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR27">27</CitationRef>].</Para>
+              <Para>Kritikpunkte für den Einsatz eines multidimensionalen geriatrischen Assessments liegen darin, dass dieses mit einem hohen Zeitaufwand verbunden und entsprechend kostspielig ist [<CitationRef CitationID="CR7">7</CitationRef>]. Dieses Verfahren wird mehr der tertiären Prävention zugeordnet und demnach eher „... als reaktives Verfahren zur Erfassung von spezifischen häufig lebensverändernden Situationen und Prozessen“ [<CitationRef CitationID="CR6">6</CitationRef>] und weniger als begleitendes Instrument für die gesundheitliche Versorgung gesehen. Darüber hinaus wird für die Durchführung und Interpretation der Ergebnisse sowie in der Folge zur Ableitung präventiver Maßnahmen in Form von Beratungen und/oder eines „case“ und „care management“ ein interdisziplinäres Team vorausgesetzt [<CitationRef CitationID="CR6">6</CitationRef>]. Die Studie von Imhof et al. [<CitationRef CitationID="CR10">10</CitationRef>] macht ebenso deutlich, dass die Erfassung des Gesundheitszustands mithilfe eines multidimensionalen Assessments mit einer engen medizinischen Definition von physisch-psychischer Gesundheit einhergeht. Bartholomeyczik [<CitationRef CitationID="CR2">2</CitationRef>] gab generell zu bedenken, dass es schwierig zu beweisen ist, ob auf Basis eines Assessments tatsächlich ein Phänomen vorliegt. Auch wurde darauf hingewiesen, dass Pflegephänomene, wie Mangelernährung und Depression, häufig überdiagnostiziert werden [<CitationRef CitationID="CR29">29</CitationRef>, <CitationRef CitationID="CR30">30</CitationRef>].</Para>
+              <Para>Abgeleitet von diesen Kritikpunkten und aufgrund oftmals geringer personeller, zeitlicher und finanzieller Ressourcen mobiler Pflege- und Betreuungsorganisationen in Österreich [<CitationRef CitationID="CR28">28</CitationRef>] ist die Nutzung eines multidimensionalen Assessments im Routineablauf von Hauskrankenpflegeeinsätzen schwer denkbar. Daher wurde in den ersten Projekten zur Seniorenberatung im Rahmen von präventiven Hausbesuchen in Österreich (in Vorarlberg und im Tennengau/Salzburg, [<CitationRef CitationID="CR22">22</CitationRef>] ein Fragebogen zur subjektiven Einschätzung des Gesundheitszustands und der Selbstständigkeit durch die 70+ Jährigen in Anlehnung an den Patientenfragebogen des evidenzbasierten präventiven Assessment-Programms Standardized Assessment of Elderly People in Primary Care in Europe („STEP“) [<CitationRef CitationID="CR12">12</CitationRef>] eingesetzt. Die Erhebung des subjektiven Gesundheitszustands oder der erlebten Gesundheit aus Sicht der Betroffenen ist zulässig, weil Ergebnisse im Zusammenhang mit dem Grad der Selbstständigkeit in den alltäglichen Aktivitäten bzw. mit Mortalität zu betrachten sind [<CitationRef CitationID="CR6">6</CitationRef>].</Para>
+              <Para>Da das Land Tirol im Jahr 2010 das Ziel verfolgte, Seniorenberatungen für Personen im Alter von 70 Jahren und darüber systemisch in das Angebot von mobilen Pflegeund Betreuungsorganisationen aufzunehmen, wurde oben genannter Fragebogen zur subjektiven Einschätzung der funktionalen Gesundheit in einem ersten Schritt einer ersten Qualitätsüberprüfung unterzogen. Der Fokus lag auf der Verdichtung von Informationen über die funktionale Gesundheit, nämlich auf einige wenige zentrale Dimensionen unter Berücksichtigung des biopsychosozialen Rahmenmodells der ICF.</Para>
+            </Section1>
+            <Section1 ID="Sec2" OutputMedium="All">
+              <Heading>Material und Methode</Heading>
+              <Section2 ID="Sec3" OutputMedium="All">
+                <Heading>Forschungsdesign</Heading>
+                <Para>Für die vorliegende Untersuchung wurde ein quantitatives Querschnittdesign gewählt. Die Daten basierten auf der Studie zur „Seniorenberatung im Tennengau/Salzburg“ [<CitationRef CitationID="CR22">22</CitationRef>].</Para>
+              </Section2>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>Erhebungsinstrument</Heading>
+                <Para>Aus sozial-politischen Gegebenheiten in Österreich wurde lediglich der Patientenfragebogen STEP, der in den Wartezimmern von Hausärzten ausgefüllt werden sollte, in einer modifizierten Version verwendet. Der Patientenfragebogen STEP umfasste 8 Gesundheitsbereiche (Dimensionen) mit 32 Hauptfragen sowie 45 zusätzlichen Vertiefungsfragen und deckt bereits den Großteil des evidenzbasierten präventiven Assessment-Programms STEP ab: körperliche Leistungsfähigkeit, soziales Umfeld, Symptome, Stimmung, Medikamente, Lebensgewohnheiten, Impfschutz und Krankenhausbehandlung [<CitationRef CitationID="CR12">12</CitationRef>]. Die modifizierte Version zeigte sich darin, dass aus den Dimensionen Items gestrichen und Dimensionsbezeichnungen verändert wurden sowie die Dimension Impfschutz keine Berücksichtigung mehr fand. Als Begründung für diese Modifikation gaben die Verantwortlichen des Projekts Tennengau/Salzburg zeitliche Ressourcen an. Die dichotome Antwortmöglichkeit wurde beibehalten, und bei jenen Fragen, die eine mehrstufige Antwortmöglichkeit beinhalteten, kam eine vereinfachte Antwortform, wie beispielsweise sehr gut, gut, mittelmäßig, schlecht, sehr schlecht, zur Anwendung. Der daraus resultierende Fragebogen zur funktionalen Gesundheit (F-FG) umfasste 7 Dimensionen mit 55 Items, die vom Senioren im Beisein einer diplomierten Pflegeperson im häuslichen Setting beantwortet wurden. Die 7 Dimensionen lauten:
+<OrderedList>
+                    <ListItem>
+                      <ItemNumber>1.</ItemNumber>
+                      <ItemContent>
+                        <Para>Soziales Umfeld,</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>2.</ItemNumber>
+                      <ItemContent>
+                        <Para>Wohnsituation, Mobilität und Alltagsbewältigung,</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>3.</ItemNumber>
+                      <ItemContent>
+                        <Para>Ernährung und Körperpflege,</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>4.</ItemNumber>
+                      <ItemContent>
+                        <Para>Gesundheitsverhalten,</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>5.</ItemNumber>
+                      <ItemContent>
+                        <Para>Gesundheitszustand, Medikamente, Schmerzen,</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>6.</ItemNumber>
+                      <ItemContent>
+                        <Para>psychischer Zustand und</Para>
+                      </ItemContent>
+                    </ListItem>
+                    <ListItem>
+                      <ItemNumber>7.</ItemNumber>
+                      <ItemContent>
+                        <Para>Hilfestellungen.</Para>
+                      </ItemContent>
+                    </ListItem>
+                  </OrderedList>
+Der F-FG wurde im Rahmen eines Prätests bei ≥80-jährigen im Tennengau/Salzburg lebenden Menschen (<Emphasis Type="Italic">n</Emphasis> = 10) eingesetzt und bestätigte die einfache sowie schnelle Beantwortung der Fragen innerhalb von 45 bis 60 min für diese Zielgruppe [<CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>]. Aufgrund der ersten Erfahrungen wurde ein präventiver Hausbesuch im Ausmaß von 90 min für die genannte Zielgruppe als zumutbar eingestuft.</Para>
+              </Section2>
+              <Section2 ID="Sec5" OutputMedium="All">
+                <Heading>Studienpopulation und Stichprobenauswahl</Heading>
+                <Para>Im Zeitraum von September 2007 bis September 2009 wurde die Studie „Seniorenberatung im Tennengau“ mit ≥ 70-jährigen zu Hause lebenden Menschen in 6 ländlichen Gemeinden des politischen Bezirks Hallein (Salzburg) durchgeführt. Die Stichprobe umfasste 516 ≥ 70-jährige zu Hause lebende Personen und kann aufgrund des Vorgehens bei der Auswahl als Gelegenheitsstichprobe bezeichnet werden.</Para>
+              </Section2>
+              <Section2 ID="Sec6" OutputMedium="All">
+                <Heading>Ethische Aspekte</Heading>
+                <Para>Nach Maßgabe der örtlichen Ethikkommission war für die Durchführung der Studie kein Votum notwendig. Dessen ungeachtet, wurden ethische Kriterien, wie Freiwilligkeit an der Teilnahme der Studie, Einhaltung der Datenschutzbestimmungen, informierte Einwilligung der Teilnehmer („informed consent“) u. Ä. berücksichtigt.</Para>
+              </Section2>
+              <Section2 ID="Sec7" OutputMedium="All">
+                <Heading>Datenanalyse</Heading>
+                <Para>Die Datenanalyse erfolgte mithilfe der SPSS 20.0 Version für Windows. Das Signifikanzniveau wurde mit einer Irrtumswahrscheinlichkeit von α ≤ 0,05 (≤ 5 %) festgelegt. Items mit mehrstufigen Antwortmöglichkeiten wurden dichotomisiert.</Para>
+                <Para>Eine explorative Faktorenanalyse anhand des Extraktionsverfahrens „Hauptkomponentenanalyse“ mit Varimax-Rotation wurde durchgeführt, um eine möglichst umfassende Reproduktion der Datenstruktur durch möglichst wenige Dimensionen zu erreichen [<CitationRef CitationID="CR1">1</CitationRef>]. Im Weiteren wird für die Begriffe Faktoren oder Komponenten der Begriff Dimension als Synonym verwendet. Die Vorgehensweise der Dimensionsanalyse mithilfe der Hauptkomponentenanalyse lehnte sich an die Schritte von Backhaus et al. [<CitationRef CitationID="CR1">1</CitationRef>] an: Variablenauswahl und Korrelationsmatrix, Extraktion der Dimensionen, Bestimmung der Kommunalitäten, Zahl der Dimensionen, Dimensionsinterpretation sowie die Bestimmung der Dimensionen und deren Dimensionswerte. Zur Auswahl der interpretierwürdigen Dimensionen wurden als Kriterien ein Eigenwert ≥ 1, die Zuordnung eines Items zu einer Dimension, mit dem es am höchsten korreliert bzw. eine absolute Ladungshöhe ≥ 0,40, eine Kommunalität (h<Superscript>2</Superscript> ≥ 0,16) herangezogen, und die Berücksichtigung einer Dimension, wenn sie mindestens 3 Items beinhaltet, und der Screeplot zur Bestimmung der Anzahl der bedeutenden Dimensionen festgelegt [<CitationRef CitationID="CR1">1</CitationRef>].</Para>
+                <Para>Als weiterer Analyseschritt wurden Item-Analysen durchgeführt. Die interne Konsistenz der relevanten Items wurde mithilfe von Cronbachs α berechnet, das bei dichotomen Antwortmöglichkeiten über die Kuder-Richardson-Formel 20 berechnet wurde [<CitationRef CitationID="CR3">3</CitationRef>]. Es wurden Cronbach-α-Werte ≥ 0,7 erwartet. Die Testung der Item-Charakteristika erfolgte mit dem Schwierigkeitsindex (0,2 ≤ <Emphasis Type="Italic">p</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">i</Emphasis>
+                  </Subscript> ≤ 0,8) und der Trennschärfe (<Emphasis Type="Italic">r</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">it</Emphasis>
+                  </Subscript> ≥ 0,4) zur Selektion messgenauer Items [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec8" OutputMedium="All">
+              <Heading>Ergebnisse</Heading>
+              <Section2 ID="Sec9" OutputMedium="All">
+                <Heading>Soziodemografische Daten</Heading>
+                <Para>Der größte Anteil (70,2 %) der ≥ 70-Jährigen war ≥ 80 Jahre alt (<Emphasis Type="Italic">n</Emphasis> = 362) und weiblichen Geschlechts (<Emphasis Type="Italic">n</Emphasis> = 334, 64,7 %). Fast 50 % (<Emphasis Type="Italic">n</Emphasis> = 254) der Teilnehmer waren verwitwet. Der Anteil der Alleinlebenden (<Emphasis Type="Italic">n</Emphasis> = 247, 48,1 %) war geringfügig niedriger als der jener Personen, die mit 2 oder mehreren Personen im selben Haushalt lebten (<Emphasis Type="Italic">n</Emphasis> = 266, 51,6 %).</Para>
+              </Section2>
+              <Section2 ID="Sec10" OutputMedium="All">
+                <Heading>Hauptkomponentenanalysen</Heading>
+                <Para>Bestehende signifikante Korrelationen (1-seitig) in der Korrelationsmatrix deuteten auf einen Zusammenhang zwischen den unterschiedlichen Items hin. Der Kaiser-Meyer-Olkin(KMO)-Wert von 0,6 wies darauf hin, dass die Items sich mittelmäßig für die Hauptkomponentenmethode eigneten. Ebenso zeigte der Bartlett-Test eine hochsignifikante (<Emphasis Type="Italic">p</Emphasis> ≤ 0,001) Eignung der Variablen in der Erhebungsgesamtheit.</Para>
+                <Para>Alle 55 Items des F-FG wurden von 200 aus einer Stichprobengesamtheit von 516 Personen beantwortet. Der Screeplot wies 2 deutliche Knicke auf. Demzufolge konnte entweder eine 5-dimensionale oder eine 9-dimensionale Lösung angestrebt werden.</Para>
+              </Section2>
+              <Section2 ID="Sec11" OutputMedium="All">
+                <Heading>Neundimensionale Lösung</Heading>
+                <Para>Die erste Hauptkomponentenanalyse führte zu dem Ergebnis, dass aufgrund der Extraktionskriterien eine Reduktion von 21 auf 9 Dimensionen mit 30 Items erfolgte. Die Gesamtvarianzaufklärung beträgt 71,41 %. Alle 9 Dimensionen wiesen einen Eigenwert von 1,01 bis 5,74, eine absolute Ladungshöhe von 0,43 bis 0,93 und hohe Kommunalitäten (h<Superscript>2</Superscript>) zwischen 0,60 und 0,89 auf. Die Anzahl der Items in einer Dimension betrug zwischen 3 und 5 (<InternalRef RefID="Tab1">Tab. 1</InternalRef>).
+<Table Float="Yes" ID="Tab1">
+                    <Caption Language="De">
+                      <CaptionNumber>Tabelle 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Erstes Modell des Fragebogens zur funktionalen Gesundheit (F-FG)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup align="left" cols="12">
+                      <colspec colname="c1" colnum="1"/>
+                      <colspec colname="c2" colnum="2"/>
+                      <colspec colname="c3" colnum="3"/>
+                      <colspec colname="c4" colnum="4"/>
+                      <colspec colname="c5" colnum="5"/>
+                      <colspec colname="c6" colnum="6"/>
+                      <colspec colname="c7" colnum="7"/>
+                      <colspec colname="c8" colnum="8"/>
+                      <colspec colname="c9" colnum="9"/>
+                      <colspec colname="c10" colnum="10"/>
+                      <colspec colname="c11" colnum="11"/>
+                      <colspec colname="c12" colnum="12"/>
+                      <thead>
+                        <row>
+                          <entry nameend="c12" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Rotierte Komponentenmatrix</Emphasis>
+                              <Superscript>a</Superscript>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry nameend="c2" namest="c1">
+                            <SimplePara>Hauptkomponente/Dimensionen</SimplePara>
+                          </entry>
+                          <entry nameend="c12" namest="c3">
+                            <SimplePara>Komponenten/Dimensionen</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2"/>
+                          <entry colname="c3">
+                            <SimplePara>I</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>II</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>III</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>IV</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>V</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>VI</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>VII</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>VIII</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>IX</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>h<Superscript>2</Superscript>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Items</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Eigenwert unrotiert</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>5,74</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>3,41</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>2,63</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>2,33</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>1,6</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>1,52</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>1,44</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>1,27</SimplePara>
+                          </entry>
+                          <entry colname="c12"/>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie Schwierigkeiten beim Gehen (Gehsicherheit)?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,93</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,1</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,07</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,89</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie Schwierigkeiten beim Treppensteigen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,92</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,04</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,06</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,89</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Leiden Sie unter unsicherer Gangart?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,9</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,13</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,85</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Bewegen Sie sich regelmäßig (mind. 30 Minuten täglich)?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,56</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,13</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,16</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,04</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,26</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,12</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,64</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie verlässliche Personen, die Sie regelmäßig besuchen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,11</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,8</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,14</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,79</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>6</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Treffen Sie sich regelmäßig mit Verwandten, Bekannten oder Freunden?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,15</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,2</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,16</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,13</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,78</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>7</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie in Ihrem Wohnbereich ein Bad bzw. Dusche und ein WC?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,48</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,17</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,27</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,21</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,14</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,7</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>8</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Bereiten Sie Ihr Essen selbst zu?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,17</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,22</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,67</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,08</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,1</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,12</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,68</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>9</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie Schwierigkeiten bei Verrichtungen der Körperpflege?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,35</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,24</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,57</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,15</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,13</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,1</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>10</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Beanspruchen Sie Angehörige, die Ihnen zuhause regelmäßig im Haushalt helfen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,33</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,16</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,53</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,19</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,09</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,1</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,61</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>11</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie Schwierigkeiten beim An- und Auskleiden?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,41</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,27</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,51</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,09</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,16</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,72</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>12</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Befinden sich in Ihrer Wohnung Gegenstände zur Erhöhung der Sicherheit?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,49</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,12</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,17</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,38</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>14</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Stehen Sie in ärztlicher Behandlung?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,08</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,84</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,09</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,12</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>15</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Müssen Sie täglich Medikamente einnehmen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,07</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,81</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,13</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,74</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>16</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Waren Sie im letzten Jahr bei einer Vorsorgeuntersuchung?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,15</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,51</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,22</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,11</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,09</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,68</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>21</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Essen Sie 1x täglich eine warme Mahlzeit?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,06</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,8</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,14</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,04</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,06</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>22</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Rauchen Sie?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,15</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,71</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,69</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>23</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Tragen Sie Zahnprothesen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,53</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,15</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,1</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,6</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>26</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Nehmen Sie regelmäßig Schlafmedikamente ein?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,12</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,11</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,1</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,17</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,04</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,7</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,15</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,64</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>27</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Schlafen Sie in der Nacht gut?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,04</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,15</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,65</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,21</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,14</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,6</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>28</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Fühlen Sie sich manchmal grundlos traurig und niedergeschlagen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,4</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,09</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,06</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,44</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,18</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,22</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,72</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>32</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Sind Sie mit der derzeitigen Wohnsituation zufrieden?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,21</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,05</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,17</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,69</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,07</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,65</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>33</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Sind Ihnen Erkrankungen bekannt?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,09</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,37</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,65</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,03</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,17</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>34</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Sind Sie grundsätzlich mit Ihrem Leben zufrieden?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,18</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,2</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,18</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,43</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,62</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>37</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Sind im Wohnbereich Stolperfallen, Rutschgefährdungen ...vorhanden?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,21</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,06</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,06</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,8</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>38</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie in Ihrem Wohnbereich Treppen zu bewältigen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,1</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>−0,13</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,25</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,63</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,24</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>39</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Haben Sie oft Angst?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,08</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,14</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,05</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,2</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,18</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,16</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,11</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,46</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,66</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>44</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Sind Sie vergesslich geworden?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,09</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,29</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,16</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,00</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>−0,01</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,07</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,18</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,68</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>45</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Leiden Sie unter chronischen Schmerzen?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,33</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>−0,18</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>0,14</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,01</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,13</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,04</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,6</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,68</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>46</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Sind Sie telefonisch erreichbar?</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>0,32</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>−0,22</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>0,15</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>0,02</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>−0,08</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>−0,2</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,07</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>−0,5</SimplePara>
+                          </entry>
+                          <entry colname="c12">
+                            <SimplePara>0,71</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Varianzaufklärung % rotiert</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>7,16</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>4,38</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>3,97</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>3,95</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>3,63</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>3,49</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>3,31</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>3,2</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>2,79</SimplePara>
+                          </entry>
+                          <entry colname="c12"/>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Gesamtvarianzaufklärung %</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7">
+                            <SimplePara>71,41%</SimplePara>
+                          </entry>
+                          <entry colname="c8"/>
+                          <entry colname="c9"/>
+                          <entry colname="c10"/>
+                          <entry colname="c11"/>
+                          <entry colname="c12"/>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Teststatistische Kennwerte der Hauptkomponentenanalyse zu 55 Items nach der ersten Reduktion von 21 auf 9 Komponenten (Dimensionen) aufgrund der zu geringen Anzahl von Items in einem Faktor Extraktionsmethode: Hauptkomponentenanalyse. Rotationsmethode: Varimax mit Kaiser-Normalisierung</SimplePara>
+                      <SimplePara>
+                        <Superscript>a</Superscript>Die Rotation ist in 07 Iterationen konvergiert</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec12" OutputMedium="All">
+                <Heading>Fünfdimensionale Lösung</Heading>
+                <Para>Drei weitere Hauptkomponentenanalysen führten unter Berücksichtigung oben genannter Extraktionskriterien zur 5-dimensionalen Lösung mit einer Reduktion von 30 auf 20 Items. Es konnte noch eine Gesamtvarianz von 58 % erreicht werden (Tab. 1). Alle 5 Dimensionen wiesen einen Eigenwert von 1,09 bis 4,68, eine absolute Ladungshöhe von 0,46 bis 0,89 und mittlere bis hohe Kommunalitäten (h<Superscript>2</Superscript>) zwischen 0,37 und 0,85 auf. Die Anzahl der Items in einer Dimension betrug zwischen 3 und 5.</Para>
+                <Para>In den Dimensionen 1 und 2 wurden jeweils 5 Items hochgeladen, die die Dimension „motorische Leistungsfähigkeit bei der Fortbewegung“ (Items 1–4, 45) und die Dimension „Selbstversorgung“ (Items 9, 8, 11, 10 und 12) abbildeten. Die 4 hochgeladenen Items der Dimension 3 (Items 5, 6, 32 und 34) ließen sich auf den Sammelbegriff „Partizipation“ zusammenfassen. Jeweils 3 Items luden auf der Dimension 4 mit dem Sammelbegriff „körperlicher medizinischer Status“ (Items 14, 15 und 33). Auf der Dimension 5 mit dem Sammelbegriff „psychisch-emotionale Situation“ luden die Items 26, 28 und 27 am höchsten (Tab. 1)</Para>
+              </Section2>
+              <Section2 ID="Sec13" OutputMedium="All">
+                <Heading>Item-Analyse der 5-dimensionalen Lösung</Heading>
+                <Para>Von den ursprünglich 516 Personen gingen die Daten von 369 Studienteilnehmern (71,51 %) in die Analyse ein, da 143 Personen aufgrund von fehlenden Daten aus der Analyse ausgeschlossen werden mussten. Die 5-dimensionale-Lösung (<Emphasis Type="Italic">n</Emphasis> = 20 Items) zeigte einen akzeptablen Cronbach-α-Wert (0,77). Die Überprüfung der Qualität der Items mithilfe von Schwierigkeitsindizes (<Emphasis Type="Italic">p</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">i</Emphasis>
+                  </Subscript>), Trennschärfe (<Emphasis Type="Italic">r</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">it</Emphasis>
+                  </Subscript>) und Cronbachs α würde zur Eliminierung von 13 Items führen. Item 45 der Dimension 1, Items 8 und 12 der Dimension 2 sowie alle Items der Dimensionen 3, 4 und 5 wiesen geringere Grenzwerte auf [Schwierigkeitsindizes (0,95 ≥ <Emphasis Type="Italic">p</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">i</Emphasis>
+                  </Subscript> ≥ 0,19), Trennschärfe (0,35 ≥ <Emphasis Type="Italic">r</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">it</Emphasis>
+                  </Subscript> ≥ 0) und Cronbachs α von 0,78 (wenn Item gelöscht; <InternalRef RefID="Tab2">Tab. 2</InternalRef>)] gegenüber den Items 1–4 sowie 9, 11 und 10.
+<Table Float="Yes" ID="Tab2">
+                    <Caption Language="De">
+                      <CaptionNumber>Tabelle 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Teststatistische Kennwerte der Fünfkomponenten bzw. Fünfdimensionalen Lösung des F-FGZ</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup align="left" cols="11">
+                      <colspec colname="c1" colnum="1"/>
+                      <colspec colname="c2" colnum="2"/>
+                      <colspec colname="c3" colnum="3"/>
+                      <colspec colname="c4" colnum="4"/>
+                      <colspec colname="c5" colnum="5"/>
+                      <colspec colname="c6" colnum="6"/>
+                      <colspec colname="c7" colnum="7"/>
+                      <colspec colname="c8" colnum="8"/>
+                      <colspec colname="c9" colnum="9"/>
+                      <colspec colname="c10" colnum="10"/>
+                      <colspec colname="c11" colnum="11"/>
+                      <thead>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Modell</SimplePara>
+                          </entry>
+                          <entry colname="c2"/>
+                          <entry colname="c3">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>4</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>H<Superscript>2</Superscript>
+                            </SimplePara>
+                          </entry>
+                          <entry nameend="c11" namest="c9">
+                            <SimplePara>Item-Analyse (n=383)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Komponenten/ Dimensionen</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Eigenwert unrotiert</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>4,68</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>2,51</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>1,83</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>1,42</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>1,09</SimplePara>
+                          </entry>
+                          <entry colname="c8"/>
+                          <entry colname="c9">
+                            <SimplePara>p<Subscript>i</Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>r<Subscript>it</Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>Cronbachs α<Superscript>b</Superscript>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 1</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,89</SimplePara>
+                          </entry>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,85</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,66</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,65</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 2</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,88</SimplePara>
+                          </entry>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,83</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,66</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,66</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Dimension 1 — Motorische Leistungsfähigkeit bei der Fortbewegung</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Item 3</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,86</SimplePara>
+                          </entry>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,83</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,67</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,65</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 4</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>−0,53</SimplePara>
+                          </entry>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,41</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,44</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,48</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,74</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 45</SimplePara>
+                          </entry>
+                          <entry colname="c3">
+                            <SimplePara>0,46</SimplePara>
+                          </entry>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7">
+                            <SimplePara>0,44</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,41</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,49</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,31</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 9</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4">
+                            <SimplePara>0,69</SimplePara>
+                          </entry>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,7</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,37</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,58</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,74</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 8</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4">
+                            <SimplePara>−0,66</SimplePara>
+                          </entry>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,44</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,47</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,35</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Dimension 2 — Selbstversorgung</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Item 11</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4">
+                            <SimplePara>0,65</SimplePara>
+                          </entry>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,64</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,37</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,61</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,73</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 10</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4">
+                            <SimplePara>0,61</SimplePara>
+                          </entry>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,46</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,75</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,46</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,75</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 12</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4">
+                            <SimplePara>0,58</SimplePara>
+                          </entry>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,39</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,54</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,31</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1" morerows="3">
+                            <SimplePara>Dimension 3 — Partizipation</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Item 5</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,64</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,92</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,04</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c2">
+                            <SimplePara>Item 6</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5">
+                            <SimplePara>0,75</SimplePara>
+                          </entry>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,61</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,9</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,02</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,78</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c2">
+                            <SimplePara>Item 32</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5">
+                            <SimplePara>0,66</SimplePara>
+                          </entry>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,45</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,99</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c2">
+                            <SimplePara>Item 34</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5">
+                            <SimplePara>0,6</SimplePara>
+                          </entry>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,39</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,92</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>−0,14</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,78</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 14</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6">
+                            <SimplePara>0,9</SimplePara>
+                          </entry>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,83</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,95</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,28</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Dimension 4 — körperlich med. Status</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Item 15</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6">
+                            <SimplePara>0,86</SimplePara>
+                          </entry>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,78</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,92</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,27</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 33</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6">
+                            <SimplePara>0,52</SimplePara>
+                          </entry>
+                          <entry colname="c7"/>
+                          <entry colname="c8">
+                            <SimplePara>0,37</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,95</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,03</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 26</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7">
+                            <SimplePara>0,75</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,59</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,28</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,26</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,76</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Dimension 5 — psychisch-emotionale Situation</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Item 28</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7">
+                            <SimplePara>0,59</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,52</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,3</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1"/>
+                          <entry colname="c2">
+                            <SimplePara>Item 27</SimplePara>
+                          </entry>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5"/>
+                          <entry colname="c6"/>
+                          <entry colname="c7">
+                            <SimplePara>−0,54</SimplePara>
+                          </entry>
+                          <entry colname="c8">
+                            <SimplePara>0,37</SimplePara>
+                          </entry>
+                          <entry colname="c9">
+                            <SimplePara>0,19</SimplePara>
+                          </entry>
+                          <entry colname="c10">
+                            <SimplePara>0,11</SimplePara>
+                          </entry>
+                          <entry colname="c11">
+                            <SimplePara>0,77</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Varianzaufklärung % rotiert</SimplePara>
+                          </entry>
+                          <entry colname="c2"/>
+                          <entry colname="c3">
+                            <SimplePara>16</SimplePara>
+                          </entry>
+                          <entry colname="c4">
+                            <SimplePara>12,4</SimplePara>
+                          </entry>
+                          <entry colname="c5">
+                            <SimplePara>11,6</SimplePara>
+                          </entry>
+                          <entry colname="c6">
+                            <SimplePara>9,47</SimplePara>
+                          </entry>
+                          <entry colname="c7">
+                            <SimplePara>8,1</SimplePara>
+                          </entry>
+                          <entry colname="c8"/>
+                          <entry colname="c9"/>
+                          <entry colname="c10"/>
+                          <entry colname="c11"/>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Gesamtvarianzaufklärung % rotiert</SimplePara>
+                          </entry>
+                          <entry colname="c2"/>
+                          <entry colname="c3"/>
+                          <entry colname="c4"/>
+                          <entry colname="c5">
+                            <SimplePara>57,58 %</SimplePara>
+                          </entry>
+                          <entry colname="c6"/>
+                          <entry colname="c7"/>
+                          <entry colname="c8"/>
+                          <entry colname="c9"/>
+                          <entry colname="c10"/>
+                          <entry colname="c11"/>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Extraktionsmethode: Hauptkomponentenanalyse. Rotationsmethode: Varimax mit Kaiser-Normalisierung</SimplePara>
+                      <SimplePara>
+                        <Superscript>a</Superscript>Die Rotation ist in 07 Iterationen konvergiert</SimplePara>
+                      <SimplePara>
+                        <Superscript>b</Superscript>Cronbachs α wenn Item gelöscht; die rot gefärbten Werte weisen einen zu geringen oder zu hohen Schwierigkeitsindex oder auf eine zu geringe Trennschärfe auf und einen Cronbachs’ α (wenn Item gelöscht) &gt; 0,77</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec14" OutputMedium="All">
+              <Heading>Diskussion</Heading>
+              <Section2 ID="Sec15" OutputMedium="All">
+                <Heading>Interpretation der Ergebnisse</Heading>
+                <Para>Die Zielsetzung der vorliegenden Studie war es, den F-FG zur subjektiven Einschätzung des Gesundheitszustands und der Selbstständigkeit von zu Hause lebenden ≥ 70-jährigen Menschen in Anlehnung an den Patientenbogen STEP [<CitationRef CitationID="CR12">12</CitationRef>] einer ersten Qualitätsüberprüfung mithilfe einer Hauptkomponentenanalyse zu unterziehen. Die Erkenntnisse sollten in die Weiterentwicklung eines Fragebogens für Tirol einfließen, der für die Nutzung im Routineablauf von Hauskrankenpflegeeinsätzen durch diplomierte Pflegepersonen zur präventiven Seniorenberatung geeignet ist.</Para>
+                <Para>Für den ersten Schritt zur Qualitätsüberprüfung des F-FG wurden Daten (<Emphasis Type="Italic">n</Emphasis> = 516) aus dem Projekt „Seniorenberatung im Tennengau/Salzburg“ herangezogen. Ein Vergleich der soziodemografischen Daten der vorliegenden Studie mit den österreichischen Statistiken zur Bevölkerung [<CitationRef CitationID="CR25">25</CitationRef>] zeigte, dass die Geschlechterverteilung und die Lebensformen von zu Hause lebenden Personen mit der Stichprobe der ≥ 70-Jährigen übereinstimmten.</Para>
+                <Para>Zur Erreichung der Zielsetzung wurde ein mehrstufiges Vorgehen bestehend aus Hauptkomponentenanalysen mit Varimax-Rotation und einer Item-Analyse mit dichotomen Antwortmöglichkeiten gewählt. Zur Item-Reduktion ist es angemessen, jeweils die höchstmögliche Zahl von Personen für die Analyse heranzuziehen [<CitationRef CitationID="CR3">3</CitationRef>], die jeweils die einzelnen Items einer Beantwortung zuführten. Alle 55 Items des F-FG wurden von 200 aus einer Stichprobengesamtheit von 516 Personen beantwortet. Das Kriterium, nach dem für Hauptkomponentenanalysen mindestens 3-mal so viele Personen vorhanden sein sollten, wie Items in die Analyse eingehen [<CitationRef CitationID="CR3">3</CitationRef>], ist somit gegeben.</Para>
+                <Para>Die erste Qualitätsüberprüfung zur Bestimmung der Dimensionalität des F-FG mit 11 Dimensionen (<Emphasis Type="Italic">n</Emphasis> = 55 Items) mithilfe der Hauptkomponentenanalysen mit Varimax-Rotation ergab erwartungsgemäß keine Eindimensio nalität. Der F-FG wurde auf 20 Items reduziert und lieferte eine 5-dimensionale Lösung (Gesamtvarianz 57,58 %).</Para>
+                <Para>Entsprechend den theoretischen Vorannahmen zur Mehrdimensionalität der selbstständigen Lebensführung eines ≥ 70-jährigen Menschen erscheint dies als eine inhaltlich sinnvolle Lösung. Im Sinne der ICF lassen sich die 5 Dimensionen den wesentlichen 3 Komponenten (Körperfunktionen und -strukturen, Aktivitäten, Partizipation) auf der Ebene der Funktionsfähigkeit eines Menschen unterordnen. Der Komponente „Körperfunktionen und -strukturen“ könnten die <Emphasis Type="Italic">Dimension 1</Emphasis> „motorische Leistungsfähigkeit bei der Fortbewegung“, die <Emphasis Type="Italic">Dimension 4</Emphasis> „körperlich medizinischer Status“ und die <Emphasis Type="Italic">Dimension 5</Emphasis> „psychischemotionale Situation“ zugeordnet werden. Dabei werden anatomische Gegebenheiten und physiologische Funktionen von Körpersystemen unter Einbezug von psychologischen Funktionen berücksichtigt und Schädigungen als Beeinträchtigung, Mangel an Muskelkraft, Ausdruck eines Gesundheitsproblems bzw. wesentliche Abweichung oder Verlust verstanden. Die Bedeutung in diesen Dimensionen liegt darin, dass zahlreiche Sturzrisikofaktoren identifiziert werden könnten, die im Anschluss in der Beratung ≥ 70-jähriger zu Hause lebender Menschen Anlässe für die Empfehlung einer ärztlichen Abklärung des Gesundheitszustands, einer Wohnraumanpassung zur Sturzvermeidung, eines Medikamentenmanagements etc. sein könnten.</Para>
+                <Para>Die <Emphasis Type="Italic">Dimension 2</Emphasis> „Selbstversorgung“ könnte unter der <Emphasis Type="Italic">Komponente</Emphasis> „Aktivitäten“ subsumiert werden, weil gemäß WHO unter Aktivitäten die Durchführung einer Aufgabe oder einer Handlung (Aktion) durch einen Menschen verstanden wird. Die hochgeladenen Items rechtfertigen die Möglichkeit des Einsatzes der validen und reliablen Instrumente zur Beurteilung der Basisaktivitäten [<CitationRef CitationID="CR17">17</CitationRef>] und der instrumentellen Aktivitäten des täglichen Lebens [<CitationRef CitationID="CR14">14</CitationRef>] zur vertieften Einschätzung des Grads der Pflegebedürftigkeit. Diese Erkenntnisse könnten den Bedarf für finanzielle und/ oder institutionelle Unterstützungen kommunaler Anbieter bei den befragten ≥ 70-Jährigen im Rahmen des Beratungsgesprächs untermauern und als Möglichkeit zur Sicherstellung der eigenen Selbstständigkeit sensibilisieren.</Para>
+                <Para>Die <Emphasis Type="Italic">Dimension 3</Emphasis> „Partizipation“ mit den hochgeladenen Items „regelmäßiger Besuch von Personen, regelmäßige Treffen mit Verwandten, Bekannten oder Freunden sowie aktuelle Zufriedenheit mit der Wohnsituation und allgemeine Lebenszufriedenheit“ spiegeln komplexe Bereiche, wie interpersonelle Interaktionen oder Beschäftigung, wider. Diese Merkmalsausprägungen charakterisieren die Komponente „Partizipation“ der ICF mit dem Verständnis des Einbezogenseins eines Menschen in eine Lebenssituation.</Para>
+                <Para>Soziale Verhältnisse und Wohnsituation beeinflussen den Krankheitsverlauf sowie die Prognose älterer Menschen gemäß der Studie von Luo et al. [<CitationRef CitationID="CR16">16</CitationRef>]; demnach ist die soziale Isolation mit einem erhöhten Mortalitätsrisiko in Verbindung zu bringen. Sozial isolierte ältere Menschen leiden öfter an Depressionen und schätzen ihre Gesundheit selbst als schlechter ein als nichtallein lebende Menschen [<CitationRef CitationID="CR16">16</CitationRef>]. Das Ziel dabei ist nicht, dass alle Dimensionen voneinander unabhängig, sondern in Wechselwirkung zueinander stehen. Gemäß dem ICF-Gesundheitsmodell wäre es angebracht, den Sozialfragebogen nach Nikolaus et al. [<CitationRef CitationID="CR20">20</CitationRef>] zur Vertiefung oder zur Identifikation des Risikos der sozialen Isolation heranzuziehen. Dieser enthält Angaben über soziale Kontakte und Unterstützung, Aktivitäten, Wohnungssituation u. a. Erkenntnisse daraus könnten den Beratungsbedarf für finanziell-rechtliche und sozial-institutionelle Themen rechtfertigen.</Para>
+                <Para>Im folgenden Absatz wird das methodische Vorgehen kritisch gewürdigt. In erster Linie wird die dichotome Antwortmöglichkeit kritisch betrachtet. Als Voraussetzung für Hauptkomponentenanalysen werden Antwortmöglichkeiten mit mindestens einem Ordinalskalenniveau empfohlen [<CitationRef CitationID="CR3">3</CitationRef>]. Dichotome Variablen können jedoch bei entsprechend vorsichtiger Interpretation ebenfalls einer Hauptkomponentenanalyse unterzogen werden [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>]. Als Nachteil berichtet Krosnick (1999, S. 552 zit. in [<CitationRef CitationID="CR18">18</CitationRef>]), dass es bei Ja-Nein-Aufgaben Hinweise auf eine erhöhte Zustimmungstendenz gibt. Ein weiterer Nachteil besteht darin, dass es oft Schwierigkeiten bereitet, den Aufgabenstamm so zu formulieren, dass dieser mit „Ja“ oder „Nein“ beantwortet werden kann. Die Vorteile von Items mit einem dichotomen Antwortformat liegen in Einfachheit, Ökonomie, kurzer Lösungszeit und Instruktion [<CitationRef CitationID="CR18">18</CitationRef>]. Diese Kriterien, allen voran die einfache Anleitung, finden besonders bei einer Stichprobe von älteren Menschen im Alter von 70 Jahren und darüber ihre Berechtigung.</Para>
+                <Para>Die Grenzen der Dichotomisierung zeigten sich in der durchgeführten Item-Analyse. Es müssten 13 Items aufgrund von Über- oder Unterschreitung der Grenzwerte ausgeschlossen werden. Daraus würde eine nichtinhaltlich sinnvolle Dimensionslösung resultieren, womit sich auch die Messgenauigkeit des Tests verringern könnte [<CitationRef CitationID="CR4">4</CitationRef>]. Würden die 4 Items (32, 33, 5, 6) mit sehr niederen Trennschärfen und hohen Schwierigkeiten gestrichen werden, würden wesentliche Facetten des Konstrukts Selbstständigkeit bzw. funktionale Gesundheit verloren gehen. In den Ergebnissen der Item-Analyse des Items 32 spiegelt sich wider, dass aufgrund des hohen Lebensstandards in Österreich und des großen Bedürfnisses vieler älterer Menschen, in gewohnter Umgebung bzw. im häuslichen Setting zu leben, die Wohnungszufriedenheit sehr groß ist. In der vorliegenden Studie waren 70 % der Befragten im Alter von 80 Jahren und darüber. Demnach ist anzunehmen, dass die Wahrscheinlichkeit für das Auftreten, aber auch die Komplexität von Multimorbidität, vorliegt [<CitationRef CitationID="CR21">21</CitationRef>]. Dies zeigte sich in den Ergebnissen des Items 33. Zudem verdeutlichen die Items 5 und 6 die Bedeutung eines sozialen Netzwerks durch die Familie im ländlichen Bereich [<CitationRef CitationID="CR23">23</CitationRef>], indem sich zeigte, dass das Vertrauen ≥ 70+-jähriger Menschen in die Unterstützung durch Angehörige und die soziale Einbindung sehr hoch war.</Para>
+              </Section2>
+              <Section2 ID="Sec16" OutputMedium="All">
+                <Heading>Limitationen</Heading>
+                <Para>Größe und Auswahl der Stichprobe hinsichtlich der Generalisierbarkeit der Ergebnisse sind kritisch zu betrachten, weil es sich um eine selektive Stichprobe von ≥ 70-Jährigen handelt. Des Weiteren stammen die befragten Personen ausschließlich aus dem ländlichen Raum, womit nur eine bestimmte Gruppe von Personen im Fokus stand. Der F-FG verfügt über dichotome Antwortmöglichkeiten; damit liegt der Nachteil in der vorsichtig zu gestaltenden Interpretation von Hauptkomponentenanalysen. Wie bei allen Einschätzungsmessungen muss auch in dieser Studie von möglichen Antwortverzerrungen (z. B. wegen sprachlicher Verständnisschwierigkeiten und verminderter Informationsverarbeitung, Tendenz zu sozial erwünschten Antworten und sozialem Vergleich, Abwehrmechanismen usw.) ausgegangen werden. Dennoch hat sich erwiesen, dass die subjektive Einschätzung des Gesundheitszustands als wichtiger Indikator für die selbstständige Lebensführung im höheren Lebensalter gesehen wird [<CitationRef CitationID="CR8">8</CitationRef>].</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec17" OutputMedium="All">
+              <Heading>Schlussfolgerungen</Heading>
+              <Para>Um die Mehrdimensionalität des Lebenshintergrunds bzw. der funktionalen Gesundheit eines ≥ 70-jährigen Menschen unter Berücksichtigung des biopsychosozialen Ansatzes abzubilden, erscheint die 5-dimensionale Lösung als erster Schritt in einer Reihe von Untersuchungen hinreichend zu sein. In einer weiteren Studie wäre es empfehlenswert, Fragen zumindest dichotom zu eröffnen und bei Zustimmung die Frage mehrstufig zu erweitern. Dadurch können differenziertere Ergebnisse erwartet werden, die ggf. die Ergebnisse der Item-Analysen verbessern. Bei Nichtzustimmung kann die Befragung mit der nächsten Frage fortgeführt werden, sodass dem ≥ 70-jährigen Menschen das Gefühl vermittelt wird, die Priorisierung der Befragung und der daraus resultierenden Beratung auf der Grundlage eines gemeinsamen Verhandlungsprozesses zu führen. Des Weiteren könnte sich dadurch eine Zeitersparnis ergeben.</Para>
+            </Section1>
+            <Section1 ID="Sec18" OutputMedium="All">
+              <Heading>Fazit</Heading>
+              <Para>Aus dieser ersten Qualitätsüberprüfung konnten wesentliche Erkenntnisse zur Weiterentwicklung des Fragebogens im Rahmen der „präventiven Seniorenberatung Tirol“ auf der Ebene der Funktionsfähigkeit gemäß der ICF eingesetzt werden. Die Weiterentwicklung konzentrierte sich auf die inhaltliche Erweiterung der analysierten Dimensionen und der Antwortmöglichkeiten, zudem wurden der Barthel- und IADL-Index einbezogen.</Para>
+            </Section1>
+            <Section1 ID="Sec19" OutputMedium="All">
+              <Heading>Interessenkonflikt</Heading>
+              <Para>Es besteht kein Interessenkonflikt.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_500.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>Literatur</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Backhaus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Erichson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Plinke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R. .</Initials>
+                    <FamilyName>Weiber</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <BookTitle>Multivariate Analysemethoden. Eine anwendungsorientierte Einführung. 13. Aufl</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>583 S</FirstPage>
+                </BibBook>
+                <BibUnstructured>Backhaus K, Erichson B, Plinke W, Weiber R. Multivariate Analysemethoden. Eine anwendungsorientierte Einführung. 13. Aufl. Berlin: Springer; 2011. 583 S.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S. .</Initials>
+                    <FamilyName>Bartholomeyczik</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="De">Einige kritische Anmerkungen zu standardisierten Assessmentinstrumenten in der Pflege</ArticleTitle>
+                  <JournalTitle>Pflege.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>211</FirstPage>
+                  <LastPage>7</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1024/1012-5302.20.4.211</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18019551</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Bartholomeyczik S. Einige kritische Anmerkungen zu standardisierten Assessmentinstrumenten in der Pflege. Pflege. 2007;20(4):211–7. doi:<ExternalRef>
+                    <RefSource>10.1024/1012-5302.20.4.211</RefSource>
+                    <RefTarget Address="10.1024/1012-5302.20.4.211" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Bortz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N. .</Initials>
+                    <FamilyName>Döring</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <BookTitle>Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. 4. Aufl</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Germany</PublisherLocation>
+                  <FirstPage>897 S</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-540-33306-7</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>Bortz J, Döring N. Forschungsmethoden und Evaluation: Für Human- und Sozialwissenschaftler. 4. Aufl. Germany: Springer; 2006. 897 S.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>M. .</Initials>
+                    <FamilyName>Bühner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <BookTitle>Einführung in die Test- und Fragebogenkonstruktion. 3. Aufl</BookTitle>
+                  <PublisherName>Pearson Deutschland</PublisherName>
+                  <PublisherLocation>München</PublisherLocation>
+                  <FirstPage>640 S</FirstPage>
+                </BibBook>
+                <BibUnstructured>Bühner M. Einführung in die Test- und Fragebogenkonstruktion. 3. Aufl. München: Pearson Deutschland; 2010. 640 S.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>Bundesarbeitsgemeinschaft für Rehabilitation</InstitutionalAuthorName>
+                  <Year>2008</Year>
+                  <BookTitle>ICF- Praxisleitfaden 2 in medizinischen Rehabilitationseinrichtungen</BookTitle>
+                  <PublisherName>BAR</PublisherName>
+                  <PublisherLocation>Frankfurt a. M.</PublisherLocation>
+                  <FirstPage>55 S</FirstPage>
+                </BibBook>
+                <BibUnstructured>Bundesarbeitsgemeinschaft für Rehabilitation (BAR). ICF- Praxisleitfaden 2 in medizinischen Rehabilitationseinrichtungen. Frankfurt a. M.: BAR; 2008. 55 S. (<ExternalRef>
+                    <RefSource>http://www.mds-ev.de/media/pdf/BAR_ICF_Leitfaden_2.pdf.pdf</RefSource>
+                    <RefTarget Address="http://www.mds-ev.de/media/pdf/BAR_ICF_Leitfaden_2.pdf.pdf" TargetType="URL"/>
+                  </ExternalRef>). Zugegriffen: 22. Dez. 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Gebert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Schmidt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F. .</Initials>
+                    <FamilyName>Weidner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ChapterTitle Language="De">Präventive Hausbesuche bei Senioren: Projekt mobil; der Abschlussbericht</ChapterTitle>
+                  <BookTitle>D. I. für angewandte P. E.V., Herausgeber. Präventive Hausbesuche bei Senioren: Projekt mobil; der Abschlussbericht</BookTitle>
+                  <PublisherName>Schlütersche</PublisherName>
+                  <PublisherLocation>Germany</PublisherLocation>
+                  <FirstPage>186 S</FirstPage>
+                </BibChapter>
+                <BibUnstructured>Gebert A, Schmidt C, Weidner F. Präventive Hausbesuche bei Senioren: Projekt mobil; der Abschlussbericht. In: D. I. für angewandte P. E.V., Herausgeber. Präventive Hausbesuche bei Senioren: Projekt mobil; der Abschlussbericht. Germany: Schlütersche; 2008. 186 S.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S.M.</Initials>
+                    <FamilyName>Goetz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.E.</Initials>
+                    <FamilyName>Stuck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Hirschi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Gillmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Dapp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.E.</Initials>
+                    <FamilyName>Minder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C. .</Initials>
+                    <FamilyName>Beck</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="De">Ein multidimensionaler Fragebogen als Bestandteil eines präventiven geriatrischen Assessments: Vergleich der Selbstausfüllerversion mit der Interviewversion</ArticleTitle>
+                  <JournalTitle>SPM</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>134</FirstPage>
+                  <LastPage>46</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M%2FhtFyntQ%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goetz SM, Stuck AE, Hirschi A, Gillmann G, Dapp U, Minder CE, Beck, JC. Ein multidimensionaler Fragebogen als Bestandteil eines präventiven geriatrischen Assessments: Vergleich der Selbstausfüllerversion mit der Interviewversion. SPM. 2000;45(3):134–46. doi:<ExternalRef>
+                    <RefSource>10.1007/BF01299284</RefSource>
+                    <RefTarget Address="10.1007/BF01299284" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Gunzelmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Albani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Beutel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E. .</Initials>
+                    <FamilyName>Brähler</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="De">Die subjektive Gesundheit älterer Menschen im Spiegel des SF-36</ArticleTitle>
+                  <JournalTitle>Z Gerontol Geriatr.</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>109</FirstPage>
+                  <LastPage>19</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00391-006-0352-z</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD28njt1Kgsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16622632</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gunzelmann T, Albani C, Beutel M, Brähler E. Die subjektive Gesundheit älterer Menschen im Spiegel des SF-36. Z Gerontol Geriatr. 2006;39(2):109–19.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Huss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.E.</Initials>
+                    <FamilyName>Stuck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.Z.</Initials>
+                    <FamilyName>Rubenstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Egger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K. M.</Initials>
+                    <FamilyName>Clough-Gorr</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Multidimensional preventive home visit programs for community-dwelling older adults: a systematic review and meta-analysis of randomized controlled trials</ArticleTitle>
+                  <JournalTitle>J Gerontol A Biol Sci Med Sci.</JournalTitle>
+                  <VolumeID>63</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>298</FirstPage>
+                  <LastPage>307</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/gerona/63.3.298</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18375879</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Huss A, Stuck AE, Rubenstein LZ, Egger M, Clough-Gorr K M. Multidimensional preventive home visit programs for community-dwelling older adults: a systematic review and meta-analysis of randomized controlled trials. J Gerontol A Biol Sci Med Sci. 2008;63(3):298–307.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Imhof</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Naef</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Mahrer-Imhof</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H. .</Initials>
+                    <FamilyName>Petry</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="De">SpitexPlus: Assessment und fortgeschrittene Pflegeinterventionen für zuhause lebende alte Menschen und ihre Familien</ArticleTitle>
+                  <JournalTitle>Pflege.</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>43</FirstPage>
+                  <LastPage>56</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1024/1012-5302/a000090</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21274845</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Imhof L, Naef R, Mahrer-Imhof R, Petry H. SpitexPlus: Assessment und fortgeschrittene Pflegeinterventionen für zuhause lebende alte Menschen und ihre Familien. Pflege. 2011;24(1):43–56. doi:<ExternalRef>
+                    <RefSource>10.1024/1012-5302/a000090</RefSource>
+                    <RefTarget Address="10.1024/1012-5302/a000090" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Junius</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Schmidt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Fischer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Breull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. .</Initials>
+                    <FamilyName>Langner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="De">Das europäische geriatrische Assessment im Praxistest: Ergebnisse aus der deutschen Machbarkeitsstudie</ArticleTitle>
+                  <JournalTitle>Z Allg Med.</JournalTitle>
+                  <VolumeID>79</VolumeID>
+                  <FirstPage>620</FirstPage>
+                  <LastPage>3</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-2003-39281</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Junius U, Schmidt C, Fischer G, Breull A, Langner D. Das europäische geriatrische Assessment im Praxistest: Ergebnisse aus der deutschen Machbarkeitsstudie. Z Allg Med. 2003a;79:620–3.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U.</Initials>
+                    <FamilyName>Junius</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Schultz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Fischer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Breull</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D. .</Initials>
+                    <FamilyName>Langner</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="De">Evidenzbasiertes präventives Assessment für betagte Patienten. Umsetzung der Ergebnisse einer europäischen Studie in eine konkrete hausärztliche Vorsorgeuntersuchung in Deutschland</ArticleTitle>
+                  <JournalTitle>Z Allg Med.</JournalTitle>
+                  <VolumeID>79</VolumeID>
+                  <FirstPage>143</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-2003-39281</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Junius U, Schultz C, Fischer G, Breull A, Langner D. Evidenzbasiertes präventives Assessment für betagte Patienten. Umsetzung der Ergebnisse einer europäischen Studie in eine konkrete hausärztliche Vorsorgeuntersuchung in Deutschland. Z Allg Med. 2003b;79:143–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A. .</Initials>
+                    <FamilyName>Kruse</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="De">Selbstständigkeit, bewusst angenommene Abhängigkeit, Selbstverantwortung und Mitverantwortung als zentrale Kategorien einer ethischen Betrachtung des Alters</ArticleTitle>
+                  <JournalTitle>Z Gerontol Geriatr.</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>273</FirstPage>
+                  <LastPage>87</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00391-005-0323-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD2MrnsVKnsg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16133757</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kruse A. Selbstständigkeit, bewusst angenommene Abhängigkeit, Selbstverantwortung und Mitverantwortung als zentrale Kategorien einer ethischen Betrachtung des Alters. Z Gerontol Geriatr. 2005;38(4):273–87. doi:<ExternalRef>
+                    <RefSource>10.1007/s00391-005-0323-9</RefSource>
+                    <RefTarget Address="10.1007/s00391-005-0323-9" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.P.</Initials>
+                    <FamilyName>Lawton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E.M. .</Initials>
+                    <FamilyName>Brody</FamilyName>
+                  </BibAuthorName>
+                  <Year>1969</Year>
+                  <ArticleTitle Language="En">Assessment of older people: self-maintaining and instrumental activities of daily living</ArticleTitle>
+                  <JournalTitle>Gerontologist.</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>3Part1</IssueID>
+                  <FirstPage>179</FirstPage>
+                  <LastPage>86</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/geront/9.3_Part_1.179</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE3c%2FivV2kug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>5349366</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lawton MP, Brody EM. Assessment of older people: self-maintaining and instrumental activities of daily living. Gerontologist. 1969;9(3 Part 1):179–86. doi:<ExternalRef>
+                    <RefSource>10.1093/geront/9.3_Part_1.179</RefSource>
+                    <RefTarget Address="10.1093/geront/9.3_Part_1.179" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Luck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Roling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Heinrich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Luppa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Matschiger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Fleischer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J. .</Initials>
+                    <FamilyName>Behrens</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="De">Altern zu Hause — Unterstützung durch präventive Hausbesuche — Eine randomisierte kontrollierte Interventionsstudie</ArticleTitle>
+                  <JournalTitle>Hallesche Beitr Gesundh Pflegewiss.</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>33</LastPage>
+                </BibArticle>
+                <BibUnstructured>Luck T, Roling G, Heinrich S, Luppa M, Matschiger H, Fleischer S, Behrens J. Altern zu Hause — Unterstützung durch präventive Hausbesuche — Eine randomisierte kontrollierte Interventionsstudie. Hallesche Beitr Gesundh Pflegewiss. 2011;10(8):1–33.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y.</Initials>
+                    <FamilyName>Luo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.C.</Initials>
+                    <FamilyName>Hawkley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.J.</Initials>
+                    <FamilyName>Waite</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.T. .</Initials>
+                    <FamilyName>Cacioppo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Loneliness, health, and mortality in old age: a national longitudinal study</ArticleTitle>
+                  <JournalTitle>Soc Sci Med.</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>907</FirstPage>
+                  <LastPage>14</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.socscimed.2011.11.028</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3303190</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22326307</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Luo Y, Hawkley LC, Waite LJ, Cacioppo JT. Loneliness, health, and mortality in old age: a national longitudinal study. Soc Sci Med. 2012; 74(6):907–14.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.I.</Initials>
+                    <FamilyName>Mahoney</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.W. .</Initials>
+                    <FamilyName>Barthel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1965</Year>
+                  <ArticleTitle Language="En">Functional evaluation. The Barthel-Index</ArticleTitle>
+                  <JournalTitle>Md State Med J.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>56</FirstPage>
+                  <LastPage>61</LastPage>
+                </BibArticle>
+                <BibUnstructured>Mahoney FI, Barthel DW. Functional evaluation. The Barthel-Index. Md State Med J. 1965;14(2):56–61.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibBook>
+                  <BibEditorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Moosbrugger</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>A. Herausgeber.</Initials>
+                    <FamilyName>Kelava</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <Year>2011</Year>
+                  <BookTitle>Testtheorie und Fragebogenkonstruktion</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <FirstPage>444 S</FirstPage>
+                </BibBook>
+                <BibUnstructured>Moosbrugger H, Kelava A, Herausgeber. Testtheorie und Fragebogenkonstruktion. Berlin: Springer; 2011. 444 S.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>I. .</Initials>
+                    <FamilyName>Moustaki</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ChapterTitle Language="En">Factor analysis and latent structure of categorical and metric data</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Cudeck</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>R.C.</Initials>
+                    <FamilyName>MacCallum</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Factor analysis at 100: historical developments and future directions</BookTitle>
+                  <PublisherName>Routledge</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <FirstPage>283</FirstPage>
+                  <LastPage>313</LastPage>
+                </BibChapter>
+                <BibUnstructured>Moustaki I. Factor analysis and latent structure of categorical and metric data. In: Cudeck R, MacCallum RC, Herausgeber. Factor analysis at 100: historical developments and future directions. New York: Routledge; 2012. S. 283–313.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Nikolaus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N.</Initials>
+                    <FamilyName>Specht-Leible</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Bach</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P.</Initials>
+                    <FamilyName>Oster</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G. .</Initials>
+                    <FamilyName>Schlierf</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Social aspects in diagnosis and therapy of very elderly patients. Initial experiences with a newly de-veloped questionnaire within the scope of geriatric assessment</ArticleTitle>
+                  <JournalTitle>Z Gerontol.</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>240</FirstPage>
+                  <LastPage>5</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M%2Fms1artQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>7975814</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nikolaus T, Specht-Leible N, Bach M, Oster P, Schlierf G. Social aspects in diagnosis and therapy of very elderly patients. Initial experiences with a newly de-veloped questionnaire within the scope of geriatric assessment. Z Gerontol. 1994;27(4):240–5.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Scheidt-Nave</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Richter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Fuchs</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A. .</Initials>
+                    <FamilyName>Kuhlmey</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="De">Herausforderungen an die Gesundheitsforschung für eine alternde Gesellschaft am Beispiel „Multimorbidität“</ArticleTitle>
+                  <JournalTitle>Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz.</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>441</FirstPage>
+                  <LastPage>50</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00103-010-1052-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3czhtlWlug%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20376419</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Scheidt-Nave C, Richter S, Fuchs J, Kuhlmey A. Herausforderungen an die Gesundheitsforschung für eine alternde Gesellschaft am Beispiel „Multimorbidität“. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2010;53:441–50. doi:<ExternalRef>
+                    <RefSource>10.1007/s00103-010-1052-9</RefSource>
+                    <RefTarget Address="10.1007/s00103-010-1052-9" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Schulc</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C. .</Initials>
+                    <FamilyName>Them</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <BookTitle>Seniorenberatung im Tennengau — Bedarfs- und Akzeptanzanalyse</BookTitle>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>105</LastPage>
+                </BibBook>
+                <BibUnstructured>Schulc E, Them C. Seniorenberatung im Tennengau — Bedarfs- und Akzeptanzanalyse. Austria; 2011. S. 1–105.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Schulc</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C. .</Initials>
+                    <FamilyName>Them</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <BookTitle>Präventive Seniorenberatung in Tirol — Endbericht</BookTitle>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>120</LastPage>
+                </BibBook>
+                <BibUnstructured>Schulc E, Them C. Präventive Seniorenberatung in Tirol — Endbericht. Austria; 2013. S. 1–120.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>K.</Initials>
+                    <FamilyName>Schwaiger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <BookTitle>Hausbesuche bei Hochbetagten im Salzburger Tennengau — Österreich, zur Förderung des unabhängigen Lebens [Masterthesis]</BookTitle>
+                  <PublisherName>UMIT — Institut für Pflegewissenschaft</PublisherName>
+                  <PublisherLocation>Hall i. Tirol, Austria</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Schwaiger K. Hausbesuche bei Hochbetagten im Salzburger Tennengau — Österreich, zur Förderung des unabhängigen Lebens [Masterthesis]. Hall i. Tirol, Austria: UMIT — Institut für Pflegewissenschaft; 2008.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibBook>
+                  <InstitutionalAuthorName>Statistik Austria. </InstitutionalAuthorName>
+                  <Year>2013</Year>
+                  <BookTitle>Lebensformen</BookTitle>
+                </BibBook>
+                <BibUnstructured>Statistik Austria. Lebensformen. 2013. <ExternalRef>
+                    <RefSource>https://www.statistik.at/web_de/statistiken/bevoelkerung/haushalte_familien_lebensformen/lebensformen/index.html</RefSource>
+                    <RefTarget Address="https://www.statistik.at/web_de/statistiken/bevoelkerung/haushalte_familien_lebensformen/lebensformen/index.html" TargetType="URL"/>
+                  </ExternalRef>. Zugegriffen: 28. Dez. 2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.E.</Initials>
+                    <FamilyName>Stuck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.U.</Initials>
+                    <FamilyName>Aronow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Steiner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.A.</Initials>
+                    <FamilyName>Alessi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.J.</Initials>
+                    <FamilyName>Büla</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.N.</Initials>
+                    <FamilyName>Gold</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K.E.</Initials>
+                    <FamilyName>Yuhas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Nisenbaum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L.Z.</Initials>
+                    <FamilyName>Rubenstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C. .</Initials>
+                    <FamilyName>Beck</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">A trial of annual in-home comprehensive geriatric assessments for elderly people living in the community</ArticleTitle>
+                  <JournalTitle>N Engl J Med.</JournalTitle>
+                  <VolumeID>333</VolumeID>
+                  <FirstPage>1184</FirstPage>
+                  <LastPage>9</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1056/NEJM199511023331805</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK28%2Fgs1egsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>7565974</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stuck AE, Aronow HU, Steiner A, Alessi CA, Büla CJ, Gold MN, Yuhas KE, Nisenbaum R, Rubenstein LZ, Beck JC. A trial of annual in-home comprehensive geriatric assessments for elderly people living in the community. N Engl J Med. 1995;333:1184–9. doi:<ExternalRef>
+                    <RefSource>10.1056/NEJM199511023331805</RefSource>
+                    <RefTarget Address="10.1056/NEJM199511023331805" TargetType="DOI"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.E.</Initials>
+                    <FamilyName>Stuck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Egger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Hammer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.E.</Initials>
+                    <FamilyName>Minder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.C. .</Initials>
+                    <FamilyName>Beck</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Home visits to prevent nursing home admission and functional decline in elderly people: systematic review and meta-regression analysis</ArticleTitle>
+                  <JournalTitle>JAMA.</JournalTitle>
+                  <VolumeID>287</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>1022</FirstPage>
+                  <LastPage>8</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1001/jama.287.8.1022</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11866651</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stuck AE, Egger M, Hammer A, Minder CE, Beck JC. Home visits to prevent nursing home admission and functional decline in elderly people: systematic review and meta-regression analysis. JAMA. 2002;287(8):1022–8.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>C.</Initials>
+                    <FamilyName>Them</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Riedl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E. .</Initials>
+                    <FamilyName>Schulc</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <BookTitle>Eine qualitative Bedarfserhebung im Auftrag des Landes Tirol, Abteilung für Soziales Nachtbereitschaft bzw. Nachtdienste durch mobile Pflege- und Betreuungsorganisationen in Tirol — Endbericht. 2014. Hall i. Tirol, Austria</BookTitle>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>120</LastPage>
+                </BibBook>
+                <BibUnstructured>Them C, Riedl M, Schulc E. Eine qualitative Bedarfserhebung im Auftrag des Landes Tirol, Abteilung für Soziales Nachtbereitschaft bzw. Nachtdienste durch mobile Pflege- und Betreuungsorganisationen in Tirol — Endbericht. 2014. Hall i. Tirol, Austria; 2014. S. 1–120.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Wancata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Alexandrovic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Marquart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Weiss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F. .</Initials>
+                    <FamilyName>Friedrich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="De">Ist die Geriatric Depression Scale (GDS ) bei älteren Menschen valider als andere Depressionsscreening-Instrumente?</ArticleTitle>
+                  <JournalTitle>Neuropsychiatrie.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>240</FirstPage>
+                  <LastPage>9</LastPage>
+                </BibArticle>
+                <BibUnstructured>Wancata J, Alexandrovic R, Marquart B, Weiss M, Friedrich F. Ist die Geriatric Depression Scale (GDS ) bei älteren Menschen valider als andere Depressionsscreening-Instrumente? Neuropsychiatrie. 2006;20(4):240–9.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Wancata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F. .</Initials>
+                    <FamilyName>Friedrich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Depression: a diagnosis aptly used?</ArticleTitle>
+                  <JournalTitle>Psychiatr Danub.</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>406</FirstPage>
+                  <LastPage>11</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>22075745</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wancata J, Friedrich F. Depression: a diagnosis aptly used? Psychiatr Danub. 2011;23(4):406–11.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0504-8" OutputMedium="All">
+          <ArticleInfo ArticleType="News" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>504</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0504-8</ArticleDOI>
+            <ArticleSequenceNumber>9</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Akut bedroht, verängstigt und hilflos</ArticleTitle>
+            <ArticleSubTitle Language="De">Der Infarktpatient im Herzkatheter — als Film</ArticleSubTitle>
+            <ArticleCategory>aktuell</ArticleCategory>
+            <ArticleFirstPage>25</ArticleFirstPage>
+            <ArticleLastPage>25</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <Body>
+            <Para Type="Trailer">Menschen, die einen akuten Herzinfarkt erleiden, werden plötzlich und ohne Vorwarnung aus ihrem gewohnten Umfeld gerissen, im Krankenhaus von fremden Menschen betreut, in einer Umgebung, die sie nicht kennen. Zum Stress der lebensbedrohlichen Erkrankung kommen der Stress des Fremden und die zusätzliche Ungewissheit hinzu. Ärzte, Pflegepersonal und Kardiotechniker sind in dieser Situation vor allem damit beschäftigt, den Organismus des Betroffenen zu stabilisieren.</Para>
+            <Para>Seine psychische Befindlichkeit steht in dieser Phase meist nicht im Mittelpunkt. Die Pflegekräfte des Herzkatheterlabors der Medizinischen Universität Innsbruck stellten sich die Frage, wie es den Patienten in dieser Situation geht — und produzierten einen Film zum besseren Verständnis. Dieser wurde beim Kardiologie Kongress Innsbruck im vergangenen März präsentiert.</Para>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Verhalten, Kompetenz und Fürsorge als Vertrauensfaktor</Heading>
+              <Para>Herz-Kreislauf-Erkrankungen zählen in den westlichen Ländern und damit auch in Österreich zu den häufigsten Todesursachen. Die Betroffenen berichten, dass das Verhalten, die Kompetenz und die Fürsorge des Betreuungsteams einen wesentlichen Vertrauens- bzw. im negativen Fall einen Verunsicherungsfaktor darstellen. „Umso wichtiger ist für uns, sich immer wieder in Erinnerung zu rufen, dass der Patient während der gesamten Untersuchung wach ist“, stellten die beiden Referentinnen aus dem Herzkatheterlabor der Medizinischen Universitätsklinik Innsbruck, Eva Grund und Carmen Kronawitter, fest: „Auch wenn es nicht immer den Anschein hat — dem Patienten fällt das Verhalten des Personals sehr wohl auf und dieses hat für den weiteren Heilungsverlauf große Bedeutung.“ Eine falsche Mimik oder Gestik kann sich auf den ohnedies verängstigten Patienten katastrophal auswirken. Versucht das Personal in dieser Situation hingegen positiv auf die Psyche einzuwirken, kann die körperliche Verfassung durchaus verbessert werden. Ein Bereich, der in der Literatur noch sehr wenig Beachtung findet.</Para>
+              <Para>Um die Situation eines Akutpatienten im Katheterlabor möglichst realitätsnah nachvollziehen zu können, begab man sich selbst auf die Untersuchungsliege und stellte den Ablauf nach — mit filmischer Dokumentation. In Begleitung einer Pflegeperson kommt der „Patient“ also in das Herzkatheterlabor — ein langer Weg, auf dem er nicht so recht weiß, was auf ihn zukommt. Er wird von der Liege auf den Untersuchungstisch transferiert, erhält standardmäßig Defi-Pads, sieht verschiedene Personen von jeder Seite auf ihn zukommen, die unterschiedliche Tätigkeiten ausführen, die Kontrolle der Sauerstoffsättigung anschließen und die Vorbereitungen für die Untersuchung treffen. Es herrscht eine gewisse Hektik. Aus Patientensicht ist der Blickwinkel beträchtlich eingeschränkt. „Vor allem in dieser Phase ist es für uns auch sehr wichtig, mit dem Patienten zu kommunizieren“, so Grund und Kronawitter: Um auf Ängste einzugehen und zu versuchen, die Angst zu lindern. Fragen, die an den Patienten gestellt werden, können ihn beispielsweise ablenken.</Para>
+            </Section1>
+            <Section1 ID="Sec2" OutputMedium="All">
+              <Heading>Der Strahlenschutz als Kommunikationsblockade</Heading>
+              <Para>Eine weitere Sichteinschränkung — und Kommunikationsschranke — stellt die Schutzscheibe gegen Röntgenstrahlen während des Eingriffs dar. Für den Strahlenschutz des Personals ist diese Maßnahme essentiell — für den Patienten erhöht sie die Verunsicherung. Oben das Röntgengerät, vor ihm die Schutzscheibe: Damit beschränkt sich der Ausblick auf die weiße Wand oder den Defibrillator, ein Gerät, das ihm wahrscheinlich unbekannt ist, das piepst, das manchmal einen Alarmton abgibt. Eine Erfahrung, die auch der „experimentellen“ Patientin so nicht bewusst war und sie erschreckte: „Dass man durch die Bleiglasscheibe nicht durchsieht.“ Und die Kommunikation wird damit zusätzlich eingeschränkt, denn es kommt nicht nur zur Sichteinschränkung sondern auch der Schall wird damit gedämpft. Patient und Behandlungsteam hören einander nicht oder bestenfalls sehr reduziert.</Para>
+              <Para>Ebenfalls eine sehr unangenehme Erfahrung: Die Defi-Pads, die kalt sind und nach Abschluss der Untersuchung ziemlich unsanft heruntergerissen werden. Eine nicht nur psychische, sondern auch zusätzliche physische Stresssituation. Wichtig wäre indes, Stress in jeglicher Form zu vermeiden, um die ohnedies durch den Herzinfarkt bereits eingeschränkte Sauerstoffversorgung des Herzmuskels nicht weiter zu beeinträchtigen.</Para>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All">
+              <Heading>Das Pflegepersonal als Sprachrohr für den Patienten</Heading>
+              <Para>Allerdings: In der Routine wird die Aufklärung oft vergessen. „Uns als Pflegepersonal fällt eine große Verantwortung zu“, stellen Grund und Kronawitter fest: „Wir sind das Sprachrohr für den Patienten. Wir sind aber auch das Bindeglied zwischen Arzt und Patient und wir sind gefordert, die Untersuchung für den Pateinten so erträglich wie möglich zu gestalten.“ Bekannt ist, dass ein nicht geringer Anteil von akuten Herzinfarktpatienten aufgrund der Ausnahmesituation eine posttraumatische Belastungsstörung entwickelt. Kommunikation kann viel von der Angst nehmen, sie verbindet, reduziert Fehler und Missverständnisse. Schon wenn der Patient in den Untersuchungsraum geschoben wird, wäre es notwendig, mit ihm zu sprechen, ihn wahrzunehmen und ihn zu respektieren auch in seiner Intimsphäre.</Para>
+              <Para>Besonders auf ärztlicher Seite fehle in der Hektik und Routine des Alltags häufig eine derartig wertschätzende Herangehensweise, merkte Univ.-Prof. Dr. Guy Friedrich, Univ.-Klinik f. Innere Medizin-Kardiologie, Innsbruck selbstkritisch an: „,Weil wir so darauf konzentriert sind, das verschlossene Gefäß zu öffnen, vergessen wir als Ärzte, dass der Patient bei vollem Bewusstsein liegt. Mit der Zeit geht die Betreuung des Patienten verloren.“ Der präsentierte Film und die Diskussion zum Thema seien jedoch Anlass, diesem Aspekt im Team mehr Aufmerksamkeit zu schenken.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_504.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0501-y" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>501</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0501-y</ArticleDOI>
+            <ArticleSequenceNumber>6</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Wie Musik aus Noten und Pausen</ArticleTitle>
+            <ArticleSubTitle Language="De">Spiritual Care in Pflegeausbildung und Pflegepraxis</ArticleSubTitle>
+            <ArticleCategory>pflegeforschung</ArticleCategory>
+            <ArticleFirstPage>16</ArticleFirstPage>
+            <ArticleLastPage>19</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff2" CorrespondingAffiliationID="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Hemma</GivenName>
+                  <FamilyName>Prenner</FamilyName>
+                  <Degrees>DGKS, BSc, MSc</Degrees>
+                </AuthorName>
+                <Contact>
+                  <Email>Hemma.Prenner@gmx.net</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Univ.-Prof. Dr. rer. cur.</Prefix>
+                  <GivenName>Juliane</GivenName>
+                  <FamilyName>Eichhorn-Kissel</FamilyName>
+                  <Degrees>MA, RN</Degrees>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Brandenburgische Technische Universität BTU Cottbus-Senftenberg</OrgName>
+                <OrgAddress>
+                  <City>Cottbus</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgAddress>
+                  <Street>Steyrergasse 54/4</Street>
+                  <Postcode>8010</Postcode>
+                  <City>Graz</City>
+                  <Country>Austria</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para Type="Trailer">Die Pflege hat einen besonderen Stellenwert in der Begleitung von Menschen, die sich in Grenzsituationen, Krisen oder in Übergängen des Lebenszyklus befinden. Solche Situationen stellen für die Betroffenen mitunter eine große Herausforderung dar, sodass häufig existentielle Fragen nach dem Warum und Wozu oder nach der Transzendenz gestellt werden.</Para>
+            <Para>Zusätzlich spiegeln sich auch gesellschaftliche Entwicklungen in der Pflege wieder. Zunehmend multikulturellen und multireligiösen Gesellschaften soll kulturell und religionsspezifisch angepasste Pflege ermöglicht werden. Auch Tendenzen eines Individualisierungstrends werden ersichtlich. Dieser zeigt, dass sich immer mehr Menschen von institutionellen Kirchen und religiösen Gemeinschaften abwenden und in weiterer Folge, kennzeichnend für eine pluralistische Gesellschaft, selbstbestimmt ihrer individuellen Sinnsuche nachgehen.</Para>
+            <Para>Aus diesen Gründen ist es für alle Gesundheitsberufe und speziell auch für Pflegende von Bedeutung, Offenheit für die individuelle spirituelle Seite des Menschen zu zeigen und auf dieser Ebene Gesprächsbereitschaft sowie Begleitung zu ermöglichen (<CitationRef CitationID="CR11">Schaupp 2014</CitationRef>; <CitationRef CitationID="CR5">Frick 2015</CitationRef>). Um diese wichtige Aufgabe von Seiten der Pflege und im interdisziplinären Team umzusetzen, bedarf es eines sensibilisierten Bewusstseins, dass die spirituelle Dimension eine wichtige Ressource für Patienten darstellen kann und daher im Pflegeprozess wie allgemein im therapeutischen Prozess nicht übersehen werden soll (<CitationRef CitationID="CR8">König 2012</CitationRef>; <CitationRef CitationID="CR1">Borasio 2012</CitationRef>). Wenn auch Pflegepersonen, neben allen anderen Gesundheitsberufen, diese offene Haltung für die jeweilige spirituelle Dimension von Patienten einnehmen, kann das Konzept von Spiritual Care umgesetzt werden.</Para>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Hintergrund</Heading>
+              <Para>Der Terminus Spiritualität wird in der Literatur sowie speziell in der Pflege- und den Gesundheitswissenschaften nicht einheitlich definiert. Im weitesten Sinne ist damit allgemein eine Geistigkeit des Menschen gemeint. Dies kann Geistiges aller Art bedeuten (<CitationRef CitationID="CR6">Heller &amp; Heller 2014</CitationRef>). Im Rahmen dieser Arbeit soll folgende Definition für Spiritualität zugrunde gelegt werden: <Emphasis Type="Italic">„in der Sehnsucht der Menschen nach Sinn und Wert ihres Lebens. Wir begegnen ihr, wenn Menschen existentielle Fragen stellen und nach Antworten suchen. Um Spiritualität geht es in der Sehnsucht nach Leben, in der Erfahrung der Endlichkeit und im Aushalten der Spannung zwischen beiden“ (</Emphasis>
+                <CitationRef CitationID="CR7">Hospizverein Steiermark 2012. S.1</CitationRef>).</Para>
+              <Para>Diese Definition zeigt, dass es sich bei Spiritualität in der Pflege und der damit verbundenen spirituellen Dimension besonders um die Beschäftigung mit einer existentiellen Dimension des Menschen handelt, in der es um eine Sinnfindung und um ein Ziel im Leben und die damit verbundenen Ressourcen geht. Das ausgearbeitete Konzept Spiritual Care versucht, Antwort darauf zu geben, wie Spiritualität und eine spirituelle Dimension des Menschseins im Gesundheitsbereich wahrgenommen und begegnet werden kann. Spiritual Care stellt den jeweiligen Menschen mit seinen Bedürfnissen, Werten und Überzeugungen, die er/sie als mögliche Ressource mitbringt, in den Mittelpunkt pflegerischen/therapeutischen Handelns (<CitationRef CitationID="CR6">Heller &amp; Heller 2014</CitationRef>; O’Shea et al. 2012; <CitationRef CitationID="CR2">Callister et al. 2004</CitationRef>). Es geht hierbei um eine prinzipielle Haltung, die alle Gesundheitsberufe im interdisziplinären Team einnehmen können. In dieser Haltung soll herausgefunden werden, ob die spirituelle Dimension eine mögliche Ressource für den jeweiligen Menschen darstellt und ob diese im therapeutischen Prozess berücksichtigt werden soll. Denn gerade Krankheiten oder Pflegebedürftigkeit können mit Lebensveränderung und Unsicherheit einhergehen, wodurch eine Berücksichtigung der spirituellen Dimension helfen kann, diese herausfordernden Situationen leichter zu bewältigen (<CitationRef CitationID="CR14">Steinmann 2012</CitationRef>; <CitationRef CitationID="CR12">Schneidereith-Mauth 2013</CitationRef>; <CitationRef CitationID="CR17">Weiher 2012</CitationRef>).</Para>
+              <Para>Balboni et al. zeigten auf, dass spirituell zufriedene Patienten in der letzten Phase ihres Lebens geringere Behandlungskosten für das Gesundheitssystem verursachen als spirituell unzufriedene (Balboni et al. 2011). Spiritualität soll daher nicht als Luxus definiert werden, den sich Krankenhäuser nicht leisten können, sondern als Chance. Allerdings soll es nicht Ziel sein, Spiritual Care im Dienste klinischer Interessen zu sehen, sondern Spiritual Care als die Wertschätzung des individuellen Lebens. Dies zeigt sich in einer respektvollen Haltung gegenüber individuellen Lebensentwürfen (<CitationRef CitationID="CR6">Heller &amp; Heller 2014</CitationRef>) sowie in einem „Da-Sein“ und einer umfassenden Sorge um den kranken Menschen (<CitationRef CitationID="CR1">Borasio 2012</CitationRef>).</Para>
+              <Para>Umgekehrt ist zu berücksichtigen, dass auch für das Gesundheitspersonal der Umgang mit der eigenen Spiritualität gefördert werden soll, um diese als Ressource nutzen zu können. Denn eine persönliche Auseinandersetzung mit Spiritualität fördert auch diesbezügliche Offenheit und Sprachfähigkeit gegenüber Patienten.</Para>
+              <Para>Im Gegensatz dazu ist hinsichtlich der Wahrnehmung und Offenheit gegenüber einer spirituellen Dimension im Kontext der Pflegeausbildung und Pflegepraxis eine Diskrepanz ersichtlich, wie auch durch die Fachliteratur belegt wird. Daher wird auch in der Bangkok Charta für Gesundheitsförderung (2005) der Weltgesundheitsorganisation (WHO) ausdrücklich gefordert: <Emphasis Type="Italic">„(...) neben dem physischen, psychischen und sozialen Wohlbefinden, ist spirituelles Wohlbefinden gleichermaßen ein fundamentales Grundrecht“</Emphasis>. Teilweise werden in der Pflegeausbildung auf curricularer Ebene, wie in dem Offenen Curriculum (<CitationRef CitationID="CR9">ÖBIG 2003</CitationRef>) oder in besonderer Weise dem Unterrichtsfach der Palliativ Pflege, diese Forderungen umgesetzt. Da diese Ansprüche aber nicht nur in der Pflegepraxis sondern bereits in der Pflegeausbildung noch viel zu geringe Umsetzung finden, sollten Auszubildende der Gesundheits- und Krankenpflege bereits in ihrer Ausbildung vermehrt auf eine spirituelle Dimension und Spiritual Care sensibilisiert werden. Dafür gibt es im deutschsprachigen Raum allerdings noch zu wenig Programme und Umsetzungsvorschläge, wie dies verwirklicht werden kann.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/735_2015_501_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Aus diesem Grund stellte die Identifikation und Analyse bestehender Programme zum Thema Spiritual Care sowie die Entwicklung eines Workshops zur spirituellen Dimension für Lehrende der allgemeinen Gesundheits- und Krankenpflegeschule ein wesentliches Ziel dieser Arbeit dar. Auf Basis dieses Workshops sollten teilnehmende Lehrende befähigt werden, gelernte Aspekte im Kontext von Spiritual Care in der Ausbildung an Auszubildende weiterzugeben. Ein weiteres Ziel dieser Arbeit stellte die Evaluation des Workshops hinsichtlich thematisierter Inhalte und durchgeführter Methoden dar. Darüber hinaus sollte identifiziert werden, ob die spirituelle Dimension nach dem Workshop von Lehrenden vermehrt in den Unterricht integriert wurde.</Para>
+              <Para>Basierend auf diesen Zielstellungen wurden die Methoden gewählt.</Para>
+            </Section1>
+            <Section1 ID="Sec2" OutputMedium="All">
+              <Heading>Methode</Heading>
+              <Section2 ID="Sec3" OutputMedium="All">
+                <Heading>Design</Heading>
+                <Para>Die Methoden der Forschungsarbeit wurden gemäß einem deskriptiven Forschungsdesign gewählt. Dieses weist einen beschreibenden Charakter auf und zählt zu den nicht-experimentellen Forschungsdesigns. Die Sensibilisierung in Form eines Workshops ermöglicht im Rahmen dieser Arbeit Auskünfte über die Angemessenheit des konzipierten Workshops hinsichtlich der Inhalte und Methoden sowie einer Veränderung im Unterricht zu gewinnen. Zusätzlich wurde der Ansatz der Evaluationsforschung integriert, der charakterisierend für eine summative Evaluation die Erhebung quantitativer Daten anstrebt.</Para>
+              </Section2>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>Setting und Stichprobe</Heading>
+                <Para>Als Setting dienten vier Schulen der allgemeinen Gesundheits- und Krankenpflege des Landes Steiermark. Die Auswahl der Teilnehmenden erfolgte durch eine zweckgebundene Gelegenheitsstichprobe. Insgesamt nahmen 30 Lehrende an dem Workshop teil. Da die Stichprobe eher klein ist, kann das Projekt als Pilotstudie eingestuft werden. Einschlusskriterien für die Stichprobe waren die Lehrtätigkeit an allgemeinen Schulen für Gesundheits- und Krankenpflege. Lehrende aus Schulen für psychiatrische Gesundheits- und Krankenpflege oder Kinder- und Jugendpflege wurden nicht inkludiert, da dies eine andere, Zielgruppen angepasste, Konzeption des Workshops vorausgesetzt hätte.</Para>
+              </Section2>
+              <Section2 ID="Sec5" OutputMedium="All">
+                <Heading>Datenerhebung</Heading>
+                <Para>Vor der Datenerhebung wurde ein Pretest durchgeführt und anschließend erfolgte die Datenerhebung mittels Fragebogen zu zwei Zeitpunkten.</Para>
+                <Para>Alle entwickelten geschlossenen wie auch offenen Fragen der zwei Fragebögen wurden nach der Durchführung eines Pretests mit Studierenden der Gesundheits-und Pflegewissenschaft auf ihre Angemessenheit und Verständlichkeit hin bewertet und entsprechend adaptiert, um eine gute Verständlichkeit aller Items zu gewährleisten.</Para>
+                <Para>Als Methode der Datenerhebung wurde im Zeitraum Dezember 2013 bis Mai 2014 eine schriftliche Fragebogenerhebung zu zwei unterschiedlichen Zeitpunkten mit Teilnehmenden des Workshops durchgeführt.</Para>
+                <Para>Die erste Evaluation mittels Fragebogen fand direkt nach dem Workshop statt und gliederte sich in die Evaluation der Inhalte und Methoden des Workshops und versuchte so, die zweite Forschungsfrage zu beantworten. In dieser ging es darum herauszufinden, ob Inhalte und Methoden des Workshops angemessen gewählt wurden. Bei der zweiten Evaluation ging es darum, ob Lehrende bereits Inhalte und Methoden im Unterricht anwenden konnten und ob allgemein Spiritual Care vermehrt im Unterricht thematisiert sowie integriert wurde.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_501_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec6" OutputMedium="All">
+                <Heading>Datenanalyse</Heading>
+                <Para>Zur Analyse der geschlossenen Fragen wurden Häufigkeiten mittels Microsoft Excel analysiert. Diese Häufigkeiten wurden aufgrund eines vorliegenden nominalen Datenniveaus bestimmt, um Aussagen darüber zu geben, welche Merkmalswerte in welchen Häufigkeiten vorkommen.</Para>
+                <Para>Die Analyse der offenen Fragen erfolgte anhand einer Clusterbildung, welche ebenso mit Hilfe von Häufigkeitswerten interpretiert wurde. Da die quantitative Auswertung von offenen Fragen die Bildung von Kategorien voraussetzt, wurden diese durch die Expertise einer Zweitbegutachterin des Institutes für Pflegewissenschaft an der Medizinischen Universität Graz eingeschätzt und überprüft. Da die Stichprobe klein gehalten ist, können Ergebnisse der Datenanalyse eher als Tendenzen interpretiert werden.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7" OutputMedium="All">
+              <Heading>Ethische Überlegungen</Heading>
+              <Para>Für das Forschungsprojekt wurde ein Antrag bei der Ethikkommission der Medizinischen Universität Graz gestellt. Diese bewilligte eine Durchführung der geplanten Methoden. Teilnehmende Lehrende des Workshops willigten freiwillig über einen schriftlichen „informed consent“ ein.</Para>
+            </Section1>
+            <Section1 ID="Sec8" OutputMedium="All">
+              <Heading>Ergebnisse</Heading>
+              <Section2 ID="Sec9" OutputMedium="All">
+                <Heading>Analyse und Workshop-Konzeption</Heading>
+                <Para>Es konnten international zehn Programme gefunden werden, die sich mit der Thematik Spiritual Care in Form von Kursen und Seminaren im Kontext universitärer Ausbildungen/Erwachsenenbildung auseinandersetzten. Diese gaben Einblick in mögliche Inhalte und Methoden.</Para>
+                <Para>Der neu konzipierte Workshop umfasst acht Einheiten zu je 45 Minuten und beinhaltet die Weitergabe von Wissen zum Thema sowie die Durchführung interaktiver Methoden (<InternalRef RefID="Tab1">Tabelle 1</InternalRef>). Es wurde im Besonderen darauf geachtet, dass die didaktisch-pädagogisch gewählten Methoden von Lehrenden selbst im Unterricht, zur Bearbeitung der Thematik Spiritual Care, angewendet werden können. Damit wurde das Ziel verfolgt, dass Lehrende nach Teilnahme am Workshop, die spirituelle Dimension vermehrt in ihren Unterricht einbeziehen.
+<Table Float="Yes" ID="Tab1">
+                    <Caption Language="De">
+                      <CaptionNumber>Tabelle 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Inhalte und Methoden des Workshops</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup align="left" cols="2">
+                      <colspec colname="c1" colnum="1"/>
+                      <colspec colname="c2" colnum="2"/>
+                      <thead>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Inhalte des Workshops</Emphasis>
+                            </SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Methoden des Workshops</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Verschiedene Definitionen von Spiritualität</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Gruppenarbeit und Präsentation</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Begriffserklärung/Entwicklung/Relevanz von Spiritualiät/Spiritual Care</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Power Point Präsentation</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Erfahrungen zur Spiritualität in der Pflegepraxis/Unterricht</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>„3-Ecken-Spiel“</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Symbolische Kommunikation</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Fallbeispiele in Gruppenarbeit</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Artikel zum Thema Spiritual Care</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>„Jig-saw Puzzle“</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Persönliche Reflexion der Thematik</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Gedankenexperiment</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Spirituelle Anamnese/Forschungsergebnisse</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Power Point Präsentation</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Kompetenzen für Spiritual Care</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>„Fishbowl“</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry colname="c1">
+                            <SimplePara>Evaluation</SimplePara>
+                          </entry>
+                          <entry colname="c2">
+                            <SimplePara>Fragebogenerhebung</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec10" OutputMedium="All">
+                <Heading>Fragebogenerhebungen</Heading>
+                <Para>Die Ergebnisse hinsichtlich der gewählten Inhalte zeigten im Rahmen der ersten Evaluation (siehe Diagramm 1; Item 1-4), dass 100 Prozent (30 Teilnehmende (TN)) der Meinung waren, dass die gewählten Inhalte zu einem besseren Verständnis der spirituellen Dimension in der Praxis beitrugen. 86,7 Prozent (26 TN) der Teilnehmenden äußerten, dass die Inhalte zu einer weiteren Beschäftigung mit dem Thema motivierten. Hinsichtlich der angewendeten Methoden gaben 96,7 Prozent (29 TN) ihre Zustimmung, dass die Methoden zu einer Sensibilisierung hinsichtlich der Thematik geeignet waren. 90 Prozent (27 TN) äußerten, dass sie sich die Methoden des Workshops als potentielle Methoden für ihren eigenen Unterricht zum Thema vorstellen könnten.</Para>
+                <Para>Bei der zweiten Evaluation (siehe Diagramm 1; Item 5-6), die zwei Monate nach dem Workshop stattfand, wurde der Fragebogen von insgesamt 25 Lehrenden ausgefüllt und abgegeben. Hier stimmten 68 Prozent (17 TN) zu, dass die spirituelle Dimension nach dem Workshop vermehrt in ihren Unterricht integriert wurde. Außerdem äußerten 76 Prozent (19 TN), dass es ihnen nach dem Workshop leichter fiel, über die spirituelle Dimension zu sprechen.</Para>
+                <Para>Die Ergebnisse der Fragebogenerhebungen ergaben, dass Inhalte und Methoden des Workshops angemessen gewählt wurden und so zu einer Sensibilisierung hinsichtlich der spirituellen Dimension im Kontext der Lehre beitrugen. Zudem zeigte sich im Rahmen des Pilotprojektes, dass ein Workshop die adäquate Form zu sein scheint, um bei Lehrenden das Bewusstsein für eine spirituelle Dimension zu stärken.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11" OutputMedium="All">
+              <Heading>Diskussion</Heading>
+              <Para>Die Ergebnisse der Forschungsarbeit geben Aufschluss darüber, dass die Integration einer spirituellen Dimension und die Umsetzung des Konzepts Spiritual Care für Pflegeausbildung und Pflegepraxis relevant sind. Der eigens hierfür konzipierte Workshop wurde von Lehrenden positiv wahrgenommen und evaluiert. Außerdem ergab eine zweimalige Evaluation Aufschluss über die Angemessenheit von Inhalten und Methoden des Workshops.</Para>
+              <Para>Es konnte erreicht werden, dass Lehrende hinsichtlich einer spirituellen Dimension sensibilisiert und anhand der Durchführung eines Workshops allgemein mehr Bewusstsein für die Wichtigkeit der Thematik in Pflegeausbildung und Pflegepraxis entwickelten. Diese Ergebnisse lassen sich mit denen von <CitationRef CitationID="CR13">Shih (2001)</CitationRef> in Verbindung bringen, der anführt, dass nach einem speziellen Schulungsprogramm über Spiritualität und Spiritual Care mehr Bewusstsein festzustellen war, dieses Thema als integralen Teil der Pflegeausbildung anzuerkennen. Allerdings zeigt sich auch noch Unsicherheit dahingehend, wie und in welchen Fächern dies von Lehrenden durchgeführt werden kann. <CitationRef CitationID="CR15">Timminis &amp; Neill (2013)</CitationRef> verdeutlichen, dass wenige Informationen darüber existieren, mit welchen Inhalten und Methoden eine spirituelle Dimension im Unterricht bearbeitet werden kann. Diese Unsicherheit konnte teilnehmenden Lehrenden im Laufe des Workshops teilweise genommen werden. Zudem zeigte sich, wie bedeutend entsprechende Angebote in Fort- und Weiterbildung hinsichtlich dieser Thematik sind. Zu diesem Ergebnis kommt auch <CitationRef CitationID="CR16">Vlasblom (2011)</CitationRef>, der nach seinen Trainingsprogrammen mehr Sicherheit und Sensibilität bei Pflegenden verzeichnet, wenn es darum geht, die spirituelle Dimension vermehrt anzusprechen.</Para>
+              <Para>Erst wenn bereits Lehrende bezüglich einer spirituellen Dimension sensibilisiert wurden, können auch Auszubildende in ihrer Ausbildung davon erfahren und das Gelernte in die Pflegepraxis mitnehmen. Damit Auszubildende das Konzept Spiritual Care auch in der Praxis umsetzen können, benötigt es aber das Pflegeteam und in Folge das gesamte interdisziplinäre Team, das eine spirituelle Dimension nicht nur für Patienten sondern auch für sich selbst reflektiert, indem dieses thematisiert und in einer offenen Haltung begegnet wird. Auch für Pflegende in der Praxis sind daher Fort- und Weiterbildungsangebote wünschenswert und wichtig, die vermitteln, wie einer spirituellen Dimension allgemein begegnet und diese in den Pflegeprozess miteinbezogen werden kann. Dies gilt nicht nur für Lehre und Praxis, sondern auch für die Forschung, die in Forschungsprojekten vermehrt zeigten sollte, anhand welcher Methoden und Inhalte eine spirituelle Dimension und die Haltung von Spiritual Care in die Pflegeausbildung und Pflegepraxis integriert und umgesetzt werden kann.</Para>
+              <Para>Weitere Implikationen für die Forschung ergeben sich aus der klein gehaltenen Stichprobe. Es wäre auf Basis dieses Projekts erstrebenswert, einer größeren Stichprobe Zugang zum Workshop zu ermöglichen, wodurch die Evaluationen an Aussagekraft gewinnen würden. Zusätzlich wäre allgemein Forschung zur Thematik bedeutend, speziell auch im qualitativen Bereich, um mehr Offenheit gegenüber Spiritual Care im deutschsprachigen Raum zu erzeugen und eine Umsetzung dieser Haltung zu forcieren. Denn schlussendlich sollen Patienten davon profitieren, indem die Pflegequalität durch eine Berücksichtigung der spirituellen Dimension sowie durch ressourcenorientiertes Arbeiten erhöht wird.</Para>
+              <Para>Abschließend soll noch einmal hervorgehoben werden, wie die Haltung von Spiritual Care gesehen werden kann. Frick verdeutlichte im Kontext der Metapher einer Notenpartitur, dass die Fallpauschalen der „Diagnosis Related Groups“ (DRG) die „Töne“ finanzieren, also diagnostisch-therapeutische Maßnahmen, welche von der evidenzbasierten Pflege und Medizin als angemessen und wirtschaftlich erachtet werden. Bei Spiritualität handelt es sich allerdings eher um die „Pausen“, also um eine Haltung von Offenheit und Respekt gegenüber der spirituellen Suche von Patienten und um Achtsamkeit im Umgang mit der/dem Anderen in der alltäglichen Routine des Krankenhauses (<CitationRef CitationID="CR5">Frick 2015</CitationRef>).</Para>
+              <Para>Dieses Bild soll abschließend verdeutlichen, wie bedeutend die Haltung von Spiritual Care für alle Gesundheitsberufe ist, damit eine harmonische „Musik“, anhand von „Noten UND Pausen“ in der täglichen pflegerisch-medizinischen Praxis entstehen kann.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_501.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>Literatur</Heading>
+              <Citation ID="CR1">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>G.D.</Initials>
+                    <FamilyName>Borasio</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <BookTitle>Über das Sterben. 10. aktualisierte und ergänzte Auflage ed.</BookTitle>
+                  <PublisherName>C.H.Beck</PublisherName>
+                  <PublisherLocation>München</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Borasio G.D. (2012): Über das Sterben. 10. aktualisierte und ergänzte Auflage ed. München: C.H.Beck.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L.C.</Initials>
+                    <FamilyName>Callister</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.E.</Initials>
+                    <FamilyName>Bond</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Matsumura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Mangum</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En"> Threading spirituality throughout nursing education</ArticleTitle>
+                  <JournalTitle>Holist Nurs Pract May–Jun</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>160</FirstPage>
+                  <LastPage>166</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00004650-200405000-00008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Callister L.C., Bond A.E., Matsumura G., Mangum S. (2004): Threading spirituality throughout nursing education. Holist Nurs Pract May–Jun;18(3):160–166.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Frick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T.</Initials>
+                    <FamilyName>Roser</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <BookTitle>Spiritualität und Medizin. 1. Auflage ed.</BookTitle>
+                  <PublisherName>Kohlhammer</PublisherName>
+                  <PublisherLocation>Stuttgart</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Frick E., Roser T. (2009): Spiritualität und Medizin. 1. Auflage ed. Stuttgart: Kohlhammer.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Frick sj</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ChapterTitle Language="De">Spiritual Care: Eine neue Querschnittsaufgabe entsteht</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Schaupp</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Platzer</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Kröll</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Gesundheitssorge und Spiritualität im Krankenhaus. 1.Auflage ed.</BookTitle>
+                  <PublisherName>Tyrolia</PublisherName>
+                  <PublisherLocation>Innsbruck</PublisherLocation>
+                  <FirstPage>55</FirstPage>
+                  <LastPage>67</LastPage>
+                </BibChapter>
+                <BibUnstructured>Frick sj E. (2014): Spiritual Care: Eine neue Querschnittsaufgabe entsteht. In: Schaupp W, Platzer J, Kröll W, editors. Gesundheitssorge und Spiritualität im Krankenhaus. 1.Auflage ed. Innsbruck: Tyrolia, S. 55–67.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Frick sj</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ChapterTitle Language="De">Was kostet Spiritual Care?</ChapterTitle>
+                  <BookTitle>Stimmen der Zeit, Verlag Herder Freiburg</BookTitle>
+                  <FirstPage>73</FirstPage>
+                  <LastPage>74</LastPage>
+                </BibChapter>
+                <BibUnstructured>Frick sj E. (2015): Was kostet Spiritual Care? In: Stimmen der Zeit, Verlag Herder Freiburg, S.73–74.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Heller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Heller</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <BookTitle> Spiritualität und Spiritual Care — Orientierung und Impulse. 1. Auflage ed.</BookTitle>
+                  <PublisherName>Verlag Hans Huber</PublisherName>
+                  <PublisherLocation>Bern</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Heller B., Heller A. (2014): Spiritualität und Spiritual Care — Orientierung und Impulse. 1. Auflage ed. Bern: Verlag Hans Huber.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibBook>
+                  <InstitutionalAuthorName>Hospizverein Steiermark</InstitutionalAuthorName>
+                  <Year>2012</Year>
+                  <BookTitle> Leitfaden Spiritualität</BookTitle>
+                </BibBook>
+                <BibUnstructured>Hospizverein Steiermark (2012): Leitfaden Spiritualität.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>H.G.</Initials>
+                    <FamilyName>Koenig</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <BookTitle>Spiritualität in den Gesundheitsberufen. Ein praxisorientierter Leitfaden. 1. Auflage ed.</BookTitle>
+                  <PublisherName>W. Kohlhammer</PublisherName>
+                  <PublisherLocation>Stuttgart</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Koenig H.G. (2012): Spiritualität in den Gesundheitsberufen. Ein praxisorientierter Leitfaden. 1. Auflage ed. Stuttgart: W. Kohlhammer.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibBook>
+                  <InstitutionalAuthorName>Österreichisches Bundesinstitut für Gesundheitswesen</InstitutionalAuthorName>
+                  <Year>2003</Year>
+                  <BookTitle>Offenes Curriculum für die Ausbildung in Allgemeiner Gesundheits- und Krankenpflege</BookTitle>
+                  <PublisherName>Auftrag des Bundesministeriums für Gesundheit und Frauen</PublisherName>
+                  <PublisherLocation>Wien</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Österreichisches Bundesinstitut für Gesundheitswesen (ÖBIG) (2003): Offenes Curriculum für die Ausbildung in Allgemeiner Gesundheits- und Krankenpflege. Wien: Auftrag des Bundesministeriums für Gesundheit und Frauen.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E.R.</Initials>
+                    <FamilyName>O’Shea</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Wallace</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.Q.</Initials>
+                    <FamilyName>Griffin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.J.</Initials>
+                    <FamilyName>Fitzpatrick</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">The effect of an educational session on pediatric nurses’ perspectives toward providing spiritual care</ArticleTitle>
+                  <JournalTitle>J Pediatr Nurs</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>34</FirstPage>
+                  <LastPage>43</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.pedn.2009.07.009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21256410</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>O’Shea E.R., Wallace M., Griffin M.Q., Fitzpatrick J.J. (2011): The effect of an educational session on pediatric nurses’ perspectives toward providing spiritual care. J Pediatr Nurs Feb;26(1):34–43.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Schaupp</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ChapterTitle Language="De">„Wiederkehr des Religiösen“ — Gesellschaftliche Entwicklungen als Herausforderung für das Gesundheitswesen</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Schaupp</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>J.</Initials>
+                    <FamilyName>Platzer</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>W.</Initials>
+                    <FamilyName>Kröll</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Gesundheitssorge und Spiritualität im Krankenhaus. 1. Auflage ed.</BookTitle>
+                  <PublisherName>Tyrolia</PublisherName>
+                  <PublisherLocation>Innsbruck</PublisherLocation>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>28</LastPage>
+                </BibChapter>
+                <BibUnstructured>Schaupp W. (2014): „Wiederkehr des Religiösen“ — Gesellschaftliche Entwicklungen als Herausforderung für das Gesundheitswesen. In: Schaupp W, Platzer J, Kröll W, editors. Gesundheitssorge und Spiritualität im Krankenhaus. 1. Auflage ed. Innsbruck: Tyrolia, S.1–28.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Schneidereit-Mauth</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="De">Spiritualität als heilsame Kraft Ein Plädoyer für Spiritual Care in der Klinik</ArticleTitle>
+                  <JournalTitle>Zeitschrift für Seelsorge und Beratung, heilendes und soziales Handeln</JournalTitle>
+                  <VolumeID>65.Jahrgang</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>404</FirstPage>
+                  <LastPage>418</LastPage>
+                </BibArticle>
+                <BibUnstructured>Schneidereit-Mauth H. (2013): Spiritualität als heilsame Kraft Ein Plädoyer für Spiritual Care in der Klinik. Zeitschrift für Seelsorge und Beratung, heilendes und soziales Handeln; 65.Jahrgang(5):404–418.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F.J.</Initials>
+                    <FamilyName>Shih</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Gau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.H.</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C.-K.</Initials>
+                    <FamilyName>Lo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Empirical validation of a teaching course on spiritual care in Taiwan</ArticleTitle>
+                  <JournalTitle>Journal of Advanced Nursing</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>333</FirstPage>
+                  <LastPage>346</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1046/j.1365-2648.2001.01978.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MnksFCiuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11686748</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shih F.J., Gau M., Chen C.H., Lo C.-K. (2001):  Empirical validation of a teaching course on spiritual care in Taiwan. Journal of Advanced Nursing; 36(3):333–346.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>R. M.</Initials>
+                    <FamilyName>Steinmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ChapterTitle Language="De">Psychologie des Bewusstseins (Band 11) Spiritualität — die vierte Dimension der Gesundheit</ChapterTitle>
+                  <BookTitle>Eine Einführung aus Sicht der Gesundheitsförderung und Prävention. 2. aktualisierte und erweiterte Auflage ed.</BookTitle>
+                  <PublisherName>Lit Verlag</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                </BibChapter>
+                <BibUnstructured>Steinmann R. M. (2012): Psychologie des Bewusstseins (Band 11) Spiritualität — die vierte Dimension der Gesundheit. Eine Einführung aus Sicht der Gesundheitsförderung und Prävention. 2. aktualisierte und erweiterte Auflage ed. Berlin: Lit Verlag.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Timmins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Neill</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ChapterTitle Language="En">Teaching nursing students about spiritual care — A review of the literature</ChapterTitle>
+                  <BookTitle>Nurse Educ Pract.</BookTitle>
+                </BibChapter>
+                <BibUnstructured>Timmins F., Neill F. (2013): Teaching nursing students about spiritual care — A review of the literature. Nurse Educ Pract.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J.P.</Initials>
+                    <FamilyName>Vlasblom</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J.T.</Initials>
+                    <FamilyName>Steen</FamilyName>
+                    <Particle>van der</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D.L.</Initials>
+                    <FamilyName>Knol</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H.</Initials>
+                    <FamilyName>Jochemsen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Effects of a spiritual care training for nurses</ArticleTitle>
+                  <JournalTitle>Nurse Educ Today Nov</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>790</FirstPage>
+                  <LastPage>796</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.nedt.2010.11.010</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vlasblom J.P., van der Steen J.T., Knol D.L., Jochemsen H. (2011): Effects of a spiritual care training for nurses. Nurse Educ Today Nov; 31(8):790–796.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Weiher</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ChapterTitle Language="De">Spirituelle Begleitung in der Palliativmedizin</ChapterTitle>
+                  <BibEditorName>
+                    <Initials>E.</Initials>
+                    <FamilyName>Aulbert</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Nauck</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>L.</Initials>
+                    <FamilyName>Radbruch</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <BookTitle>Lehrbuch der Palliativmedizin. 3. Auflage ed.</BookTitle>
+                  <FirstPage>1149</FirstPage>
+                  <LastPage>1171</LastPage>
+                </BibChapter>
+                <BibUnstructured>Weiher E. (2012): Spirituelle Begleitung in der Palliativmedizin. In: Aulbert E, Nauck F, Radbruch L, editors. Lehrbuch der Palliativmedizin. 3. Auflage ed.: Schattauer, S. 1149–1171.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <BibBook>
+                  <InstitutionalAuthorName>World Health Organisation</InstitutionalAuthorName>
+                  <Year>2005</Year>
+                  <BookTitle>The Bangkok Charta for Health Promotion in Globalized World</BookTitle>
+                </BibBook>
+                <BibUnstructured>World Health Organisation (WHO) (2005): The Bangkok Charta for Health Promotion in Globalized World. Available at: <ExternalRef>
+                    <RefSource>http://www.who.int/healthpromotion/conferences/6gchp/bangkok_charter/en/index.html</RefSource>
+                    <RefTarget Address="http://www.who.int/healthpromotion/conferences/6gchp/bangkok_charter/en/index.html" TargetType="URL"/>
+                  </ExternalRef>&gt; Accessed 21.01.2015.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

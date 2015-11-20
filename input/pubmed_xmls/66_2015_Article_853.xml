@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <JournalOnlineFirst>
+      <Article ID="s00066-015-0853-z" OutputMedium="All">
+        <ArticleInfo ArticleType="BookReview" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+          <ArticleID>853</ArticleID>
+          <ArticleDOI>10.1007/s00066-015-0853-z</ArticleDOI>
+          <ArticleTitle Language="De">Frühe oder verzögerte Einleitung einer Palliativbetreuung</ArticleTitle>
+          <ArticleSubTitle Language="De">Ergebnisse der randomisierten ENABLE-III-Studie</ArticleSubTitle>
+          <ArticleTitle Language="En">Early versus delayed initiation of palliative care</ArticleTitle>
+          <ArticleSubTitle Language="En">Results of the randomized controlled ENABLE III trial</ArticleSubTitle>
+          <ArticleCategory>Literatur kommentiert</ArticleCategory>
+          <ArticleFirstPage>1</ArticleFirstPage>
+          <ArticleLastPage>3</ArticleLastPage>
+          <ArticleHistory>
+            <RegistrationDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>5</Day>
+            </RegistrationDate>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+          </ArticleHistory>
+          <ArticleCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </ArticleCopyright>
+          <ArticleGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ArticleGrants>
+        </ArticleInfo>
+        <ArticleHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Prof. Dr. med.</Prefix>
+                <GivenName>Carsten</GivenName>
+                <FamilyName>Nieder</FamilyName>
+              </AuthorName>
+              <Contact>
+                <Email>cnied@hotmail.com</Email>
+              </Contact>
+            </Author>
+            <Affiliation ID="Aff1">
+              <OrgDivision>Dept. of Oncology and Palliative Medicine</OrgDivision>
+              <OrgName>Nordland Hospital Trust</OrgName>
+              <OrgAddress>
+                <Postbox>P.O. Box 1480</Postbox>
+                <Postcode>8092</Postcode>
+                <City>Bodø</City>
+                <Country>Norwegen</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+          <ArticleNote Type="Misc">
+            <Heading>Originalpublikation</Heading>
+            <SimplePara>Bakitas MA, Tosteson TD, Li Z et al (2015) Early versus delayed initiation of concurrent palliative oncology care: Patient outcomes in the ENABLE III randomized controlled trial. J Clin Oncol 33:1438–1445</SimplePara>
+          </ArticleNote>
+        </ArticleHeader>
+        <Body>
+          <FormalPara RenderingStyle="Style1">
+            <Heading>Fragestellung und Hintergrund</Heading>
+            <Para>Im Alltag strahlentherapeutischer Einrichtungen spielen Behandlungen mit palliativer Zielsetzung eine bedeutende Rolle, sowohl was die Zahl der Patienten als auch die Anforderungen an das Behandlungsteam angeht. Selbst wenn eine unheilbare Erkrankung vorliegt, kann die Lebenserwartung manchmal noch im Bereich einiger Jahre liegen. Andererseits leiden aber auch viele Patienten unter einer weit fortgeschrittenen Erkrankung, sind intensiv vorbehandelt und erwarten sich für die verbleibenden Monate hauptsächlich eine Symptomlinderung und einen positiven Einfluss auf ihr Funktionsniveau. Das Symptombild sowie die Fragen und Bedürfnisse der Patienten und ihrer Angehörigen sind häufig komplex, so dass die Einbeziehung eines multidisziplinären palliativen Teams hilfreich sein kann. Die vorliegende Studie untersucht, ob ein solcher Ansatz routinemäßig kurz nach der Diagnose oder erst später erwogen werden sollte [<CitationRef CitationID="CR1">1</CitationRef>].</Para>
+          </FormalPara>
+          <FormalPara RenderingStyle="Style1">
+            <Heading>Material und Methode</Heading>
+            <Para>Die randomisierte US-amerikanische Studie rekrutierte von 2010 bis 2013 Patienten aus einem ländlichen Einzugsgebiet, die nach Einschätzung ihres Onkologen eine Lebenserwartung von 6–24 Monaten hatten. Die Diagnose einer fortgeschrittenen, rezidivierten oder progredienten Erkrankung war in den vorangegangenen 30–60 Tagen erfolgt (solide oder hämatologische Tumoren). Die frühe Gruppe wurde simultan onkologisch und palliativmedizinisch betreut. Die andere Gruppe erhielt erst nach 3 Monaten eine palliativmedizinische Versorgung. Im Rahmen Letzterer erfolgte zunächst eine standardisierte ambulante persönliche Konsultation mit einem Palliativmediziner, danach waren 6 nichtärztliche, telemedizinische Termine in wöchentlichem Abstand geplant. Auch hier waren die Inhalte vorgegeben. Danach wurden monatliche Telefongespräche durchgeführt. Der Zeitrahmen betrug immer 30–45 min. Die Studienfragebögen wurden ebenfalls telefonisch bearbeitet und erfassten z. B. die Lebensqualität (FACIT-Pal-Skala) und Symptombelastung. Die statistischen Planungen beruhten auf erwarteten Unterschieden in der Lebensqualität und sahen 380 Patienten vor. Nach zögerlicher Rekrutierung wurde die Studie aber nach Randomisierung von 207 Patienten vorzeitig geschlossen und ausgewertet. Insgesamt waren 545 Patienten kontaktiert worden, von denen leider viele eine Teilnahme ablehnten. In beiden Armen gab es Abweichungen von den geplanten Interventionen, teilweise verursacht durch frühe Todesfälle. Zum Beispiel starteten im verzögerten Arm nur 81 Patienten (79 %) mit dem geplanten Programm. Davon beendeten 27 ihre Teilnahme früher als vorgesehen. Im frühen Arm lag die Startrate bei 88 %, aber 33 Patienten beendeten die Intervention vorzeitig. Die häufigsten Grunderkrankungen waren Bronchial- und gastrointestinale Karzinome (43 bzw. 24 %). Das durchschnittliche Alter betrug 64 bzw. 65 Jahre.</Para>
+          </FormalPara>
+          <FormalPara RenderingStyle="Style1">
+            <Heading>Ergebnisse</Heading>
+            <Para>Es wurden keine statistisch signifikanten Unterschiede bezüglich der Lebensqualität, des Symptombilds und des Verbrauchs verschiedener Ressourcen gesehen. Die 1-Jahres-Überlebensrate war im frühen Arm signifikant besser (63 vs. 48 %; <Emphasis Type="Italic">p</Emphasis> = 0,04). Insgesamt unterschieden sich aber die Überlebenskurven nicht signifikant (median 18,3 vs. 11,8 Monate; <Emphasis Type="Italic">p</Emphasis> = 0,18). Diesen Daten liegen jedoch erst 109 Todesfälle zugrunde (53 %).</Para>
+          </FormalPara>
+          <FormalPara RenderingStyle="Style1">
+            <Heading>Schlussfolgerung</Heading>
+            <Para>Die frühe Intervention hatte mit Ausnahme einer besseren 1-Jahres-Überlebensrate keine signifikanten Vorteile.</Para>
+          </FormalPara>
+          <Section1 ID="Sec1">
+            <Heading>Kommentar</Heading>
+            <Para>Die vorliegende Publikation bestätigt erneut, dass die Rekrutierung zu Studien mit palliativ-onkologischen Fragestellungen schwierig sein kann. In Anbetracht des teils kurzen Überlebens sind auch die Einhaltung des Protokolls und das Erheben der relevanten Daten komplizierter als in anderen onkologischen Studien. Dadurch steigt das Risiko, ein negatives oder nichtsignifikantes Ergebnis zu erhalten. Die ENABLE-III-Studie weist aber auch spezifische Schwächen auf. Zum Beispiel wurde ein inhomogenes Patientenkollektiv mit unterschiedlichen Grunderkrankungen, Vorbehandlungen und künftig geplanten Therapien rekrutiert. Die Details des onkologischen Behandlungsablaufs werden nicht mitgeteilt. Das Intervall ab Erstdiagnose bzw. Auftreten von Fernmetastasen und deren Lokalisation bleiben ebenfalls im Dunkeln. Aus anderen Studien ist bekannt, dass das Ausmaß einer eventuellen Fernmetastasierung einen erheblichen Einfluss auf das Überleben hat [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>]. Je mehr Organe betroffen sind, desto schlechter wird die Prognose. Weitere wichtige prognostische Faktoren sind der Allgemeinzustand und Begleiterkrankungen [<CitationRef CitationID="CR4">4</CitationRef>]. Das Fehlen all dieser Informationen ist enttäuschend, wenn man bedenkt, dass die Studie in einer renommierten Zeitschrift erschienen ist.</Para>
+            <Para>Möglicherweise wäre ein Unterschied in der Lebensqualität zwischen beiden Armen zu sehen gewesen, wenn nicht fast alle Patienten relativ zügig palliativmedizinisch betreut worden wären. Das Einsetzen dieser Maßnahme nach 3 Monaten im verzögerten Arm war für die meisten Patienten immer noch früh, wenn man das mediane Überleben von 11,8 Monaten betrachtet. Teilweise wurden die Patienten – vom Protokoll abweichend – sogar früher als geplant überwiesen, so dass die Interpretation weiter erschwert wird. Vom Standpunkt der Ressourcen und Verfügbarkeit palliativmedizinischer Expertise wäre eine generelle Empfehlung zu einer sofortigen Betreuung sicherlich problematisch. Andererseits besteht im Einzelfall bei einer individualisierten Praxis die Gefahr, den optimalen Zeitpunkt zu verpassen und die bekannten Vorzüge der Palliativmedizin zu spät oder nicht mehr ausreichend ausspielen zu können. Nicht alle Patienten haben ein gutes persönliches oder familiäres Netzwerk. Ein palliatives Team kann fehlenden Support teilweise ausgleichen.</Para>
+            <Para>In Anbetracht der Schwächen der Studie und der Möglichkeit, dass wichtige Prognosefaktoren ungleich verteilt gewesen sein könnten, sollte der beobachtete Unterschied im Überleben zurückhaltend beurteilt werden. Auch die Autoren konnten keinen kausalen Zusammenhang zwischen früher Intervention und verlängertem Überleben darlegen. Interessanterweise hat eine frühere randomisierte Studie in einem ähnlichen Setting ebenfalls ein signifikant verbessertes Überleben gefunden (11,6 vs. 8,9 Monate). Hier wurden 151 Patienten mit nicht-kleinzelligem Bronchialkarzinom untersucht; im Standardarm wurde das palliative Team nur bei Bedarf hinzugezogen, im experimentellen Arm wurde unmittelbar mit palliativmedizinischer und onkologischer Betreuung begonnen. Man sollte also das Thema nicht einfach ad acta legen [<CitationRef CitationID="CR5">5</CitationRef>]. Für palliativ bestrahlte Patienten konnte in einer weiteren, ziemlich kleinen retrospektiven Studie kein Überlebensvorteil durch Hinzuziehen eines palliativen Teams gefunden werden [<CitationRef CitationID="CR6">6</CitationRef>]. Auch die Rate der Therapieabbrüche war vergleichbar. In unserer eigenen Klinik wird die gegenwärtige Praxis der individuellen Entscheidung, ob neue Patienten im Rahmen der gemeinsamen palliativmedizinischen Konferenz, die wöchentlich stattfindet, vorgestellt werden sollen, zunächst fortgesetzt.</Para>
+          </Section1>
+          <Section1 ID="Sec2" Type="Conclusion">
+            <Heading>Fazit</Heading>
+            <Para>Die frühe palliativmedizinische Intervention scheint im zeitlich begrenzten zur Verfügung stehenden Rahmen, z. B. bei der 1-Jahres-Überlebensrate, doch Vorteile zu bringen. Dafür sprechen einige kleinere Studien. Die vorliegende Publikation bestätigt aber erneut, dass die Patientenrekrutierung auf diesem Gebiet schwierig ist. Auch gestaltet sich in Anbetracht des teils kurzen Überlebens das Erheben der relevanten Daten komplizierter als in anderen Studien. Deshalb sollten Unterschiede im beobachteten Überleben zurückhaltend beurteilt werden. In unserer eigenen Klinik wird die Praxis der individuellen Entscheidung, ob neue Patienten in der gemeinsamen palliativmedizinischen Konferenz vorgestellt werden, zunächst beibehalten.</Para>
+            <Para>
+              <Emphasis Type="Italic">Carsten Nieder, Bodø</Emphasis>
+            </Para>
+          </Section1>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/66_2015_Article_853.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+        <ArticleBackmatter>
+          <Ethics>
+            <Heading>Einhaltung ethischer Richtlinien</Heading>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Interessenkonflikt</Heading>
+              <Para>C. Nieder gibt an, dass kein Interessenkonflikt besteht.</Para>
+            </FormalPara>
+            <SimplePara>Dieser Beitrag beinhaltet keine Studien an Menschen oder Tieren.</SimplePara>
+          </Ethics>
+          <Bibliography ID="Bib1">
+            <Heading>Literatur</Heading>
+            <Citation ID="CR1">
+              <CitationNumber>1</CitationNumber>
+              <BibUnstructured>Bakitas MA, Tosteson TD, Li Z et al (2015) Early versus delayed initiation of concurrent palliative oncology care: patient outcomes in the ENABLE III randomized controlled trial. J Clin Oncol. 33:1438–1445.pii: JCO.2014.58.6362</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <CitationNumber>2</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Rades</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Weber</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JH</Initials>
+                  <FamilyName>Karstens</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2014</Year>
+                <ArticleTitle Language="De">Prognostic role of the number of involved extraspinal organs in patients with metastatic spinal cord compression</ArticleTitle>
+                <JournalTitle>Clin Neurol Neurosurg</JournalTitle>
+                <VolumeID>118</VolumeID>
+                <FirstPage>12</FirstPage>
+                <LastPage>15</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/j.clineuro.2013.12.007</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>24529222</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rades D, Weber A, Karstens JH et al (2014) Prognostic role of the number of involved extraspinal organs in patients with metastatic spinal cord compression. Clin Neurol Neurosurg 118:12–15</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <CitationNumber>3</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Rades</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>L</Initials>
+                  <FamilyName>Gerdan</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Segedin</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2013</Year>
+                <ArticleTitle Language="De">Brain metastasis. Prognostic value of the number of involved extracranial organs</ArticleTitle>
+                <JournalTitle>Strahlenther Onkol</JournalTitle>
+                <VolumeID>189</VolumeID>
+                <FirstPage>996</FirstPage>
+                <LastPage>1000</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s00066-013-0442-y</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BC2c%2Fjs1amsg%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>24104872</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rades D, Gerdan L, Segedin B et al (2013) Brain metastasis. Prognostic value of the number of involved extracranial organs. Strahlenther Onkol 189:996–1000</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <CitationNumber>4</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Nieder</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Engljähringer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Angelo</FamilyName>
+                </BibAuthorName>
+                <Year>2014</Year>
+                <ArticleTitle Language="De">Impact of comorbidity on survival after palliative radiotherapy</ArticleTitle>
+                <JournalTitle>Strahlenther Onkol</JournalTitle>
+                <VolumeID>190</VolumeID>
+                <FirstPage>1149</FirstPage>
+                <LastPage>1153</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s00066-014-0705-2</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>25022254</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Nieder C, Engljähringer K, Angelo K (2014) Impact of comorbidity on survival after palliative radiotherapy. Strahlenther Onkol 190:1149–1153</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <CitationNumber>5</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>JS</Initials>
+                  <FamilyName>Temel</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JA</Initials>
+                  <FamilyName>Greer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Muzikansky</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2010</Year>
+                <ArticleTitle Language="De">Early palliative care for patients with metastatic non-small cell lung cancer</ArticleTitle>
+                <JournalTitle>N Engl J Med</JournalTitle>
+                <VolumeID>363</VolumeID>
+                <FirstPage>733</FirstPage>
+                <LastPage>742</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1056/NEJMoa1000678</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC3cXhtVCrt7nP</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>20818875</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Temel JS, Greer JA, Muzikansky A et al (2010 ) Early palliative care for patients with metastatic non-small cell lung cancer. N Engl J Med 363:733–742</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <CitationNumber>6</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Nieder</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Dalhaug</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Pawinski</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2015</Year>
+                <ArticleTitle Language="De">Palliative radiotherapy with or without additional care by a multidisciplinary palliative care team in patients with newly diagnosed cancer: a retrospective matched pairs comparison</ArticleTitle>
+                <JournalTitle>Radiat Oncol</JournalTitle>
+                <VolumeID>10</VolumeID>
+                <FirstPage>61</FirstPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1186/s13014-015-0365-0</Handle>
+                </Occurrence>
+                <Occurrence Type="PMCID">
+                  <Handle>4355455</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>25889414</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Nieder C, Dalhaug A, Pawinski A et al (2015) Palliative radiotherapy with or without additional care by a multidisciplinary palliative care team in patients with newly diagnosed cancer: a retrospective matched pairs comparison. Radiat Oncol 10:61</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ArticleBackmatter>
+      </Article>
+    </JournalOnlineFirst>
+  </Journal>
+</Publisher>

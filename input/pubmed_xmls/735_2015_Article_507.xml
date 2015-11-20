@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0507-5" OutputMedium="All">
+          <ArticleInfo ArticleType="News" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>507</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0507-5</ArticleDOI>
+            <ArticleSequenceNumber>12</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Fernfortbildung für alle Pflegenden</ArticleTitle>
+            <ArticleSubTitle Language="De">PflegeKolleg — Punkten mit Springer Medizin</ArticleSubTitle>
+            <ArticleCategory>NEU! PflegeKolleg</ArticleCategory>
+            <ArticleFirstPage>34</ArticleFirstPage>
+            <ArticleLastPage>35</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <Body>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Qualität in der Fortbildung</Heading>
+              <Section2 ID="Sec2" OutputMedium="All">
+                <Heading>Verschiedene Wege zum aktuellen Wissen</Heading>
+                <Para Type="Trailer">Mit der Umsetzung der Registrierungspflicht für die Pflegeberufe wird auch das Thema Qualität der Fortbildung einen wichtigen Schritt nehmen. Angebote gibt es viele und das Gesundheits- und Krankenpflegegesetz 1997 nennt zwar die Pflicht zur Fortbildung im Ausmaß, aber nicht in der Form und des Inhalts.</Para>
+                <Para>40 Stunden in fünf Jahren müssen Mitarbeiter der Gesundheits- und Krankenpflege an Fortbildung nachweisen, so schreibt es das GuKG 1997 im Paragraph 63 vor. Da die Form und die Themen darin allerdings nicht vorgegeben sind, bleibt es der Pflegekraft überlassen, welche Fortbildungen sie absolviert — und dem Arbeitgeber, welche Fortbildungen er in welchem Ausmaß anerkennt. Allgemeine Vorgaben dazu gibt es derzeit nicht.</Para>
+                <Para>Die Pflegedirektoren des Wiener Krankenanstalten Verbunds (KAV) sehen eine schriftliche Form der Fortbildung beispielsweise als eine gute Option, einen Teil der Fortbildungsverpflichtung zu absolvieren und sind auch bereit, darauf zurückzugreifen. Zwei — firmengesponserte — Pilotprojekte von online-Fortbildung in Form von didaktisch aufbereiteten Text- und Videobeiträgen mit anschließender Beantwortung eines online-Fragebogens erprobt der Österreichische Gesundheits- und Krankenpflegeverband seit kurzem gemeinsam mit zwei Medienunternehmen aus dem Medizinbereich.</Para>
+                <Para>Die Erfahrungen, die man daraus gewinnt, werden, so Ursula Frohner, Präsidentin des ÖGKV, in eine Überarbeitung der Fortbildungskriterien des Berufsverbands einfließen. Moderne Formen der Bildung und Fortbildung werden künftig einen Bestandteil der Fortbildungsverpflichtung abdecken können. Immerhin werden Fortbildungen häufig als Bestandteil der Dienstzeit absolviert und summieren sich so auch als Kostenfaktor für den Krankenhausträger.</Para>
+                <Para>Im Gesetz für die Berufsregistrierung soll der ÖGKV als qualitätsverantwortliche Institution festgelegt werden. Anbieter von Fortbildungen werden vom ÖGKV nach bestimmten Kriterien zertifiziert und Teilnehmer der Fortbildungen haben damit höhere Gewissheit der Anrechenbarkeit. Darüberhinaus wird eine Expertengruppe im ÖGKV die Anforderungen für den Bereich eLearning weiter entwickeln müssen, so Frohner. Diese Gruppe wird im Laufe des Jahres implementiert und ihre Arbeit aufnehmen.</Para>
+                <Para>
+                  <Emphasis Type="Bold">procare</Emphasis>/Springer Medizin unterstützt diese Meinungsbildung bei Entscheidungsträgern der Österreichischen Gesundheits- und Krankenpflege im Juni beim Kongress des ÖGKV in Graz mit einem Expertengespräch zum Thema „Anforderungen an eine moderne Fortbildung für die Gesundheits- und Krankenpflege“. Wir werden in der Ausgabe 6-7/2015 ausführlich darüber berichten!</Para>
+                <Para>Eine Fernfortbildung — schriftlich und online — bietet das <Emphasis Type="Bold">procare</Emphasis>-Schwestermagazin Heilberufe mit dem PflegeKolleg. Als gemeinsames Projekt von Springer Medizin — Redaktion HEILBERUFE, der HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen und der Werner-Schule vom Deutschen Roten Kreuz — stellt das PflegeKolleg seit mehreren Jahren eine zeit- und ortsunabhängige Form der Fortbildung, die als ein Teil der Fortbildungsverpflichtung effizient umgesetzt werden kann. Zum 20-jährigen <Emphasis Type="Bold">procare</Emphasis>-Jubiläum in diesem Jahr vertiefen wir die Kooperation mit unseren Kollegen in Deutschland weiter und bieten in der nun vorliegenden Ausgabe von <Emphasis Type="Bold">procare</Emphasis> zum ersten Mal das PflegeKolleg an.</Para>
+                <Para>Jedes PflegeKolleg besteht aus mehreren Fachbeiträgen zu einem Thema und schließt mit einem Fragebogen ab. Für die erfolgreiche Teilnahme an einem PflegeKolleg, die mit einem Zeitäquivalent von drei Stunden bewertet wird, erhält der Teilnehmer ein Zertifikat.</Para>
+                <Para>
+                  <Emphasis Type="Bold">Am Gesundheits- und Krankenpflege-Kongress am Springer Medizin/procare Stand testen!</Emphasis>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All" Type="Box">
+              <Heading>PflegeKolleg — ab dieser Ausgabe in procare!</Heading>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>So einfach nehmen Sie teil — jetzt als Einführungsangebot!</Heading>
+                <Section3 ID="Sec5" OutputMedium="All">
+                  <Heading>Online</Heading>
+                  <Para>
+                    <UnorderedList Mark="None">
+                      <ItemContent>
+                        <Para>— Falls Sie noch keinen Springer-Medizin-Zugang haben, bitten wir Sie, sich einmalig auf heilberufe.de zu registrieren.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>— Zahlrende Abonnenten tragen dabei auch ihre procare-Abonummer ein — dann nehmen Sie online kostenlos teil.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>— Nicht-Abonnenten benötigen eine TAN im Wert von 15,20 € (inkl. 20% MWSt.), die vom Tag der Einlösung an vier Wochen gültig ist. Diese TAN können Sie per E-Mail oder über <ExternalRef>
+                            <RefSource>www.heilberufe.de</RefSource>
+                            <RefTarget Address="http://www.heilberufe.de" TargetType="URL"/>
+                          </ExternalRef> bei uns bestellen.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>— Gehen Sie auf heilberufe.de/pflegekolleg und wählen Sie den gewünschten Fragebogen aus.</Para>
+                      </ItemContent>
+                    </UnorderedList>
+                  </Para>
+                </Section3>
+                <Section3 ID="Sec6" OutputMedium="All">
+                  <Heading>Post/Fax</Heading>
+                  <Para>
+                    <UnorderedList Mark="None">
+                      <ItemContent>
+                        <Para>— Gerne können Sie auch postalisch oder über Fax teilnehmen. Hier berechnen wir für die Bearbeitung jeden Fragebogens 5,10 € (inkl. MWSt., Abonnenten) beziehungsweise 7,60 € (inkl. MWSt., Nicht-Abonnenten).</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>— Für Ambulante Dienste und Pflegeeinrichtungen bieten wir die Teilnahme zu besonderen Konditionen an.</Para>
+                      </ItemContent>
+                      <ItemContent>
+                        <Para>— Mehr erfahren Sie auf: heilberufe.de/pflegekolleg/kosten.php</Para>
+                      </ItemContent>
+                    </UnorderedList>
+                  </Para>
+                </Section3>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_507.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0502-x" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>502</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0502-x</ArticleDOI>
+            <ArticleSequenceNumber>7</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Vision Pflege 2050</ArticleTitle>
+            <ArticleSubTitle Language="De">Pflege als gesellschaftspolitisch integrativer Bestandteil des Gesundheitssystems</ArticleSubTitle>
+            <ArticleCategory>perspektiven</ArticleCategory>
+            <ArticleFirstPage>20</ArticleFirstPage>
+            <ArticleLastPage>21</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Mag. PhDr.</Prefix>
+                  <GivenName>Silvia</GivenName>
+                  <FamilyName>Neumann-Ponesch</FamilyName>
+                  <Degrees>MAS</Degrees>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Academy of Advanced Studies Akademie für Weiterbildung der FH OÖ</OrgName>
+                <OrgAddress>
+                  <City>Wiesbaden</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para Type="Trailer">Ende März kam ich von einem meiner inzwischen selten gewordenen Besuche eines internationalen Gesundheits-Kongresses zurück. Schwerpunktthema war dieses Mal die Integrierte Versorgung. Die Frage, die mich seit Jahren nach diesen Aufenthalten begleitet, ist: Wieso verliert Österreich so lange Zeit, bewährte und in anderen Ländern erfolgreiche Konzepte der Gesundheitsversorgung der Bevölkerung umzusetzen? Als erfolgreich soll dabei sowohl die Wirkung der Konzepte, gemessen am Gesundheitsverhalten der Bevölkerung, als auch die Wirtschaftlichkeit der gesetzten Maßnahmen zur Wirkungserreichung verstanden werden.</Para>
+            <Para>Welche Gesundheitsziele in Österreich vorrangig zu verfolgen wären, hat Charlotte Staudinger (<CitationRef CitationID="CR1">1</CitationRef>) in der Vorausgabe von procare bereits betont. Dies sind auch jene Bereiche, in denen bspw. Skandinavier, Kanadier oder Australier gesundheitspolitische Schwerpunkte setzen — ausgerichtet an der Ursachenforschung für Gesunderhaltung und Krankheitsverhütung. In aller Kürze und nicht vollständig ausgeführt: Worin unterscheidet sich bspw. die Gesundheitspolitik der vorher genannten Länder von jener in Österreich?</Para>
+            <Para>Sie (<CitationRef CitationID="CR2">2</CitationRef>)
+<UnorderedList Mark="None">
+                <ItemContent>
+                  <Para>▪ orientieren sich vermehrt am Ansatz „Public Health in all Policies“, der zum Ziel hat, jene gesellschaftlichen Bereiche zu stützen, die auf eine Gesundheitsstärkung bzw. auf eine Krankheitsbewältigung ein Leben lang Einfluss nehmen: Bildung und soziale Integration.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ setzen seit Jahren bereits verstärkt auf die Primärversorgung mit niederschwelligem Zugang zur Gesundheitsversorgung.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ arbeiten vermehrt integrativ bzw. sektorenübergreifend.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ verfügen vermehrt über populationsbezogene Daten, die eine Gesundheitssteuerung erleichtern und zunehmend Transparenz schaffen.</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ binden vermehrt nichtmedizinische Gesundheitsberufe als gleichwertige Partner in die Erfüllung der Gesundheitsziele ein.</Para>
+                </ItemContent>
+              </UnorderedList>
+Vor allem der letztgenannte Punkt setzt eine selbstverständliche Zusammenarbeit vieler Berufsgruppen voraus, die im Zuge der Erfüllung einer adäquaten Versorgung eine gegenseitige Anerkennung der Kompetenzen verschiedener Berufsgruppen beinhaltet. Unweigerlich muss auch Österreich — besser früher als später — aufgrund der komplexen Herausforderungen und Fragestellungen ähnliche Wege gehen.</Para>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Aufgaben der Pflegenden in Österreich 2050 — mehr als ein Gedankenspiel?:</Heading>
+              <Para>
+                <UnorderedList Mark="None">
+                  <ItemContent>
+                    <Para>▪ Im Zuge eines definierten Best Point of Service leiten und arbeiten Pflegende in Pflegepraxen. Diese sind Anlaufstellen für Bürger mit Pflegefragen und Erstkontaktstellen für kleinere medizinische Behandlungen. In diesen werden systematisch der Gesundheitszustand der Klienten und Patienten eingeschätzt, erweiterte Beratungsgespräche zur Gesundheitsförderung sowie Präventionsscreenings durchgeführt, bspw. chronische Wunden versorgt und Verbandsmaterialien, Inkontinenzprodukte, Lagerungsbehelfe oder Produkte zur Nahrungsunterstützung verschrieben. Eine standardisierte Triagierung stellt im Bedarfsfall eine gesicherte Zuweisung zur entsprechenden Berufsgruppe sicher. Die Pflegepraxen verfügen über ein 24h Service, das auch Hausbesuche integriert. Die Leistungen der Pflegepraxen werden dem Aufwand und den Qualitätsvorgaben entsprechend vergütet.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Die Pflegenden sind mit der Pflegegelderst- und weiterer Einstufungen betraut.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Pflegende bieten Walk-In-Kliniken an, die sich, um einen barrierearmen Zugang zu begünstigen, in der Nähe von Einkaufszentren, Apotheken, Kinos oder Sportveranstaltungsörtlichkeiten befinden. Sie diagnostizieren und behandeln Atemwegsinfektionen, versorgen Wunden, führen Impfungen und Labortests durch, screenen Risikofaktoren und frühe Symptome. Sie bieten bspw. Nikotinentwöhnungsprogramme ebenso an wie evidenzfundierte Wellnessprogramme.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Pflegende mit erweiterten und vertieften klinischen Fähigkeiten führen in den Gesundheitsorganisationen bei vor allem chronisch und multimorbid Erkrankten mit komplexen Krankheitsbildern die Fallführung durch. Sie beraten Angehörige, Kollegen sowie andere Gesundheitsberufe in der Pflege.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Pflegende koordinieren in einem integrierten Versorgungssystem die Betreuung und Behandlung von Menschen mit komplexen Bedürfnissen in Familien, Gemeinden oder Schulen. Sie beauftragen und initiieren dabei sektorenübergreifende Projekte. Sie regen Versorgungsforschungen an, für die sie aktiv Daten sammeln, helfen diese zu interpretieren, um daraus gesellschaftliche Lösungen zu entwickeln und umzusetzen. Im Zuge dieser Aufgaben ist es eine Selbstverständlichkeit, dass die Pflegekompetenz aktiv durch die Politik nachgefragt wird. Politikberatung ist ein neues Berufsfeld von Pflegenden.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Pflegende arbeiten mit Allgemeinärzten und Fachärzten in Gemeinschaftspraxen oder Kliniken zusammen, verantworten medizinische Behandlungen und kleinere operative Eingriffe.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Pflegende schulen und beraten Angehörige, 24h-Pflegende sowie freiwillige Laien in (Call)Centers in Pflegeangelegenheiten. Sie führen Qualitätskontrollen vor allem in der Heimversorgung durch.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Pflegende helfen durch ihre Berufserfahrung anwendungsfreundliche medizintechnische Produkte zu entwickeln und einzusetzen.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Die Aufgaben der Pflege sind der Bevölkerung durch professionelle Medienarbeit bekannt, die Ergebnisse sind transparent gemacht.</Para>
+                  </ItemContent>
+                </UnorderedList>
+Das Genannte kann nur unter Voraussetzung geschehen, die Arztlastigkeit unseres Systems zurückzudrängen und jenen Wissenschaftsfeldern mehr Raum zu geben, die jene Kompetenzen aufweisen, um die bekannten krankmachenden Ursachen wie Armut, Ausgrenzung oder mangelnde Bildung zu bekämpfen. Ebenso bedarf es eines Bildungssystems der agierenden Professionals, ähnlich wie vom Lancet Report (<CitationRef CitationID="CR3">3</CitationRef>) gefordert, das den Einsatz neuer attraktiver und zukunftsorientierter Berufsbilder forciert. Wie visionär werden wohl diese Visionen noch 2050 sein?</Para>
+              <Para>Ich darf <Emphasis Type="Bold">procare</Emphasis> zu ihrem 20-jährigen Bestehen gratulieren und wünsche <Emphasis Type="Bold">procare</Emphasis> weiterhin visionär am Ball zu bleiben!</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_502.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>Literatur</Heading>
+              <Citation ID="CR1">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>Ch.</Initials>
+                    <FamilyName>Staudinger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2015</Year>
+                  <ChapterTitle Language="De">Rückblick in die Zukunft</ChapterTitle>
+                  <BookTitle>procare</BookTitle>
+                  <FirstPage>4</FirstPage>
+                  <LastPage>5</LastPage>
+                </BibChapter>
+                <BibUnstructured>Staudinger, Ch., Rückblick in die Zukunft. In: procare, 3/2015, S. 4–5</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <BibUnstructured>Vgl.: Cypionka, Th. et al., 2008; Czypionka, Th. et al, 2011; Riedel, M., Czypionka, Th., 2012, WHO 2010, ICIC15</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <BibUnstructured>Lancet-Report, Careum, 2012</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>Th.</Initials>
+                    <FamilyName>Czypionka</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ChapterTitle Language="De">Effizienz im Spitalswesen: Mehr oder weniger t(T)ransparent(z)?</ChapterTitle>
+                  <BookTitle>Health System Watch, III, Herbst</BookTitle>
+                </BibChapter>
+                <BibUnstructured>Czypionka, Th., Effizienz im Spitalswesen: Mehr oder weniger t(T)ransparent(z)?. Health System Watch, III, Herbst 2008</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>Th.</Initials>
+                    <FamilyName>Czypionka</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <BookTitle>Status quo und neue Berufsbilder, Health System Watch, I, Frühjahr</BookTitle>
+                </BibBook>
+                <BibUnstructured>Czypionka, Th. et al., Status quo und neue Berufsbilder, Health System Watch, I, Frühjahr 2011</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>Th.</Initials>
+                    <FamilyName>Czypionka</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <BookTitle>Versorgung im abulanten Bereich: Internationale Perspektive, Health System Watch, IV</BookTitle>
+                </BibBook>
+                <BibUnstructured>Czypionka, Th. et al., Reginale Versorgung im abulanten Bereich: Internationale Perspektive, Health System Watch, IV, Winter 2012</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <BibUnstructured>ICIC15 — 15Internationale Konferenz für Integrierte Versorgung, Edinburgh 25.-27.3.2015, <ExternalRef>
+                    <RefSource>http://integratedcarefoundation.org/events/icic15-15th-international-conference-integrated-care?lang=de</RefSource>
+                    <RefTarget Address="http://integratedcarefoundation.org/events/icic15-15th-international-conference-integrated-care?lang=de" TargetType="URL"/>
+                  </ExternalRef>, geladen 8.4.2015</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>S.</Initials>
+                    <FamilyName>Neumann-Ponesch</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <BookTitle>Advanced Nursing Practice in Österreich. Positionspapier, 2. Auflage, Facultas</BookTitle>
+                </BibBook>
+                <BibUnstructured>Neumann-Ponesch, S. et al. (2014): Advanced Nursing Practice in Österreich. Positionspapier, 2. Auflage, Facultas, Wien</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <BibBook>
+                  <InstitutionalAuthorName>Lancet-Report, Careum</InstitutionalAuthorName>
+                  <Year>2012</Year>
+                  <BookTitle>Eine neue globale Initiative zur Reform der Ausbildung von Gesundheitsfachleuten</BookTitle>
+                </BibBook>
+                <BibUnstructured>Lancet-Report, Careum (2012): Eine neue globale Initiative zur Reform der Ausbildung von Gesundheitsfachleuten, <ExternalRef>
+                    <RefSource>www.careum.ch/lancet-report</RefSource>
+                    <RefTarget Address="http://www.careum.ch/lancet-report" TargetType="URL"/>
+                  </ExternalRef>, geladen 30.3.2014</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Riedel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Th.</Initials>
+                    <FamilyName>Czypionka</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <BookTitle>Health Professionals der Zukunft, Health System Watch, I, Frühjahr</BookTitle>
+                </BibBook>
+                <BibUnstructured>Riedel, M., Czypionka, Th., Health Professionals der Zukunft, Health System Watch, I, Frühjahr 2012</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <BibUnstructured>WHO, Increasing access to health workers in remote and rural areas through improved retention. Global policy recommendations, <ExternalRef>
+                    <RefSource>http://www.searo.who.int/nepal/mediacentre/2010_increasing_access_to_health_workers_in_remote_and_rural_areas.pdf</RefSource>
+                    <RefTarget Address="http://www.searo.who.int/nepal/mediacentre/2010_increasing_access_to_health_workers_in_remote_and_rural_areas.pdf" TargetType="URL"/>
+                  </ExternalRef>, 8.4.2015</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

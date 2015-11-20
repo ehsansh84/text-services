@@ -1,0 +1,2407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-014-0808-9" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>808</ArticleID>
+            <ArticleDOI>10.1007/s00066-014-0808-9</ArticleDOI>
+            <ArticleSequenceNumber>1</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Whole brain irradiation with hippocampal sparing and dose escalation on multiple brain metastases</ArticleTitle>
+            <ArticleSubTitle Language="En">Local tumour control and survival</ArticleSubTitle>
+            <ArticleTitle Language="De">Ganzhirnbestrahlung mit Hippocampusschonung und Dosiseskalation bei multiplen Hirnmetastasen</ArticleTitle>
+            <ArticleSubTitle Language="De">Lokale Tumorkontrolle und Überleben</ArticleSubTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>461</ArticleFirstPage>
+            <ArticleLastPage>469</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+              </Received>
+              <Accepted>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2014</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr. med. Dr. rer. nat.</Prefix>
+                  <GivenName>Oliver</GivenName>
+                  <FamilyName>Oehlke</FamilyName>
+                  <Degrees>MD, PhD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>David</GivenName>
+                  <FamilyName>Wucherpfennig</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr. med.</Prefix>
+                  <GivenName>Franziska</GivenName>
+                  <FamilyName>Fels</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff3 Aff4">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr. phil.</Prefix>
+                  <GivenName>Lars</GivenName>
+                  <FamilyName>Frings</FamilyName>
+                  <Degrees>PhD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff5">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr. med.</Prefix>
+                  <GivenName>Karl</GivenName>
+                  <FamilyName>Egger</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>PD Dr. med.</Prefix>
+                  <GivenName>Astrid</GivenName>
+                  <FamilyName>Weyerbrock</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>PD Dr. rer. nat.</Prefix>
+                  <GivenName>Vesna</GivenName>
+                  <FamilyName>Prokic</FamilyName>
+                  <Degrees>PhD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff7 Aff8">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Prof. Dr. med.</Prefix>
+                  <GivenName>Carsten</GivenName>
+                  <FamilyName>Nieder</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff9 Aff10" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Prof. Dr. med.</Prefix>
+                  <GivenName>Anca-Ligia</GivenName>
+                  <FamilyName>Grosu</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+                <Contact>
+                  <Phone>+49 761/270-94610</Phone>
+                  <Email>anca.grosu@uniklinik-freiburg.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Radiation Oncology</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <Street>Robert-Koch-Str. 3</Street>
+                  <Postcode>79106</Postcode>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Radiation Oncology</OrgDivision>
+                <OrgName>St. Josefs Hospital</OrgName>
+                <OrgAddress>
+                  <City>Offenburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Department of Geriatrics and Gerontology</OrgDivision>
+                <OrgName>University Hospital Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgDivision>Department of Nuclear Medicine</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Department of Neuroradiology</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff6">
+                <OrgDivision>Department of Neurosurgery</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff7">
+                <OrgDivision>Department of Oncology and Palliative Medicine</OrgDivision>
+                <OrgName>Nordland Hospital</OrgName>
+                <OrgAddress>
+                  <City>Bodø</City>
+                  <Country>Norway</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff8">
+                <OrgDivision>Institute of Clinical Medicine, Faculty of Health Sciences</OrgDivision>
+                <OrgName>University of Tromsø</OrgName>
+                <OrgAddress>
+                  <City>Tromsø</City>
+                  <Country>Norway</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff9">
+                <OrgName>German Cancer Consortium (DKTK)</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff10">
+                <OrgName>German Cancer Research Center (DKFZ)</OrgName>
+                <OrgAddress>
+                  <City>Heidelberg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Purpose</Heading>
+                <Para>Hippocampal-avoidance whole brain radiotherapy (HA-WBRT) for multiple brain metastases may prevent treatment-related cognitive decline, compared to standard WBRT. Additionally, simultaneous integrated boost (SIB) on individual metastases may further improve the outcome. Here, we present initial data concerning local tumour control (LTC), intracranial progression-free survival (PFS), overall survival (OS), toxicity and safety for this new irradiation technique.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Methods and materials</Heading>
+                <Para>Twenty patients, enrolled between 2011 and 2013, were treated with HA-WBRT (30 Gy in 12 fractions, D<Subscript>98 %</Subscript> to hippocampus ≤ 9 Gy) and a SIB (51 Gy) on multiple (2–13) metastases using a volumetric modulated arc therapy (VMAT) approach based on 2–4 arcs. Metastases were evaluated bidimensionally along the two largest diameters in contrast-enhanced three-dimensional T1-weighed MRI.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para>Median follow-up was 40 weeks. The median time to progression of boosted metastases has not been reached yet, corresponding to a LTC rate of 73 %. Median intracranial PFS was 40 weeks, corresponding to a 1-year PFS of 45.3 %. Median OS was 71.5 weeks, corresponding to a 1-year OS of 60 %. No obvious acute or late toxicities grade &gt; 2 (NCI CTCAE v4.03) were observed. D<Subscript>mean</Subscript> to the bilateral hippocampi was 6.585 Gy ± 0.847 (α/β = 2 Gy). Two patients developed a new metastasis in the area of hippocampal avoidance.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusion</Heading>
+                <Para>HA-WBRT (simultaneous integrated protection, SIP) with SIB to metastases is a safe and tolerable regime that shows favorable LTC for patients with multiple brain metastases, while it has the potential to minimize the side-effect of cognitive deterioration.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="De" OutputMedium="All">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec5">
+                <Heading>Hintergrund</Heading>
+                <Para>Die Hippocampus-schonende Ganzhirnbestrahlung (HS-GHB) kann im Vergleich zur Standard-GHB die Verschlechterung der neurokognitiven Funktion verhindern. Zusätzlich vermag ein simultan integrierter Boost (SIB) auf die Metastasen die Prognose der betroffenen Patienten weiter zu verbessern. In dieser Studie präsentieren wir erste Ergebnisse hinsichtlich lokaler Tumorkontrolle, des intrakraniellen progressionsfreien Überlebens (PFS), des Gesamtüberlebens (OS), der Toxizität und der Sicherheit dieser neuen Bestrahlungstechnik.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec6">
+                <Heading>Methoden und Material</Heading>
+                <Para>Es wurden 20 Patienten zwischen 2011 und 2013 mit einer HS-GHB (30 Gy in 12 Fraktionen, D<Subscript>98 %</Subscript> am Hippocampus ≤ 9 Gy) und simultan integriertem Boost (51 Gy) auf multiple (2 bis 13) Metastasen behandelt. Eingesetzt wurde eine individuell geplante VMAT („volumetric modulated arc therapy“)-Technik mit 2 bis 4 Bögen. Die Größe der Metastasen wurde bidimensional entlang der 2 größten Durchmesser in kontrastmittelverstärkten, T1-gewichteten dreidimensionalen MRT-Aufnahmen evaluiert.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7">
+                <Heading>Ergebnisse</Heading>
+                <Para>Die mediane Nachbeobachtungszeit betrug 40 Wochen. Die mediane Zeit zur Progression der geboosteten Metastasen wurde nicht erreicht, was mit einer lokalen Tumorkontrolle von 73 % einhergeht. Das mediane PFS betrug 40 Wochen (1-Jahres-PFS 45,3 %). Das mediane OS betrug 71,5 Wochen (1-Jahres-OS 60 %). Es traten keine Toxizitäten &gt; Grad 2 (NCI CTCAE v4.03) auf. Die D<Subscript>mean</Subscript> auf die Hippocampi betrug 6,585 Gy ± 0,847 (α/β = 2 Gy). Zwei Patienten entwickelten je eine neue Metastase im Bereich der Hippocampusschonung.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8">
+                <Heading>Schlussfolgerung</Heading>
+                <Para>HS-GHB (simultane integrierte Protektion, SIP) mit SIB auf die Metastasen ist ein sicheres und tolerables Therapiekonzept mit einer vorteilhaften lokalen Tumorkontrolle bei Patienten mit multiplen Hirnmetastasen bei gleichzeitiger Möglichkeit, die behandlungsbedingten neurokognitiven Einschränkungen von Lernen und Gedächtnis zu verhindern.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Neoplasm metastases</Keyword>
+              <Keyword>Whole brain irradiation</Keyword>
+              <Keyword>Hippocampal sparing</Keyword>
+              <Keyword>Simultaneous integrated protection</Keyword>
+              <Keyword>Neurocognition</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Hirnmetastasen</Keyword>
+              <Keyword>Ganzhirnbestrahlung</Keyword>
+              <Keyword>Hippocampusschonung</Keyword>
+              <Keyword>Simultane integrierte protektion</Keyword>
+              <Keyword>Neurokognition</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Para>Brain metastases are the most common brain tumors in adults. They occur in up to 40 % of patients with systemic malignancies [<CitationRef CitationID="CR1">1</CitationRef>]. Whole brain radiotherapy (WBRT) has been standard treatment in patients with multiple brain metastases for several decades. The median survival of patients who receive only supportive care is approximately 1–2 months [<CitationRef CitationID="CR2">2</CitationRef>]. WBRT alone can increase the average overall survival (OS) in these patients to 3–6 months [<CitationRef CitationID="CR3">3</CitationRef>]. In combination with a radiosurgical boost on individual metastases, intracranial progression-free survival (PFS) was significantly increased compared to WBRT alone (36 vs. 6 months, respectively). The overall survival was 11 vs. 7.5 months in favour of the radiosurgery group, but failed to reach statistical significance [<CitationRef CitationID="CR4">4</CitationRef>]. Along this line, in the EORTC 22952–26001 trial with 359 patients, addition of adjuvant WBRT following radiosurgery or surgery of 1–3 cerebral metastases reduced intracranial relapses and neurological deaths, but failed to show a benefit for OS and quality of life (QoL) compared to observation [<CitationRef CitationID="CR5">5</CitationRef>].</Para>
+            <Para>However, WBRT can be associated with significant side effects decreasing patients’ subjective QoL [<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>]. Neurocognitive deficits are frequently observed after WBRT of multiple brain metastases, with episodic memory being the predominant cognitive domain that is affected [<CitationRef CitationID="CR8">8</CitationRef>–<CitationRef CitationID="CR10">10</CitationRef>]. Although other factors contribute to memory decline, like tumour progression itself or chemotherapy, WBRT has clearly been demonstrated to significantly impair memory [<CitationRef CitationID="CR11">11</CitationRef>].</Para>
+            <Para>The human brain structure that is most critically involved in episodic memory processing is the hippocampus [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR13">13</CitationRef>]. It is well known that damage to the hippocampi can lead to profound amnestic syndromes [<CitationRef CitationID="CR14">14</CitationRef>]. Recently, it has been demonstrated that a reduction of adult neurogenesis within the hippocampus leads to hippocampal dysfunction [<CitationRef CitationID="CR15">15</CitationRef>–<CitationRef CitationID="CR17">17</CitationRef>].</Para>
+            <Para>Hippocampal damage during radiotherapy might be prevented by hippocampal-avoidance WBRT (HA-WBRT) by simultaneous integrated protection (SIP) using intensity-modulated radiotherapy (IMRT), which in turn is hypothesized to attenuate cognitive decline after HA-WBRT as measured by standardized neuropsychological testing [<CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>].</Para>
+            <Para>In addition to the preservation of functional independence and QoL by limiting the dose to the hippocampus, dose escalation (e.g. simultaneous integrated boost, SIB) on individual metastases may improve local tumour control (LTC), PFS and potentially OS. It has been shown that a boost to the metastases (mostly 20 Gy in 10 fractions) immediately after WBRT significantly increases OS, compared to WBRT alone (8.9 months vs. 4.0 months; [<CitationRef CitationID="CR20">20</CitationRef>]). The magnitude of survival improvement is comparable to that observed with radiosurgical boost (3.5 months, not significant in the study population of only 27 randomised patients, i.e. lack of statistical power; [<CitationRef CitationID="CR4">4</CitationRef>]). Importantly, treatment-related toxicity is comparable between regimes with and without boost [<CitationRef CitationID="CR21">21</CitationRef>].</Para>
+            <Para>We [<CitationRef CitationID="CR22">22</CitationRef>] recently published a planning study describing a LINAC-based volumetric modulated arc therapy (VMAT) planning of HA-WBRT (SIP) with a SIB on multiple individual metastases, allowing a dose escalation to an equivalent dose in 2 Gy fractions (EQD<Subscript>2</Subscript>) &gt; 60 Gy within the course of a 12-fraction HA-WBRT regime.</Para>
+            <Para>In the present study, we present initial data on the first 20 patients treated in our institution with HA-WBRT (SIP) and SIB on metastases concerning LTC, PFS, OS, toxicity and safety.</Para>
+            <Section1 ID="Sec1">
+              <Heading>Materials and methods</Heading>
+              <Section2 ID="Sec2">
+                <Heading>Patients</Heading>
+                <Para>The present work complies with the principles laid down in the Declaration of Helsinki and has been approved by the appropriate ethical committees related to the institution in which it was performed. All subjects gave informed consent to the work.</Para>
+                <Para>Twenty patients (7 male, 13 female) were enrolled between July 2011 and April 2013 in a single institution (Department of Radiation Oncology, University Medical Center Freiburg/Germany). Patients (female and male) were eligible for analysis when they were diagnosed with multiple brain metastases of solid tumours (lymphoma, germinoma and small cell cancers were excluded) with indication for a WBRT and in good performance status [RPA classification I and II, Karnofsky performance score (KPS) ≥ 70 %]. Patients with brain metastases within 7 mm of the hippocampus were excluded. Median and mean age was 55.5 (range 41–87) and 57.7 ± 10.5 years, respectively. Median KPS was 90 % (range 70–100 %). Median number of brain metastases was 5 (range 2–13).</Para>
+                <Para>Four patients (20 %) had prior stereotactic radiosurgery (SRS, 20 Gy on 80 % isodose, GTV + 1 mm = PTV) of 1 (2 patients, 10 %) or 2 (2 patients, 10 %) brain metastases and received HA-WBRT with dose escalation as salvage therapy after developing multiple new cerebral metastases. Two patients (10 %) received prior resection of a single metastasis and adjuvant local irradiation [<CitationRef CitationID="CR23">23</CitationRef>] of the resection cavity (SFRT 30 Gy in 6 fractions to resection cavity (GTV) plus 3 mm margin (PTV) on 95 % isodose) before developing multiple new metastases in the follow-up. Patients’ characteristics are summarized in Table <InternalRef RefID="Tab1">1</InternalRef>.<Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Patient characteristics</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="3">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1"/>
+                          <entry align="left" colname="c2"/>
+                          <entry align="left" colname="c3">
+                            <SimplePara>
+                              <Emphasis Type="Bold">(%)</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Gender</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Male</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>35</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Female</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>13</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>65</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">KPS</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>≥ 70 %</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>20</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>100</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>&lt; 70 %</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">RPA class</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>15</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>17</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>85</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Primary tumour</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Non-small cell lung (NSCLC)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>11</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>55</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Malignant melanoma</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>25</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Breast</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>15</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Ovarian</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Additional metastases at time of HA-WBRT</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Yes</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>17</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>85</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Multiple</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>14</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>70</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Lung</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Other</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>10</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>No</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>15</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Therapy before HA-WBRT</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Resection</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>11</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>55</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>SRS</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Adj. RT after resection</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>10</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Chemotherapy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>35</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Monoclonal antibody</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c3" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Therapy after HA-WBRT</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Chemotherapy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>16</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>80</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Monoclonal antibody</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Tyrosine kinase inhibitor</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>5</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>
+                        <Emphasis Type="Italic">KPS</Emphasis> Karnofsky Performance Score, <Emphasis Type="Italic">RPA</Emphasis> recursive partitioning analysis, <Emphasis Type="Italic">HA-WBRT</Emphasis> hippocampal-avoidance whole-brain radiotherapy, SRS stereotactic radiosurgery, <Emphasis Type="Italic">RT</Emphasis> radiotherapy</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec3">
+                <Heading>Radiation treatment</Heading>
+                <Para>Radiation therapy planning computed tomography (CT) with 2-mm slice thickness was performed with the patient in thermoplastic mask immobilization (BrainLab, Feldkirchen, Germany). Magnetic resonance imaging (MRI) scans, including contrast-enhanced sagittal T1-weighted sequences with an inplane resolution of 1 × 1 mm and a 1 mm slice thickness (MP-RAGE, Magnetization Prepared Rapid Gradient Echo, [<CitationRef CitationID="CR24">24</CitationRef>]) were coregistered with the CT scans using iPlan RT Image 4.1.1 (BrainLab, Feldkirchen, Germany).</Para>
+                <Para>The hippocampus, as well as the gross tumour volume (GTV) for each metastasis, was delineated on contrast-enhanced axial T1-weighted MRI. Planning target volume (PTV) for the whole brain, PTV<Subscript>whole brain</Subscript>, was defined as the whole-brain parenchyma with a 3 mm margin excluding the metastases and hippocampal avoidance regions. The hippocampal avoidance region was defined as a 7-mm three-dimensional (3D) margin around the hippocampus to allow a dose gradient between the hippocampus and the PTV<Subscript>whole brain</Subscript>. The hippocampi were delineated according to the RTOG 0933 contouring atlas (http://www.rtog.org/corelab/contouringatlases/hippocampalsparing.aspx). The PTV for metastases, PTV<Subscript>metastases</Subscript>, was produced as a 1-mm 3D margin expansion of the GTV. The eyes, lenses, optic nerves, optic chiasm, inner ears and brainstem were additionally defined as organs at risk (OAR).</Para>
+                <Para>The VMAT planning was performed individually and based on 2–4 arcs. For 7 patients non-coplanar arcs were used. We considered the concept of simultaneous integrated protection (SIP) for hippocampus protection and simultaneous integrated boost (SIB) for dose escalation on the metastases. The prescribed dose was 30 Gy in 12 fractions of WBRT and 51 Gy in 12 fractions (4.25 Gy/fraction on 95 % of volume) to individual brain metastases, corresponding to an EQD<Subscript>2</Subscript> of 60.56 Gy, assuming an α/β ratio of 10 Gy for metastases. The treatment plans were normalized for 95 % of the PTV<Subscript>whole brain</Subscript> receiving the prescription dose of 30 Gy. The plans were optimized in Eclipse version 10.0 for 6 MV photons for the Varian linear accelerator with a Millenium 120-leaf multileaf collimator (Varian Medical Solutions, Palo Alto, CA, USA). An initial set of constraints was defined that included target coverage and sparing of OAR [<CitationRef CitationID="CR22">22</CitationRef>]. An overview of treatment planning parameters and dose constraints of OARs is given in Table <InternalRef RefID="Tab2">2</InternalRef>.<Table Float="Yes" ID="Tab2">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Treatment planning and dose constraints</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="3">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1"/>
+                          <entry align="left" colname="c2">
+                            <SimplePara>
+                              <Emphasis Type="Bold">PTV</Emphasis>
+                              <Subscript>
+                                <Emphasis Type="Bold">whole brain</Emphasis>
+                              </Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>
+                              <Emphasis Type="Bold">PTV</Emphasis>
+                              <Subscript>
+                                <Emphasis Type="Bold">metastases</Emphasis>
+                              </Subscript>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Total dose to PTV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>30 Gy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>51 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Dose per fraction in PTV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2.5 Gy</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>4.25 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Number of fractions per day</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Treatment duration</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>12 days</SimplePara>
+                            <SimplePara>5 days/week</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>12 days</SimplePara>
+                            <SimplePara>5 days/week</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Parameter</Emphasis>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Dose prescription</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>PTV<Subscript>whole brain</Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>98 % </Subscript>≥ 25 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>PTV<Subscript>metastases</Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>98 % </Subscript>≥ 48.4 Gy</SimplePara>
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 63.7 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Hippocampus</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>98 % </Subscript>≤ 9 Gy</SimplePara>
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 17 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Optic nerves</SimplePara>
+                            <SimplePara>Chiasm</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 33 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Optic nerve, one-sided</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 37.5 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Retina, one-sided</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 33 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Lenses</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 7 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Eyes</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>2 %</Subscript> ≤ 33 Gy</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Brain</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>D<Subscript>mean</Subscript> ≤ 35 Gy</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Follow-up</Heading>
+                <Para>Median follow-up (mFU) was 40 weeks (range 1.5–93.5 weeks). All patients received their first follow-up examination 6–8 weeks after therapy, including MRI and physical examination. Afterwards, all patients were routinely followed-up every 3 months with MRI and physical examination. All changes in therapy and/or medication were monitored.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Definition of response</Heading>
+                <Para>Individual metastases were measured bidimensionally along the two largest diameters in contrast-enhanced 3D T1-weighed MRI sequences (MP-RAGE) before the start of radiotherapy and after every follow-up MRI. Response was assessed according to the EORTC 22952–26001 trial [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>]. Progression (PD) was defined as an increase of ≥ 25 %, always referred to the change in the product of the two largest diameters in axial, sagittal or coronal planes of contrast-enhanced 3D T1-weighted MRI sequences. Occurrence of new metastases was also evaluated in every follow-up scan. Response was assessed by at least two independent investigators. All patients had at least contrast-enhanced sagittal T1-weighted sequences with an inplane resolution of 1 × 1 mm and a 1 mm slice thickness (MP-RAGE) at all follow-up scans.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Statistics</Heading>
+                <Para>LTC, PFS and OS were measured using the Kaplan–Meier estimate. All analyses were performed with JMP software 5.0.1.2 (SAS, Cary, NC, USA).</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Results</Heading>
+              <Section2 ID="Sec8">
+                <Heading>Dose distribution of HA-WBRT with SIB on metastases</Heading>
+                <Para>Figure <InternalRef RefID="Fig1">1a</InternalRef>–<InternalRef RefID="Fig1">d</InternalRef> provides an example of a 65-year-old man treated with HA-WBRT with SIB on 11 metastases from NSCLC. The upper row (Fig. <InternalRef RefID="Fig1">1a</InternalRef>–<InternalRef RefID="Fig1">c</InternalRef>) shows the dose distribution after treatment planning. Only doses ≥ 27.5 Gy (≥ 95 % of PTV<Subscript>whole brain</Subscript>) are displayed. Figure <InternalRef RefID="Fig1">1d</InternalRef> represents the corresponding dose–volume histogram (DVH). Treatment planning parameters, dose constraints, as well as the actual obtained SIP for all patients are summarized in Tables <InternalRef RefID="Tab2">2</InternalRef> and <InternalRef RefID="Tab3">3</InternalRef>. A detailed description of the underlying treatment planning was published earlier [<CitationRef CitationID="CR22">22</CitationRef>]. In this example, the mean of D<Subscript>mean</Subscript> in PTV<Subscript>metastases</Subscript> is 52.966 Gy ± 0.293, corresponding to a mean of D<Subscript>98 %</Subscript> of 49.719 Gy ± 0.579 and a mean of D<Subscript>2 %</Subscript> of 55.023 Gy ± 0.208. D<Subscript>mean</Subscript> and D<Subscript>98 %</Subscript> for PTV<Subscript>whole brain</Subscript> are 30.646 Gy and 26.464 Gy, respectively. D<Subscript>mean</Subscript> to the bilateral hippocampi is 9.222 Gy ± 0.139, which equals a D<Subscript>mean</Subscript> (EQD<Subscript>2</Subscript>) of 6.391 Gy ± 0.112 when calculated with an α/β of 2 Gy. The respective D<Subscript>98 %</Subscript> and D<Subscript>2 %</Subscript> are 7.905 Gy ± 0.018 and 12.93 Gy ± 0.14. All other additional dose constraints for the OARs mentioned in Table <InternalRef RefID="Tab2">2</InternalRef> were also fulfilled (data not shown).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>
+                          <Emphasis Type="Bold">a–c</Emphasis> Exemplary treatment plan of a 65-year-old man with 11 metastases from non-small cell lung cancer. <Emphasis Type="Bold">d</Emphasis> Only doses ≥ 27.5 Gy (≥ 95 % of PTV<Subscript>whole brain</Subscript>) are displayed. Dose–volume histogram (<Emphasis Type="Italic">DVH</Emphasis>). <Emphasis Type="Italic">Purple</Emphasis>: DVH for hippocampi. <Emphasis Type="Italic">Blue</Emphasis>: DVH for PTV<Subscript>whole brain</Subscript>. <Emphasis Type="Italic">Pink</Emphasis>: DVH for boosted metastases</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_808_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Table Float="Yes" ID="Tab3">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Characteristics of HA-WBRT with boost on metastases</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="2">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <tbody>
+                        <row>
+                          <entry align="left" nameend="c2" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Metastases boosted, n (%)</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Total</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>74 (100 %)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>PD</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>20 (27.0 %)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Non-PD</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>54 (73.0 %)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Average volume of boosted metastases (GTV</Emphasis>
+                              <Subscript>
+                                <Emphasis Type="Bold">metastases</Emphasis>
+                              </Subscript>
+                              <Emphasis Type="Bold">)</Emphasis>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.78 cm<Superscript>2</Superscript> ± 1.17</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" nameend="c2" namest="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Mean doses to hippocampus (EQD</Emphasis>
+                              <Subscript>
+                                <Emphasis Type="Bold">2</Emphasis>
+                              </Subscript>
+                              <Emphasis Type="Bold">, α/β = 2 Gy)</Emphasis>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Total</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>6.585 Gy ± 0.847</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Left</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>6.581 Gy ± 0.904</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Right</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>6.589 Gy ± 0.790</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>
+                        <Emphasis Type="Italic">PD</Emphasis> progression</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para>Taken together, the presented data indicate that hippocampal sparing (SIP) is adequately feasible even in the presence of adjacent dose escalation (SIB) to macroscopic disease.</Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Local tumour control/time to progression of boosted metastases</Heading>
+                <Para>To assess the impact of dose escalation on already existing metastases, LTC was evaluated separately for all lesions delineated as GTV<Subscript>metastases</Subscript> and it amounts to 73 % (Table <InternalRef RefID="Tab3">3</InternalRef>). The overall median time to progression (TTP) of all 20 patients investigated has not been reached yet (Fig. <InternalRef RefID="Fig2">2a</InternalRef>). This corresponds to the presence of at least stable disease (SD) of initially treated metastases in 13/20 patients (65 %) after 1 year.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Kaplan–Meier plot of <Emphasis Type="Bold">a</Emphasis> local tumour control, <Emphasis Type="Bold">b</Emphasis> progression-free survival and <Emphasis Type="Bold">c</Emphasis> overall survival</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_808_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>Progression-free survival/overall survival</Heading>
+                <Para>In addition to the evaluation of lesions treated with dose escalation (SIB), intracranial PFS was assessed. PFS was defined as progression in the brain, regardless whether recurrence of a lesion treated with dose escalation or new lesions distinct from boosted sites and therefore includes information on the efficiency of HA-WBRT apart from the areas of dose escalation. Median intracranial PFS was 40 weeks (range 4.5–79 weeks; Fig. <InternalRef RefID="Fig2">2b</InternalRef>) corresponding to a 1-year PFS of 45.3 %.</Para>
+                <Para>Two patients developed new metastases in the region of hippocampal avoidance 6 (malignant melanoma) and 11 (NSCLC) months after HA-WBRT, respectively. In both cases hippocampal metastases occurred concomitantly with multiple other new lesions and not as isolated relapses, which makes it unlikely that the lack of dose in the area of hippocampal-avoidance was responsible for these relapses. Median OS in this cohort of 20 patients was 71.5 weeks (range 1.5–93.5 weeks; Fig. <InternalRef RefID="Fig2">2c</InternalRef>), corresponding to a 1-year OS of 60 %, respectively.</Para>
+              </Section2>
+              <Section2 ID="Sec11">
+                <Heading>Toxicity</Heading>
+                <Para>In all patients investigated, no obvious acute or late toxicity greater than grade 2 according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.03 was observed. Adverse events that occurred included alopecia, blurred vision, concentration impairment, dizziness, fatigue, floaters, headache, hypersomnia, somnolence, vertigo, vomiting and watering eyes. An overview is given in Table <InternalRef RefID="Tab4">4</InternalRef>, highlighting that HA-WBRT with SIB on macroscopic metastases was well-tolerated.<Table Float="Yes" ID="Tab4">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Treatment-related toxicities (in alphabetical order)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="3">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Adverse events according to CTCAE v4.03</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Grade 1, n (%)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>Grade 2, n (%)</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Alopecia</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>20 (100)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Blurred vision</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Concentration impairment</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>3 (15)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Dizziness</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2 (10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Fatigue</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>2 (10)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Floaters</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Headache</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>5 (25)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>3 (15)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Hypersomnia</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>5 (25)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>3 (15)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Somnolence</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2 (10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>2 (10)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Vertigo</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>4 (20)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Vomiting</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>3 (15)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Watering eyes</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>1 (5)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>–</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec12">
+              <Heading>Discussion</Heading>
+              <Para>In patients with multiple brain metastases of solid tumours WBRT is the most common treatment option and improves tumour control and OS. WBRT might be associated with considerable neurotoxicity and may reduce the patients’ QoL. It is known that neural stem cells are located in the hippocampal region, supporting lifelong neurogenesis [<CitationRef CitationID="CR26">26</CitationRef>]. The reduction of hippocampal functions like learning and memory as a consequence of WBRT is explained by damage to neural stem cells and by a lower ability for regeneration of neuron populations. Avoidance of neural stem cells in the hippocampus may help to reduce the neurotoxicity of WBRT [<CitationRef CitationID="CR27">27</CitationRef>]. Promising initial data from the RTOG 0933 trial were recently published, indicating that avoidance of the hippocampus is indeed able to preserve memory 4 months after WBRT compared to standard WBRT without HA [<CitationRef CitationID="CR28">28</CitationRef>].</Para>
+              <Para>The avoidance of the hippocampus during WBRT is considered to be a safe treatment concept. The risk of perihippocampal disease progression after hippocampal sparing WBRT was explored by Gondi et al. [<CitationRef CitationID="CR18">18</CitationRef>] to obtain a safety profile for RTOG 0933, a phase II clinical trial of hippocampal avoidance during WBRT. Therefore, 371 patients with 1133 metastases were retrospectively reviewed with regard to the appearance of metastases within the hippocampus and the parahippocampal region. None of the patients had a metastasis within the hippocampus. A metastasis within &lt; 5 mm of the hippocampus was seen in 8.6 % of the patients, within 5 to &lt; 10 mm in 12.1 % and within 10 to &lt; 15 mm in 14.5 % of the patients. Harth et al. [<CitationRef CitationID="CR29">29</CitationRef>] calculated an increase in absolute risk of 0.2 % in patients with brain metastases from NSCLC by avoiding the hippocampus. Assuming that the risk of developing subsequent brain metastasis in the hippocampal avoidance region scales in the same proportion as at presentation, HA-WBRT is considered safe for clinical testing. In our study, only 2 patients (10 %) developed new metastases in the hippocampal area that was spared using the HA technique, underlining and confirming the safety of the method described.</Para>
+              <Para>HA treatment planning constraints in RTOG 0933 include hippocampal D<Subscript>100 %</Subscript> ≤ 10 Gy and D<Subscript>max</Subscript> ≤ 17 Gy [<CitationRef CitationID="CR28">28</CitationRef>]. In a recent study prospectively evaluating the association between hippocampal dose and long-term neurocognitive function impairment for benign or low-grade adult brain tumours treated with stereotactic fractionated radiotherapy (SFRT), an EQD<Subscript>2</Subscript> (assuming an α/β ratio of 2 Gy) to 40 % of the bilateral hippocampi greater than 7.3 Gy has been shown to be associated with a significant deterioration in standard neurocognitive tests [<CitationRef CitationID="CR30">30</CitationRef>]. The HA performed in the present study results in a D<Subscript>mean</Subscript> to the bilateral hippocampi of 6.585 Gy ± 0.847 (α/β = 2 Gy, Table <InternalRef RefID="Tab3">3</InternalRef>), and therefore, as far as the data in the literature indicate up to now, below the threshold where above a significant cognitive impairment is likely.</Para>
+              <Para>Several studies have shown that dose escalation to the brain metastases contributes to better local tumour control and putatively longer OS [<CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>]. Making use of new irradiation techniques, WBRT with hippocampal avoidance (SIP) and SIB to individual metastases is feasible [<CitationRef CitationID="CR22">22</CitationRef>] since it combines dose escalation with shorter treatment time, compared to a sequential approach.</Para>
+              <Para>The results of the present study, which represent our first experience in a small group of patients, show a LTC of boosted metastases of 73 % (Table <InternalRef RefID="Tab3">3</InternalRef>). Andrews et al. [<CitationRef CitationID="CR32">32</CitationRef>] reported 1-year local control rates of 82 % when WBRT was combined with radiosurgery in patients with up to three brain metastases. In patients treated with SRS without WBRT for up to 10 brain metastases, a local failure rate of 6.5 % after 1 year after treatment of 5–10 metastases has recently been published, without decreasing the rate of salvage WBRT compared to patients treated for one or 2–4 brain metastases [<CitationRef CitationID="CR33">33</CitationRef>].</Para>
+              <Para>In case of the remaining 27 % (Table <InternalRef RefID="Tab3">3</InternalRef>), it remains unclear whether the measurable increase in volume after treatment is due to real tumour progression or whether radiation necrosis or pseudoprogression might play a role [<CitationRef CitationID="CR34">34</CitationRef>]. One has to keep in mind that, assuming an α/β ratio of 2 Gy, the EQD<Subscript>2</Subscript> of 51 Gy in 12 fractions for central nervous tissue is 79.69 Gy, a dose that bears a moderate risk of developing radiation necrosis [<CitationRef CitationID="CR35">35</CitationRef>]. Biopsy, surgery or PET of suspicious lesions was not performed because of declining KPS from extracranial disease and/or lack of therapeutic consequences. Otherwise, our data indicate that no severe toxicities resulted from this new treatment concept (Table <InternalRef RefID="Tab4">4</InternalRef>). A recently published series [<CitationRef CitationID="CR36">36</CitationRef>] of 30 patients (26/30 with melanoma) receiving HA-WBRT reported a similar toxicity profile (5 patients with grade 1 toxicity, 2 patients with grade 1/2 toxicity, and 3 patents with grade 2 toxicity). One patient developed a grade 4 late toxicity (histologically proven radionecrosis) following systemic therapy with ipilimumab, a known potential side effect. Only 1 melanoma patient in our cohort received ipilimumab, a fact that may explain why we did not observe any toxicity ≥ grade 3.</Para>
+              <Para>The potential beneficial effect of dose escalation can be estimated by the encouraging median intracranial PFS of 40 weeks (range 4.5–79 weeks; Fig. <InternalRef RefID="Fig2">2b</InternalRef>) and median OS of 71.5 weeks (range 1.5–93.5 weeks; Fig. <InternalRef RefID="Fig2">2c</InternalRef>). The 1-year PFS and 1-year OS are 45.3 % and 60 %, respectively (Figs. <InternalRef RefID="Fig2">2b</InternalRef>–<InternalRef RefID="Fig2">c</InternalRef>). Given that 85 % of patients had extracranial metastases [<CitationRef CitationID="CR37">37</CitationRef>] and were in RPA class 2 ([<CitationRef CitationID="CR38">38</CitationRef>], Table <InternalRef RefID="Tab1">1</InternalRef>) especially the median OS of &gt; 16 months shows that at least a subgroup of patients profits from the locally aggressive treatment of multiple brain metastases combined with WBRT to reduce the risk of rapid intracranial progression. We acknowledge the potential limitations of small retrospective analyses such as selection bias and limited statistical power.</Para>
+            </Section1>
+            <Section1 ID="Sec13" Type="Conclusion">
+              <Heading>Conclusion</Heading>
+              <Para>Whole brain irradiation with hippocampal sparing (simultaneous integrated protection, SIP) and dose escalation (simultaneous integrated boost, SIB) on multiple brain metastases is a safe and tolerable treatment regime and may provide an important improvement of tumour control compared to WBRT alone. At the same time, HA-WBRT bears the potential to minimize the treatment-related side-effect of cognitive deterioration, which cannot be reliably assessed from retrospective chart review. Accordingly, the hypothesized beneficial effect on cognition is currently under investigation in a prospective randomized phase II trial led by one of the authors.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2014_Article_808.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <SimplePara>The present study was supported by the German Cancer Consortium (DKTK).</SimplePara>
+            </Acknowledgments>
+            <Ethics>
+              <Heading>Compliance with ethical guidelines</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Conflict of interest</Heading>
+                <Para>O. Oehlke, D. Wucherpfennig, F. Fels, L. Frings, K. Egger, A. Weyerbrock, V. Prokic, C. Nieder and A.-L. Grosu state that there are no conflicts of interest.</Para>
+              </FormalPara>
+              <SimplePara>All studies on humans described in the present manuscript were carried out with the approval of the responsible ethics committee and in accordance with national law and the Helsinki Declaration of 1975 (in its current, revised form). Informed consent was obtained from all patients included in studies.</SimplePara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JG</Initials>
+                    <FamilyName>Cairncross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Kim</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Posner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Radiation therapy for brain metastases</ArticleTitle>
+                  <JournalTitle>Ann Neurol</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>529</FirstPage>
+                  <LastPage>541</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/ana.410070606</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL3M%2FmtV2jtg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>7436358</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cairncross JG, Kim JH, Posner JB (1980) Radiation therapy for brain metastases. Ann Neurol 7:529–541</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DE</Initials>
+                    <FamilyName>Weissman</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Glucocorticoid treatment for brain metastases and epidural spinal cord compression: a review</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>543</FirstPage>
+                  <LastPage>551</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1c7ntFKgtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>3280744</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Weissman DE (1988) Glucocorticoid treatment for brain metastases and epidural spinal cord compression: a review. J Clin Oncol 6:543–551</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Diener-West</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TW</Initials>
+                    <FamilyName>Dobbins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TL</Initials>
+                    <FamilyName>Phillips</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DF</Initials>
+                    <FamilyName>Nelson</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Identification of an optimal subgroup for treatment evaluation of patients with brain metastases using RTOG study 7916</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>669</FirstPage>
+                  <LastPage>673</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0360-3016(89)90483-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1M7lsFalsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>2646260</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Diener-West M, Dobbins TW, Phillips TL, Nelson DF (1989) Identification of an optimal subgroup for treatment evaluation of patients with brain metastases using RTOG study 7916. Int J Radiat Oncol Biol Phys 16:669–673</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Kondziolka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Patel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LD</Initials>
+                    <FamilyName>Lunsford</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery plus whole brain radiotherapy versus radiotherapy alone for patients with multiple brain metastases</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>427</FirstPage>
+                  <LastPage>434</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(99)00198-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1MvhsFGjtQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10487566</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kondziolka D, Patel A, Lunsford LD et al (1999) Stereotactic radiosurgery plus whole brain radiotherapy versus radiotherapy alone for patients with multiple brain metastases. Int J Radiat Oncol Biol Phys 45:427–434</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Soffietti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Abacioglu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Adjuvant whole-brain radiotherapy versus observation after radiosurgery or surgical resection of one to three cerebral metastases: results of the EORTC 22952–26001 study</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>134</FirstPage>
+                  <LastPage>141</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2010.30.1655</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3058272</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21041710</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kocher M, Soffietti R, Abacioglu U et al (2011) Adjuvant whole-brain radiotherapy versus observation after radiosurgery or surgical resection of one to three cerebral metastases: results of the EORTC 22952–26001 study. J Clin Oncol 29:134–141</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Bentzen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Renschler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MP</Initials>
+                    <FamilyName>Mehta</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Relationship between neurocognitive function and quality of life after whole-brain radiotherapy in patients with brain metastasis</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>71</VolumeID>
+                  <FirstPage>64</FirstPage>
+                  <LastPage>70</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2007.09.059</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18406884</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li J, Bentzen SM, Li J, Renschler M, Mehta MP (2008) Relationship between neurocognitive function and quality of life after whole-brain radiotherapy in patients with brain metastasis. Int J Radiat Oncol Biol Phys 71:64–70</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Soffietti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>UM</Initials>
+                    <FamilyName>Abacioglu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">A European Organisation for Research and Treatment of Cancer phase III trial of adjuvant whole-brain radiotherapy versus observation in patients with one to three brain metastases from solid tumors after surgical resection or radiosurgery: quality-of-life results</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>65</FirstPage>
+                  <LastPage>72</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2011.41.0639</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23213105</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Soffietti R, Kocher M, Abacioglu UM et al (2013) A European Organisation for Research and Treatment of Cancer phase III trial of adjuvant whole-brain radiotherapy versus observation in patients with one to three brain metastases from solid tumors after surgical resection or radiosurgery: quality-of-life results. J Clin Oncol 31:65–72</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DD</Initials>
+                    <FamilyName>Roman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PW</Initials>
+                    <FamilyName>Sperduto</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Neuropsychological effects of cranial radiation: current knowledge and future directions</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>983</FirstPage>
+                  <LastPage>998</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0360-3016(94)00550-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2M7msVeitA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>7860415</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Roman DD, Sperduto PW (1995) Neuropsychological effects of cranial radiation: current knowledge and future directions. Int J Radiat Oncol Biol Phys 31:983–998</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Welzel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Fleckenstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Schaefer</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Memory function before and after whole brain radiotherapy in patients with and without brain metastases</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>1311</FirstPage>
+                  <LastPage>1318</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2008.03.009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18448270</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Welzel G, Fleckenstein K, Schaefer J et al (2008) Memory function before and after whole brain radiotherapy in patients with and without brain metastases. Int J Radiat Oncol Biol Phys 72:1311–1318</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EL</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Wefel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KR</Initials>
+                    <FamilyName>Hess</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Neurocognition in patients with brain metastases treated with radiosurgery or radiosurgery plus whole-brain irradiation: a randomised controlled trial</ArticleTitle>
+                  <JournalTitle>Lancet Oncol</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>1037</FirstPage>
+                  <LastPage>1044</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1470-2045(09)70263-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19801201</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chang EL, Wefel JS, Hess KR et al (2009) Neurocognition in patients with brain metastases treated with radiosurgery or radiosurgery plus whole-brain irradiation: a randomised controlled trial. Lancet Oncol 10:1037–1044</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Taphoorn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Klein</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Cognitive deficits in adult patients with brain tumours</ArticleTitle>
+                  <JournalTitle>Lancet Neurol</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>159</FirstPage>
+                  <LastPage>168</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1474-4422(04)00680-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>14980531</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Taphoorn MJ, Klein M (2004) Cognitive deficits in adult patients with brain tumours. Lancet Neurol 3:159–168</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Milner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LR</Initials>
+                    <FamilyName>Squire</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ER</Initials>
+                    <FamilyName>Kandel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Cognitive neuroscience and the study of memory</ArticleTitle>
+                  <JournalTitle>Neuron</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>445</FirstPage>
+                  <LastPage>468</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0896-6273(00)80987-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1cXit1Gms74%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>9539121</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Milner B, Squire LR, Kandel ER (1998) Cognitive neuroscience and the study of memory. Neuron 20:445–468</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BC</Initials>
+                    <FamilyName>Dickerson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Eichenbaum</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">The episodic memory system: neurocircuitry and disorders</ArticleTitle>
+                  <JournalTitle>Neuropsychopharmacology</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>86</FirstPage>
+                  <LastPage>104</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/npp.2009.126</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>2882963</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19776728</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dickerson BC, Eichenbaum H (2010) The episodic memory system: neurocircuitry and disorders. Neuropsychopharmacology 35:86–104</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>WB</Initials>
+                    <FamilyName>Scoville</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Milner</FamilyName>
+                  </BibAuthorName>
+                  <Year>1957</Year>
+                  <ArticleTitle Language="En">Loss of recent memory after bilateral hippocampal lesions</ArticleTitle>
+                  <JournalTitle>J Neurol Neurosurg Psychiatry</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>11</FirstPage>
+                  <LastPage>21</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1136/jnnp.20.1.11</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>497229</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaG2s%2Flt1yksA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>13406589</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Scoville WB, Milner B (1957) Loss of recent memory after bilateral hippocampal lesions. J Neurol Neurosurg Psychiatry 20:11–21</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TJ</Initials>
+                    <FamilyName>Shors</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Miesegaes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Beylin</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Neurogenesis in the adult is involved in the formation of trace memories</ArticleTitle>
+                  <JournalTitle>Nature</JournalTitle>
+                  <VolumeID>410</VolumeID>
+                  <FirstPage>372</FirstPage>
+                  <LastPage>376</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/35066584</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXitFOmtL4%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11268214</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Shors TJ, Miesegaes G, Beylin A et al (2001) Neurogenesis in the adult is involved in the formation of trace memories. Nature 410:372–376</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Deng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Aimone</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FH</Initials>
+                    <FamilyName>Gage</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">New neurons and new memories: how does adult hippocampal neurogenesis affect learning and memory?</ArticleTitle>
+                  <JournalTitle>Nat Rev Neurosci</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>339</FirstPage>
+                  <LastPage>350</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nrn2822</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>2886712</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXktVGjtrc%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20354534</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Deng W, Aimone JB, Gage FH (2010) New neurons and new memories: how does adult hippocampal neurogenesis affect learning and memory? Nat Rev Neurosci 11:339–350</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SA</Initials>
+                    <FamilyName>Small</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SA</Initials>
+                    <FamilyName>Schobel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RB</Initials>
+                    <FamilyName>Buxton</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">A pathophysiological framework of hippocampal dysfunction in ageing and disease</ArticleTitle>
+                  <JournalTitle>Nat Rev Neurosci</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>585</FirstPage>
+                  <LastPage>601</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nrn3085</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3312472</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXhtFersb7I</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21897434</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Small SA, Schobel SA, Buxton RB et al (2011) A pathophysiological framework of hippocampal dysfunction in ageing and disease. Nat Rev Neurosci 12:585–601</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Gondi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WA</Initials>
+                    <FamilyName>Tome</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Marsh</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Estimated risk of perihippocampal disease progression after hippocampal avoidance during whole-brain radiotherapy: safety profile for RTOG 0933</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>327</FirstPage>
+                  <LastPage>331</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2010.02.030</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>2981132</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20392503</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gondi V, Tome WA, Marsh J et al (2010) Estimated risk of perihippocampal disease progression after hippocampal avoidance during whole-brain radiotherapy: safety profile for RTOG 0933. Radiother Oncol 95:327–331</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Oskan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Ganswindt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SB</Initials>
+                    <FamilyName>Schwarz</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Hippocampus sparing in whole-brain radiotherapy. A review</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>190</VolumeID>
+                  <FirstPage>337</FirstPage>
+                  <LastPage>341</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-013-0518-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC2cznsF2isw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24452816</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Oskan F, Ganswindt U, Schwarz SB et al (2014) Hippocampus sparing in whole-brain radiotherapy. A review. Strahlenther Onkol 190:337–341</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Assouline</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Levy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Chargari</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Lamproglou</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Whole brain radiotherapy: prognostic factors and results of a radiation boost delivered through a conventional linear accelerator</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>214</FirstPage>
+                  <LastPage>217</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2011.05.006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21620502</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Assouline A, Levy A, Chargari C et al (2011) Whole brain radiotherapy: prognostic factors and results of a radiation boost delivered through a conventional linear accelerator. Radiother Oncol 99:214–217</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Casanova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Mazouni</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Bieri</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Whole brain radiotherapy with a conformational external beam radiation boost for lung cancer patients with 1–3 brain metastasis: a multi institutional study</ArticleTitle>
+                  <JournalTitle>Radiat Oncol</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>13</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1748-717X-5-13</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>2834695</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20167107</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Casanova N, Mazouni Z, Bieri S et al (2010) Whole brain radiotherapy with a conformational external beam radiation boost for lung cancer patients with 1–3 brain metastasis: a multi institutional study. Radiat Oncol 5:13</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22</CitationNumber>
+                <BibUnstructured>Prokic V, Wiedenmann N, Fels F et al (2013) Whole brain irradiation with hippocampal sparing and dose escalation on multiple brain metastases: a planning study on treatment concepts. Int J Radiat Oncol Biol Phys 85:264-270</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Broemme</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Abu-Isa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Kottke</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Adjuvant therapy after resection of brain metastases. Frameless image-guided LINAC-based radiosurgery and stereotactic hypofractionated radiotherapy</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>189</VolumeID>
+                  <FirstPage>765</FirstPage>
+                  <LastPage>770</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-013-0409-z</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3sfosFaluw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23934329</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Broemme J, Abu-Isa J, Kottke R et al (2013) Adjuvant therapy after resection of brain metastases. Frameless image-guided LINAC-based radiosurgery and stereotactic hypofractionated radiotherapy. Strahlenther Onkol 189:765–770</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Brant-Zawadzki</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GD</Initials>
+                    <FamilyName>Gillan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WR</Initials>
+                    <FamilyName>Nitz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">MP RAGE: a three-dimensional, T1-weighted, gradient-echo sequence–initial experience in the brain</ArticleTitle>
+                  <JournalTitle>Radiology</JournalTitle>
+                  <VolumeID>182</VolumeID>
+                  <FirstPage>769</FirstPage>
+                  <LastPage>775</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1148/radiology.182.3.1535892</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK387lvFeksQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>1535892</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Brant-Zawadzki M, Gillan GD, Nitz WR (1992) MP RAGE: a three-dimensional, T1-weighted, gradient-echo sequence–initial experience in the brain. Radiology 182:769–775</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NU</Initials>
+                    <FamilyName>Lin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EQ</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Aoyama</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Challenges relating to solid tumour brain metastases in clinical trials, part 1: patient population, response, and progression. A report from the RANO group</ArticleTitle>
+                  <JournalTitle>Lancet Oncol</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>e396</FirstPage>
+                  <LastPage>e406</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1470-2045(13)70311-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23993384</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lin NU, Lee EQ, Aoyama H et al (2013) Challenges relating to solid tumour brain metastases in clinical trials, part 1: patient population, response, and progression. A report from the RANO group. Lancet Oncol 14:e396–e406</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Monje</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mizumatsu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Fike</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TD</Initials>
+                    <FamilyName>Palmer</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Irradiation induces neural precursor-cell dysfunction</ArticleTitle>
+                  <JournalTitle>Nat Med</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>955</FirstPage>
+                  <LastPage>962</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nm749</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38Xms1aitrc%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12161748</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Monje ML, Mizumatsu S, Fike JR, Palmer TD (2002) Irradiation induces neural precursor-cell dysfunction. Nat Med 8:955–962</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Dietrich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Monje</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Wefel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Meyers</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Clinical patterns and biological correlates of cognitive dysfunction associated with cancer therapy</ArticleTitle>
+                  <JournalTitle>Oncologist</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>1285</FirstPage>
+                  <LastPage>1295</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1634/theoncologist.2008-0130</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19019972</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dietrich J, Monje M, Wefel J, Meyers C (2008) Clinical patterns and biological correlates of cognitive dysfunction associated with cancer therapy. Oncologist 13:1285–1295</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Gondi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Pugh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WA</Initials>
+                    <FamilyName>Tome</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>3810</FirstPage>
+                  <LastPage>3816</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2014.57.2909</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25349290</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gondi V, Pugh SL, Tome WA et al (2014) Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial. J Clin Oncol 32:3810–3816</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Harth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Abo-Madyan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Zheng</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Estimation of intracranial failure risk following hippocampal-sparing whole brain radiotherapy</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>109</VolumeID>
+                  <FirstPage>152</FirstPage>
+                  <LastPage>158</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2013.09.009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24100152</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Harth S, Abo-Madyan Y, Zheng L et al (2013) Estimation of intracranial failure risk following hippocampal-sparing whole brain radiotherapy. Radiother Oncol 109:152–158</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Gondi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BP</Initials>
+                    <FamilyName>Hermann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MP</Initials>
+                    <FamilyName>Mehta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WA</Initials>
+                    <FamilyName>Tomé</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Hippocampal dosimetry predicts neurocognitive function impairment after fractionated stereotactic radiotherapy for benign or low-grade adult brain tumors</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>85</VolumeID>
+                  <FirstPage>348</FirstPage>
+                  <LastPage>354</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2012.11.031</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23312272</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gondi V, Hermann BP, Mehta MP, Tomé WA (2013) Hippocampal dosimetry predicts neurocognitive function impairment after fractionated stereotactic radiotherapy for benign or low-grade adult brain tumors. Int J Radiat Oncol Biol Phys 85:348–354</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Rades</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Pluemer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Veninga</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">A boost in addition to whole-brain radiotherapy improves patient outcome after resection of 1 or 2 brain metastases in recursive partitioning analysis class 1 and 2 patients</ArticleTitle>
+                  <JournalTitle>Cancer</JournalTitle>
+                  <VolumeID>110</VolumeID>
+                  <FirstPage>1551</FirstPage>
+                  <LastPage>1559</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/cncr.22960</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17654659</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rades D, Pluemer A, Veninga T et al (2007) A boost in addition to whole-brain radiotherapy improves patient outcome after resection of 1 or 2 brain metastases in recursive partitioning analysis class 1 and 2 patients. Cancer 110:1551–1559</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DW</Initials>
+                    <FamilyName>Andrews</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CB</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PW</Initials>
+                    <FamilyName>Sperduto</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Whole brain radiation therapy with or without stereotactic radiosurgery boost for patients with one to three brain metastases: phase III results of the RTOG 9508 randomised trial</ArticleTitle>
+                  <JournalTitle>Lancet</JournalTitle>
+                  <VolumeID>363</VolumeID>
+                  <FirstPage>1665</FirstPage>
+                  <LastPage>1672</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0140-6736(04)16250-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15158627</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Andrews DW, Scott CB, Sperduto PW et al (2004) Whole brain radiation therapy with or without stereotactic radiosurgery boost for patients with one to three brain metastases: phase III results of the RTOG 9508 randomised trial. Lancet 363:1665–1672</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Yamamoto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Serizawa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Shuto</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study</ArticleTitle>
+                  <JournalTitle>Lancet Oncol</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>387</FirstPage>
+                  <LastPage>395</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1470-2045(14)70061-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24621620</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yamamoto M, Serizawa T, Shuto T et al (2014) Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study. Lancet Oncol 15:387–395</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Wiggenraad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Verbeek-de Kanter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mast</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Local progression and pseudo progression after single fraction or fractionated stereotactic radiotherapy for large brain metastases. A single centre study</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>188</VolumeID>
+                  <FirstPage>696</FirstPage>
+                  <LastPage>701</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-012-0122-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC38jjvFKntw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22722818</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wiggenraad R, Verbeek-de Kanter A, Mast M et al (2012) Local progression and pseudo progression after single fraction or fractionated stereotactic radiotherapy for large brain metastases. A single centre study. Strahlenther Onkol 188:696–701</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YR</Initials>
+                    <FamilyName>Lawrence</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>XA</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>el Naqa</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Radiation dose–volume effects in the brain</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>76</VolumeID>
+                  <FirstPage>S20</FirstPage>
+                  <LastPage>S27</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2009.02.091</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3554255</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20171513</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lawrence YR, Li XA, el Naqa I et al (2010) Radiation dose–volume effects in the brain. Int J Radiat Oncol Biol Phys 76:S20–S27</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Awad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Fogarty</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hong</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Hippocampal avoidance with volumetric modulated arc therapy in melanoma brain metastases—the first Australian experience</ArticleTitle>
+                  <JournalTitle>Radiat Oncol</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>62</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1748-717X-8-62</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3608934</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23497418</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Awad R, Fogarty G, Hong A et al (2013) Hippocampal avoidance with volumetric modulated arc therapy in melanoma brain metastases—the first Australian experience. Radiat Oncol 8:62</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Rades</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Gerdan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Segedin</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Brain metastasis. Prognostic value of the number of involved extracranial organs</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>189</VolumeID>
+                  <FirstPage>996</FirstPage>
+                  <LastPage>1000</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-013-0442-y</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC2c%2Fjs1amsg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24104872</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rades D, Gerdan L, Segedin B et al (2013) Brain metastasis. Prognostic value of the number of involved extracranial organs. Strahlenther Onkol 189:996–1000</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Gaspar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rotman</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Recursive partitioning analysis (RPA) of prognostic factors in three Radiation Therapy Oncology Group (RTOG) brain metastases trials</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>745</FirstPage>
+                  <LastPage>751</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(96)00619-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s3nsFSmsA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>9128946</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gaspar L, Scott C, Rotman M et al (1997) Recursive partitioning analysis (RPA) of prognostic factors in three Radiation Therapy Oncology Group (RTOG) brain metastases trials. Int J Radiat Oncol Biol Phys 37:745–751</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

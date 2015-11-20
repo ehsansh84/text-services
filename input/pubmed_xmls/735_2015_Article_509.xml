@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0509-3" OutputMedium="All">
+          <ArticleInfo ArticleType="News" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>509</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0509-3</ArticleDOI>
+            <ArticleSequenceNumber>14</ArticleSequenceNumber>
+            <ArticleTitle Language="De">freizeit &amp; leben</ArticleTitle>
+            <ArticleFirstPage>52</ArticleFirstPage>
+            <ArticleLastPage>52</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <Body>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Kunst</Heading>
+              <Section2 ID="Sec2" OutputMedium="All">
+                <Heading>Satirische Sicht auf’s Zeitgeschehen</Heading>
+                <Para>Die humorvolle Sicht auf sein Umfeld hat den Deutschen Graphiker A. Paul Weber (1893 — 1980) zu einem umfangreichen satirischen Werk angeregt. Zeigt vor allem das Frühwerk in Inhalt und Form Anklänge an die großen humoristischen Zeichner wie Wilhelm Busch, so schlägt das Schaffen Webers später mehr und mehr den Weg der großen zeitkritischen und satirischen Graphiker wie Francisco Goya und Honoré Daumier ein. Er selbst behandelte seine Graphiken mehr als Botschaften denn als Kunstwerke. Seine Abneigung gegen die Spielregeln des Kunstmarktes, die er mit unlimitierten Auflagen, manchmal auch mit der Verweigerung seiner Signatur verhöhnte, sein Engagement für die Kleinen und Schwachen, trug dazu bei, Weber in der etablierten Kunstszene als suspekt erscheinen zu lassen. Tierbilder, Gesellschaftskritik, Widerstand, Narren, Kunst- und Kunstbetrieb und auch schon Umweltzerstörung und Tod und schließlich die Medizin sind Themenkreise, zu denen Weber seine oft bissigen künstlerischen Kommentare abgegeben hat.</Para>
+                <Para>Noch zu seinen Lebzeiten, 1973, wurde in Ratzeburg in Schleswig-Holstein das A. Paul Weber-Museum für kritische und satirische Graphik eröffnet. Nicht nur sind dort immer wieder neue, thematisch fokussierte Ausstellungen mit Werken Webers zu sehen, sondern auch von anderen Künstlern. Ein Abstecher nach Ratzeburg ist durchaus empfehlenswert!</Para>
+                <Para>Noch bis 2. August ist nun Webers Zyklus Reineke Fuchs zu sehen. Vom 18. September bis 1. November wird der Wiener Graphiker und Maler Herwig Zens mit seinen Graphiken zu Gast sein. Eines seiner großen Dauerthemen ist der Tod — und der kann bei Zens durchaus humorvoll-schelmische Variationen annehmen, wie das Beispiel des „seifenblasenden Todes“ oder auch das gemeinsam mit dem Schriftsteller Heinz Janisch produzierte Buch „Der Tod auf Urlaub: Wegen Urlaub geschlossen!“ zeigt.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Die moderne Gesellschaft steht bei A. Paul Webers Graphiken im satirischen Blickfeld</SimplePara>
+                        <SimplePara><?Start ImageCredit?>Photo: © A. Paul Weber-Museum<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_509_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All">
+              <Heading>Musikfestival</Heading>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>Jazz und mehr in Wien zum Sommerstart</Heading>
+                <Para>Mit einem großen Fest der Stimmen wird das diesjährige Jazzfest auch diesen Sommer wieder den Hauptspielort Wiener Staatsoper beschallen: Mit einem Tribut an Frank Sinatra, der heuer seinen 100. Geburtstag gefeiert hätte, mit einem Duett aus Edel-Pop und Klassik, mit stimmungsvoll-groovenden, motzig-kantigen und avantgardistisch-tänzelnden Klängen. Stilgrenzen sind dazu da, überschritten zu werden!</Para>
+                <Para>Also treffen sich im ehrwürdigen Haus an der Wiener Ringstraße — die ja heuer auch ihr stolzes 150-Jahr-Jubiläum feiert — beispielsweise der US-amerikanische Pop-Poet Rufus Wainright und die österreichische Lied- und Opernsängerin Angelika Kirschschlager zum musikalischen Gedankenaustausch (5. 7.). Aus der Klassik hat sich Bariton und Publikumsliebling Thomas Quasthoff zwar verabschiedet, in Jazz und „leichtem“ Liedgesang bleibt er dem Publikum erfreulicherweise erhalten — und wird sich mit Kollegin Angelika Kirchschlager sowie Allan Harris und Louie Austen in einer Huldigung der Musik des großen Entertainers Frank Sinatra üben (6. 7.). Dem kecken swingenden einerseits, dem swingend-leichtfüßigen Liedgesang andererseits darf man sich bei Caro Emerald (3. 7. ) und dem deutschen Jazzvokalisten Roger Cicero (1. 7.) hingeben oder die zart rauchige Schmelzstimme der US-Amerikanerin Melody Gardot das Gemüt berühren lassen (4. 7.).
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Roger Cicero — Jazzsänger aus Deutschland mit seiner „Experience“-Band</SimplePara>
+                        <SimplePara><?Start ImageCredit?>Photo: © Uli Schneider | vonengels.com<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_509_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Neben der Staatsoper fungieren heuer als mittlerweile Fixstandorte das Porgy&amp;Bess ebenso wie das Wiener Jazzland und weitere Jazzclubs. Als besonders stimmungsvoller Konzertplatz dient der Arkadenhof im Wiener Rathaus, wo unter anderem die Jazz-Diva Dianne Reeves die große Welt des Jazz heraufbeschwören wird.</Para>
+                <Para>
+                  <Emphasis Type="Italic">JazzFestWien 2015: 1. — 11. Juli 2015</Emphasis>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Jazz-Diva Dianne Reeves gastiert im Arkadenhof</SimplePara>
+                        <SimplePara><?Start ImageCredit?>Photo: © Jerris Madison<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_509_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_509.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

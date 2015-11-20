@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0508-4" OutputMedium="All">
+          <ArticleInfo ArticleType="News" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>508</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0508-4</ArticleDOI>
+            <ArticleSequenceNumber>13</ArticleSequenceNumber>
+            <ArticleTitle Language="De">pflegebildung</ArticleTitle>
+            <ArticleFirstPage>50</ArticleFirstPage>
+            <ArticleLastPage>51</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <Body>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Symposium zum Jubiläum</Heading>
+              <Section2 ID="Sec2" OutputMedium="All">
+                <Heading>10 Jahre Institut für Pflegewissenschaft der Universität Wien</Heading>
+                <Para Type="Trailer">Die Universität Wien feiert heuer ihr 650-jähriges Bestehen. Das Institut für Pflegewissenschaft an der Alma Mater Rudolfina würdigt sein zehnjähriges Bestehen im kommenden Herbst mit einem Symposium.</Para>
+                <Para>Mit der Gründung des Instituts für Pflegewissenschaft im Jahr 2005 wurde ein wichtiges Zeichen an der Universität Wien und ein Meilenstein in der Entwicklung der Pflegewissenschaft in Österreich gesetzt. Das Jahr 2015 ist daher nicht nur für die Universität Wien ein Jubiläumsjahr, sondern auch für das Institut für Pflegewissenschaft: „Wir können auf zehn Jahre konsequente und sehr erfolgreiche Aufbau- und Entwicklungsarbeit sowohl in der Forschung als auch in der Lehre zurückblicken“, stellt Univ.-Prof. Dr. Hanna Mayer, Vorstand des Instituts fest.</Para>
+                <Para>Anlässlich des 10-jährigen Bestehens des Instituts für Pflegewissenschaft findet daher am 10. September 2015 ein ganztägiges Symposium unter dem Ehrenschutz von Sozialminister Rudolf Hundstorfer im Kleinen Festsaal der Universität Wien statt. International namhafte Wissenschaftlerinnen und Wegbegleiterinnen des Instituts sind dazu als Referentinnen geladen. Im Zentrum des Symposiums stehen dabei die Reflexion und Diskussion der Entwicklung der Pflegewissenschaft im (deutschsprachigen) Raum, deren Tendenzen und Herausforderungen. Univ.-Prof. Dr. Martin Moers wird dies in einer Keynote aus allgemeiner Perspektive diskutieren, Univ.-Prof. Dr. Sabine Bartholomeyczik, Prof. Dr. Manuela Eicher und Univ.-Prof. Dr. Wilfried Schnepp werden diese Thematik in Vorträgen rund um ihre eigenen Forschungsschwerpunkte und jene des Instituts konkretisieren: Gerontologische Pflege — „alternder Mensch“, onkologische Pflege — „Leben mit Krebs“ und Familienbezogene Pflege — „Family Nursing“. Zusätzlich erhalten die Teilnehmer Einblicke in die Aktivitäten des Instituts für Pflegewissenschaft rund um Forschung und Lehre.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_508_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Begleitend zum Symposium findet neben einer umfangreichen wissenschaftlichen Posterausstellung auch die bereits dritte Verleihung eines durch die SeneCura GmbH finanzierten zweijährigen Dissertationsstipendiums statt. Und dann darf das Fest im geselligen Rahmen ausklingen.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All" Type="Box">
+              <Heading>Symposium</Heading>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>10 Jahre Institut für Pflegewissenschaft</Heading>
+                <Para>
+                  <Emphasis Type="Bold">Termin:</Emphasis> 10. September 2015, 9:00 — 17:00 Uhr</Para>
+                <Para>
+                  <Emphasis Type="Bold">Ort:</Emphasis> Kleiner Festsaal der Universität Wien</Para>
+                <Para>
+                  <Emphasis Type="Bold">Kostenbeitrag:</Emphasis> 20,00 €</Para>
+                <Para>
+                  <Emphasis Type="Bold">Verbindliche Anmeldung:</Emphasis>
+                  <ExternalRef>
+                    <RefSource>www.univie.ac.at/pflegewissenschaft/institut/tpw15/anmeldung</RefSource>
+                    <RefTarget Address="http://www.univie.ac.at/pflegewissenschaft/institut/tpw15/anmeldung" TargetType="URL"/>
+                  </ExternalRef>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec5" OutputMedium="All">
+              <Heading>Pflegebachelor im Kommen!</Heading>
+              <Section2 ID="Sec6" OutputMedium="All">
+                <Heading>Erste „2in1-Modell Pflege“-Absolventen in Schwarzach</Heading>
+                <Para Type="Trailer">In einer Kooperation der Gesundheits- und Krankenpflegeschule Schwarzach mit der Medizinischen Privatuniversität Salzburg (PMU) ist nun eine neue Ausbildung als Kombination aus Diplomlehrgang und Studium möglich, die mit dem akademischen Titel „Bachelor of Science in Nursing (BScN)“ abschließt.</Para>
+                <Para>Die ersten neun Absolventen des „2in1-Modells Pflege“ an der Schule für Gesundheits- und Krankenpflege am Krankenhaus Schwarzach beendeten kürzlich mit der Sponsion an der Privatmedizinischen Universität Salzburg (PMU) ihre Ausbildung mit dem akademischen Titel „Bachelor of Science in Nursing (BScN)“. Das „2in1-Modells Pflege“ kombiniert die klassische Ausbildung mit dem Diplom zum Gehobenen Dienst der Gesundheits- und Krankenpflege mit einem sieben Semester dauernden Studium. Die Pongauer Krankenpflegeschule kooperiert dabei mit der PMU.</Para>
+                <Para>„Der Abschluss dieses Kombimodells berechtigt zur Ausübung des Berufs der Gesundheits- und Krankenpflege und befähigt in besonderer Weise, aktuelles Wissen aus Studien zu beurteilen und anzuwenden“, erklärt Agnes Wimmer, Direktorin der Schule für Gesundheits- und Krankenpflege in Schwarzach. „Das 2in1-Modell Pflege ist akkreditiert und entspricht dem Bolognaprozess. Eine anschließende akademische Laufbahn vom Masterstudium bis zum Doktorat ist ebenfalls möglich.“</Para>
+                <Section3 ID="Sec7" OutputMedium="All">
+                  <Heading>Starke Nachfrage nach Kombi-Ausbildung</Heading>
+                  <Para>Die Gesundheits- und Krankenpflegeschule des Kardinal Schwarzenberg’schen Krankenhauses ist die einzige Schule im Bundesland Salzburg, die in Kooperation mit der Paracelsus Medizinischen Privatuniversität diese Ausbildungs- und Studienform anbietet. „Die Nachfrage danach ist in den vergangenen Jahren stark gestiegen“, betont Wimmer. „Es ist für am Pflegeberuf interessierte Maturanten eindeutig die beste Ausbildung, trotz Studiengebühren und der um ein halbes Jahr längeren Ausbildungszeit.“</Para>
+                  <Para>Das „2in1-Modell Pflege“ lehrt viele Fähigkeiten und Kompetenzen und ermöglicht eine wissenschaftliche Qualifizierung, die in vielen Bereichen wie Spitälern, Hospizen, Rehazentren sowie Alten- und Pflegeheimen angewendet werden kann. Das Studium beinhaltet also eine fundierte theoretische und praktische Ausbildung vor dem Hintergrund einer wissenschaftlichen Basisbildung.</Para>
+                </Section3>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec8" OutputMedium="All">
+              <Heading>Garten und Pflanzen als Therapie</Heading>
+              <Section2 ID="Sec9" OutputMedium="All">
+                <Heading>Im Universitätslehrgang zum Akademischen Gartentherapie-Experten</Heading>
+                <Para Type="Trailer">Gesellschaftlich bedingte Krankheitsbilder wie beispielsweise Depressionen oder Traumatisierungen erfordern Behandlungsmaßnahmen, die über das medikamentöse Spektrum hinausgehen. Gartentherapie stellt eine Intervention dar, die mit hohen Erfolgsquoten und vergleichsweise geringen Kosten eingesetzt werden kann. Die Donau-Universität Krems bietet seit einigen Jahren in Kooperation mit der Hochschule für Agrar- und Umweltpädagogik einen viersemestrigen Lehrgang zum Akademischen Experten in der Gartentherapie an. Der nächste Lehrgang startet im kommenden Herbst.</Para>
+                <Para>Die sich rasch ändernden Bedingungen einer überwiegend leistungsorientierten arbeitsteiligen Gesellschaft, die immer häufiger werdenden Beziehungskrisen, die verstärkte (freiwillige und unfreiwillige) Mobilität, die aus unterschiedlichen Gründen erhöhten Rehabilitationsbedürfnisse und der überproportionale Anstieg der Lebenserwartung in Österreich führen zur vermehrten Inanspruchnahme von Therapieeinrichtungen sowie zu einem steigenden Betreuungs- und Pflegebedarf bei unterschiedlichen Altersgruppen.</Para>
+                <Para>Gartentherapie (GT) als ganzheitliche, kostengünstige, das Individuum mit allen Sinnen ansprechende Maßnahme bietet sich als Lösungsansatz mit hoher Erfolgsquote bei gleichzeitig größerer Arbeitszufriedenheit seitens des Personals an.</Para>
+                <Para>Gartentherapie kann viele Forderungen einer modernen Form der Betreuung, Pflege, Therapie und Rehabilitation erfüllen. Dazu zählen verkürzte Rehabilitationszeiten, Kostensenkung in den Betreuungseinrichtungen, Reduktion von Depressivität, Negativismus und Apathie, Prävention, wie z.B. Training von Gelenk- u. Wirbelsäulen schonendem Arbeiten in realitätsnahem Umfeld, aber auch Zufriedenheit und Aufwertung des Berufsfeldes des pflegenden bzw. betreuenden Personals und soziale Integration und Förderung der persönlichen Begegnung zwischen den Kulturen und Berufsgruppen.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara><?Start ImageCredit?>Photo: © Thomas Voss/fotolia.com<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_508_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Die Österreichische Gartenbau-Gesellschaft hat diese Form der Therapie, die bisher vor allem im englischsprachigen Raum praktiziert wurde, aufgegriffen, im Jahr 2002 das Erste Österreichische Gartentherapiesymposium mit internationalen Vortragenden veranstaltet und damit einen Impuls für den zentraleuropäischen Raum gesetzt. Folgeveranstaltungen bieten seither den Interessierten jährlich die Möglichkeit zum fachlichen Austausch. Auf Grund der starken Resonanz und des steigenden Bedürfnisses nach einer einheitlichen, fachlich fundierten, umfassenden und berufsbegleitenden Ausbildung arbeitete die Österreichische Gartenbau-Gesellschaft dazu einen Ausbildungslehrgang auf höchstmöglichem Qualitätsniveau an.</Para>
+                <Para>Der Universitätslehrgang „Gartentherapie — Garten und Pflanzen als therapeutische Mittel“ wird von der Donau-Universität Krems in Kooperation mit der Hochschule für Agrar- und Umweltpädagogik durchgeführt. Er wird berufsbegleitend angeboten und dauert vier Semester mit 306 geblockten Unterrichtseinheiten, einschließlich Exkursionen und Prüfungswochenende. Weiters sind mindestens 150 Stunden betreute Praktika vorgesehen.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec10" OutputMedium="All" Type="Box">
+              <Heading>Viele neue Bachelors of Science in Nursing</Heading>
+              <Para>Insgesamt 75 neue „Bachelor of Science in Nursing“ feierten Anfang April ihre Sponsion an der Paracelsus Medizinischen Privatuniversität Salzburg (PMU). 56 Studenten hatten das duale Bachelorstudium Pflegewissenschaft 2in1 absolviert, 19 das Bachelorstudium Pflegewissenschaft Online. Sie alle erhielten ihre Dekrete über die Erlangung des akademischen Grades „Bachelor of Science in Nursing“ von Univ.-Prof. Dr. Christian Pirich, dem Dekan für Studium und Lehre.
+<Figure Category="Standard" Float="Yes" ID="Fig3">
+                  <MediaObject ID="MO3">
+                    <ImageObject Color="Color" FileRef="MediaObjects/735_2015_508_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_508.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9283-0" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9283</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9283-0</ArticleDOI>
+            <ArticleSequenceNumber>10</ArticleSequenceNumber>
+            <ArticleTitle Language="En">An Algorithm for a Positive Solution of Arbitrary Fully Fuzzy Linear System</ArticleTitle>
+            <ArticleFirstPage>436</ArticleFirstPage>
+            <ArticleLastPage>465</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>G.</GivenName>
+                  <FamilyName>Malkaw</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>gassan_malkawi@yahoo.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>N.</GivenName>
+                  <FamilyName>Ahmad</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>H.</GivenName>
+                  <FamilyName>Ibrahim</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>College of Arts &amp; Sciences</OrgDivision>
+                <OrgName>University Utara Malaysia</OrgName>
+                <OrgAddress>
+                  <Postcode>06010</Postcode>
+                  <City>Sintok</City>
+                  <State>Kedah</State>
+                  <Country>Malaysia</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Mathematics Department, college of Arts &amp; Sciences</OrgDivision>
+                <OrgName>Northern Borders University</OrgName>
+                <OrgAddress>
+                  <City>Rafha</City>
+                  <Country>Kingdom of Saudi Arabia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">This paper proposes a new computational method to obtain a positive solution for arbitrary fully fuzzy linear system (FFLS). The new method transforms the coefficients in FFLS to a one-block matrix. As a result, none of the fuzzy operations are needed. This method can provide a solution regardless of the size of a system. Some necessary theorems are proved and new numerical examples are presented to illustrate the proposed method.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>fuzzy linear system</Keyword>
+              <Keyword>fully fuzzy linear system</Keyword>
+              <Keyword>fuzzy number</Keyword>
+              <Keyword>triangular fuzzy number</Keyword>
+              <Keyword>block matrix</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9283.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Abbasbandy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Hashemi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Solving fully fuzzy linear systems by using implicit Gauss–Cholesky algorithm</ArticleTitle>
+                  <JournalTitle>Comput. Math. Model.</JournalTitle>
+                  <VolumeID>23</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>107</FirstPage>
+                  <LastPage>123</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10598-012-9123-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1253.65037</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3104658</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Abbasbandy and M. S. Hashemi, “Solving fully fuzzy linear systems by using implicit Gauss–Cholesky algorithm,” <Emphasis Type="Italic">Comput. Math. Model.</Emphasis>, <Emphasis Type="Bold">23</Emphasis>, No. 1, 107–123 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Allahviranloo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Mikaeilvand</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Fully Fuzzy Linear Systems Solving Using MOLP</ArticleTitle>
+                  <JournalTitle>World Appl. Sci. J.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>2268</FirstPage>
+                  <LastPage>2273</LastPage>
+                </BibArticle>
+                <BibUnstructured>T. Allahviranloo and N. Mikaeilvand, “Fully Fuzzy Linear Systems Solving Using MOLP,” <Emphasis Type="Italic">World Appl. Sci. J.,</Emphasis>
+                  <Emphasis Type="Bold">12,</Emphasis> No. 12, 2268–2273 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Allahviranloo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Mikaeilvand</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Nonzero solutions of the fully fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Appl. Comput. Math.</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>271</FirstPage>
+                  <LastPage>282</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1220.65034</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2841138</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Allahviranloo and N. Mikaeilvand, “Nonzero solutions of the fully fuzzy linear systems,” <Emphasis Type="Italic">Appl. Comput. Math.,</Emphasis>
+                  <Emphasis Type="Bold">10,</Emphasis> No. 2, 271–282 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Allahviranloo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Haghi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ghanbari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">The nearest symmetric fuzzy solution for a symmetric fuzzy linear system</ArticleTitle>
+                  <JournalTitle>An. St. Univ. Ovidius Constanta</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>151</FirstPage>
+                  <LastPage>172</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1274.15045</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2928415</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Allahviranloo, E. Haghi, and M. Ghanbari, “The nearest symmetric fuzzy solution for a symmetric fuzzy linear system,” <Emphasis Type="Italic">An. St. Univ. Ovidius Constanta,</Emphasis>
+                  <Emphasis Type="Bold">20</Emphasis>, 151–172 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Babbar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bansal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">“Solving fully fuzzy linear system with arbitrary triangular fuzzy numbers (m, α, β)”</ArticleTitle>
+                  <JournalTitle>Soft Comput</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>691</FirstPage>
+                  <LastPage>702</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00500-012-0941-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1264.15031</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>N. Babbar, A. Kumar, and A. Bansal, “Solving fully fuzzy linear system with arbitrary triangular fuzzy numbers (<Emphasis Type="Italic">m</Emphasis>, α, β),” <Emphasis Type="Italic">Soft Comput</Emphasis>, <Emphasis Type="Bold">17,</Emphasis> No. 4, 691–702 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Buckley</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Solving fuzzy equations in economics and finance</ArticleTitle>
+                  <JournalTitle>Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>289</FirstPage>
+                  <LastPage>296</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0165-0114(92)90344-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0769.90023</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1178170</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Buckley, “Solving fuzzy equations in economics and finance,” <Emphasis Type="Italic">Fuzzy Sets Syst.,</Emphasis>
+                  <Emphasis Type="Bold">48</Emphasis>, 289–296 (1992).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Buckley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Qu</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Solving systems of linear fuzzy equations</ArticleTitle>
+                  <JournalTitle>Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>33</FirstPage>
+                  <LastPage>43</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0165-0114(91)90019-M</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0741.65023</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1127989</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Buckley and Y. Qu, “Solving systems of linear fuzzy equations,” <Emphasis Type="Italic">Fuzzy Sets Syst.,</Emphasis>
+                  <Emphasis Type="Bold">43</Emphasis>
+                  <Emphasis Type="Italic">,</Emphasis> 33–43 (1991).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Dubois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Prade</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Systems of linear fuzzy constraints</ArticleTitle>
+                  <JournalTitle>Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>48</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0165-0114(80)90004-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0425.94029</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>551258</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D. Dubois and H. Prade, “Systems of linear fuzzy constraints,” <Emphasis Type="Italic">Fuzzy Sets Syst.,</Emphasis>
+                  <Emphasis Type="Bold">3</Emphasis>, 37–48 (1980).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Dubois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Prade</FamilyName>
+                  </BibAuthorName>
+                  <Year>1978</Year>
+                  <ArticleTitle Language="En">Operations on fuzzy numbers</ArticleTitle>
+                  <JournalTitle>Int. J. Sys. Sci.</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>613</FirstPage>
+                  <LastPage>626</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/00207727808941724</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0383.94045</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>491199</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D. Dubois and H. Prade, “Operations on fuzzy numbers,” <Emphasis Type="Italic">Int. J. Sys. Sci.,</Emphasis>
+                  <Emphasis Type="Bold">9,</Emphasis> No. 6, 613–626 (1978).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Dehghan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Hashemi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Iterative solution of fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Appl. Math. Comput.</JournalTitle>
+                  <VolumeID>175</VolumeID>
+                  <FirstPage>645</FirstPage>
+                  <LastPage>674</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.amc.2005.07.033</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1137.65336</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2216371</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Dehghan and B. Hashemi, “Iterative solution of fuzzy linear systems,” <Emphasis Type="Italic">Appl. Math. Comput.,</Emphasis>
+                  <Emphasis Type="Bold">175</Emphasis>, 645–674 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Dehghan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Hashemi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Solution of the fully fuzzy linear systems using the decomposition procedure</ArticleTitle>
+                  <JournalTitle>Appl. Math. Comput.</JournalTitle>
+                  <VolumeID>182</VolumeID>
+                  <FirstPage>1568</FirstPage>
+                  <LastPage>1580</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.amc.2006.05.043</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1111.65040</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2282597</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Dehghan and B. Hashemi, “Solution of the fully fuzzy linear systems using the decomposition procedure,” <Emphasis Type="Italic">Appl. Math. Comput.</Emphasis>
+                  <Emphasis Type="Bold">182</Emphasis>, 1568–1580 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Dehghan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Hashemi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ghatee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Computational methods for solving fully fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Appl. Math. Comput.</JournalTitle>
+                  <VolumeID>179</VolumeID>
+                  <FirstPage>328</FirstPage>
+                  <LastPage>343</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.amc.2005.11.124</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1101.65040</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2260881</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Dehghan, B. Hashemi, and M. Ghatee, “Computational methods for solving fully fuzzy linear systems,” <Emphasis Type="Italic">Appl. Math. Comput</Emphasis>., <Emphasis Type="Bold">179</Emphasis>, 328–343 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Dehghan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Hashemi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ghatee</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">“Solution of the fully fuzzy linear systems using iterative techniques”, Chaos</ArticleTitle>
+                  <JournalTitle>Solitons Fractals</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>316</FirstPage>
+                  <LastPage>336</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.chaos.2006.03.085</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1144.65021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2327410</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Dehghan, B. Hashemi, and M. Ghatee, “Solution of the fully fuzzy linear systems using iterative techniques,” <Emphasis Type="Italic">Chaos, Solitons Fractals</Emphasis>, <Emphasis Type="Bold">34</Emphasis>, 316–336 (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ezzati</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Solving fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Soft Comput.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>193</FirstPage>
+                  <LastPage>197</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00500-009-0537-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1242.65055</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Ezzati, “Solving fuzzy linear systems,” <Emphasis Type="Italic">Soft Comput.,</Emphasis>
+                  <Emphasis Type="Bold">15</Emphasis>, 193–197 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ezzati</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Khezerloo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Yousefzadeh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Solving fully fuzzy linear system of equations in general form</ArticleTitle>
+                  <JournalTitle>J. Fuzzy Set Valued Anal.</JournalTitle>
+                  <VolumeID>2012</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>11</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.5899/2012/jfsva-00117</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3037938</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Ezzati, S. Khezerloo, and A. Yousefzadeh, “Solving fully fuzzy linear system of equations in general form,” <Emphasis Type="Italic">J. Fuzzy Set Valued Anal.</Emphasis>, <Emphasis Type="Bold">2012</Emphasis>, 1–11 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Friedman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ming</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kandel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>209</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0165-0114(96)00270-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0929.15004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1614810</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Friedman, M. Ming, and A. Kandel, “Fuzzy linear systems,” <Emphasis Type="Italic">Fuzzy Sets Syst.</Emphasis>, <Emphasis Type="Bold">96</Emphasis>, 201–209 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>J. Gao and Q. Zhang, “A unified iterative scheme for solving fully fuzzy linear system,” <Emphasis Type="Italic">Global Congress on Intelligent Systems</Emphasis>, 431–435 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kaufmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Gupta</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <BookTitle>Introduction to Fuzzy Arithmetic</BookTitle>
+                  <PublisherName>Van Nostrand Reinhold</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0754.26012</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>A. Kaufmann and M. M. Gupta, <Emphasis Type="Italic">Introduction to Fuzzy Arithmetic,</Emphasis> Van Nostrand Reinhold, New York (1991).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Babbar</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">A new computational method to solve fully fuzzy linear systems for negative coefficient matrix</ArticleTitle>
+                  <JournalTitle>Int. J. Manuf. Technol. Manag.</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>19</FirstPage>
+                  <LastPage>23</LastPage>
+                </BibArticle>
+                <BibUnstructured>A. Kumar and N. Babbar, “A new computational method to solve fully fuzzy linear systems for negative coefficient matrix,” <Emphasis Type="Italic">Int. J. Manuf. Technol. Manag.,</Emphasis>
+                  <Emphasis Type="Bold">25</Emphasis>, 19–23 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bansal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <NoInitials/>
+                    <FamilyName>Neetu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">“Solution of fully fuzzy linear system with arbitrary coefficients,”</ArticleTitle>
+                  <JournalTitle>Int. J. Appl. Math. Comput.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>232</FirstPage>
+                  <LastPage>237</LastPage>
+                </BibArticle>
+                <BibUnstructured>A. Kumar, A. Bansal, and Neetu, “Solution of fully fuzzy linear system with arbitrary coefficients,” <Emphasis Type="Italic">Int. J. Appl. Math. Comput.,</Emphasis>
+                  <Emphasis Type="Bold">3,</Emphasis> No.3, 232–237 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <NoInitials/>
+                    <FamilyName>Neetu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bansal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">“A new computational method for solving fully fuzzy linear systems of triangular fuzzy numbers,”</ArticleTitle>
+                  <JournalTitle>Fuzzy Inform. Eng.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>73</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s12543-012-0101-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1259.65063</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2909986</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Kumar, Neetu, and A. Bansal, “A new computational method for solving fully fuzzy linear systems of triangular fuzzy numbers,” <Emphasis Type="Italic">Fuzzy Inform. Eng.,</Emphasis>
+                  <Emphasis Type="Bold">4,</Emphasis> No. 1, 63–73 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibUnstructured>A. Kumar, Neetu, and A. Bansal, “A new approach for solving fully fuzzy linear systems,” <Emphasis Type="Italic">Adv. Fuzzy Syst.</Emphasis>, 1–8 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kumar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <NoInitials/>
+                    <FamilyName>Neetu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bansal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">“A new method to solve fully fuzzy linear system with trapezoidal fuzzy numbers,”</ArticleTitle>
+                  <JournalTitle>Can. J. Sci. Eng. Math.</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>45</FirstPage>
+                  <LastPage>56</LastPage>
+                </BibArticle>
+                <BibUnstructured>A. Kumar, Neetu, and A. Bansal, “A new method to solve fully fuzzy linear system with trapezoidal fuzzy numbers,” <Emphasis Type="Italic">Can. J. Sci. Eng. Math.,</Emphasis>
+                  <Emphasis Type="Bold">1,</Emphasis> No. 3, 45–56 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H-K</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">On the solution of fully fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Int. J. Comput. Math. Sci.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>29</FirstPage>
+                  <LastPage>33</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2563269</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H.-K Liu, “On the solution of fully fuzzy linear systems,” <Emphasis Type="Italic">Int. J. Comput. Math. Sci.,</Emphasis>
+                  <Emphasis Type="Bold">4,</Emphasis> No. 1, 29–33 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibUnstructured>G. Malkawi, N. Ahmad, and H. Ibrahim, “Revisiting fuzzy approach for solving system of linear equations,” ICDeM 2012, 13–16 March, Kedah, Malaysia, 157–164 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Malkawi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Ahmad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Ibrahim</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Solving fully fuzzy linear system with the necessary and sufficient condition to have a positive solution</ArticleTitle>
+                  <JournalTitle>Appl. Math.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>1003</FirstPage>
+                  <LastPage>1019</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>3157595</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>G. Malkawi, N. Ahmad, and H. Ibrahim, “Solving fully fuzzy linear system with the necessary and sufficient condition to have a positive solution,” <Emphasis Type="Italic">Appl. Math.</Emphasis>, <Emphasis Type="Bold">8</Emphasis>, No. 3, 1003–1019 (2014).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibUnstructured>G. Malkawi, N. Ahmad, and H. Ibrahim, “A note on solving fully fuzzy linear systems by using implicit Gauss–Cholesky algorithm,” <Emphasis Type="Italic">Comput. Math. Model.</Emphasis>, Accepted (2014).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibUnstructured>G. Malkawi, N. Ahmad, and H. Ibrahim, “Row reduced echelon form for solving fully fuzzy system with unknown coefficients,” <Emphasis Type="Italic">J. Fuzzy Set Valued Anal.</Emphasis>, <Emphasis Type="Bold">2014</Emphasis>, 1Р18 (2014).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibUnstructured>G. Malkawi, N. Ahmad, and H. Ibrahim, “On the weakness of linear programming to interpret the nature of solution of fully fuzzy linear system,” <Emphasis Type="Italic">J. Uncertainty Anal. Appl.,</Emphasis>
+                  <Emphasis Type="Bold">2</Emphasis>, No. 1, 1Р23 (2014).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibUnstructured>G. Malkawi, N. Ahmad, and H. Ibrahim, “A note on the nearest symmetric fuzzy solution for a symmetric fuzzy linear system,” <Emphasis Type="Italic">An. St. Univ. Ovidius Constanta</Emphasis>, Accepted (2013b).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Friedman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ming</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Kandel</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>96</VolumeID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>209</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0165-0114(96)00270-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0929.15004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1614810</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Friedman, M. Ming, and A. Kandel, “Fuzzy linear systems,” <Emphasis Type="Italic">Fuzzy Sets Syst</Emphasis>., <Emphasis Type="Bold">96</Emphasis>, 201–209 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mosleh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Otadi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Khanmirzaie</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Decomposition method for solving fully fuzzy linear systems</ArticleTitle>
+                  <JournalTitle>Iran. J. Optim.</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>188</FirstPage>
+                  <LastPage>198</LastPage>
+                </BibArticle>
+                <BibUnstructured>M. Mosleh, M. Otadi, and A. Khanmirzaie, “Decomposition method for solving fully fuzzy linear systems,” <Emphasis Type="Italic">Iran. J. Optim.</Emphasis>, <Emphasis Type="Bold">1</Emphasis>, 188–198 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Muzziolia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Reynaertsb</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Fuzzy linear systems of the form <Emphasis Type="Italic">A</Emphasis>
+                    <Subscript>1<Emphasis Type="Italic">x</Emphasis>
+                    </Subscript>+<Emphasis Type="Italic">b</Emphasis>
+                    <Subscript>1</Subscript>=<Emphasis Type="Italic">A</Emphasis>
+                    <Subscript>
+                      <Emphasis Type="Italic">2x</Emphasis>
+                    </Subscript>+<Emphasis Type="Italic">b</Emphasis>
+                    <Subscript>2</Subscript>
+                  </ArticleTitle>
+                  <JournalTitle>Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>157</VolumeID>
+                  <FirstPage>939</FirstPage>
+                  <LastPage>951</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.fss.2005.09.005</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Muzziolia and H. Reynaertsb, “Fuzzy linear systems of the form <Emphasis Type="Italic">A</Emphasis>
+                  <Subscript>1<Emphasis Type="Italic">x</Emphasis>
+                  </Subscript>+<Emphasis Type="Italic">b</Emphasis>
+                  <Subscript>1</Subscript>=<Emphasis Type="Italic">A</Emphasis>
+                  <Subscript>
+                    <Emphasis Type="Italic">2x</Emphasis>
+                  </Subscript>+<Emphasis Type="Italic">b</Emphasis>
+                  <Subscript>2</Subscript>
+                  <Emphasis Type="Italic">,</Emphasis>” <Emphasis Type="Italic">Fuzzy Sets Syst.,</Emphasis>
+                  <Emphasis Type="Bold">157</Emphasis>, 939–951 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SH</Initials>
+                    <FamilyName>Nasseri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Zahmatkesh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Huang method for solving fully fuzzy linear system of equations</ArticleTitle>
+                  <JournalTitle>J. Math. Comput. Sci.</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>5</LastPage>
+                </BibArticle>
+                <BibUnstructured>S. H. Nasseri and F. Zahmatkesh, “Huang method for solving fully fuzzy linear system of equations,” <Emphasis Type="Italic">J. Math. Comput. Sci.,</Emphasis>
+                  <Emphasis Type="Bold">1</Emphasis>, No. 1, 1–5 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SH</Initials>
+                    <FamilyName>Nasseri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sohrabi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Ardil</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Solving fully fuzzy linear systems by use of a certain decomposition of the coefficient matrix</ArticleTitle>
+                  <JournalTitle>Int. J. Comput. Math. Sci.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <FirstPage>140</FirstPage>
+                  <LastPage>142</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2461333</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. H. Nasseri, M. Sohrabi, and E. Ardil, “Solving fully fuzzy linear systems by use of a certain decomposition of the coefficient matrix,” <Emphasis Type="Italic">Int. J. Comput. Math. Sci.,</Emphasis>
+                  <Emphasis Type="Bold">3</Emphasis>, 140–142 (2008).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Nasseri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sohrabi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Cholesky decomposition for solving the fully fuzzy linear system of equations</ArticleTitle>
+                  <JournalTitle>Int. J. Appl. Math.</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <IssueID>5</IssueID>
+                  <FirstPage>689</FirstPage>
+                  <LastPage>696</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1180.65035</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2554742</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Nasseri and M. Sohrabi, “Cholesky decomposition for solving the fully fuzzy linear system of equations,” <Emphasis Type="Italic">Int. J. Appl. Math.,</Emphasis>
+                  <Emphasis Type="Bold">22,</Emphasis> No. 5, 689–696 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Nasseri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Matinfar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Kheiri</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Greville’s method for the fully fuzzy linear system of equations</ArticleTitle>
+                  <JournalTitle>Adv Fuzzy Sets Syst.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>301</FirstPage>
+                  <LastPage>3011</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1178.65038</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2591011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Nasseri, M. Matinfar, and Z. Kheiri, “Greville’s method for the fully fuzzy linear system of equations,” <Emphasis Type="Italic">Adv Fuzzy Sets Syst.,</Emphasis>
+                  <Emphasis Type="Bold">4</Emphasis>, 301–3011 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR38">
+                <CitationNumber>38.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Nasseri</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Taleshian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Behmanesh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sohrabi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">A Qr–decomposition of the mean value matrix of the coefficient matrix for solving the fully fuzzy linear system</ArticleTitle>
+                  <JournalTitle>Int. J. Appl. Math.</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <FirstPage>473</FirstPage>
+                  <LastPage>480</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1271.15017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3113952</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Nasseri, F. Taleshian, E. Behmanesh, and M. Sohrabi, “A Qr–decomposition of the mean value matrix of the coefficient matrix for solving the fully fuzzy linear system,” <Emphasis Type="Italic">Int. J. Appl. Math.,</Emphasis>
+                  <Emphasis Type="Bold">25</Emphasis>, 473–480 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR39">
+                <CitationNumber>39.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Otadi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mosleh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Solving fully fuzzy matrix equations</ArticleTitle>
+                  <JournalTitle>Appl. Math. Model.</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>6114</FirstPage>
+                  <LastPage>6121</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.apm.2012.02.005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2968450</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Otadi and M. Mosleh, “Solving fully fuzzy matrix equations,” <Emphasis Type="Italic">Appl. Math. Model.,</Emphasis>
+                  <Emphasis Type="Bold">36,</Emphasis> No. 12, 6114–6121 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR40">
+                <CitationNumber>40.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Otadi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mosleh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Abbasbandy</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Numerical solution of fully fuzzy linear systems by fuzzy neural network</ArticleTitle>
+                  <JournalTitle>Soft Comput.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>1513</FirstPage>
+                  <LastPage>1522</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00500-010-0685-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1242.65056</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Otadi, M. Mosleh, and S. Abbasbandy, “Numerical solution of fully fuzzy linear systems by fuzzy neural network,” <Emphasis Type="Italic">Soft Comput.</Emphasis>, <Emphasis Type="Bold">15</Emphasis>, 1513–1522 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR41">
+                <CitationNumber>41.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Zadeh</FamilyName>
+                  </BibAuthorName>
+                  <Year>1965</Year>
+                  <ArticleTitle Language="En">Fuzzy sets</ArticleTitle>
+                  <JournalTitle>Inform. Control</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>338</FirstPage>
+                  <LastPage>353</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0019-9958(65)90241-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0139.24606</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>219427</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L. A. Zadeh, “Fuzzy sets,” <Emphasis Type="Italic">Inform. Control,</Emphasis>
+                  <Emphasis Type="Bold">8</Emphasis>, 338–353 (1965).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR42">
+                <CitationNumber>42.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Zadeh</FamilyName>
+                  </BibAuthorName>
+                  <Year>1975</Year>
+                  <ArticleTitle Language="En">The concept of a linguistic variable and its application to approximate reasoning–II</ArticleTitle>
+                  <JournalTitle>Inform. Sci.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>301</FirstPage>
+                  <LastPage>357</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0020-0255(75)90046-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0404.68074</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>386370</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L. A. Zadeh, “The concept of a linguistic variable and its application to approximate reasoning–II,” <Emphasis Type="Italic">Inform. Sci.</Emphasis>, <Emphasis Type="Bold">8</Emphasis>, 301–357 (1975).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

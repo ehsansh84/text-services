@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9280-3" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9280</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9280-3</ArticleDOI>
+            <ArticleSequenceNumber>7</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Machine Learning Methods in Authentication Problems Using Password Keystroke Dynamics</ArticleTitle>
+            <ArticleCategory>Informatics</ArticleCategory>
+            <ArticleFirstPage>398</ArticleFirstPage>
+            <ArticleLastPage>407</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>V.</GivenName>
+                  <GivenName>Yu.</GivenName>
+                  <FamilyName>Kaganov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>vladhid@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>A.</GivenName>
+                  <GivenName>K.</GivenName>
+                  <FamilyName>Korolev</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>ak@koroandr.me</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>M.</GivenName>
+                  <GivenName>N.</GivenName>
+                  <FamilyName>Krylov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>sqarert@gmail.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>I.</GivenName>
+                  <GivenName>V.</GivenName>
+                  <FamilyName>Mashechkin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>mash@cs.msu.su</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>M.</GivenName>
+                  <GivenName>I.</GivenName>
+                  <FamilyName>Petrovskii</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>michael@cs.msu.su</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Faculty of Computational Mathematics and Cybernetics</OrgDivision>
+                <OrgName>Moscow State University</OrgName>
+                <OrgAddress>
+                  <City>Moscow</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">We examine the problem of user authentication from keystroke dynamics. A new static authentication method that collects information about user keystrokes is described. Its applicability to the authentication problem is substantiated by experiments and the optimal conditions for the implementation of the method are chosen.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>authentication</Keyword>
+              <Keyword>static authentication</Keyword>
+              <Keyword>machine learning</Keyword>
+              <Keyword>kernel</Keyword>
+              <Keyword>fuzzy sets</Keyword>
+              <Keyword>keyboard</Keyword>
+              <Keyword>behavioral analysis</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Prikladnaya Matematika i Informatika, No. 46, 2014, pp. 89–102.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9280.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Goldwasser</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Micali</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RL</Initials>
+                    <FamilyName>Rivest</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">A digital signature scheme secure against adaptive chosen-message attacks</ArticleTitle>
+                  <JournalTitle>SIAM J. Computing</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>281</FirstPage>
+                  <LastPage>308</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/0217017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0644.94012</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>935341</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Goldwasser, S. Micali, and R. L. Rivest, “A digital signature scheme secure against adaptive chosen-message attacks,” <Emphasis Type="Italic">SIAM J. Computing</Emphasis>, 17, No. 2, 281–308 (1988).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>M. Krause and H. F. Tipton, <Emphasis Type="Italic">Handbook of Information Security Management</Emphasis>, Auerbach Publications— CRC Press.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>E. Lau, X. Liu, C. Xiao, and X. Yu, “Enhanced user authentication through keystroke biometrics,” <Emphasis Type="Italic">Computer and Network Security, Final project report</Emphasis>, MIT (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>F. W. M. H.Wong, A. S. M. Supian, and A. F. Ismail, “Enhanced user authentication through typing biometrics with artificial neural networks and k-nearest neighbor algorithm,” <Emphasis Type="Italic">IEEE</Emphasis>, 911–915 (2001).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Bergadano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Gunetti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Picardi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">User authentication through keystroke dynamics</ArticleTitle>
+                  <JournalTitle>ACM Trans. Information and System Security</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>367</FirstPage>
+                  <LastPage>397</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/581271.581272</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>F. Bergadano, D. Gunetti, and C. Picardi, “User authentication through keystroke dynamics,” <Emphasis Type="Italic">ACM Trans. Information and System Security</Emphasis>, 5, No. 4, 367–397 (Nov. 2002).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Saggio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Costantini</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Todisco</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Cumulative and ratio time evaluations in keystroke dynamics to improve the password security mechanism</ArticleTitle>
+                  <JournalTitle>J. Comput. Inform. Technol.</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>4</FirstPage>
+                  <LastPage>11</LastPage>
+                </BibArticle>
+                <BibUnstructured>G. Saggio, G. Costantini, and M. Todisco, “Cumulative and ratio time evaluations in keystroke dynamics to improve the password security mechanism,” <Emphasis Type="Italic">J. Comput. Inform. Technol.</Emphasis>, 1, No. 2, 4–11 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>K. S. Sung and S. Cho, “GA SVM wrapper ensemble for keystroke dynamics authentication,” <Emphasis Type="Italic">Proc. Int. Conf. Biometrics</Emphasis>, ICB, Hong Kong (2004), pp. 654–660.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>V. Yu. Kaganov, A. V. Korolev, M. N. Krylov, I. V. Mashechkin, and M. I. Petrovskii, “Active authentication by analysis of keystroke dynamics,” <Emphasis Type="Italic">Informatika i Ee Primeneniya</Emphasis>, 7, No. 3 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>KS</Initials>
+                    <FamilyName>Killourhy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RA</Initials>
+                    <FamilyName>Maxion</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <BookTitle>Comparing Anomaly Detectors for Keystroke Dynamics</BookTitle>
+                  <PublisherName>IEEE Computer Society Press</PublisherName>
+                  <PublisherLocation>Los Alamitos CA</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>K. S. Killourhy and R. A. Maxion, <Emphasis Type="Italic">Comparing Anomaly Detectors for Keystroke Dynamics</Emphasis>, IEEE Computer Society Press, Los Alamitos CA (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MI</Initials>
+                    <FamilyName>Petrovsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">“Outlier detection algorithms in data mining systems”</ArticleTitle>
+                  <JournalTitle>Programming and Computer Software</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>228</FirstPage>
+                  <LastPage>237</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1024974810270</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2048082</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. I. Petrovsky, “Outlier detection algorithms in data mining systems,” <Emphasis Type="Italic">Programming and Computer Software</Emphasis>, 29, No. 4, 228–237 (2003).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>B. Scholkopf and A. Smola, <Emphasis Type="Italic">Learning with Kernels</Emphasis> (2002).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Zadeh</FamilyName>
+                  </BibAuthorName>
+                  <Year>1965</Year>
+                  <ArticleTitle Language="En">“Fuzzy sets”</ArticleTitle>
+                  <JournalTitle>Information and Control</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>338</FirstPage>
+                  <LastPage>353</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0019-9958(65)90241-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0139.24606</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>219427</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L. A. Zadeh, “Fuzzy sets,” <Emphasis Type="Italic">Information and Control</Emphasis>, 8, No. 3, 338–353 (1965).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>R. C. Team, <Emphasis Type="Italic">A Language and Environment for Statistical Computing</Emphasis>, Foundation for Statistical Computing (2005).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

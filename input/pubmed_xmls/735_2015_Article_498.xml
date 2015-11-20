@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0498-2" OutputMedium="All">
+          <ArticleInfo ArticleType="Interview" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>498</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0498-2</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="De">„Der Reformwille ist oft bestürzend verhalten“</ArticleTitle>
+            <ArticleSubTitle Language="De">Gesetzliche Rahmenbedingungen für die Rolle der Gesundheits- und Krankenpflege</ArticleSubTitle>
+            <ArticleFirstPage>4</ArticleFirstPage>
+            <ArticleLastPage>5</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <InstitutionalAuthor AffiliationIDS="Aff1">
+                <InstitutionalAuthorName>Springer Fachmedien Wiesbaden</InstitutionalAuthorName>
+              </InstitutionalAuthor>
+              <Affiliation ID="Aff1">
+                <OrgAddress>
+                  <City>Wiesbaden</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para>
+              <Figure Category="Standard" Float="Yes" ID="Fig1">
+                <Caption Language="De">
+                  <CaptionContent>
+                    <SimplePara>
+                      <Emphasis Type="Bold">Ursula Frohner</Emphasis> Präsidentin des ÖGKV</SimplePara>
+                    <SimplePara><?Start ImageCredit?>Photo: © Kienast<?End ImageCredit?>
+                    </SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO1">
+                  <ImageObject Color="Color" FileRef="MediaObjects/735_2015_498_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                </MediaObject>
+              </Figure> Mit sachlicher Hartnäckigkeit hat der Österreichische Gesundheits- und Krankenpflegeverband in den vergangenen Jahren die veränderte Rolle der Berufsgruppe im österreichischen Gesundheitssystem thematisiert und neue Berufsfelder und Kompetenzen definiert. Dies soll sich demnächst in der Ausbildung auf Hochschulniveau ebenso wie in einem Berufsregister widerspiegeln. Kompetenzen, Aufgabenfelder und Zukunftsaspekte der Gesundheits- und Krankenpflege stehen vom 10. bis 12. Juni beim Gesundheits- und Krankenpflegekongress in Graz zur Diskussion. Aktuelle Fragestellungen beleuchtet Ursula Frohner, Präsidentin des ÖGKV, im Interview mit procare.</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Wieweit ist die Reform zur Ausbildung der Gesundheits- und Krankenpflege?</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Die Versorgungssicherheit der Menschen und die Aufrechterhaltung der Systeme sind zwingend daran gebunden, wie die Ausbildung für den gehobenen Dienst der Gesundheits- und Krankenpflege künftig gestaltet ist. Zentraler Punkt dabei ist, die längst überfällige Überführung in den tertiären Bildungsbereich. Seit 2008 besteht die Möglichkeit, die Ausbildung auch an Fachhochschulen oder Universitäten abzulegen. Parallel dazu laufen derzeit die herkömmlichen Diplomausbildungslehrgänge ohne Bakkalaureatsabschluss weiter. Um diese Doppelgleisigkeit aufzuheben, haben die Landesgesundheitsräte im Frühsommer 2014 beschlossen, die herkömmliche Ausbildungsform für den gehobenen Dienst der Gesundheits- und Krankenpflege auslaufen zu lassen. Dementsprechend wurde dieser Punkt auch in den diversen Diskussionsentwürfen zur Novelle des Gesundheits- und Krankenpflegegesetzes abgebildet. Mittlerweile gibt es allerdings Diskussionsentwürfe, wo dieser Punkt nicht mehr enthalten ist, sodass die Vermutung naheliegt, dass die Überführung der Ausbildung des gehobenen Gesundheits- und Krankenpflegedienstes mit Bakkalaureatsabschluss in Frage gestellt ist und wieder auf die lange Bank geschoben wird. Es kommen derzeit ganz unterschiedliche Interessenslagen zum Zuge. Etwa Themen der Finanzierungszuständigkeiten von Bund und Ländern, oder einmal mehr das in Fragestellen der Notwendigkeit von akademischer Ausbildung für Pflegeberufe. Ein weiterer wichtiger Punkt sind Ausbildungsdauer und -inhalt der derzeitigen Pflegehilfe — der künftigen Pflegeassistenten. Das Basismodul von 1600 Ausbildungsstunden ist soweit klar. Das daran anschließende Modul für die Pflegefachassistenz wird sich am Bedarf des jeweiligen Settings orientieren. Zentraler Dreh- und Angelpunkt in der Patientenversorgung ist jedoch nach wie vor der gehobene Dienst für Gesundheits- und Krankenpflege. Daher ist die Steuerung des Pflegeprozesses seine Aufgabe.</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Wieweit ist man mit der Registrierungspflicht für alle Angehörigen der Gesundheits- und Krankenpflege in Österreich bisher gekommen?</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Der verpflichtende Eintrag in eine Berufsliste ist ein wichtiger Schritt im Professionalisierungsprozess der Gesundheits- und Krankenpflege. Bei der Registrierung geht es darum, Qualität und Fachkompetenz transparent zu machen, sowie valide Daten für eine Angebots- und Bedarfsplanung in der Gesundheits- und Krankenpflege zu erhalten. Das ist von hohem Interesse für die Menschen, die Pflegeleistungen brauchen, aber auch für die Angehörigen der Pflegefachberufe selbst, die ihre Berufskarriere planen wollen, beispielsweise im europäischen Raum arbeiten möchten. Darüber hinaus sind für die Umsetzung der EU-Mobilitätsrichtlinie dann schon wichtige Vorarbeiten für die Ausstellung von Berufsausweisen auf den Weg gebracht. Zu diesem wichtigen Thema führte der ÖGKV in den letzten Monaten sehr konstruktive Gespräche mit Vertretern der Arbeiterkammer. Bundesminister Hundstorfer unterstützt die Ansätze des ÖGKV und möchte dieses Thema rasch erledigt haben.</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Welche weiteren Punkte beinhaltet die Novelle des Gesundheits- und Krankenpflegegesetzes?</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Bei der Novelle geht es ebenso um die Adaptierung der Handlungsrahmen für die Gesundheits- und Krankenpflege in all ihren Qualifikationsebenen. Im Sinne einer prozess- und bedarfsorientierten Patientenversorgung ist auch zu überlegen, wie die Kompetenzen der Pflegeberufe mit jenen der anderen Gesundheitsberufe verschränkt werden können, welche Delegationsmechanismen notwendig sind. Dann gibt es konkrete Themen wie beispielsweise die Verordnungskompetenz von Pflegeprodukten für den gehobenen Dienst der Gesundheits- und Krankenpflege, eine neue Regelung des Medikamentenregimes, Themen rund um die Dokumentation. Die große Sorge des ÖGKV ist die derzeit fehlende Definition für das Auslaufen der herkömmlichen Ausbildungen für den gehobenen Dienst für Gesundheits- und Krankenpflege in den momentanen Diskussionsentwürfen. D.h. es bliebe dann alles so, wie es ist. Das wäre doppelt problematisch. Auf der einen Seite werden zusätzlich zur pflegerischen Versorgungsleistung, zunehmend Tätigkeiten des §15 Gesundheits- und Krankenpflegegesetzes, also medizinische Versorgungsleistungen, durch den gehobenen Dienst für Gesundheits- und Krankenpflege erbracht, weil es ja künftig durch die Umsetzung der EU Arbeitszeitrichtlinie weniger Ärzte in den Akutspitälern geben wird. Gleichzeitig geht man daran, den Anteil des gehobenen Dienstes für Gesundheits- und Krankenpflege drastisch herunterzufahren und durch weniger qualifizierte Pflegekräfte zu ersetzen. Ich denke, das wird für die Menschen sehr negative Auswirkungen haben. Gleichzeitig haben wir einen zunehmenden Versorgungsbedarf aufgrund der demographischen Entwicklung mit mehr älteren Menschen, die Unterstützung in ihrer Alltagsbewältigung benötigen. Der ÖGKV fordert daher eine umfassende Gesetzesreform ganz dringend!</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Die Rolle der Gesundheits- und Krankenpflege hat sich im Verhältnis zu den anderen Gesundheitsberufen in den vergangenen 20 Jahren dramatisch verändert...</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Der gehobene Dienst für Gesundheits- und Krankenpflege ist zentraler Dreh- und Angelpunkt in den Versorgungssystemen und daher mit den anderen Gesundheitsberufen wie ein kommunizierendes Gefäß verbunden. Es braucht ganz dringend eine Neuorganisation der Versorgungsstrukturen insbesondere im Bereich der Primärversorgung. Wir hoffen jedenfalls sehr im Sinne der betroffenen Patientinnen und Patienten, dass sich eine Verabschiedung der geplanten Novelle des Gesundheits- und Krankenpflegegesetzes bis zum Sommer ausgeht. Auch für diejenigen, die sich für den Beruf Gesundheits- und Krankenpflege entscheiden, ist es ganz wichtig, endlich zu wissen, mit welchem Ausbildungsangebot sie welchen Ausbildungsabschluss erreichen können und wie sie im System ihren Platz finden können. Der tatsächliche Reformwille zu diesen wichtigen Punkten ist leider oft bestürzend verhalten. Man wollte lange nicht akzeptieren, dass dieser Gesundheitsberuf Gesundheits- und Krankenpflege eine zentrale Rolle in den Versorgungssystemen hat und zentrale Aufgaben über die Krankenbeobachtung hinaus bei der medizinischen Versorgungsleistung übernimmt. Obwohl gegenüber dem europäischen Vergleich die Arztdichte in Österreich derzeit relativ hoch ist, fällt die Anzahl an Gesundheits- und Krankenpflegepersonen vergleichsweise niedrig aus.</Para>
+            <Para Type="Answers">Selbstkritisch muss ich sagen: Es ist der Gesundheits- und Krankenpflege vielleicht bis dato nicht ausreichend gelungen, genau jene Punkte auch öffentlichkeitswirksam darzustellen und auch den Politikern mit dem nötigen Nachdruck zu kommunizieren. Wir haben es mit sehr stark verkrusteten Strukturen zu tun, aber der ÖGKV hat die Stafette angenommen und versucht, im Rahmen seiner Möglichkeiten diese verkrusteten Strukturen aufzubrechen.</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Eine spannende Kooperation entwickelt sich derzeit mit den Apothekern...</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Der Österreichische Gesundheits- und Krankenpflegeverband setzt sich für klare Kompetenzprofile der Berufsgruppen ein und davon ausgehend für eine berufsgruppenübergreifende Zusammenarbeit mit anderen Gesundheitsberufen. Bei den Österreichischen Apothekern scheint dies auf konstruktives Verständnis gestoßen zu sein, wie die erste gemeinsame Tagung im vergangenen März in Saalfelden zeigt.</Para>
+            <Para Type="Answers">Diese Veranstaltung war ein Pilotversuch inwieweit diese beiden Berufsgruppen in der Patientenversorgung im Anbieten ihrer Leistungen Synergien finden können. Die Überlegungen von Apothekerkammer-Präsident Mag. Max Welan haben sich auf höchst konstruktive Weise mit jenen des ÖGKV getroffen. Die Veranstaltung hat eine durchaus positive Resonanz auf beiden Seiten gebracht, sodass es nächstes Jahr eine Wiederholung geben wird. Die Apotheker haben verstanden, dass es wichtig ist, Kompetenzen zu bündeln, und darüber hinaus mit anderen Gesundheitsberufen zu verschränken. Für die Gesundheits- und Krankenpflegeberufe sind die Apotheker insofern ein interessanter Partner weil die Zielgruppe, sowie die Infrastruktur stimmt und weil ganz einfach die Handlungsfelder sich gut ergänzen können. In einem Projekt in Niederösterreich stellt eine Apotheke bereits ihre Räumlichkeiten zur Nutzung durch selbstständig tätige Pflegepersonen zur Verfügung. Das läuft sehr gut. Der Gesundheitsberuf Gesundheits- und Krankenpflege erkennt zunehmend, wer für welches Thema ein guter Partner ist und wir freuen uns, wenn dies auch von den anderen Gesundheitsberufen erkannt wird.</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Arbeitszeit und Bezahlung wurden in den vergangenen Monaten für die Ärzte sehr lautstark thematisiert, in welcher Situation ist die Krankenpflege?</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Die Umsetzung der Arbeitszeitrichtlinie betrifft alle Gesundheitsberufe. Die Situation ist in den Bundesländern bei den einzelnen Trägern unterschiedlich, es gibt vereinzelt Kolleginnen im Pflegebereich, die 24 Stunden-Dienste leisten. Diese sind von Änderungen genauso betroffen, wie die Ärzte und Ärztinnen. Daher erwarten wir uns selbstverständlich eine gleiche Behandlung bei den Themen Arbeitszeit und Lohnerhöhung wie die Ärztinnen und Ärzte. Das liegt auf der Hand. Und eines ist auch klar: Wenn Ärzte eingespart werden und gleichzeitig eine gleichbleibende medizinische Versorgungsleistung erbracht werden soll, die durch den gehobenen Dienst für Gesundheits- und Krankenpflege übernommen werden wird, muss die entsprechende Anzahl des gehobenen Dienstes für Gesundheits- und Krankenpflege zur Verfügung gestellt werden. Die Gehaltsverhandlungen selbst sind Sache der Gewerkschaften. Der ÖGKV stellt seine Expertise zur Verfügung. Eine wichtige Basis dafür ist das Kompetenzmodell des ÖGKV für Gesundheits- und Krankenpflege, um Themen der Gehaltsverhandlungen sachlich gut argumentieren zu können. Wir hoffen ganz dringend, dass die Verantwortlichen hier dementsprechend handeln.</Para>
+            <Para Type="Questions">
+              <Emphasis Type="Bold">Welches sind für Sie die Highlights am Gesundheits- und Krankenpflegekongress?</Emphasis>
+            </Para>
+            <Para Type="Answers">
+              <Emphasis Type="Bold">Frohner:</Emphasis> Die Themen, die der ÖGKV-Kongress unter dem Titel „Das bleibende Andere“ anbietet, bilden sehr gut die zentrale Rolle der Gesundheits- und Krankenpflege in den Versorgungssystemen in den verschiedenen Aspekten ab. Über diese gilt es besonders in Zeiten der enormen Veränderungen, die für uns alle mehr oder weniger spürbar sind — entweder als Betroffene, wenn wir Pflegeleistungen und Gesundheitsleistungen benötigen, aber auch als Berufsangehörige — zu berichten. Gerade Zeiten der Veränderung sind aber auch eine Chance, um gründlich zu reflektieren, was kann, was soll, was muss bleiben und was ist dringend reformbedürftig. Dies bringt dieser Kongress sehr gut auf den Punkt. Ich freue mich daher auf diesen 21. Kongress des Österreichischen Gesundheits- und Krankenpflegeverbandes in Graz und ich freue mich auch sehr auf den berufspolitischen Diskurs, der im Rahmen dieser Veranstaltung geführt werden wird.</Para>
+            <Section1 ID="Sec1" OutputMedium="All" Type="Box">
+              <Heading>20 Jahre procare</Heading>
+              <Para>Gratulation zu 20 Jahre procare — das ist ein schöner Geburtstag! procare ist ein Medium, das sehr viel essentielle Information für Pflegepersonen und darüber hinaus für Gesundheitsberufe bietet. Der österreichische Gesundheits- und Krankenpflegverband be-dankt sich bei dieser Gelegenheit für die sehr konstruktive Zusammenarbeit in den verschiedensten Bereichen. Für die sehr fachlich und sachlich gestaltete Positionierung von berufspolitischen Themen und wir würden uns selbstverständlich freuen, wenn diese Arbeit für die nächsten 50 Jahre eine Fortsetzung findet.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_498.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

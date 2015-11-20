@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0505-7" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>505</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0505-7</ArticleDOI>
+            <ArticleSequenceNumber>10</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Dekubitusprophylaxe</ArticleTitle>
+            <ArticleSubTitle Language="De">Darauf kommt es an: Druck vermeiden</ArticleSubTitle>
+            <ArticleCategory>dekubitusprophylaxe</ArticleCategory>
+            <ArticleFirstPage>26</ArticleFirstPage>
+            <ArticleLastPage>28</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gerhard</GivenName>
+                  <FamilyName>Schröder</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>G.Schroeder@Akademie-fuer-Wundversorgung.de</Email>
+                  <URL>http://www.akademie-fuer-wundversorgung.de</URL>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgName>Akademie für Wundversorgung</OrgName>
+                <OrgAddress>
+                  <Street>Dransfelder Str. 22</Street>
+                  <Postcode>D-37079</Postcode>
+                  <City>Göttingen</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para Type="Trailer">Das Entstehen eines Dekubitus ist nach wie vor eines der schwerwiegendsten Pflegeprobleme. Deshalb beschäftigt sich die nationale und internationale Pflegeforschung intensiv mit dieser Problematik. Doch um einen Dekubitus vermeiden zu können, muss man die aktuellen Erkenntnisse zu seiner Entstehung erkennen.</Para>
+            <Para>Ein Dekubitus ist eine schwerwiegende gesundheitliche Beeinträchtigung, die vor allem bei schwerkranken, älteren und bettlägerigen Menschen auftritt. Fast die Hälfte der Betroffenen hat stärkste Schmerzen — vor allem beim Verbandwechsel. Jeder dritte Betroffene mit einem höhergradigen Dekubitus stirbt an den Folgen einer Sepsis aufgrund einer Wundinfektion. Etwa 80 Prozent der Betroffenen sind Frauen, aus dem einfachen Grund, weil Frauen älter werden als Männer. Da in den nächsten Jahren die Menschen noch älter und eher multimorbider werden, ist in den kommenden 30 bis 50 Jahren mit einem deutlichen Anstieg der Dekubitushäufigkeit zu rechnen. Aktuell gehen wir davon aus, dass jeder zehnte Mensch bis zu seinem Tod einen Dekubitus erleiden wird.</Para>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Missverständnisse und Irrtümer</Heading>
+              <Para>Leider kommt es immer wieder zu Irrtümern und Missverständnissen bei der Prävention eines Dekubitus, die wir nachfolgend richtig stellen wollen:</Para>
+              <Section2 ID="Sec2" OutputMedium="All">
+                <Heading>Irrtum 1: Ein Dekubitus entsteht in der obersten Hautschicht.</Heading>
+                <Para>Immer noch wird angenommen, dass ein Dekubitus in der obersten Hautschicht, der Epidermis, entsteht. Deshalb werden hautpflegende und -schützende Maßnahmen (z.B. Massagen, Eincremen) durchgeführt oder spezielle Substanzen zur Dekubitusprophylaxe angewendet. Da jedoch die oberste Hautschicht keine eigene Durchblutung besitzt, ist eine Ischämie in dieser Schicht nicht möglich. Wenn Druck auf Gewebe einwirkt, sind tiefere Gewebsschichten wie Fettgewebe und vor allem die empfindliche Muskulatur zuerst geschädigt. Die oberste Schicht kann Druck sehr lange standhalten, ohne Schaden zu nehmen.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Ein Dekubitus an der Ferse beginnt üblicherweise in der Tiefe, die oberste Haut bleibt zunächst ungeschädigt.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_505_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Konsequenz:</Emphasis> Hautpflegende Maßnahmen haben keine direkten Auswirkungen auf die Dekubitusentstehung. Allerdings ist vor allem bei der Altershaut eine dem Hautzustand entsprechende Pflege sinnvoll, um die elastischen Eigenschaften der Haut zu erhalten. Auch Schädigungen der Haut durch Feuchtigkeit wie Harn oder Schweiß sind zu vermeiden, denn eine vorgeschädigte Haut reagiert auf Druckeinwirkung sensibler.</Para>
+              </Section2>
+              <Section2 ID="Sec3" OutputMedium="All">
+                <Heading>Irrtum 2: Ein Dekubitus entsteht durch Ischämie infolge des Abdrückens der Blutgefäße.</Heading>
+                <Para>Bisher glaubte man, dass die Dauer der Druckeinwirkung der entscheidende Faktor sei. Je länger der Druck einwirkt, desto eher würde ein Dekubitus entstehen. Aus neueren Untersuchungen zur Entstehung von Dekubitus mittels Kernspintomographie weiß man, dass auch sehr kurzer, hoher Druck zu einer Schädigung des Gewebes führen kann und Scher- und Zugkräfte das Entstehen eines Dekubitus begünstigen. Ein Dekubitus ist nicht allein das Ergebnis einer Ischämie. Denn bei manchen Betroffenen entsteht ein Dekubitus deutlich schneller als dies durch eine Ischämie möglich ist.</Para>
+                <Para>Die entscheidenden Faktoren zur Dekubitusentstehung sind Druck, Scher- und Zugkräfte. Hoher Druck kann die Zellmembran direkt schädigen, Scherkräfte können zu einer Schädigung vor allem in der Tiefe führen, was wir in der Praxis als „Taschen“ kennen. Zugkräfte entstehen an den Stellen, an denen das Gewebe vom Knochen auseinandergezogen wird.</Para>
+                <Para>Aus klinischer Beobachtung weiß man, dass weiche Matratzen die Immobilität verstärken. Immobilität aber ist eine entscheidende Ursache für die Entstehung eines Dekubitus und sollte deshalb vermieden werden. Kontraproduktiv sind auch kleinflächige Abpolsterungen. Beispiel Ferse: Das in der Tiefe liegende Fersenbein ist ein konvexer — nach außen gewölbter — Knochen. Dadurch ist die druckausübende Fläche sehr klein. Je kleiner die Fläche ist, die Druck ausübt, desto höher ist der Druck (Druck ergibt sich immer aus Kraft geteilt durch Fläche). Die Ferse ist also besonders gefährdet, einen Dekubitus zu entwickeln. Achtung: Ganz falsch wäre es, die Ferse abzupolstern, um sie zu schützen. Denn kleinflächige Abpolsterungen oder kleinflächige Unterlagen — egal, ob Gelkissen, Schaumstoff oder ein beliebiges anderes Material — erhöhen immer den Auflagedruck.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="De">
+                      <CaptionNumber>Abb. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Die Entstehung eines Dekubitus hängt von vielen Faktoren ab. Entscheidend ist aber die Höhe des Drucks.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_505_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="De">
+                      <CaptionNumber>Abb. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Wirkung von Druck, Scher- und Zugkraft auf ein elastisches Gewebe.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_505_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Dieses Wissen wendet man auch beim Kompressionsverband an: An einer Stelle, an der man den Druck erhöhen will, setzt man weiche Schaumstoffkissen, so genannte Druckpelotten an, so dass der Druck genau an dieser Stelle verstärkt wird.</Para>
+                <Para>
+                  <Emphasis Type="Italic">Konsequenz:</Emphasis> Hoher Druck muss vermieden, die Ferse beispielsweise immer freigelagert werden. Da auch im Sitzen der Druck viel höher ist als im Liegen, muss langes Sitzen auf ungepolsterten Stühlen sehr kritisch gesehen werden.</Para>
+                <Para>
+                  <Emphasis Type="Italic">Missverständnis:</Emphasis> Seit Jahren werden in der Pflege Risikoskalen genutzt, um das Dekubitusrisiko festzustellen. Angenommen wird, dass die Summe der Punkte einer Risikoskala die Gefährdung des Patienten angibt. Doch dafür waren diese Skalen nicht gedacht und im Expertenstandard wurde ihr Einsatz so nicht gefordert. Die Skalen dienen eher als „Hilfe“, denn letztlich muss die Pflegefachkraft die Entscheidung, wer gefährdet ist, durch Einschätzung der klinischen Gesamtsituation treffen.</Para>
+                <Para>Im aktualisierten Expertenstandard Dekubitusprophylaxe in der Pflege wird der Einsatz von Risikoskalen nicht mehr explizit gefordert, da die wissenschaftliche Datenlage dafür nicht ausreicht. So hatte man in einer Langzeitstudie über drei Jahre mehr als 1.600 Patienten verglichen: Gruppe A erhielt keine Risikoeinschätzung bezüglich Dekubitusrisiko, die Haut wurde aber regelmäßig auf Veränderungen überprüft. Präventive Maßnahmen wurden erst bei einem Dekubitus Grad 1 ergriffen. Patienten der Gruppe B dagegen wurden regelmäßig mit der Braden Skala auf ihre Gefährdung hin eingestuft. Sie galten als gefährdet, wenn die Summe der Skala unter 17 Punkten lag. In diesem Fall erhielten sie eine Anti-Dekubitusmatratze.</Para>
+                <Para>Die entscheidende Frage war nun, welche der beiden Gruppen mehr Druckgeschwüre entwickelte. Erstaunlicherweise unterschied sich die Zahl der entstandenen Druckgeschwüre nicht. In Gruppe B wurden allerdings siebenmal mehr Anti-Dekubitusmatratzen verwendet als in Gruppe A.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec4" OutputMedium="All">
+              <Heading>Wie das Dekubitusrisiko eingeschätzt werden sollte</Heading>
+              <Para>Das Dekubitusrisiko wird nicht mit einem Punktwert bestimmt, sondern nach dem aktuellen klinischen Gesamtzustand. Weil Immobilität als die wichtigste Ursache für einen Dekubitus gilt, wird jeder Patient zuerst auf seine Mobilität untersucht. Liegt keine Einschränkung vor und spürt der Patient den Druck, so gilt er als aktuell nicht dekubitusgefährdet. Liegt aber eine Einschränkung der Mobilität vor, werden die potenziell gefährdeten Patienten näher untersucht und geprüft, welche klinischen Aspekte die Dekubitusgefährdung erhöhen könnten.</Para>
+              <Para>Zu den relevanten klinischen Faktoren, die zu untersuchen sind, zählen:
+<UnorderedList Mark="None">
+                  <ItemContent>
+                    <Para>▪ Depression: Es ist wissenschaftlich nachgewiesen, dass sich depressive Menschen nicht ausreichend bewegen und somit Druckschäden provozieren.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Diabetes mellitus: Bei Diabetikern kann eine Schädigung der Nerven vorliegen, so dass Druck unter Umständen nur schlecht oder sogar gar nicht mehr wahrgenommen wird. Auch der mitunter verschlechterte Stoffwechsel spielt eine Rolle.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Durchblutungsstörungen: Vor allem arterielle Durchblutungsstörungen der unteren Extremität können zu einem erhöhten Risiko von Dekubitus an der Ferse beitragen.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Hautveränderungen: Bei allen potenziell gefährdeten Patienten sind zu Beginn der Pflege die druckbelasteten Hautstellen zu inspizieren (Farbe, Rhagaden, Hautschädigungen; Abtasten der druckbelasteten Stellen — bei beginnender Druckschädigung im Gewebe kann dies rechtzeitig ertastet werden; Fingertest bei Vorliegen einer Hautrötung).</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Vorliegen eines aktuellen oder geschlossenen Dekubitus: Alle Patienten, die einen Dekubitus haben oder aber eine vernarbte Stelle aufweisen, gelten als hochgradig dekubitusgefährdet. Denn die vernarbte Stelle ist nicht drucktolerant und muss wie ein offener Dekubitus, also frei gelagert, versorgt werden.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Schmerzen: Empfindet der Patient an den druckbelasteten Stellen Schmerzen? Häufig beschreiben Patienten den Schmerz als brennend. Schmerzen sind ein erstes, als relativ sicher einzuschätzendes Zeichen für einen beginnenden Dekubitus.</Para>
+                  </ItemContent>
+                </UnorderedList>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec5" OutputMedium="All">
+              <Heading>Nicht jeder Dekubitus lässt sich vermeiden</Heading>
+              <Para>Auch wenn das Einschätzen eines Dekubitus nach allen Regeln der Kunst vorschriftsmäßig durchgeführt worden ist, auch wenn eine fachgerechte Prophylaxe durchgeführt wurde, wird es immer wieder zu Druckgeschwüren kommen. Denn nicht jeder Dekubitus lässt sich vermeiden und nicht jeder Dekubitus ist auf fehlerhafte Pflege zurück zu führen.</Para>
+            </Section1>
+            <Section1 ID="Sec6" OutputMedium="All">
+              <Heading>Fazit für die Pflege</Heading>
+              <Para>
+                <UnorderedList Mark="None">
+                  <ItemContent>
+                    <Para>▪ Auch sehr kurzer, hoher Druck kann zu einer Schädigung des Gewebes führen. Bei dekubitusgefährdeten Patienten ist hoher Druck daher immer zu vermeiden.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Die wichtigste Ursache, die einen Dekubitus auslöst, ist die Immobilität.</Para>
+                  </ItemContent>
+                  <ItemContent>
+                    <Para>▪ Die Entscheidung, wer dekubitusgefährdet ist, trifft die Pflegefachkraft durch Einschätzung der klinischen Gesamtsituation.</Para>
+                  </ItemContent>
+                </UnorderedList>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec7" OutputMedium="All" Type="Box">
+              <Heading>Maßnahmen zur Dekubitusprophylaxe</Heading>
+              <Section2 ID="Sec8" OutputMedium="All">
+                <Heading>Einschränkungen der Mobilität</Heading>
+                <Para>Bei allen Patienten mit Einschränkungen der Mobilität muss zunächst eine genauere Bewegungsanalyse erhoben werden:
+<UnorderedList Mark="None">
+                    <ItemContent>
+                      <Para>▪ Welche Bewegungen sind noch möglich? Was kann die Bewegung individuell fördern?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Gibt es Gründe für die Einschränkung der Mobilität (z.B. Schmerzen)?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Haben Medikamente einen Einfluss auf die Mobilität (z.B. sedierende Medikamente)?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Gibt es Hilfsmittel zur Förderung der Bewegung?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Hat der Betroffene Angst vor Bewegung (z.B. Angst zu stürzen)?</Para>
+                    </ItemContent>
+                  </UnorderedList>
+Generell sollte immer versucht werden, die Mobilität zu fördern, auch um die Schmerzen zu reduzieren. Mobilität bedeutet „in Bewegung sein“. Dauerhaftes Sitzen (z.B. „Raussetzen“ von Patienten) ist keine Bewegungsförderung.</Para>
+              </Section2>
+              <Section2 ID="Sec9" OutputMedium="All">
+                <Heading>Einsatz druckverteilender Hilfsmittel</Heading>
+                <Para>Druck spielt eine wichtige Rolle. Daher sind druckverteilende Hilfsmittel zur Vermeidung von Dekubitus sinnvoll. Entscheidend ist aber: Für welche Patienten ist welches System geeignet?
+<UnorderedList Mark="None">
+                    <ItemContent>
+                      <Para>▪ Die Auswahl der Hilfsmittel geschieht je nach Zustand des Patienten. Nicht jedes Hilfsmittel ist für jeden Betroffenen optimal.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Hat der Betroffene Schmerzen, sind statische weiche Schaumstoffmatratzen mitunter besser als dynamische Systeme.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Bei stärker schwitzenden Patienten kann der Einsatz belüfteter Systeme sinnvoll sein.</Para>
+                    </ItemContent>
+                  </UnorderedList>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec10" OutputMedium="All">
+                <Heading>Vorsicht beim Sitzen</Heading>
+                <Para>Da das Sitzen aufgrund der kleineren Fläche sehr hohen Druck verursacht, sollte der dekubitusgefährdete Patient maximal zwei Stunden sitzen.
+<UnorderedList Mark="None">
+                    <ItemContent>
+                      <Para>▪ Zur besseren Druckverteilung werden spezielle Sitzkissen eingesetzt.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Aufgrund von Messergebnissen besitzen Gelkissen nur einen geringen Effekt; sie sollten Menschen vorbehalten bleiben, die sich noch selbst bewegen können. Schaumstoffkissen, die allerdings zum Körpergewicht passen müssen, sind besser geeignet.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Optimal erscheinen luftgefüllte Kissen, die zum Teil sogar individuell zu befüllen sind.</Para>
+                    </ItemContent>
+                  </UnorderedList>
+Sitzen ist jedoch keine „Mobilisierung“, wie häufig in Dokumentationen zu lesen ist. Wer sich im Bett nicht bewegt, wird sich im Stuhl auch nicht mehr bewegen.</Para>
+              </Section2>
+              <Section2 ID="Sec11" OutputMedium="All">
+                <Heading>Lagern und Positionieren</Heading>
+                <Para>Auch auf speziellen Anti-Dekubitus-Matratzen oder Systemen muss regelmäßiges Lagern oder Positionieren stattfinden.</Para>
+                <Para>Es sollen aber so wenig Materialien ins Bett wie möglich, so viele wie nötig:
+<UnorderedList Mark="None">
+                    <ItemContent>
+                      <Para>▪ Entspricht die Matratze dem Körpergewicht des Patienten?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Aus welchen Faktoren ergibt sich eine Dekubitusgefährdung?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Welche Körperstelle ist gefährdet? Sind die Fersen gefährdet, müssen sie frei gelagert werden.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Soll der Betroffene mobilisiert werden?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Wie empfindet der Betroffene das Liegen auf der Matratze nach 24 Stunden?</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Sind Nebenwirkungen wie Geräusche oder Schwitzen zu beobachten?</Para>
+                    </ItemContent>
+                  </UnorderedList>
+                </Para>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_505.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

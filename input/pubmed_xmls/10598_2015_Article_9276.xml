@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9276-z" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9276</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9276-z</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Hybrid Modeling of Associative Thermal Desorption</ArticleTitle>
+            <ArticleFirstPage>346</ArticleFirstPage>
+            <ArticleLastPage>357</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>A.</GivenName>
+                  <GivenName>G.</GivenName>
+                  <FamilyName>Makeev</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>amak@cs.msu.su</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>N.</GivenName>
+                  <GivenName>L.</GivenName>
+                  <FamilyName>Semendyaeva</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>NatalyS@cs.msu.ru</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Faculty of Computational Mathematics and Cybernetics</OrgDivision>
+                <OrgName>Moscow State University</OrgName>
+                <OrgAddress>
+                  <City>Moscow</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">The article examines a hybrid multi-scale numerical algorithm that models surface reactions in the framework of the lattice gas model allowing for lateral interaction between adsorbed particles. The model is called Quasi-Equilibrium Kinetic Monte-Carlo (QE-KMC) algorithm. QE-KMC combines stochastic Monte-Carlo calculations (the Metropolis algorithm) with standard numerical methods for deterministic ordinary differential equations (ODE). QE-KMC assumes “infinitely fast” diffusion of absorbed particles on the lattice, which permits describing the macroscopic dynamics of the system by ODE for mean concentrations. These equations are not specified explicitly, but we can nevertheless evaluate their right-hand sides with prescribed accuracy by the Metropolis method. In the present article, QE-KMC is applied to generate associative thermal desorption spectra (TDS). TDS are presented for typical parameter values of lateral interactions on a square and hexagonal lattices. The QE-KMC results are compared with standard Kinetic Monte Carlo (KMC) results for lattice systems. We show that QE-KMC and KMC methods produce identical results if KMC allows for very fast surface diffusion. Yet QE-KMC requires much less computing time.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>multi-scale modeling</Keyword>
+              <Keyword>master equation</Keyword>
+              <Keyword>Monte Carlo method</Keyword>
+              <Keyword>Metropolis algorithm</Keyword>
+              <Keyword>lattice gas model</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Prikladnaya Matematika i Informatika, No. 46, 2014, pp. 58–75.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9276.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>VP</Initials>
+                    <FamilyName>Zhdanov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <BookTitle>Elementary Physico-Chemical Processes on a Surface [in Russian]</BookTitle>
+                  <PublisherName>Nauka</PublisherName>
+                  <PublisherLocation>Novosibirsk</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>V. P. Zhdanov, <Emphasis Type="Italic">Elementary Physico-Chemical Processes on a Surface</Emphasis> [in Russian], Nauka, Novosibirsk (1988).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Kreuzer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SH</Initials>
+                    <FamilyName>Payne</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Nonequilibrium thermodynamics of a two-phase adsorbate: Lattice gas and van der Waals models</ArticleTitle>
+                  <JournalTitle>Surface Science</JournalTitle>
+                  <VolumeID>205</VolumeID>
+                  <FirstPage>153</FirstPage>
+                  <LastPage>176</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0039-6028(88)90169-0</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>H. J. Kreuzer and S. H. Payne, “Nonequilibrium thermodynamics of a two-phase adsorbate: Lattice gas and van der Waals models,” <Emphasis Type="Italic">Surface Science,</Emphasis>
+                  <Emphasis Type="Bold">205</Emphasis>, 153–176 (1988).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>Makeev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NL</Initials>
+                    <FamilyName>Semendyaeva</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Comparison of stochastic and deterministic approaches to modeling of monomolecular thermal desorption</ArticleTitle>
+                  <JournalTitle>Matem. Modelirovanie</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>29</FirstPage>
+                  <LastPage>40</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1002.82528</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. G. Makeev and N. L. Semendyaeva, “Comparison of stochastic and deterministic approaches to modeling of monomolecular thermal desorption,” <Emphasis Type="Italic">Matem. Modelirovanie,</Emphasis>
+                  <Emphasis Type="Bold">7</Emphasis>, No. 3, 29–40 (1995).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SH</Initials>
+                    <FamilyName>Payne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Zhang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Kreuzer</FamilyName>
+                  </BibAuthorName>
+                  <Year>1992</Year>
+                  <ArticleTitle Language="En">Lattice gas with multiple interactions: Isosteric heat and thermal desorption</ArticleTitle>
+                  <JournalTitle>Surface Science</JournalTitle>
+                  <VolumeID>264</VolumeID>
+                  <FirstPage>185</FirstPage>
+                  <LastPage>196</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0039-6028(92)90177-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. H. Payne, J. Zhang, and H. J. Kreuzer, “Lattice gas with multiple interactions: Isosteric heat and thermal desorption,” <Emphasis Type="Italic">Surface Science,</Emphasis>
+                  <Emphasis Type="Bold">264</Emphasis>, 185–196 (1992).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D-J</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">CO oxidation on Rh(1 0 0): Multisite atomistic lattice-gas modeling</ArticleTitle>
+                  <JournalTitle>Journal of Physical Chemistry C</JournalTitle>
+                  <VolumeID>111</VolumeID>
+                  <FirstPage>14698</FirstPage>
+                  <LastPage>14706</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1021/jp071944e</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D.-J. Liu, “CO oxidation on Rh(1 0 0): Multisite atomistic lattice-gas modeling,” <Emphasis Type="Italic">Journal of Physical Chemistry C,</Emphasis>
+                  <Emphasis Type="Bold">111</Emphasis>, 14698–14706 (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MMM</Initials>
+                    <FamilyName>Jansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CGM</Initials>
+                    <FamilyName>Hermse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>APJ</Initials>
+                    <FamilyName>Jansen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Kinetic parameters from temperature programmed desorption spectra combined with energy relations: Top and bridge CO on Rh(1 0 0)</ArticleTitle>
+                  <JournalTitle>Physical Chemistry Chemical Physics</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>8053</FirstPage>
+                  <LastPage>8061</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1039/b926380b</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. M. M. Jansen, C. G. M. Hermse, and A. P. J. Jansen, “Kinetic parameters from temperature programmed desorption spectra combined with energy relations: Top and bridge CO on Rh(1 0 0),” <Emphasis Type="Italic">Physical Chemistry Chemical Physics,</Emphasis>
+                  <Emphasis Type="Bold">12</Emphasis>, 8053–8061 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SH</Initials>
+                    <FamilyName>Payne</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J-S</Initials>
+                    <FamilyName>McEwen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Kreuzer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Menzel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Adsorption and desorption of CO on Ru(0 0 0 1): A comprehensive analysis</ArticleTitle>
+                  <JournalTitle>Surface Science</JournalTitle>
+                  <VolumeID>594</VolumeID>
+                  <FirstPage>240</FirstPage>
+                  <LastPage>262</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.susc.2005.07.031</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. H. Payne, J.-S. McEwen, H. J. Kreuzer, and D. Menzel, “Adsorption and desorption of CO on Ru(0 0 0 1): A comprehensive analysis,” <Emphasis Type="Italic">Surface Science,</Emphasis>
+                  <Emphasis Type="Bold">594</Emphasis>, 240–262 (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Salciccioli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Stamatakis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Caratzoulas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DG</Initials>
+                    <FamilyName>Vlachos</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">A review of multiscale modeling of metal-catalyzed reactions: Mechanism development for complexity and emergent behavior</ArticleTitle>
+                  <JournalTitle>Chemical Engineering Science</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>4319</FirstPage>
+                  <LastPage>4355</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ces.2011.05.050</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Salciccioli, M. Stamatakis, S. Caratzoulas, and D. G. Vlachos, “A review of multiscale modeling of metal-catalyzed reactions: Mechanism development for complexity and emergent behavior,” <Emphasis Type="Italic">Chemical Engineering Science,</Emphasis>
+                  <Emphasis Type="Bold">66</Emphasis>, 4319–4355 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>APJ</Initials>
+                    <FamilyName>Jansen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <BookTitle>“An introduction to kinetic Monte Carlo simulations of surface reactions”, in: Lecture Notes in Physics</BookTitle>
+                  <NumberInSeries>856</NumberInSeries>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>Berlin</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-3-642-29488-4</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>A. P. J. Jansen, “An introduction to kinetic Monte Carlo simulations of surface reactions,” in: <Emphasis Type="Italic">Lecture Notes in Physics,</Emphasis> Vol. 856. Springer, Berlin (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AY</Initials>
+                    <FamilyName>Nilekar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Greeley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mavrikakis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">A simple rule of thumb for diffusion on transition-metal surfaces</ArticleTitle>
+                  <JournalTitle>Angewandte Chemie (International Edition)</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>7046</FirstPage>
+                  <LastPage>7049</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/anie.200602223</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Y. Nilekar, J. Greeley, and M. Mavrikakis, “A simple rule of thumb for diffusion on transition-metal surfaces,” <Emphasis Type="Italic">Angewandte Chemie (International Edition),</Emphasis>
+                  <Emphasis Type="Bold">45</Emphasis>, 7046–7049 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>Makeev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>IG</Initials>
+                    <FamilyName>Kevrekidis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">A hybrid stochastic-deterministic algorithm for lattice-gas models of catalytic reactions and the computation of TPD spectra</ArticleTitle>
+                  <JournalTitle>Computers and Chemical Engineering</JournalTitle>
+                  <VolumeID>60</VolumeID>
+                  <FirstPage>172</FirstPage>
+                  <LastPage>181</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.compchemeng.2013.08.010</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. G. Makeev and I. G. Kevrekidis, “A hybrid stochastic-deterministic algorithm for lattice-gas models of catalytic reactions and the computation of TPD spectra,” <Emphasis Type="Italic">Computers and Chemical Engineering,</Emphasis>
+                  <Emphasis Type="Bold">60</Emphasis>, 172–181 (2014).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>Makeev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>IG</Initials>
+                    <FamilyName>Kevrekidis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Coarse-graining the computations of surface reactions: Nonlinear dynamics from atomistic simulators</ArticleTitle>
+                  <JournalTitle>Surface Science</JournalTitle>
+                  <VolumeID>603</VolumeID>
+                  <FirstPage>1696</FirstPage>
+                  <LastPage>1705</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.susc.2008.08.042</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. G. Makeev and I. G. Kevrekidis, “Coarse-graining the computations of surface reactions: Nonlinear dynamics from atomistic simulators,” <Emphasis Type="Italic">Surface Science,</Emphasis>
+                  <Emphasis Type="Bold">603</Emphasis>, 1696–1705 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>Makeev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>IG</Initials>
+                    <FamilyName>Kevrekidis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Equation-free multiscale computations for a lattice-gas model: coarse-grained bifurcation analysis of the NO+CO reaction on Pt(100)</ArticleTitle>
+                  <JournalTitle>Chemical Engineering Science</JournalTitle>
+                  <VolumeID>59</VolumeID>
+                  <FirstPage>1733</FirstPage>
+                  <LastPage>1743</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ces.2004.01.029</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. G. Makeev and I. G. Kevrekidis, “Equation-free multiscale computations for a lattice-gas model: coarse-grained bifurcation analysis of the NO+CO reaction on Pt(100),” <Emphasis Type="Italic">Chemical Engineering Science,</Emphasis>
+                  <Emphasis Type="Bold">59</Emphasis>, 1733–1743 (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Meng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WH</Initials>
+                    <FamilyName>Weinberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1994</Year>
+                  <ArticleTitle Language="En">Monte Carlo simulations of temperature programmed desorption spectra</ArticleTitle>
+                  <JournalTitle>Journal of Chemical Physics</JournalTitle>
+                  <VolumeID>100</VolumeID>
+                  <FirstPage>5280</FirstPage>
+                  <LastPage>5289</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.467192</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>B. Meng and W. H. Weinberg, “Monte Carlo simulations of temperature programmed desorption spectra,” <Emphasis Type="Italic">Journal of Chemical Physics,</Emphasis>
+                  <Emphasis Type="Bold">100</Emphasis>, 5280–5289 (1994).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Meng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WH</Initials>
+                    <FamilyName>Weinberg</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Theoretical and simulation studies of recombinative temperature programmed desorption</ArticleTitle>
+                  <JournalTitle>Journal of Chemical Physics</JournalTitle>
+                  <VolumeID>102</VolumeID>
+                  <FirstPage>1003</FirstPage>
+                  <LastPage>1013</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.469449</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>B. Meng and W. H. Weinberg, “Theoretical and simulation studies of recombinative temperature programmed desorption,” <Emphasis Type="Italic">Journal of Chemical Physics,</Emphasis>
+                  <Emphasis Type="Bold">102</Emphasis>, 1003–1013 (1995).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EA</Initials>
+                    <FamilyName>Mastny</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EL</Initials>
+                    <FamilyName>Haseltine</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Rawlings</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Stochastic simulation of catalytic surface reactions in the fast diffusion limit</ArticleTitle>
+                  <JournalTitle>Journal of Chemical Physics</JournalTitle>
+                  <VolumeID>125</VolumeID>
+                  <FirstPage>194715</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1063/1.2390696</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. A. Mastny, E. L. Haseltine, and J. B. Rawlings, “Stochastic simulation of catalytic surface reactions in the fast diffusion limit,” <Emphasis Type="Italic">Journal of Chemical Physics,</Emphasis>
+                  <Emphasis Type="Bold">125</Emphasis>, 194715 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VP</Initials>
+                    <FamilyName>Zhdanov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Kasemo</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Simulation of oxygen desorption from Pt(111)</ArticleTitle>
+                  <JournalTitle>Surface Science</JournalTitle>
+                  <VolumeID>415</VolumeID>
+                  <FirstPage>403</FirstPage>
+                  <LastPage>410</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0039-6028(98)00601-3</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>V. P. Zhdanov and B. Kasemo, “Simulation of oxygen desorption from Pt(111),” <Emphasis Type="Italic">Surface Science,</Emphasis>
+                  <Emphasis Type="Bold">415</Emphasis>, 403–410 (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AB</Initials>
+                    <FamilyName>Bortz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MH</Initials>
+                    <FamilyName>Kalos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Lebowitz</FamilyName>
+                  </BibAuthorName>
+                  <Year>1975</Year>
+                  <ArticleTitle Language="En">A new algorithm for Monte-Carlo simulation of Ising spin systems</ArticleTitle>
+                  <JournalTitle>Journal of Computational Physics</JournalTitle>
+                  <VolumeID>17</VolumeID>
+                  <FirstPage>10</FirstPage>
+                  <LastPage>18</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9991(75)90060-1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. B. Bortz, M. H. Kalos, and J. L. Lebowitz, “A new algorithm for Monte-Carlo simulation of Ising spin systems,” <Emphasis Type="Italic">Journal of Computational Physics,</Emphasis>
+                  <Emphasis Type="Bold">17</Emphasis>, 10–18 (1975).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DT</Initials>
+                    <FamilyName>Gillespie</FamilyName>
+                  </BibAuthorName>
+                  <Year>1976</Year>
+                  <ArticleTitle Language="En">A general method for numerically simulating the stochastic time evolution of coupled chemical reactions</ArticleTitle>
+                  <JournalTitle>Journal of Computational Physics</JournalTitle>
+                  <VolumeID>22</VolumeID>
+                  <FirstPage>403</FirstPage>
+                  <LastPage>434</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0021-9991(76)90041-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>503370</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D. T. Gillespie, “A general method for numerically simulating the stochastic time evolution of coupled chemical reactions,” <Emphasis Type="Italic">Journal of Computational Physics,</Emphasis>
+                  <Emphasis Type="Bold">22</Emphasis>, 403–434 (1976).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Binder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Landau</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Phase diagrams and critical behavior in Ising square lattices with nearest- and next-nearest-neighbor interactions</ArticleTitle>
+                  <JournalTitle>Physical Review B</JournalTitle>
+                  <VolumeID>21</VolumeID>
+                  <FirstPage>1941</FirstPage>
+                  <LastPage>1962</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevB.21.1941</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>K. Binder and D. P. Landau, “Phase diagrams and critical behavior in Ising square lattices with nearest- and next-nearest-neighbor interactions,” <Emphasis Type="Italic">Physical Review B,</Emphasis>
+                  <Emphasis Type="Bold">21</Emphasis>, 1941–1962 (1980).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Yin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Landau</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Phase diagram and critical behavior of the square-lattice Ising model with competing nearest-neighbor and next-nearest neighbor interactions</ArticleTitle>
+                  <JournalTitle>Physical Review E</JournalTitle>
+                  <VolumeID>80</VolumeID>
+                  <FirstPage>051117</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevE.80.051117</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J. Yin and D. P. Landau, “Phase diagram and critical behavior of the square-lattice Ising model with competing nearest-neighbor and next-nearest neighbor interactions,” <Emphasis Type="Italic">Physical Review E,</Emphasis>
+                  <Emphasis Type="Bold">80</Emphasis>, 051117 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Landau</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <ArticleTitle Language="En">Critical and multicritical behavior in a triangular-lattice-gas Ising model: Repulsive nearest-neighbor and attractive next-nearest-neighbor coupling</ArticleTitle>
+                  <JournalTitle>Physical Review B</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>5604</FirstPage>
+                  <LastPage>5617</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1103/PhysRevB.27.5604</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D. P. Landau, “Critical and multicritical behavior in a triangular-lattice-gas Ising model: Repulsive nearest-neighbor and attractive next-nearest-neighbor coupling,” <Emphasis Type="Italic">Physical Review B,</Emphasis>
+                  <Emphasis Type="Bold">27</Emphasis>, 5604–5617 (1983).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

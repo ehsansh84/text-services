@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9281-2" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9281</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9281-2</ArticleDOI>
+            <ArticleSequenceNumber>8</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Solution Methods for Classification Problems with Categorical Attributes</ArticleTitle>
+            <ArticleFirstPage>408</ArticleFirstPage>
+            <ArticleLastPage>428</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>A.</GivenName>
+                  <GivenName>G.</GivenName>
+                  <FamilyName>D’yakonov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>djakonov@mail.ru</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Faculty of Computational Mathematics and Cybernetics</OrgDivision>
+                <OrgName>Moscow State University</OrgName>
+                <OrgAddress>
+                  <City>Moscow</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">The article considers various methods for classification of a set of objects into two classes when all the attributes are categorical (nominal or factor attributes), i.e., describe the membership of an object in a category. Some methods are a simple generalization of classical methods (Bayesian algorithms, singular decomposition methods), others are fundamentally novel. An efficient technique is proposed for encoding categorical attributes by real numbers, which makes it possible to apply classical machine-learning methods (e.g., the random forest). A generalization of the <Emphasis Type="Italic">k</Emphasis> nearest neighbors (kNN) algorithm and Zhuravlev’s estimate calculation algorithm (AEC) achieve best performance on real-life data. All methods have been tested on an applied problem involving construction of a recommender system for a security service.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>classification</Keyword>
+              <Keyword>category</Keyword>
+              <Keyword>factor</Keyword>
+              <Keyword>categorical attribute</Keyword>
+              <Keyword>nominal attribute</Keyword>
+              <Keyword>factor attribute</Keyword>
+              <Keyword>machine learning</Keyword>
+              <Keyword>encoding</Keyword>
+              <Keyword>singular decomposition</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Prikladnaya Matematika i Informatika, No. 46, 2014, pp. 103–127.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9281.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>K. V. Vorontsov, Machine Learning [in Russian] [<ExternalRef>
+                    <RefSource>http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf</RefSource>
+                    <RefTarget Address="http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>The R Project for Statistical Computing [<ExternalRef>
+                    <RefSource>http://cran.r-project.org</RefSource>
+                    <RefTarget Address="http://cran.r-project.org/" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Koren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Bell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Volinsky</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">“Matrix factorization techniques for recommender systems”</ArticleTitle>
+                  <JournalTitle>IEEE Computer</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <IssueID>8</IssueID>
+                  <FirstPage>30</FirstPage>
+                  <LastPage>37</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/MC.2009.263</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. Koren, R. M. Bell, C. Volinsky, “Matrix factorization techniques for recommender systems,” IEEE Computer, 42, No. 8, 30–37 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Amazon.com — Employee Access Challenge, international competition on data analysis [<ExternalRef>
+                    <RefSource>http://www.kaggle.com/c/amazon-employee-access-challenge</RefSource>
+                    <RefTarget Address="http://www.kaggle.com/c/amazon-employee-access-challenge" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Library scikit-learn for Python [<ExternalRef>
+                    <RefSource>https://github.com/scikit-learn/scikit-learn</RefSource>
+                    <RefTarget Address="https://github.com/scikit-learn/scikit-learn" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Fawcett</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">An introduction to ROC analysis</ArticleTitle>
+                  <JournalTitle>Pattern Recognition Letters</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>861</FirstPage>
+                  <LastPage>868</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.patrec.2005.10.010</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Fawcett, “An introduction to ROC analysis,” Pattern Recognition Letters, 27, 861–868 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>D’yakonov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">A theory of systems of equivalences for the descriptions of algebraic closures of the generalized estimate calculation model</ArticleTitle>
+                  <JournalTitle>Zh. Vychisl. Matem. i Mat. Fiz.</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>388</FirstPage>
+                  <LastPage>400</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1224.68115</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2681163</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. G. D’yakonov, “A theory of systems of equivalences for the descriptions of algebraic closures of the generalized estimate calculation model,” Zh. Vychisl. Matem. i Mat. Fiz., 50, No. 2, 388–400 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>G. Strang, Linear Algebra and Its Applications, fourth edition, Thomson Brooks/Cole (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Martin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Porter</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">“The extraordinary SVD”</ArticleTitle>
+                  <JournalTitle>American Mathematical Monthly</JournalTitle>
+                  <VolumeID>119</VolumeID>
+                  <IssueID>10</IssueID>
+                  <FirstPage>838</FirstPage>
+                  <LastPage>851</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.4169/amer.math.monthly.119.10.838</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1261.15012</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2999587</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C. D. Martin and M. A. Porter, “The extraordinary SVD,” American Mathematical Monthly, 119, No. 10, 838–851 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>GH</Initials>
+                    <FamilyName>Golub</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Loan</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <BookTitle>Matrix Computations</BookTitle>
+                  <EditionNumber>3</EditionNumber>
+                  <PublisherName>The Johns Hopkins University Press</PublisherName>
+                  <PublisherLocation>Baltimore</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0865.65009</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>G. H. Golub and C. F. Van Loan, Matrix Computations, third edition, The Johns Hopkins University Press, Baltimore, MD, (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TG</Initials>
+                    <FamilyName>Kolda</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BW</Initials>
+                    <FamilyName>Bader</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">“Tensor decompositions and applications”</ArticleTitle>
+                  <JournalTitle>SIAM Review</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>455</FirstPage>
+                  <LastPage>500</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/07070111X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1173.65029</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2535056</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. G. Kolda and B. W. Bader, “Tensor decompositions and applications,” SIAM Review, 51, No. 3, 455–500 (September 2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>A Library for Large Linear Classification [<ExternalRef>
+                    <RefSource>http://www.csie.ntu.edu.tw/~cjlin/liblinear/</RefSource>
+                    <RefTarget Address="http://www.csie.ntu.edu.tw/~cjlin/liblinear/" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>C.-J. Hsieh, K.-W. Chang, C.-J. Lin, S. S. Keerthi, and S. Sundararajan, “A dual coordinate descent method for large-scale linear SVM,” ICML (2008).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>A. D’yakonov, “A blending of simple algorithms for topical classification,” in: Rough Sets and Current Trends in Computing, Lecture Notes in Computer Science, 7413/2012, 432–438 (2012) [<ExternalRef>
+                    <RefSource>http://www.springerlink.com/content/73g4kl50m6112420/</RefSource>
+                    <RefTarget Address="http://www.springerlink.com/content/73g4kl50m6112420/" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>KD</Initials>
+                    <FamilyName>Manning</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Raghavan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Schutze</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <BookTitle>An Introduction to Information Retrieval [Russian translation]</BookTitle>
+                  <PublisherName>I. D. Vil’yams Publ</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>K. D. Manning, P. Raghavan, and H. Schutze, An Introduction to Information Retrieval [Russian translation], I. D. Vil’yams Publ., Moscow (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>Yu. I. Zhuravlev, “An algebraic approach to recognition or classification problems,” Probl. Kibernet., No. 33, 5–68 (1978).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>A. G. D’yakonov, “Predicting supermarket customer behavior by weighted schemes that estimate probabilities and densities,” Biznes-informatika (2014) (in press).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibUnstructured>A. G. D’yakonov, “Two recommendation algorithms based on deformed linear combinations,” Proc. of ECML-PKDD 2011 Discovery Challenge Workshop (2011), pp 21–28.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibUnstructured>S. Funk, “Netflix update: Try this at home,” [<ExternalRef>
+                    <RefSource>http://sifter.org/~simon/journal/20061211.html</RefSource>
+                    <RefTarget Address="http://sifter.org/~simon/journal/20061211.html" TargetType="URL"/>
+                  </ExternalRef>].</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Breiman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">“Random forests”</ArticleTitle>
+                  <JournalTitle>Machine Learning</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>5</FirstPage>
+                  <LastPage>32</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1023/A:1010933404324</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1007.68152</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>L. Breiman, “Random forests,” Machine Learning, 45, No. 1, 5–32 (2001).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibUnstructured>WikiMart Olympiad – data analysis competition <ExternalRef>
+                    <RefSource>http://olymp.wikimart.ru</RefSource>
+                    <RefTarget Address="http://olymp.wikimart.ru/" TargetType="URL"/>
+                  </ExternalRef>.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Rendle</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">“Factorization machines with libFM,”</ArticleTitle>
+                  <JournalTitle>ACM Trans. Intell. Syst. Technol.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>57:1</FirstPage>
+                  <LastPage>57:22</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1145/2168752.2168771</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Rendle, “Factorization machines with libFM,” ACM Trans. Intell. Syst. Technol., 3, No. 3, 57:1–57:22 (2012).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

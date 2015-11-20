@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0499-1" OutputMedium="All">
+          <ArticleInfo ArticleType="News" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>499</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0499-1</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="De">panorama</ArticleTitle>
+            <ArticleFirstPage>6</ArticleFirstPage>
+            <ArticleLastPage>6</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <Body>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Campus Krems</Heading>
+              <Section2 ID="Sec2" OutputMedium="All">
+                <Heading>Erster Campus-Ball der Hochschulen</Heading>
+                <Para>Für eine Nacht verwandelt sich das 34.000 Quadratmeter große Studien- und Forschungsareal des Campus Krems in Österreichs schönsten In- und Outdoor-Ballsaal. Mit dem ersten gemeinsamen Ball der Hochschulen auf dem Campus Krems wird in festlichem Rahmen ein Ort der Begegnung und des Austausches etabliert: Hier treffen sich Studierende, Absolventen und Hochschul-Mitarbeiter mit Vertretern aus Politik und Wirtschaft, Kunst und Kultur. Das gesellschaftliche Ereignis soll zu einem fixen festlichen Höhepunkt im Bildungs- und Wissenschaftsjahr der Region werden — mit dem Ziel, den hohen Stellenwert von Bildung, Wissenschaft und Forschung in Niederösterreich zu verdeutlichen und den Austausch mit der breiten Öffentlichkeit zu fördern.</Para>
+                <Para>Tanzmusik mit der Pepe Allstar-Band, Jazz &amp; Swing mit dem Trio Julie &amp; Friends, ein außergewöhnlicher Showact von „The Blues Brothers Corporation“, Showdance und eine Late Night Show... bis vier Uhr Früh sind die Tore geöffnet.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Der Campus-Krems tanzt!</SimplePara>
+                        <SimplePara><?Start ImageCredit?>Photo: © Campus Krems<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_499_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All">
+              <Heading>Blasenschwäche</Heading>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>Online-Fragebogen für Studie „Blasengesundheit“</Heading>
+                <Para>Im Auftrag der Medizinischen Kontinenzgesellschaft Österreich (MKÖ) und in Zusammenarbeit mit Astellas Pharma führt das Gallup-Institut derzeit die erste österreichweite Befragung zur Lebenssituation von Menschen mit Blasenschwäche durch. „Wir betreiben in Österreich seit fast 15 Jahren Aufklärungsarbeit und haben in dieser Zeit nachhaltig zur Enttabuisierung der Volkskrankheit Harninkontinenz beigetragen. Obwohl mindestens eine Million Menschen allein in Österreich von Inkontinenz betroffen sind, ist dieses Leiden aber immer noch ein Tabuthema“, sagt Univ.-Prof. Dr. Max Wunderlich, Präsident der MKÖ. Ziel der Studie ist, mehr über die Lebenssituation von betroffenen Österreichern detailliert zu erfahren und wichtige Informationen über noch bestehende Barrieren in verschiedenen Lebensbereichen wie zum Beispiel in der Arbeit, im Familienleben oder auch im sozialen Umfeld zu erhalten.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Mehr Informationen zur Lebenssituation von Menschen mit Blasenschwäche.</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_499_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Das Ausfüllen des Fragebogens ist online möglich und dauert maximal zehn bis 15 Minuten. Link zum Fragebogen: http://bit.ly/1OPovt6</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec5" OutputMedium="All">
+              <Heading>Rehacare 2015</Heading>
+              <Section2 ID="Sec6" OutputMedium="All">
+                <Heading>Fachmesse und breite Informationsplattform</Heading>
+                <Para>Mit einem umfangreichen Seminar-, Workshop- und Vortragsprogramm und der Fachmesse bietet die RehaCare International vom 14. bis 17. Oktober in Düsseldorf eine Fülle an Informationen zum Thema Leben mit Behinderung in seinen vielen Facetten. Das REHACARE-Forum präsentiert in täglich wechselnden Schwerpunkten Probleme aus dem täglichen Leben von Betroffenen, der Hilfsmittelversorgung, innovativen Produkten und dem Themenkomplex Mobilität &amp; Reisen.
+<UnorderedList Mark="None">
+                    <ItemContent>
+                      <Para>▪ Die ambulante Wundversorgung stellt die Pflegekräfte, die Angehörigen und die Patienten — von der Diagnosestellung bis zur ambulanten Therapie — vor Herausforderungen. Eingeschränkte Möglichkeiten bei der ambulanten Wundversorgung und multiresistente Keime können bei der Wundbehandlung zu Problemen führen.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Mehr als zwei Drittel der pflegebedürftigen Menschen in Deutschland — und auch in Österreich — werden zu Hause gepflegt. Einen Großteil dieser Betreuung übernehmen die Angehörigen und ein Teil erhält Unterstützung von Pflegediensten. Täglich werden die Angehörigen und die ambulanten Pflegedienste mit neuen Fragen konfrontiert.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Viele Fragen sind zu klären, wenn Menschen plötzlich zum Pflegefall werden und wirksame Hilfestellungen zu alltäglichen Pflegefragen sind für die pflegenden Personen von großer Bedeutung.</Para>
+                    </ItemContent>
+                    <ItemContent>
+                      <Para>▪ Förderung und Erhalt der Bewegung und „Demenz — der ver-rückte Alltag“ sind weitere aktuelle Themenbereiche.</Para>
+                    </ItemContent>
+                  </UnorderedList>
+Auf der REHACARE bietet „Leben mit Pflege@home“ praxisnahe Hilfestellungen zu Pflegefragen und Problemstellungen für ambulante Pflegedienste und pflegende Angehörige.
+<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Barrieren überwinden</SimplePara>
+                        <SimplePara><?Start ImageCredit?>Photo: © RehaCare<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_499_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>In „Arbeit &amp; Beruf“ wird die Möglichkeit, am Berufsleben teilzunehmen, als eine der wichtigsten Bedingungen für die Inklusion von Behinderten thematisiert, im Themenbereich „Hirn + Auge + Ohr“ kann man sich in der Sonderschau und dem Fachforum „Marktplatz Gehirn“ über Angebote für Menschen mit Hirnschädigung, Schlaganfall und erworbene Hirnschäden informieren. „(Auto-)Mobilität + Reisen“, „Sport, Spaß &amp; Kultur“ und der Themenbereich „Kinder“ zeigen die Bandbreite an Möglichkeiten, die Menschen jeden Alters mit Behinderung durch speziell auf ihre Bedürfnisse zugeschnittene Hilfsmittel haben, um ein möglichst barrierefreies Leben zu führen.</Para>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_499.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-015-0836-0" OutputMedium="All">
+          <ArticleInfo ArticleType="BookReview" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>836</ArticleID>
+            <ArticleDOI>10.1007/s00066-015-0836-0</ArticleDOI>
+            <ArticleSequenceNumber>11</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Radiotherapie auch beim DCIS mit günstiger Risikokonstellation?</ArticleTitle>
+            <ArticleSubTitle Language="De">Ergebnisse einer prospektiven randomisierten RTOG-Studie</ArticleSubTitle>
+            <ArticleTitle Language="En">Radiotherapy also for good-risk ductal carcinoma in situ?</ArticleTitle>
+            <ArticleSubTitle Language="En">Results from a prospective randomized RTOG trial</ArticleSubTitle>
+            <ArticleCategory>Literatur kommentiert</ArticleCategory>
+            <ArticleFirstPage>536</ArticleFirstPage>
+            <ArticleLastPage>538</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Prof. Dr. med.</Prefix>
+                  <GivenName>Rainer</GivenName>
+                  <FamilyName>Souchon</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>r.souchon@t-online.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgAddress>
+                  <Street>Paul-Lincke-Ufer 8b</Street>
+                  <Postcode>10999</Postcode>
+                  <City>Berlin</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <ArticleNote Type="Misc">
+              <Heading>Originalpublikation</Heading>
+              <SimplePara>McCormick B, Winter K, Hudis C et al (2015) RTOG 9804: a prospective randomized trial for good-risk ductal carcinoma in situ comparing radiotherapy with observation. J Clin Oncol 33(7):709–15</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Hintergrund</Heading>
+              <Para>Die Studie 9804 der Radiation Therapy Oncology Group prüfte, ob eine Radiotherapie (RT) bei Patientinnen mit einem duktalen Carcinoma in situ (DCIS) und günstiger Risikokonstellation gegenüber der alleinigen Beobachtung nach brusterhaltender Operation einen Vorteil bringt.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Patientinnen und Methodik</Heading>
+              <Para>In einer prospektiven, randomisierten Studie erhielten zwischen 1998 und 2006 insgesamt 636 von ursprünglich 1790 vorgesehenen Patientinnen aus den USA und Kanada mit mammographisch detektiertem niedriggradigen oder intermediären DCIS (≤ 2,5 cm mit ≥ 3 mm Sicherheitssaum) postoperativ eine Radiotherapie (RT-Arm) oder keine. Eine optionale Prophylaxe mit Tamoxifen erfolgte bei 62% der Patientinnen. Ein lokaler Rückfall war primärer Studienendpunkt. Lokalrezidive und kontralateraler Tumor wurden über deren kumulative Häufigkeiten, Gesamt- und krankheitsfreies Überleben mit der Kaplan-Meier-Methode geschätzt.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Ergebnisse</Heading>
+              <Para>Die mediane Verlaufsbeobachtungszeit betrug 7,17 Jahre (Spanne 0,01–11,33 Jahre). In der RT-Gruppe traten 2, bei den nichtbestrahlten Patientinnen 19 Lokalrezidive auf. Nach 7 Jahren betrug die Rezidivrate im RT-Arm 0,9% (95%-KI 0,0 –2,2) gegenüber 6,7% (95%-KI 3,2–9,6) in der Beobachtungsgruppe (Hazard Ratio 0,11; 95%-KI 0,03–0,47; <Emphasis Type="Italic">P</Emphasis> &lt; 0,001). Grad-1- und -2-Akuttoxizitäten traten in 30 bzw.76% in der Beobachtungs- bzw. RT-Gruppe auf, Grad-3- oder -4-Toxizitäten in 4 bzw. 4,2%. Radiogene Spättoxizitäten vom Grad 1 ereigneten sich in 30%, vom Grad 2 bei 4,6% und Grad 3 bei 0,7% der Patientinnen.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Schlussfolgerung der Autoren</Heading>
+              <Para>In der Subgruppe der DCIS-Patientinnen mit „Good-risk“-Kriterien waren die Rezidivraten nach 7 Jahren allgemein niedrig, allerdings signifikant zu verringern durch eine perkutane Bestrahlung der verbliebenen Brust (WBI). Dies hat keinen Einfluss auf die Überlebenszeit. Eine längere Nachbeobachtungszeit ist vorgesehen, da auch die Zeitintervalle bis zum Auftreten von Rückfällen protrahiert zu sein scheinen.</Para>
+            </FormalPara>
+            <Section1 ID="Sec1">
+              <Heading>Kommentar</Heading>
+              <Para>Die 9804-Studie der RTOG, eine Phase-III-Studie, bestätigt bei alleinigem DCIS 4 randomisierte Studien und Metaanalysen zum protektiven Effekt einer postoperativen RT für Lokalrezidive in der verbliebenen Brust. Dies hat keinen Einfluss auf die Überlebenswahrscheinlichkeit [<CitationRef CitationID="CR1">1</CitationRef>–<CitationRef CitationID="CR4">4</CitationRef>].</Para>
+              <Para>DCIS stellen eine recht heterogene Gruppe von präinvasiven Läsionen dar. Im Gegensatz zu allen anderen nichtinvasiven Brusttumoren begründen beim DCIS die klinisch relevanten Raten an lokalen Rückfällen, die sich sowohl in Form eines erneuten DCIS als auch in etwa der Hälfte der Fälle als invasives Karzinom manifestieren, die Empfehlung zur Reduktion dieses Risikos durch die RT als Alternative zur Mastektomie.</Para>
+              <Para>Seit Jahren wird untersucht, ob unter Beachtung unterschiedlicher biologischer Charakteristika eine Subgruppe mit vermuteter günstiger Risikokonstellation identifiziert werden kann, bei der auf eine postoperative RT verzichtet werden darf. Bisher konnte in keiner der randomisierten klinischen Studien eine solche Untergruppe von Patientinnen mit reinem DCIS gefunden werden. Immer bewirkte die postoperative RT eine erhöhte lokale Kontrolle durch Reduktion der lokalen Rezidive um &gt; 50% (!) [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR6">6</CitationRef>].</Para>
+              <Para>Die Besonderheiten der RTOG-9804-Studie bestehen in ihrem prospektiv randomisierten Design und ihrer Beschränkung auf eine Subgruppe, deren Rückfallrisiko nach klinisch-biologischen Faktoren allgemein als günstig („good risk“) eingeschätzt wird: Unizentrizität, geringe Größe bis maximal 2,5 cm, geringes oder intermediäres Kerngrading, R0-Resektionsstatus mit &gt; 3 mm Sicherheitssaum. Zusätzlich, und zwar vor der Identifizierung der RT als unabhängiger Prognosefaktor, also auchunabhängig von einer systemischen Therapie, insbesondere Tamoxifen, war in den Anfangsjahren der Studie aufgrund der ersten Resultate der NSABP-B24-Studie Tamoxifen obligat vorgeschrieben. Nachfolgend war dann aufgrund differierender Studienergebnisse zur Rolle des Tamoxifen deren Gabe optional in beiden Studienarmen. Der Anteil von Patientinnen mit zusätzliche Einnahme von Tamoxifen war in beiden Studienarmen gleich.</Para>
+              <Para>Die Rekrutierung erfolgte in 200 Institutionen von Dezember 1999 bis zu ihrem vorzeitigen Abbruch im Juli 2006. Dieser war im Verfehlen der vorgesehenen Rekrutierungszahlen begründet. In die Auswertung wurden von geplanten 1790 Patientinnen lediglich 585 Patientinnen, die die Einschlusskriterien erfüllten, zusammen mit weiteren 51, die als nicht geeignet beurteilt wurden, deren Nachbeobachtungsdaten jedoch vorlagen, eingeschlossen.</Para>
+              <Para>Die Rückfallraten in den nach 5 und 7 Jahren vorgenommenen Auswertungen waren mit 0,4% bzw. 0,9% (2 von 312) im RT-Arm gegenüber 3,5% bzw. 6,7% (21 von 317) im Beobachtungsarm niedrig (42% von diesen als invasive Karzinome im Beobachtungsarm). Entscheidendes Ergebnis der Studie: In dieser „Low-risk“-Subgruppe wurde die Rückfallrate signifikant durch die RT weiter gesenkt. Erwartungsgemäß blieben aber die krankheitsfreien und Gesamtüberlebenswahrscheinlichkeiten in beiden Gruppen identisch. Auch unterschieden sich die Inzidenzen eines kontralateralen Tumorgeschehens in beiden Gruppen nicht signifikant.</Para>
+              <Para>Die Resultate nach jeweils 7 Jahren sind vergleichbar mit denen der ECOG-5194-Studie, in der identische Kriterien für eine „Low-risk“-Risikokonstellation bestanden [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>], sofern die unterschiedliche Anzahl der Patientinnen mit zusätzlicher Tamoxifen-Einnahme berücksichtigt wird (RTOG 9804: 62%, ECOG 5194: 31%). Die geringe Rate von Rückfällen und die mit 7 Jahren sehr geringe Nachbeobachtungsperiode lassen allerdings – wie von den Autoren zurecht angemerkt – eine Abschätzung des Ausmaßes eines vermuteten risikomindernden Effekts von Tamoxifen bei der hier untersuchten DCIS-Subgruppe nicht zu.</Para>
+              <Para>Die relativ kurze Verlaufsbeobachtungszeit wirft die Frage auf, wie lang der protektive Effekt einer RT bei DCIS-Patientinnen mit vermuteter günstiger Prognose anhält und somit der absolute Vorteil für die Betroffenen. Diese Frage ist für die Empfehlung zugunsten oder gegen eine postoperative RT nach brusterhaltender operativer Therapie bei diesen Patientinnen von großer Bedeutung. Denn Langzeitauswertungen nach 10–15 Jahren, wie z. B. in der Metaanalyse der Early Breast Cancer Trialists’ Collaboration Group [<CitationRef CitationID="CR8">8</CitationRef>], dokumentieren eine Annäherung der Raten erneuter ipsilateraler Tumormanifestationen bei „Low-grade“- an die der „High-grade“-DCIS-Patientinnen mit zunehmender Nachbeobachtungszeit. Somit bleiben die weiteren Verlaufsdaten der RTOG-9804-Studie abzuwarten, nicht zuletzt, da deren 7-Jahres-Rückfallraten vergleichsweise sehr gering sind und in der RT-Gruppe deutlich unter denen bisheriger retrospektiver Studien liegen.</Para>
+              <Para>Die biologisch noch interessantere Frage, ob es sich bei den im zeitlichen Verlauf kontinuierlich zunehmenden ipsilateralen Tumoren um echte Rezidive des nichtinvasiven Primärtumors handelt, die eine RT letztlich nicht dauerhaft verhindern kann, oder um sekundäre Zweittumormanifestationen, kann mit den bisherigen Studien allerdings nicht beantwortet werden. Möglicherweise kommt man ihrer Beantwortung nur mit molekulargenetischen Analysen in Form sog. Multigen-Expressions-Assays näher. Diese befinden sich derzeit noch in der klinischen Erprobungsphase.</Para>
+            </Section1>
+            <Section1 ID="Sec2" Type="Conclusion">
+              <Heading>Fazit</Heading>
+              <Para>
+                <OrderedList>
+                  <ListItem>
+                    <ItemNumber>1.</ItemNumber>
+                    <ItemContent>
+                      <Para>Die RTOG-9804-Studie verstärkt die bisherige Level-I-Evidenz bezüglich des positiven Effekts einer perkutanen homogenen RT der gesamten Brust (WBI) auf die Lokalrezidivrate nach organerhaltender Operation wegen eines reinen DCIS.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2.</ItemNumber>
+                    <ItemContent>
+                      <Para>Ein Verzicht auf eine RT korreliert auch für die Subgruppe von DCIS-Patientinnen mit nach ausschließlich klinischen Parametern beurteilter sog. günstiger Prognose mit einem erhöhten lokalen Tumorrückfallrisiko.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>3.</ItemNumber>
+                    <ItemContent>
+                      <Para>Obwohl die Studie aufgrund unzureichender Rekrutierung und somit vorzeitigem Abbruch in ihrer statistischen Power signifikant eingeschränkt wurde, ist der Nachweis einer deutlich höheren proportionalen Reduktion lokaler Rückfälle durch eine RT nach 7 Jahren im Vergleich zu bisherigen Ergebnissen retrospektiver Auswertungen beachtenswert und macht weitere längere Nachbeobachtungsperioden erforderlich.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>4.</ItemNumber>
+                    <ItemContent>
+                      <Para>Die Schlussfolgerung der Autoren, dass die klinischen Parameter (Unifokalität, &lt; 2,5 cm, „low“ und „intermediate nuclear grade“, mammographisch entdeckt) erfolgreich die Untergruppe mit günstigem Risikoprofil identifizieren ließe, ist vor dem Hintergrund der heute möglichen Bestimmbarkeit intrinsischer Faktoren und molekulargenetischer Profile zu relativieren. Daten hierzu liegen jedoch noch nicht vor.</Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>5.</ItemNumber>
+                    <ItemContent>
+                      <Para>Die durch die RTOG-9804-Studie verstärkte Empfehlung zur RT nach brusterhaltender operativer Therapie spiegelt sich nicht nur wieder in den DEGRO-Leitlinien [<CitationRef CitationID="CR5">5</CitationRef>], sondern auch in der aktuellen Empfehlung der Kommission Mamma der Arbeitsgemeinschaft Gynäkologische Onkologie (AGO) [<CitationRef CitationID="CR9">9</CitationRef>].</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+              </Para>
+              <Para>
+                <Emphasis Type="Italic">Rainer Souchon, Berlin</Emphasis>
+              </Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2015_Article_836.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Ethics>
+              <Heading>Einhaltung ethischer Richtlinien</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Interessenkonflikt</Heading>
+                <Para>R. Souchon gibt an, dass kein Interessenkonflikt besteht.</Para>
+              </FormalPara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>Literatur</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Donker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Litière</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Werutsky</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="De">Breast-conserving treatment with or without radiotherapy in ductal carcinoma in situ: 15-year recurrence rates and outcome after a recurrence, from the EORTC 10853 randomized phase III trial</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>4054</FirstPage>
+                  <LastPage>4059</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2013.49.5077</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24043739</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Donker M, Litière S, Werutsky G et al (2013) Breast-conserving treatment with or without radiotherapy in ductal carcinoma in situ: 15-year recurrence rates and outcome after a recurrence, from the EORTC 10853 randomized phase III trial. J Clin Oncol 31:4054–4059</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibUnstructured>Goodwin A, Parker S, Ghersi D, Wilcken N (2013) Post-operative radiotherapy for ductal carcinoma in situ of the breast. Cochrane Database Syst Rev 11:CD000563</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibUnstructured>McCormick B, Winter K, Hudis C et al (2015) RTOG 9804: a prospective randomized trial for good-risk ductal carcinoma in situ comparing radiotherapy with observation. J Clin Oncol 33:709–715</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Wärnberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Garmo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Emdin</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="De">Effect of radiotherapy after breast-conserving surgery for ductal carcinoma in situ: 20 years follow-up in the randomized SweDCIS trial</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <FirstPage>3613</FirstPage>
+                  <LastPage>3618</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2014.56.2595</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>25311220</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wärnberg F, Garmo H, Emdin S et al (2014) Effect of radiotherapy after breast-conserving surgery for ductal carcinoma in situ: 20 years follow-up in the randomized SweDCIS trial. J Clin Oncol 32:3613–3618</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Souchon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Sautter-Bihl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Sedlmayer</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="De">Breast cancer expert panel of the german society of radiation oncology (DEGRO). DEGRO practical guidelines: radiotherapy of breast cancer II: radiotherapy of non-invasive neoplasia of the breast</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>190</VolumeID>
+                  <FirstPage>8</FirstPage>
+                  <LastPage>16</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-013-0502-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC2c3js1Chuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24306068</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Souchon R, Sautter-Bihl ML, Sedlmayer F et al (2014) Breast cancer expert panel of the german society of radiation oncology (DEGRO). DEGRO practical guidelines: radiotherapy of breast cancer II: radiotherapy of non-invasive neoplasia of the breast. Strahlenther Onkol 190:8–16</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Wong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YH</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Gadd</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="De">Eight-year update of a prospective study of wide excision alone for small low- or intermediate-grade ductal carcinoma in situ (DCIS)</ArticleTitle>
+                  <JournalTitle>Breast Cancer Res Treat</JournalTitle>
+                  <VolumeID>143</VolumeID>
+                  <FirstPage>343</FirstPage>
+                  <LastPage>350</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10549-013-2813-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24346130</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wong JS, Chen YH, Gadd MA et al (2014) Eight-year update of a prospective study of wide excision alone for small low- or intermediate-grade ductal carcinoma in situ (DCIS). Breast Cancer Res Treat 143:343–350</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LL</Initials>
+                    <FamilyName>Hughes</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Wong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Page</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="De">Local excision alone without irradiation for ductal carcinoma in situ of the breast: a trial of the Eastern Cooperative Oncology Group</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>5319</FirstPage>
+                  <LastPage>5324</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2009.21.8560</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>2773217</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19826126</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hughes LL, Wong M, Page DL et al (2009) Local excision alone without irradiation for ductal carcinoma in situ of the breast: a trial of the Eastern Cooperative Oncology Group. J Clin Oncol 27:5319–5324</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibUnstructured>EBCTCG, Correa C et al (2010) Overview of the randomized trials of radiotherapy in ductal carcinoma in situ of the breast. J Natl Cancer Inst Monogr 2010(41):162–177</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibUnstructured>www.ago-online.de/de/infothek-fuer-aerzte/leitlinienempfehlungen/mamma. Kapitel: Adjuvante Strahlentherapie (betrifft die aktuellen Empfehlungen vom 28.02.2015). doi: 10.1007/s00066-015-0836-0.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

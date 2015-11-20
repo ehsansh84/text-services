@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9277-y" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9277</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9277-y</ArticleDOI>
+            <ArticleSequenceNumber>4</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Time-Dependent Model of Corporate Investments in Fixed Assets</ArticleTitle>
+            <ArticleFirstPage>358</ArticleFirstPage>
+            <ArticleLastPage>369</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>A.</GivenName>
+                  <GivenName>G.</GivenName>
+                  <FamilyName>Perevozchikov</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>I.</GivenName>
+                  <GivenName>A.</GivenName>
+                  <FamilyName>Lesik</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>lesik56@mail.ru</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Faculty of Computational Mathematics and Cybernetics</OrgDivision>
+                <OrgName>Moscow State University</OrgName>
+                <OrgAddress>
+                  <City>Moscow</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">The article examines the simplest model of investment in fixed assets by a corporation using debt. The value of corporation’s equity is the evaluation criterion. The value of equity can be determined by direct capitalization of gross profit in the income approach, which enables us to investigate the value of the corporation as a function of debt. This dependence called the financial management line may be studied from various angles. It has been previously shown that the financial management line is an increasing concave and piecewise-linear function and the formula for its generalized differential has been derived. The financial management line is constructed by using a steady-state model of income beyond the planning horizon. In the present article, we supplement the previous model with a general time-dependent model of income inside the planning horizon. We accordingly propose tools for estimating the dependence of the actual current value of equity on the potential value of the company beyond the planning horizon.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Corporate equity</Keyword>
+              <Keyword>value of equity</Keyword>
+              <Keyword>direct profit capitalization method</Keyword>
+              <Keyword>discounted income method</Keyword>
+              <Keyword>fixed-asset investment</Keyword>
+              <Keyword>long-term corporate debt</Keyword>
+              <Keyword>dependence of the value of the company on investment volume</Keyword>
+              <Keyword>financial management line</Keyword>
+              <Keyword>monotonicity</Keyword>
+              <Keyword>concavity</Keyword>
+              <Keyword>planning and post-planning horizons</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Prikladnaya Matematika i Informatika, No. 46, 2014, pp. 76–88.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9277.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibUnstructured>A. V. Mishchenko and O. A. Artemenko, “Production-financial management models for an enterprise with debt financing,” <Emphasis Type="Italic">Finansovaya Analitika,</Emphasis> No. 42(132), 2–13 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Brealy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Myers</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <BookTitle>Principles of Corporate Finance [Russian translation]</BookTitle>
+                  <PublisherName>INFRA-M</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>R. Brealy and S. Myers, <Emphasis Type="Italic">Principles of Corporate Finance</Emphasis> [Russian translation], INFRA-M, Moscow (1999).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Horn</FamilyName>
+                    <Particle>Van</Particle>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <BookTitle>Principles of Financial Management [Russian translation]</BookTitle>
+                  <PublisherName>Finansy i Statistika</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>J. Van Horn, <Emphasis Type="Italic">Principles of Financial Management</Emphasis> [Russian translation], Finansy i Statistika, Moscow (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibBook>
+                  <BibEditorName>
+                    <Initials>AG</Initials>
+                    <FamilyName>Gryaznova</FamilyName>
+                  </BibEditorName>
+                  <BibEditorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Fedotova</FamilyName>
+                  </BibEditorName>
+                  <Eds/>
+                  <Year>2002</Year>
+                  <BookTitle>Company Valuation [in Russian]</BookTitle>
+                  <PublisherName>A Textbook, Finansy i Statistika</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>A. G. Gryaznova and M. A. Fedotova (editors), <Emphasis Type="Italic">Company Valuation</Emphasis> [in Russian], A Textbook, Finansy i Statistika, Moscow (2002).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibUnstructured>Deloitte&amp;Touche, <Emphasis Type="Italic">Methodology and Manual for Company and/or Asset Valuation for Russia’s Unified Electric Grid and Its Subsidiaries</Emphasis> (December 2003-March 2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Sharpe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Alexander</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bailey</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <BookTitle>Investments [Russian translation]</BookTitle>
+                  <PublisherName>IFRA-M</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>W. Sharpe, G. Alexander, and J. Bailey, <Emphasis Type="Italic">Investments</Emphasis> [Russian translation], IFRA-M, Moscow (1998).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibUnstructured>A. V. Belyakov and A. G. Perevozchikov, “Evaluating the generalized differential in the one-parameter investment optimization problem,” <Emphasis Type="Italic">Audit i Finansovyi Analiz,</Emphasis> No. 2, 242–247 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>A. V. Belyakov and A. G. Perevozchikov, “Evaluating the generalized differential in the two-parameter investment optimization problem,” <Emphasis Type="Italic">Audit i Finansovyi Analiz,</Emphasis> No. 3, 76–84 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>SA</Initials>
+                    <FamilyName>Ashmanov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1981</Year>
+                  <BookTitle>Linear Programming [in Russian]</BookTitle>
+                  <PublisherName>Nauka</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>S. A. Ashmanov, <Emphasis Type="Italic">Linear Programming</Emphasis> [in Russian], Nauka, Moscow (1981).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibUnstructured>A. G. Perevozchikov and I. A. Lesik, “A simple model of investment in corporate fixed assets,” <Emphasis Type="Italic">Audit i Finansovyi Analiz,</Emphasis> No. 2, 233–240 (2014.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>A. G. Perevozchikov and I. A. Lesik, “A prototype example of investment in corporate fixed assets,” <Emphasis Type="Italic">Audit i Finansovyi Analiz,</Emphasis> No. 3, 267–276 (2014).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>A. G. Perevozchikov and I. A. Lesik, “General model of investment in corporate fixed assets,” <Emphasis Type="Italic">Audit i Finansovyi Analiz,</Emphasis> No. 4 (2014).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

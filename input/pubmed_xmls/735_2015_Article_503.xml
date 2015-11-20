@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0503-9" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>503</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0503-9</ArticleDOI>
+            <ArticleSequenceNumber>8</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Der Tod kommt schleichend</ArticleTitle>
+            <ArticleSubTitle Language="De">Pflege bei terminaler Herzinsuffizienz</ArticleSubTitle>
+            <ArticleCategory>kardiologiepflege</ArticleCategory>
+            <ArticleFirstPage>22</ArticleFirstPage>
+            <ArticleLastPage>24</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr. med.</Prefix>
+                  <GivenName>Christina</GivenName>
+                  <FamilyName>Gerlach</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>christina.gerlach@unimedizin-mainz.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Irmtraud</GivenName>
+                  <FamilyName>Seltmann</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>seltmann@mainzer-hospiz.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Fachärztin für Innere Medizin, Notfallmedizin, Palliativmedizin</OrgDivision>
+                <OrgName>Universitätsmedizin der Johannes Gutenberg-Universität</OrgName>
+                <OrgAddress>
+                  <Street>Langenbeckstr. 1</Street>
+                  <Postcode>D-55131</Postcode>
+                  <City>Mainz</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Palliative Care Fachkraft</OrgDivision>
+                <OrgName>Mainzer Hospiz GmbH</OrgName>
+                <OrgAddress>
+                  <Street>Weißliliengasse 10</Street>
+                  <Postcode>D-55116</Postcode>
+                  <City>Mainz</City>
+                  <Country>Austria</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para Type="Trailer">Patienten mit Herzinsuffizienz leiden an einer unheilbaren Erkrankung. Das Herz ist nicht mehr in der Lage, den Körper ausreichend mit Blut und lebenswichtigem Sauerstoff zu versorgen. Betroffene haben eine mit vielen onkologischen Patienten vergleichbare Prognose und Symptomlast. Schwäche, Atemnot und Schmerzen gehören zu den häufigsten Beschwerden.</Para>
+            <Para>An chronischer Herzinsuffizienz leidende Menschen und ihre Familien erleben wiederholt Krisenzeiten. Zu Beginn einer Dekompensation ist oft schwer vorhersagbar, ob der Kranke sie überleben wird; und von Krise zu Krise verschlechtert sich der Gesamtzustand des Patienten. Der Tod kommt schleichend und wird als plötzlich und unerwartet empfunden, weil eine eindeutige Terminalphase oft fehlt. Darin unterscheidet sich die Herzinsuffizienz entscheidend von Tumorerkrankungen [2].</Para>
+            <Para>Aus Studien wissen wir, dass Patienten mit Herzinsuffizienz ein hohes Risiko haben, innerhalb weniger Jahre an ihrer Erkrankung zu versterben [3, 4, 5]. Zur Prognoseeinschätzung bei Herzinsuffizienz existieren zahlreiche Instrumente. Zum Beispiel können verschiedene Laborwerte miteinander kombiniert oder auch eine begleitende Niereninsuffizienz berücksichtigt werden. In den vergangenen Jahren gibt es eine lebhafte Diskussion darüber, inwieweit die Antwort auf die so genannte Surprise Question: „Wäre ich überrascht, wenn dieser Patient in den nächsten zwölf Monaten versterben würde?“ eine Vorhersage des Mortalitätsrisikos erlaubt [6].</Para>
+            <Para>Aufgrund der vorhandenen Daten hat die Europäische Kardiologische Gesellschaft (European Heart Society) zur palliativmedizinischen Versorgung von Patienten mit Herzinsuffizienz Stellung genommen [7]. Sie empfiehlt, mit dem Patienten die Einbeziehung von Palliative Care in die Behandlung zu besprechen, wenn
+<UnorderedList Mark="None">
+                <ItemContent>
+                  <Para>▪ trotz optimaler, verträglicher Therapie innerhalb von sechs Monaten wiederholt Dekompensationen aufgetreten sind,</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ maligne Arrhythmien vorhanden sind (hohes Risiko für einen plötzlichen Herztod),</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ regelmäßig oder kontinuierlich eine intravenöse Therapie benötigt wird,</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ die Lebensqualität chronisch als schlecht empfunden wird,</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ unkontrollierte Symptome einer Klasse NYHA IV Herzinsuffizienz vorliegen und/oder</Para>
+                </ItemContent>
+                <ItemContent>
+                  <Para>▪ eine kardiale Kachexie zu beobachten ist.</Para>
+                </ItemContent>
+              </UnorderedList>
+              <Figure Category="Standard" Float="Yes" ID="Fig1">
+                <Caption Language="De">
+                  <CaptionContent>
+                    <SimplePara><?Start ImageCredit?>Photo: © Jupiterimages / Thinkstock<?End ImageCredit?>
+                    </SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO1">
+                  <ImageObject Color="Color" FileRef="MediaObjects/735_2015_503_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+            </Para>
+            <Section1 ID="Sec1" OutputMedium="All">
+              <Heading>Kommunikative Expertise ist erforderlich</Heading>
+              <Para>Um von belastenden Symptomen zu erfahren, müssen Patienten mit Herzinsuffizienz gezielt danach gefragt werden. In der Realität aber hören gerade diese Patienten oft, dass doch schon alles wieder besser sei, obwohl sie sich krank fühlen. Mit Patienten mit Lungenkrebs beispielsweise, die im Verlauf ihrer Erkrankung ähnliche Symptome entwickeln wie Patienten mit Herzinsuffizienz, wird dagegen klarer kommuniziert. Ihnen wird gesagt, dass sie schwerkrank sind, obwohl sie sich oft noch gar nicht so krank fühlen [6]. Und ein Patient, der einfühlsam informiert wird, bekommt die Möglichkeit, sich auf die Erkrankung einzustellen, so dass er ein positives Gefühl der Kontrolle erfahren kann. In der Begleitung von Schwerkranken ist ein hohes Maß an kommunikativer Expertise und Flexibilität erforderlich, um auf die individuellen Bedürfnisse der betroffenen Menschen und derer, die sie begleiten, einzugehen. Zum Gelingen eines schwierigen Gespräches können viele einfach anzuwendende kommunikative Werkzeuge, wie das SPIKES-Protokoll (<InternalRef RefID="Tab2">Tab. 2</InternalRef>), beitragen. In der Alltagskommunikation sind aufmerksames Zuhören und offene Fragen geeignete Methoden, um auf wertschätzende und emphatische Weise vom Patienten die entscheidenden Informationen zu bekommen.
+<Table Float="Yes" ID="Tab1">
+                  <Caption Language="De">
+                    <CaptionNumber>Tabelle 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>NYHA-Stadien</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>NYHA I</SimplePara>
+                        </entry>
+                        <entry colname="c2">
+                          <SimplePara>Keine körperliche Einschränkung. Alltägliche körperliche Belastung verursacht keine inadäquate Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>NYHA II</SimplePara>
+                        </entry>
+                        <entry colname="c2">
+                          <SimplePara>Leichte Einschränkung der körperlichen Belastbarkeit. Keine Beschwerden in Ruhe. Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris bei alltäglicher körperlicher Belastung.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>NYHA III</SimplePara>
+                        </entry>
+                        <entry colname="c2">
+                          <SimplePara>Höhergradige Einschränkung der körperlichen Leistungsfähigkeit bei gewohnter Tätigkeit. Keine Beschwerden in Ruhe. Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris bei geringer körperlicher Belastung.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>NYHA IV</SimplePara>
+                        </entry>
+                        <entry colname="c2">
+                          <SimplePara>Beschwerden bei allen körperlichen Aktivitäten und in Ruhe. Immobilität. Klassifikation der New York Heart Association über die subjektiv empfundenen Einschränkungen der körperlichen Belastbarkeit durch Herzinsuffizienz.</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Table Float="Yes" ID="Tab2">
+                  <Caption Language="De">
+                    <CaptionNumber>Tabelle 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Spikes-Protokoll</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="1">
+                    <colspec colname="c1" colnum="1"/>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Kommunikatives Werkzeug zur Überbringung schlechter Nachrichten</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Setting: Gesprächsrahmen</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Perception: Kenntnisstand (Wahrnehmung) des Patienten</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Invitation: Einladung durch den Patienten zur Informationsweitergabe</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Knowledge: Wissensvermittlung</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Exploration of Emotions: Emotionen ansprechen und mit Empathie reagieren</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Strategy and Summary: Planen und zusammenfassen</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>Quelle: Baile WF, Buckman R, Lenzi R, Glober G, Beale EA, Kudelka AP. SPIKES — A six-step protocol for delivering bad news: application to the patient with cancer. Oncologist 2000; 5: 302–311</SimplePara>
+                  </tfooter>
+                </Table>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec2" OutputMedium="All">
+              <Heading>Typische Symptome bei terminaler Herzinsuffizienz</Heading>
+              <Para>
+                <Emphasis Type="Bold">Atemnot.</Emphasis> Oft sind einfache Tipps für den Alltag für die Patienten und ihre Angehörigen eine große Hilfe. Beispielsweise ist Atemnot „ansteckend“ — sich das bewusst zu machen, ist in der Akutsituation ein erster Schritt, um anstatt selbst in Panik zu geraten, auf eine beruhigende Atmosphäre hinzuwirken (<InternalRef RefID="Tab3">Tab. 3</InternalRef>).
+<Table Float="Yes" ID="Tab3">
+                  <Caption Language="De">
+                    <CaptionNumber>Tabelle 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Nicht-medikamentöse Maßnahmen bei Atemnot</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="1">
+                    <colspec colname="c1" colnum="1"/>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ (Be)ruhige(nde) Atmosphäre schaffen</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Fenster auf</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Fächer/Handventilator</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Lagerung</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Bedarfsmedikation</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Vorsicht mit Gerüchen</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Zimmer kühl halten</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Nicht zu viele Besucher auf einmal</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Para>
+              <Para>Gebrechliche Patienten benötigen meist Hilfe beim Aufrichten. In sitzender oder halbsitzender Haltung mit nach vorne oder zur Seite abgewinkelten Armen wird die Atemhilfsmuskulatur aktiviert. Dabei eignen sich Sofakissen als Lagerungshilfen. Auch Rauchverbot versteht sich leider nicht immer von selbst. Ein Fenster zu öffnen, für frische, kühle Luft zu sorgen und der Hinweis, dass der Erkrankte besonders empfindlich auf Gerüche reagiert, sind weitere Tipps, die sofort und leicht umsetzbar sind. Evidenzbasiert ist der Einsatz eines Handventilators [6].</Para>
+              <Para>Auch die positive Wirkung von Opioiden bei Atemnot ist gesichert [9]. Sie wirken dämpfend auf das Atemzentrum. Die Chemorezeptoren in der Medulla oblongata reagieren bei Herzinsuffizienz überempfindlich und durch die Gabe von Opioiden normalisiert sich das Atemmuster. Die Intensität und die emotionale Bewertung der Atemnot werden gelindert. Trotz dieser nachgewiesenen Wirkung werden Opioide aus Angst vor einer Atemdepression oft nur widerstrebend gegeben. Dabei ist vom fehlerhaften Einsatz von Opioiden zu unterscheiden, bei dem tatsächlich Überdosierungen zur Schädigung von Patienten führen.</Para>
+              <Para>Opioide werden immer ergänzend zur optimalen Behandlung der Herzinsuffizienz und der Begleiterkrankungen gegeben. Die Dosis muss sorgfältig titriert werden. Zu Beginn erhalten die Patienten 2,5 mg Morphin p.o.. Diese Medikation kann alle vier Stunden wiederholt werden. Benötigt der Patient seine Bedarfsmedikation regelmäßig, d.h. mehr als dreimal innerhalb von 24 Stunden, sollte über eine Regelmedikation mit einem retardierten Opioid nachgedacht werden. Bei Einschränkung der Nierenfunktion ist Hydromorphon eine gute Alternative. Fentanyl als Pflaster ist aufgrund der eingeschränkten Hautdurchblutung bei diesen Patienten ungeeignet. Die Einstiegsdosis ist viel zu hoch (ein Fentanylpflaster 25 μg/h entspricht einer Dosis oral verabreichten Morphins von 60 mg/24 Stunden). Die Patienten sollten innerhalb von 30 Minuten eine Erleichterung spüren, die etwa für zwei Stunden anhält. Bei Stauungsgastritis kann die Aufnahme des Medikamentes verzögert sein. Dann empfiehlt sich die subkutane Route als 1 mg Morphin sc. Um der opioidbedingten Übelkeit vorzubeugen, sollten Patienten zu Beginn der Behandlung eine Woche lang ein Antiemetikum (z.B. Metoclopramid 10 mg) — 20 Minuten vor einer geplanten Mahlzeit — bekommen.</Para>
+              <Para>Bei Herzinsuffizienzpatienten muss penibel auf die Stuhlregulation geachtet werden, da schon auf Grund anderer Medikamente (z.B. Diuretika) und der Immobilisation eine Obstipationsneigung besteht. Opioide verstärken diesen Zustand. Daher empfiehlt sich eine regelmäßige Obstipationsprophylaxe mit einem Quellstoff (Macrogol, Flosamen) oder einem Laxans in niedriger Dosierung.</Para>
+              <Para>
+                <Emphasis Type="Bold">Schmerzen.</Emphasis> Patienten mit Herzinsuffizienz gehören zu einer Altersgruppe, die oft von Schmerzen des Bewegungsapparates betroffen sind. Neben Arthrose und Gicht, verursachen Durchblutungsstörungen bei pAVK oder Angina abdominalis (mangelhafte Durchblutung des Darmes, v.a postprandial) Schmerzen. Auch die Dehnung von Haut und Gewebe bei Ödemen und Aszites wird als schmerzhaft empfunden. Zudem leidet ungefähr ein Drittel der Herzinsuffizienzpatienten regelmäßig an Angina pectoris.</Para>
+              <Para>Basis der Behandlung ist — wie bei allen Symptomen — die optimale Therapie der kardialen Grunderkrankung. Darauf aufbauend werden rehabilitative Maßnahmen durch Analgetika unterstützt. Das WHO-Stufenschema gibt eine Orientierung über die wichtigsten Grundlagen der medikamentösen Schmerztherapie. Begonnen wird zur Behandlung der nichtkardialen Schmerzen mit Paracetamol oder Metamizol. Sie kann ergänzt werden mit einem schwachen Opioid. Wenn allerdings starke Opioide wie Morphin oder Hydromorphon zum Einsatz kommen, verbietet sich aus pharmakologischen Gründen die gleichzeitige Gabe von schwachen Opioiden.</Para>
+              <Para>Angina pectoris spricht sehr gut auf Opioide an. Vermieden werden müssen nicht-steroidale Antirheumatika (NSAR) wie Diclofenac und Ibuprofen. NSAR verursachen eine Flüssigkeitsretention, wodurch das Herz belastet wird.</Para>
+              <Para>
+                <Emphasis Type="Bold">Schwäche, Müdigkeit, Kachexie.</Emphasis> Fast alle Patienten mit fortgeschrittener Herzinsuffizienz leiden unter Müdigkeit und Kachexie [10]. Wenn Erschöpfung, mangelnde Erholung während der Nacht oder Schlafstörungen berichtet werden, sollte nach Ursachen geforscht werden, die unter Umständen leicht zu beheben sind. Beispielsweise kann die abendliche Einnahme oder Dosiserhörung von Diuretika die Schlafqualität erheblich einschränken. Hier kann eine Anpassung des Einnahmemodus Abhilfe schaffen.</Para>
+              <Para>Auch ß-Blocker verursachen Müdigkeit, sind in der Regel aber unverzichtbarer Bestandteil der Therapie. Wenn der Patent darüber informiert wird, kann er seine Müdigkeit vielleicht besser einordnen und bewerten.</Para>
+              <Para>Bei fortgeschrittener Herzinsuffizienz kommen auch Schlafapnoe und Cheyne-Stokes-Atemmuster vor und müssen entsprechen abgeklärt werden. Liegt eine einseitige Ernährung oder Anämie vor? Das sind weitere behebbare Ursachen für Schwäche und Müdigkeit. Die körperliche Schonung, zu der die Patienten aufgrund der schlechten kardialen Funktion gezwungen sind, führt zur Abnahme der Fitness. Der Muskelabbau (Kachexie) ist ein multifaktoriell bedingtes Problem bei Herzinsuffizienz. Die Patienten zur Teilnahme an entsprechenden Sportprogrammen zu ermutigen, ist durchaus sinnvoll in Bezug auf Symptomkontrolle und das Überleben [11].</Para>
+              <Para>Für Angehörige ist es beunruhigend, den körperlichen Verfall zu beobachten, ohne dem etwas entgegen setzen zu können. Schwäche und Gewichtsabnahme werden meistens unkritisch mit einer verminderten Nahrungsaufnahme in Verbindung gebracht. Denn Patienten mit Herzinsuffizienz haben weniger Appetit oder fühlen sich durch Essen angestrengt. Magen- und Darmwandödeme, Leberstauung und Niereninsuffizinez verursachen Übelkeit, genauso wie viele wichtige Medikamente (ASS, Digitalis oder Spironolacton). Auch hier hilft eine ehrliche Kommunikation. Vermitteln Sie, dass der Erkrankte nicht stirbt, weil er nicht isst, sondern nicht isst, weil er stirbt. Das zu akzeptieren, fällt den meisten Angehörigen sehr schwer und nicht immer greift die Devise „Erlaubt ist, was schmeckt“. Dennoch kann es zur Entspannung beitragen, wenn ein versorgender Angehöriger mit der Zubereitung von Wunschmahlzeiten beauftragt ist.</Para>
+              <Para>
+                <Emphasis Type="Bold">Ängste und Depression.</Emphasis> Eine chronische Erkrankung belastet die Psyche. Gleichzeitig gibt es Hinweise, dass durch metabolische Veränderungen bei Herzinsuffizienz der Entwicklung einer Depression Vorschub geleistet wird. Aus palliativmedizinischer Sicht steht auch hier die Symptomkontrolle im Vordergrund. Neben einem ressourcenorientierten Ansatz, zum Beispiel in Bezug auf das soziale Umfeld oder einer für den Patienten geeigneten Bewältigungsstrategie, kommen auch Antidepressiva zum Einsatz. Serotonin-Wiederaufnahmehemmer (SSRI), Sertralin, Citalopram oder Mirtazapin scheinen sicher zu sein, Trizyklische Antidepressiva sollten wegen ihres proarrhytmogenen Effektes nicht zum Einsatz kommen [12]. Benzodiazepine können bei unangenehmen Angstzuständen, zum Beispiel im Rahmen einer Atemnotattacke, eingesetzt werden, machen aber zusätzlich müde. Daher ist kurzwirksamen Präparaten wie Lorazepam der Vorrang zu geben. Darüber hinaus sind alle Maßnahmen, die das Selbstwertgefühl des Erkrankten stärken, indiziert.</Para>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All">
+              <Heading>Verlust der Unabhängigkeit</Heading>
+              <Para>Einschränkungen der Autonomie, seien sie körperlicher Art in Form verminderter Mobilität oder sozial in Gestalt einer veränderten Rolle in der Familie oder im Freundeskreis, haben einen erheblichen Einfluss auf die Lebensqualität. Das Verfassen einer Vorausverfügung (Patientenverfügung, Vorsorge- oder Betreuungsvollmacht) kann helfen, das Gefühl der Kontrolle wiederzuerlangen über das, was im Ernstfall medizinisch, pflegerisch, finanziell und rechtlich zu tun ist [13, 14]. Dabei bedarf es wieder einer sensiblen und kompetenten Gesprächsführung, um das seelische Gleichgewicht des Patienten nicht zu gefährden. Den Patienten würde, wenn sie nur unzureichend über ihren Gesundheitszustand und ihre Prognose aufgeklärt sind, die Möglichkeit vorenthalten, ihre letzte Lebensphase zu planen.</Para>
+              <Para>Die Identifikation des rechtzeitigen Zeitpunktes der palliativmedizinischen Integration in die Versorgung von Patienten mit Herzinsuffizienz ist eine Herausforderung für das therapeutische Team. Dabei hat professionelle Kommunikation eine Schlüsselfunktion. Weitere Forschung, gerade auch in der Pflege, ist erforderlich, um offene Fragen zu beantworten und den Wünschen und Bedürfnissen der Patienten und ihrer Familien besser gerecht zu werden. Eine engere Vernetzung von Palliative Care und Kardiologie könnte dazu beitragen.</Para>
+            </Section1>
+            <Section1 ID="Sec4" OutputMedium="All">
+              <Heading>Fazit für die Pflege</Heading>
+              <Para>Patienten mit Herzinsuffizienz und ihre Familien sind oft über Jahre einem immer wieder durch Krisen erschwerten Erkrankungsverlauf ausgesetzt, der nicht nur körperlich sondern auch psychische, soziale und spirituelle Auswirkungen hat. Dieser Leidensdruck rechtfertigt eine an den Bedürfnissen, statt ausschließlich an Diagnosen orientierte Versorgung.</Para>
+              <Para>Die kompetente und optimale kardiologische Therapie stellt stets die Basis für die Behandlung von Herzinsuffizienzpatienten dar.</Para>
+              <Para>Palliative Care wirkt ergänzend zur Sicherstellung der Symptomkontrolle sowie in der Entscheidungsfindung und der Vorsorgeplanung.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_503.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

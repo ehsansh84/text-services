@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <JournalOnlineFirst>
+      <Article ID="s00066-015-0855-x" OutputMedium="All">
+        <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+          <ArticleID>855</ArticleID>
+          <ArticleDOI>10.1007/s00066-015-0855-x</ArticleDOI>
+          <ArticleTitle Language="En">Adjuvant temozolomide-based chemoradiotherapy versus radiotherapy alone in patients with WHO III astrocytoma</ArticleTitle>
+          <ArticleSubTitle Language="En">The Mainz experience</ArticleSubTitle>
+          <ArticleTitle Language="De">Adjuvante temozolomidbasierte Radiochemotherapie versus alleinige Radiotherapie bei Patienten mit WHO-III-Astrozytomen</ArticleTitle>
+          <ArticleSubTitle Language="De">Erfahrungen mit dem Mainzer Kollektiv</ArticleSubTitle>
+          <ArticleCategory>Original Article</ArticleCategory>
+          <ArticleFirstPage>1</ArticleFirstPage>
+          <ArticleLastPage>7</ArticleLastPage>
+          <ArticleHistory>
+            <RegistrationDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>8</Day>
+            </RegistrationDate>
+            <Received>
+              <Year>2015</Year>
+              <Month>3</Month>
+              <Day>19</Day>
+            </Received>
+            <Accepted>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>8</Day>
+            </Accepted>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+          </ArticleHistory>
+          <ArticleCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </ArticleCopyright>
+          <ArticleGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ArticleGrants>
+        </ArticleInfo>
+        <ArticleHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Dr. med.</Prefix>
+                <GivenName>Arnulf</GivenName>
+                <FamilyName>Mayer</FamilyName>
+              </AuthorName>
+              <Contact>
+                <Phone>49-6131-176152</Phone>
+                <Email>arnmayer@uni-mainz.de</Email>
+              </Contact>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Dr. med.</Prefix>
+                <GivenName>Carina</GivenName>
+                <FamilyName>Schwanbeck</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff2">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Univ.-Prof. Dr. med.</Prefix>
+                <GivenName>Clemens</GivenName>
+                <FamilyName>Sommer</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Dr. med.</Prefix>
+                <GivenName>Marcus</GivenName>
+                <FamilyName>Stockinger</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff3">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Univ.-Prof. Dr. med.</Prefix>
+                <GivenName>Alf</GivenName>
+                <FamilyName>Giese</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff3">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Dr. med.</Prefix>
+                <GivenName>Mirjam</GivenName>
+                <FamilyName>Renovanz</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Univ.-Prof. Dr. med.</Prefix>
+                <GivenName>Peter</GivenName>
+                <FamilyName>Vaupel</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <Prefix>Univ.-Prof. Dr. med.</Prefix>
+                <GivenName>Heinz</GivenName>
+                <FamilyName>Schmidberger</FamilyName>
+              </AuthorName>
+            </Author>
+            <Affiliation ID="Aff1">
+              <OrgDivision>Department of Radiooncology and Radiotherapy</OrgDivision>
+              <OrgName>University Medical Center</OrgName>
+              <OrgAddress>
+                <Street>Langenbeckstrasse 1</Street>
+                <Postcode>55131</Postcode>
+                <City>Mainz</City>
+                <Country>Germany</Country>
+              </OrgAddress>
+            </Affiliation>
+            <Affiliation ID="Aff2">
+              <OrgDivision>Department of Neuropathology</OrgDivision>
+              <OrgName>University Medical Center</OrgName>
+              <OrgAddress>
+                <City>Mainz</City>
+                <Country>Germany</Country>
+              </OrgAddress>
+            </Affiliation>
+            <Affiliation ID="Aff3">
+              <OrgDivision>Department of Neurosurgery</OrgDivision>
+              <OrgName>University Medical Center</OrgName>
+              <OrgAddress>
+                <City>Mainz</City>
+                <Country>Germany</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+          <Abstract ID="Abs1" Language="En" OutputMedium="All">
+            <Heading>Abstract</Heading>
+            <AbstractSection ID="ASec1">
+              <Heading>Background</Heading>
+              <Para>It is currently unclear whether adjuvant therapy for WHO grade III anaplastic astrocytomas (AA) should be carried out as combined chemoradiotherapy with temozolomide (TMZ)—analogous to the approach for glioblastoma multiforme—or as radiotherapy (RT) alone.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec2">
+              <Heading>Patients and methods</Heading>
+              <Para>A retrospective analysis of data from 90 patients with AA, who were treated between November 1997 and February 2014. Assessment of overall (OS) and progression-free survival (PFS) was performed according to treatment categories: (1) 50 %, RT + TMZ according to protocol, (2) 11 %, RT + TMZ with dose reduction, (3) 26 %, RT alone, and (4) 13 %, individualized, primarily palliative therapy. No dose reduction was necessary in the RT alone group.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec3">
+              <Heading>Results</Heading>
+              <Para>Median OS was 85, 69, and 43 months for treatment categories 1/2, 3, and 4, respectively. These differences were not statistically significant. PFS was 35, 29, 48, and 33 months for categories 1, 2, 3, and 4, respectively; again without significant differences between categories. In a subgroup of 39 patients with known IDH1 R132H status, the presence of this mutation correlated with significantly longer OS (<Emphasis Type="Italic">p</Emphasis> = 0.01) and PFS (<Emphasis Type="Italic">p</Emphasis> = 0.002). Complete or partial tumor resection and younger age also correlated with a significantly better prognosis, and this influence persisted in multivariate analysis. In the IDH1 R132H subgroup analysis, only this marker retained an independent prognostic value.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec4">
+              <Heading>Discussion and conclusion</Heading>
+              <Para>A general superiority of combined chemoradiotherapy compared to RT alone could not be demonstrated. Biomarkers for predicting the benefits of combination therapy using RT and TMZ are needed for patients with AA.</Para>
+            </AbstractSection>
+          </Abstract>
+          <Abstract ID="Abs2" Language="De" OutputMedium="All">
+            <Heading>Zusammenfassung</Heading>
+            <AbstractSection ID="ASec5">
+              <Heading>Hintergrund</Heading>
+              <Para>Es ist derzeit unklar, ob bei anaplastischen Astrozytomen (AA) vom WHO-Grad III eine adjuvante Therapie analog zur Therapiestrategie beim Glioblastoma multiforme als kombinierte Radiochemotherapie mit Temozolomid (TMZ) oder als alleinige Radiotherapie (RT) durchgeführt werden sollte.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec6">
+              <Heading>Patienten und Methoden</Heading>
+              <Para>Retrospektiv wurden die Daten von 90 Patienten mit AA, die zwischen November 1997 und Februar 2014 in unserer Einrichtung therapiert wurden, ausgewertet. Analyse des Gesamtüberlebens (OS) und des progressionsfreien Überlebens (PFS) nach Behandlungskategorien: (1) RT + TMZ protokollgemäß, 50 %, (2) RT + TMZ mit Dosisreduktion, 11 %, (3) alleinige RT, 26 %, (4) individualisierte, primär palliative Therapie, 13 %. Bei den allein mit RT behandelten Patienten war keine Dosisreduktion erforderlich.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec7">
+              <Heading>Ergebnisse</Heading>
+              <Para>Das OS lag bei 85, 69 und 43 Monaten für die Behandlungskategorien 1/2, 3 und 4. Die Unterschiede waren jedoch statistisch nicht signifikant. Das PFS lag bei 35, 29, 48 und 33 Monaten für die Kategorien 1, 2, 3 und 4, ebenfalls ohne signifikante Unterschiede zwischen den Gruppen. In einer Subgruppe von 39 Patienten mit bekanntem IDH1-R132H-Status war das Vorliegen dieser Mutation mit einem signifikant längeren OS (<Emphasis Type="Italic">p</Emphasis> = 0,01) und PFS (<Emphasis Type="Italic">p</Emphasis> = 0,002) korreliert. Vollständige oder partielle Tumorresektion und niedrigeres Lebensalter waren mit einer signifikant günstigeren Prognose korreliert und behielten diesen Einfluss in der multivariaten Analyse des gesamten Kollektivs. In der IDH1-R132H-Subgruppenanalyse hatte nur dieser Marker einen eigenständigen prognostischen Wert.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec8">
+              <Heading>Diskussion und Schlussfolgerung</Heading>
+              <Para>Eine generelle Überlegenheit einer kombinierten Radiochemotherapie gegenüber einer alleinigen RT war nicht nachweisbar. Es werden neue Biomarker zur Prädiktion des Nutzens der Kombinationstherapie aus RT und TMZ bei AA benötigt.</Para>
+            </AbstractSection>
+          </Abstract>
+          <KeywordGroup Language="En">
+            <Heading>Keywords</Heading>
+            <Keyword>IDH1</Keyword>
+            <Keyword>Survival</Keyword>
+            <Keyword>Anaplastic astrocytoma</Keyword>
+            <Keyword>Toxicity</Keyword>
+            <Keyword>Radio(chemo)therapy</Keyword>
+          </KeywordGroup>
+          <KeywordGroup Language="De">
+            <Heading>Schlüsselwörter</Heading>
+            <Keyword>IDH1</Keyword>
+            <Keyword>Überleben</Keyword>
+            <Keyword>Anaplastisches Astrozytom</Keyword>
+            <Keyword>Toxizität</Keyword>
+            <Keyword>Radio(chemo)therapie</Keyword>
+          </KeywordGroup>
+        </ArticleHeader>
+        <Body>
+          <Para>Anaplastic astrocytomas (AA) represent approximately one quarter of all high grade (i.e., WHO grade III and IV) gliomas. They are distinguished from lower grade gliomas (WHO grade I and II) primarily by an increased proliferation rate (Ki67 proliferation index &gt; 5 %). In contrast to glioblastoma multiforme (GBM; grade IV), they exhibit no micronecroses. Across all subgroups, median overall survival (OS) is about 3 years [<CitationRef CitationID="CR4">4</CitationRef>], although data from a recent prospective randomized trial indicate that this may be an underestimation [<CitationRef CitationID="CR18">18</CitationRef>]. Known prognostic factors include patient age, Karnofsky performance score (KPS), mental status, and symptom duration, as identified by a recursive partitioning analysis (RPA). More recently, it has been recognized that certain molecular markers also have considerable prognostic power, including mutations of the isocitrate dehydrogenase (IDH) 1 gene, codeletions of chromosomes 1p and 19q, and the methylation status of the O<Superscript>6</Superscript>-methylguanin-DNA-methyltransferase (MGMT) promoter. In fact, based on data from recent clinical trials, these biomarkers have already been included in clinical decision making. For instance, results from two large randomized trials [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>] have indicated that patients whose tumors exhibit an oligodendroglial component and 1p/19q codeletion experience substantial benefit from radiotherapy (RT) in (sequential) combination with procarbazine, lomustine and vincristine (PCV) chemotherapy. The applicability of these data to chemotherapy with temozolomide (TMZ) is often assumed in analogy to the results of the NOA-04 study [<CitationRef CitationID="CR18">18</CitationRef>], although this is not yet proven by formal prospective randomized evidence. However, the vast majority of grade III tumors are pure AA, and the best treatment for these patients is still a matter of controversy. AA tumors are well known to exhibit a pronounced tendency for malignant progression to GBM. In fact, it can be assumed that every tumor will eventually progress to grade IV if the patient survives long enough, providing a rationale for aggressive first-line treatment. Maximal surgical resection followed by adjuvant RT up to a total dose of approximately 60 Gy in 1.8–2.0-Gy daily fractions is the common ground of the current evidence-based standard of care, which has its roots in prospective clinical trials that have been carried out since the 1960s [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>]. For a number of reasons, many clinicians advocate the combination of RT with chemotherapy. Normal brain tissue radiation tolerance is significantly depleted by the first-line dose of 60 Gy, which renders this treatment phase the only window of opportunity for exploiting possible synergistic effects of both modalities. Grade III tumors are also considered to be more chemosensitive than GBM, suggesting combined chemoradiotherapy for AA as the logical strategy, since an European Organisation for Research and Treatment of Cancer (EORTC)/NCIC trial [<CitationRef CitationID="CR12">12</CitationRef>] has established this strategy as the standard of care for GBM. In fact, a meta-analysis from 2002 summarizing the data from 12 randomized controlled trials has confirmed the beneficial role of the addition of chemotherapy to RT in all high-grade gliomas [<CitationRef CitationID="CR11">11</CitationRef>], although the effect was relatively mild. For AA, combined RT and TMZ treatment is currently being investigated in the prospective randomized “CATNON” trial by the EORTC (trial no. 26053-22054), but results will not be available within the next few years. Since 2005, all patients referred to our institution who had residual postoperative tumor or postoperative enhancing lesions in <Superscript>18</Superscript>F-fluoroethyltyrosine positron-emission tomography/CT (FET-PET/CT) studies have been treated with concomitant TMZ-based chemoradiotherapy according to the EORTC 22981-26891/NCIC CE.3 (“Stupp”) protocol [<CitationRef CitationID="CR12">12</CitationRef>], providing the patients' general condition and comorbidities permitted TMZ application. These patients, as well as all other patients treated according to different protocols since November 1997 number a total of 90. These 90 patients are reported in the present communication.</Para>
+          <Section1 ID="Sec1">
+            <Heading>Patients and methods</Heading>
+            <Section2 ID="Sec2">
+              <Heading>Patients</Heading>
+              <Para>All 90 patients treated at the University Medical Center Mainz between November 1997 and February 2014 for WHO III gliomas, for whom information regarding overall (OS) and progression-free survival (PFS) could be obtained, were included in this retrospective analysis. Data were derived from a current study on the prognostic impact of markers of high-grade astrocytoma pathophysiology, which had been approved by the local ethics committee [Registration no. 837.454.10 (7463)].</Para>
+            </Section2>
+            <Section2 ID="Sec3">
+              <Heading>Treatment groups</Heading>
+              <Para>Category 1 comprised 45 of the 90 patients (50 %) and this group completed therapy analogous to the EORTC 22891/26891 “Stupp” protocol [<CitationRef CitationID="CR12">12</CitationRef>]. Category 2 comprised 10 of the 90 patients (11.1 %) and received therapy according to the same protocol, but required dose reduction or discontinuation of either RT or TMZ (75 mg/m<Superscript>2</Superscript>) during their treatment course, due to treatment-related toxicity. Category 3 comprised 23 of the 90 patients (25.6 %) and underwent adjuvant RT alone, consisting of total doses between 50.4 and 60.4 Gy given in 1.8- or 2.0-Gy daily fractions, five times per week. Dose reduction or discontinuation of adjuvant RT was not necessary in any case. Category 4 comprised 12 of the 90 patients (13.3 %) who received individualized treatment regimens that cannot be subsumed under any of the categories 1–3 (no RT or hypofractionated RT, chemotherapy other than TMZ). According to intraoperative assessment or early postsurgical MRI studies, approximately one third of all patients received a complete tumor resection (31.1 %), while 40 % only had a partial resection. In 28.9 %, only a tumor biopsy was carried out, due to either localization of the tumor in an eloquent area or patients’ overall clinical condition. Most patients had AA (75.6 %). With the exception of one case of gliomatosis cerebri (1.1 %), the remaining patients (23.3 %) had anaplastic oligoastrocytomas.</Para>
+            </Section2>
+            <Section2 ID="Sec4">
+              <Heading>Statistical analysis</Heading>
+              <Para>Univariate survival analyses were carried out using Kaplan–Meier plots and log-rank statistics. OS was defined as survival time from diagnosis of AA until death from any cause. Analogously, PFS was defined as survival time from diagnosis of AA until disease progression, disease recurrence, or death from any cause. The influence of multiple variables on OS was calculated using a Cox proportional hazards model, with stepwise inclusion of variables using the likelihood ratio method.</Para>
+            </Section2>
+          </Section1>
+          <Section1 ID="Sec5">
+            <Heading>Results</Heading>
+            <Section2 ID="Sec6">
+              <Heading>Patient characteristics</Heading>
+              <Para>Cross tabulation analysis revealed that patients with anaplastic oligoastrocytomas received combined modality treatment significantly less frequently and underwent RT alone more often than expected in a homogeneous distribution (<Emphasis Type="Italic">p</Emphasis> = 0.023). As expected, patients receiving combined treatment also received additional adjuvant chemotherapy following (chemo-)RT as a regular component of their treatment protocol significantly more often (<Emphasis Type="Italic">p</Emphasis> = 0.001). All other recorded variables were evenly distributed among the treatment categories, as summarized in Table <InternalRef RefID="Tab1">1</InternalRef>.<Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Salient patient and tumor characteristics according to treatment categories</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="11">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="left" colname="c5" colnum="5"/>
+                    <colspec align="left" colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <colspec align="left" colname="c8" colnum="8"/>
+                    <colspec align="left" colname="c9" colnum="9"/>
+                    <colspec align="left" colname="c10" colnum="10"/>
+                    <colspec align="left" colname="c11" colnum="11"/>
+                    <thead>
+                      <row>
+                        <entry align="left" morerows="1" nameend="c2" namest="c1"/>
+                        <entry align="left" nameend="c4" namest="c3">
+                          <SimplePara>RT + TMZ (treatment categories 1 &amp; 2)</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c6" namest="c5">
+                          <SimplePara>RT alone (treatment category 3)</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c8" namest="c7">
+                          <SimplePara>Other (treatment category 5)</SimplePara>
+                        </entry>
+                        <entry align="left" nameend="c10" namest="c9">
+                          <SimplePara>Sum</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="1"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c3">
+                          <SimplePara>
+                            <Emphasis Type="Italic">n</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>
+                            <Emphasis Type="Italic">N</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>
+                            <Emphasis Type="Italic">n</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>%</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>
+                            <Emphasis Type="Italic">n</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>%</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1" morerows="3">
+                          <SimplePara>Number of recurrences prior to diagnosis of AA</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>39</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>43.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>19</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>21.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>10.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>67</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>74.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="3">
+                          <SimplePara>n.s.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>13.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>3.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>2.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>17</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>18.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>3.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>0.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>4.4</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>0.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>2.2</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="2">
+                          <SimplePara>Resection</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Biopsy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>14.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>7.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>6.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>26</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>28.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="2">
+                          <SimplePara>n.s.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Partial</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>26</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>28.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>8.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>2.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>36</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>40.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Complete</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>17.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>8.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>4.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>31.1</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="2">
+                          <SimplePara>Histology</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>AA</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>46</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>51.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>14</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>15.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>8.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>68</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>75.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="2">
+                          <SimplePara>
+                            <Emphasis Type="Italic">p</Emphasis> = 0.023</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>AOA</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>10.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>10.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>3.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>21</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>23.3</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Gliomatosis cerebri</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>0.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Adherence to protocol</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Incomplete</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>11.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>0.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>12.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="1">
+                          <SimplePara>n.s.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Complete</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>50.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>23</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>25.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>12.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>79</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>87.8</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="3">
+                          <SimplePara>Additional treatment following adjuvant therapy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>None</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>8.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>14</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>15.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>6.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>31.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="3">
+                          <SimplePara>
+                            <Emphasis Type="Italic">p</Emphasis> = 0.001</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>RT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>0.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>2.2</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>RT + chemotherapy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>3.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>2.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>1.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>6.7</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Chemotherapy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>43</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>47.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>6.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>5.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>54</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>60.0</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>Patient age (years)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>≤ 49</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>31</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>34.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>11.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>5.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>46</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>51.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="1">
+                          <SimplePara>n.s.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>&gt; 49</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>24</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>26.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>14.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>7.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>44</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>48.9</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1" morerows="1">
+                          <SimplePara>IDH1<Superscript>a</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>R132H wildtype</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>30.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>2.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>5.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>15</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>38.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11" morerows="1">
+                          <SimplePara>n.s.</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c2">
+                          <SimplePara>R132H mutated</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>17</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>43.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>12.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>5.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>24</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>61.5</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>
+                      <Superscript>a</Superscript>IDH1 data refer to a subgroup of 39 patients</SimplePara>
+                    <SimplePara>
+                      <Emphasis Type="Italic">AA</Emphasis> anaplastic astrocytoma, <Emphasis Type="Italic">AOA</Emphasis> anaplastic oligoastrocytoma, <Emphasis Type="Italic">RT</Emphasis> radiotherapy, <Emphasis Type="Italic">TMZ</Emphasis> temozolomide, <Emphasis Type="Italic">n.s</Emphasis>. not significant</SimplePara>
+                  </tfooter>
+                </Table>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec7">
+              <Heading>Impact of resection status, age, and histopathology on survival in univariate analysis</Heading>
+              <Para>The median follow-up time of the entire patient cohort (<Emphasis Type="Italic">n</Emphasis> = 90; calculated according to the method of Schemper and Smith, [<CitationRef CitationID="CR8">8</CitationRef>]) was 57 months. Median OS in the entire patient cohort was 66 months. Patients who had received either a complete (CR; 31.1 %) or partial tumor resection (PR; 40 %) showed significantly better OS and PFS compared to patients who only underwent a tumor biopsy (B; 28.9 %; OS: <Emphasis Type="Italic">p</Emphasis> = 0.01 for both comparisons; PFS: CR vs. B: <Emphasis Type="Italic">p</Emphasis> = 0.004, PR vs. B: <Emphasis Type="Italic">p</Emphasis> = 0.018). Median OS was 121 months for completely resected patients, 72 months for patients who had undergone a partial resection, and only 23 months for patients who had only received a tumor biopsy. Median PFS was 57, 43, and 17 months for the CR, PR, and B groups, respectively. A separate analysis of the subgroup of treatment category 1 patients (<Emphasis Type="Italic">n</Emphasis> = 45) revealed that the OS difference between PR and B remained statistically significant (<Emphasis Type="Italic">p</Emphasis> = 0.011), while the OS difference between CR and B showed a trend towards significance (<Emphasis Type="Italic">p</Emphasis> = 0.094). In the same subgroup, PFS for both CR vs. B and PR vs. B showed only a trend towards being poorer in in the B group (<Emphasis Type="Italic">p</Emphasis> = 0.067 and <Emphasis Type="Italic">p</Emphasis> = 0.068, respectively). Other treatment subgroups were not tested due to the small patient numbers. Patients older than 49 years had a significantly poorer OS (34 months) and PFS (22 months) than patients up to the age of 49 years (OS: 85 months, <Emphasis Type="Italic">p</Emphasis> = 0.0012; PFS: 57 months, <Emphasis Type="Italic">p</Emphasis> = 0.005). A cutoff of 49 years corresponds to that used in the original RPA classification [<CitationRef CitationID="CR3">3</CitationRef>] and also happens to be identical to the median patient age (49 years) in our study cohort. No significant differences were found between AA and anaplastic oligoastrocytomas in our study in terms of OS or PFS. However, patients with anaplastic oligoastrocytomas were significantly more often older than 49 years (<Emphasis Type="Italic">p</Emphasis> = 0.031) and IDH1 R132H mutated (<Emphasis Type="Italic">p</Emphasis> = 0.032; subgroup analysis of 39 patients).</Para>
+            </Section2>
+            <Section2 ID="Sec8">
+              <Heading>Influence of treatment protocol on survival in univariate analysis</Heading>
+              <Para>Median OS was 85 months for patients who had received combined modality treatment (categories 1 &amp; 2 ), 69 months for patients who had been treated with adjuvant RT alone (category 3), and only 43 months for patients who had received individualized treatment not fitting any of the aforementioned groups (category 4). Despite these different median survival times, log-rank tests revealed only a trend towards longer a OS of category 1 &amp; 2 patients compared to category 4 patients (<Emphasis Type="Italic">p</Emphasis> = 0.092). This trend was more pronounced and almost reached statistical significance when only category 1 patients were compared to category 4 patients (<Emphasis Type="Italic">p</Emphasis> = 0.053). However, there was clearly no statistically significant difference between combined modality treatment (categories 1 &amp; 2) and RT alone (category 3; <Emphasis Type="Italic">p</Emphasis> = 0.377, Fig. <InternalRef RefID="Fig1">1a</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>
+                        <Emphasis Type="Bold">a</Emphasis> Kaplan–Meier plot of overall survival of patients who received combined chemoradiotherapy according to the EORTC 22891/26891 protocol (treatment categories1 &amp; 2, <Emphasis Type="Italic">green</Emphasis>) or radiotherapy alone (category 3, <Emphasis Type="Italic">red</Emphasis>). <Emphasis Type="Bold">b</Emphasis> Kaplan–Meier plot of progression free survival in the same categories. <Emphasis Type="Italic">White triangles</Emphasis> and <Emphasis Type="Italic">black dots</Emphasis> indicate censored events. <Emphasis Type="Italic">RT</Emphasis> radiotherapy, <Emphasis Type="Italic">TMZ</Emphasis> temozolomide</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2015_855_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Significant differences between treatment categories were also not found with regard to PFS, which was 35, 29, 48, and 33 months in categories 1, 2, 3, and 4, respectively (Fig. <InternalRef RefID="Fig1">1b</InternalRef>). RT + TMZ patients requiring dose reduction (category 2) showed trends towards poorer PFS compared to patients treated with RT + TMZ per protocol (category 1; <Emphasis Type="Italic">p</Emphasis> = 0.062) and RT alone (category 3; <Emphasis Type="Italic">p</Emphasis> = 0.096).</Para>
+            </Section2>
+            <Section2 ID="Sec9">
+              <Heading>Influence of IDH1-R132H mutation status on survival in univariate analyses</Heading>
+              <Para>This analysis was possible in a subgroup of 39 patients, most of whom were diagnosed after 2009. Patients whose tumors harbored the R132H mutation in the IDH1 gene had significantly longer OS and PFS compared to patients whose tumors contained the wildtype sequence at this locus (OS: 88 vs. 35 months, <Emphasis Type="Italic">p</Emphasis> = 0.01; PFS: 57 vs 20 months, <Emphasis Type="Italic">p</Emphasis> = 0.0003, Fig. <InternalRef RefID="Fig2">2</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Kaplan–Meier plot of progression free survival of patients with IDH1-R132H wildtype (<Emphasis Type="Italic">red</Emphasis>) or IDH1-R132H mutated (<Emphasis Type="Italic">green</Emphasis>) status. <Emphasis Type="Italic">White triangles</Emphasis> and <Emphasis Type="Italic">black dots</Emphasis> indicate censored events</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2015_855_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec10">
+              <Heading>Multivariate analysis of factors influencing survival</Heading>
+              <Para>Treatment groups, resection status, and age (≤ 49 years vs. &gt; 49 years) were entered into a Cox proportional hazards regression model. Only the extent of resection and patient age were significant prognosticators of OS and PFS. Compared to biopsy only (B), PR and CR were correlated with a 0.43-fold (95 % CI 0.21–0.88) and 0.41-fold (95 % CI 0.19–0.90) risk of death, respectively. Patients up to the age of 49 years had a 0.41-fold (95 % CI 0.22–0.77) risk of death. The risk of tumor progression of patients with CR was 0.38-fold (95 % CI 0.19–0.77) compared to B; the difference between PR and B was not statistically significant. The risk of tumor progression of patients ≤ 49 years was 0.53-fold (95 % CI 0.31–0.92) compared to those older than 49 years. Treatment groups had no impact on OS and PFS in multivariate analysis.</Para>
+              <Para>Inclusion of IDH1-R132H into the model in the subgroup of 39 patients for whom this information was available led to the exclusion of all other variables: only IDH1-R132H itself remained significant for OS and PFS. The hazard ratio for patients with IDH1-R132H mutated tumors was 0.19 (95 % CI 0.05–0.78) for OS and 0.17 (95 % CI 0.06–0.50) for PFS.</Para>
+            </Section2>
+          </Section1>
+          <Section1 ID="Sec11">
+            <Heading>Discussion</Heading>
+            <Para>As a surprisingly clear result of our study, no superiority for the combined modality treatment was detectable. In fact, even the comparison of patients receiving chemoradiotherapy (categories 1 &amp; 2) to those who received individualized palliative treatments (category 4) only showed a trend towards a better OS for the former group. For the comparison of category 1 and category 3, it should be noted that all patients in category 1 had residual tumor, as shown by postoperative MRI or PET imaging. Therefore, the identical PSF of both groups might still suggest a benefit of combined modality treatment for patients with incomplete tumor resection. With regard to the other established prognostic factors, our results are in accordance with data from previous studies, which have also described a larger extent of tumor resection and younger patient age to be correlated with longer OS. When examining the different treatment groups in our study, it becomes evident that no treatment dropouts occurred among patients treated by adjuvant RT alone (category 3). Interestingly, the PFS of these patients trended to be longer than for patients who required dose reduction of the radio- or chemotherapy modules of combined modality treatment (category 2).</Para>
+            <Para>A number of studies from a variety of institutions worldwide have been published on the same topic during recent years. The first report, by Combs et al. [<CitationRef CitationID="CR2">2</CitationRef>] in 2008 retrospectively, analyzed data from 60 patients and found surprisingly low median OS times for RT + TMZ and RT alone of only 15 and 13 months, respectively (a 1:2 matched pairs analysis). These patients had been treated with a reduced TMZ dosage of only 50 mg/m<Superscript>2</Superscript>, compared to 75 mg/m<Superscript>2</Superscript> according to the EORTC protocol [<CitationRef CitationID="CR12">12</CitationRef>], as administered to the patients included in our study. A multicenter trial from Italy [<CitationRef CitationID="CR9">9</CitationRef>] analyzed 295 patients with pure astrocytic histology, of whom approximately two thirds received RT + TMZ, whereas the rest were treated with RT alone. Median OS was only slightly better in this study, reaching 20.6 months after a median follow-up of 23.1 months (individual median OS data for RT + TMZ and RT alone groups were not stated). Similar to our study, only patient age &gt; 49 years and biopsy were correlated with a significantly poorer OS in multivariate analysis. Rogne et al. [<CitationRef CitationID="CR7">7</CitationRef>] from Oslo reported on a similar cohort of 99 patients (AA only, 63 % RT + TMZ, 26 % RT alone, 2 % TMZ only, 9 % none) and found a median OS of 19 months (again, data for individual treatment groups not stated). Finally, Tham et al. [<CitationRef CitationID="CR14">14</CitationRef>] reported on a smaller series from Singapore (62 patients), among whom approximately one third had tumors with an oligodendroglial component. Median OS was 27.4 months for RT and 34.1 months for RT + TMZ. None of these studies [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>] described a statistically significant survival difference between treatment with RT + TMZ compared to RT alone. A study conducted at the University of Nebraska [<CitationRef CitationID="CR10">10</CitationRef>] included 163 patients with pure astrocytic histology only. Treatment groups were more heterogeneous, with roughly one third of the patients in each of the RT + chemotherapy, RT alone, and RT followed by chemotherapy groups. Chemotherapy was mostly TMZ. Contrary to the abovementioned studies, these investigators observed a median OS of 57.6 months in the RT + chemotherapy group (median follow-up 38.4 months). Again, no survival differences were found between adjuvant RT + TMZ and RT alone. Indeed, we have found only two studies describing a significant difference between these two treatment approaches. One study from the Mayo Clinic in Rochester, MN [<CitationRef CitationID="CR13">13</CitationRef>] investigated a cohort of 31 elderly (i.e., &gt; 65 years) patients and described median OS times of 15.5 months and 3.5 months in the RT + TMZ (52 % of patients) and RT alone arms, respectively (<Emphasis Type="Italic">p</Emphasis> = 0.01). Obviously, the extremely poor survival in the RT alone group has to be taken into account when interpreting this result. Finally, Kizilbash et al. [<CitationRef CitationID="CR5">5</CitationRef>] from the same institution carried out a retrospective analysis of 165 patients with pure AA, most of whom (82 %) were treated with RT + TMZ. After a median follow-up of 36.4 months, they found a median OS of 53.1 months for RT + TMZ and 31.4 months for RT alone (<Emphasis Type="Italic">p</Emphasis> = 0.02). The difference between these two treatment arms remained statistically significant in a multivariate analysis including age, gender, resection status, tumor location, tumor size, treatment period, and IDH1 mutation, even though it was evident that patients in the RT + TMZ group were younger, had undergone more complete resections, and more frequently had a mutated IDH1 status. Therefore, the latter study and the present study are the only reports which included analyses of the impact of IDH1 mutations (with regards to our study, only the R132H mutation) on survival. While Kizilbash et al. [<CitationRef CitationID="CR5">5</CitationRef>] reported 42.6 % IDH1 mutations, this fraction amounts to 61.5 % in our study. This higher prevalence of IDH1 mutations in our patient cohort may in part explain why we observed a substantially longer OS (85 vs. 53.1 and 69 vs. 31.4 months in the RT + TMZ and RT alone groups, respectively). All of the aforementioned studies—including the present study—are retrospective by nature, which limits the conclusions that can safely be drawn from these data. For example, quality of life data were incompletely documented in our series and are thus not adequately considered in our analysis.</Para>
+            <Para>Recent updates of EORTC 26951 [<CitationRef CitationID="CR15">15</CitationRef>] and RTOG 9402 have shown that patients with oligodendroglial components, whose tumors contained a codeletion of chromosomes 1p and 19q, had significantly better outcomes following combined (albeit sequential) RT and chemotherapy. Interestingly, no superior outcome of patients with anaplastic oligoastrocytomas was observed in our cohort, a finding that may in part be related to the fact that these patients (<Emphasis Type="Italic">n</Emphasis> = 20) were older than those with tumors of pure astrocytic histology. Conversely, they more often had IDH1-R132H mutations. It is also necessary to point out that 1p/19q status has only been assessed routinely in our institution since 2014, as is the case for MGMT status. Hence, information on both markers was only available for a selected few of the patients in our study, precluding the assessment of respective subgroups.</Para>
+          </Section1>
+          <Section1 ID="Sec12" Type="Conclusion">
+            <Heading>Conclusion</Heading>
+            <Para>Our data underscore the importance of patient selection for more intensive treatment, since a general superiority of combined RT and TMZ could not be demonstrated. However, it is noteworthy that all patients who had received the combined treatment had residual tumor as displayed on MRI or PET/CT. Treatment-related toxicity (e.g., [<CitationRef CitationID="CR6">6</CitationRef>]) or treatment-induced tumor progression may counteract possible benefits from the addition of chemotherapy, a consideration that should be included in the decision-making processes for these patients.</Para>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Grant support</Heading>
+              <Para>This study received level I support from Universitätsmedizin Mainz (MAIFOR).</Para>
+            </FormalPara>
+          </Section1>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/66_2015_Article_855.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+        <ArticleBackmatter>
+          <Ethics>
+            <Heading>Compliance with ethical guidelines</Heading>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Conflict of interest</Heading>
+              <Para>A. Mayer, C. Schwanbeck, C. Sommer, M. Stockinger, A. Giese, M. Renovanz, P. Vaupel, and H. Schmidberger state that there is no conflict of interest.</Para>
+            </FormalPara>
+            <SimplePara>All studies on humans described in the present manuscript were carried out with the approval of the responsible ethics committee and in accordance with national law and the Helsinki Declaration of 1975 (in its current, revised form). Informed consent was obtained from all patients included in studies.</SimplePara>
+          </Ethics>
+          <Bibliography ID="Bib1">
+            <Heading>References</Heading>
+            <Citation ID="CR1">
+              <CitationNumber>1</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Cairncross</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Wang</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Shaw</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Phase III trial of chemoradiotherapy for anaplastic oligodendroglioma: long-term results of RTOG 9402</ArticleTitle>
+                <JournalTitle>J Clin Oncol</JournalTitle>
+                <VolumeID>31</VolumeID>
+                <FirstPage>337</FirstPage>
+                <LastPage>343</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1200/JCO.2012.43.2674</Handle>
+                </Occurrence>
+                <Occurrence Type="PMCID">
+                  <Handle>3732012</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC3sXis1Cgtbk%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23071247</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Cairncross G, Wang M, Shaw E et al (2013) Phase III trial of chemoradiotherapy for anaplastic oligodendroglioma: long-term results of RTOG 9402. J Clin Oncol 31:337–343</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <CitationNumber>2</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>SE</Initials>
+                  <FamilyName>Combs</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Nagy</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>L</Initials>
+                  <FamilyName>Edler</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2008</Year>
+                <ArticleTitle Language="En">Comparative evaluation of radiochemotherapy with temozolomide versus standard-of-care postoperative radiation alone in patients with WHO grade III astrocytic tumors</ArticleTitle>
+                <JournalTitle>Radiother Oncol</JournalTitle>
+                <VolumeID>88</VolumeID>
+                <FirstPage>177</FirstPage>
+                <LastPage>182</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/j.radonc.2008.03.005</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1cXpvFGks7Y%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>18395280</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Combs SE, Nagy M, Edler L et al (2008) Comparative evaluation of radiochemotherapy with temozolomide versus standard-of-care postoperative radiation alone in patients with WHO grade III astrocytic tumors. Radiother Oncol 88:177–182</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <CitationNumber>3</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>WJ</Initials>
+                  <FamilyName>Curran</FamilyName>
+                  <Suffix>Jr</Suffix>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>CB</Initials>
+                  <FamilyName>Scott</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Horton</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>1993</Year>
+                <ArticleTitle Language="En">Recursive partitioning analysis of prognostic factors in three Radiation Therapy Oncology Group malignant glioma trials</ArticleTitle>
+                <JournalTitle>J Natl Cancer Inst</JournalTitle>
+                <VolumeID>85</VolumeID>
+                <FirstPage>704</FirstPage>
+                <LastPage>710</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1093/jnci/85.9.704</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>8478956</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Curran WJ Jr, Scott CB, Horton J et al (1993) Recursive partitioning analysis of prognostic factors in three Radiation Therapy Oncology Group malignant glioma trials. J Natl Cancer Inst 85:704–710</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <CitationNumber>4</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>SA</Initials>
+                  <FamilyName>Grimm</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>TJ</Initials>
+                  <FamilyName>Pfiffner</FamilyName>
+                </BibAuthorName>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Anaplastic astrocytoma</ArticleTitle>
+                <JournalTitle>Curr Treat Options Neurol</JournalTitle>
+                <VolumeID>15</VolumeID>
+                <FirstPage>302</FirstPage>
+                <LastPage>315</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s11940-013-0228-7</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23543397</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Grimm SA, Pfiffner TJ (2013) Anaplastic astrocytoma. Curr Treat Options Neurol 15:302–315</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <CitationNumber>5</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>SH</Initials>
+                  <FamilyName>Kizilbash</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Giannini</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JS</Initials>
+                  <FamilyName>Voss</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">The impact of concurrent temozolomide with adjuvant radiation and IDH mutation status among patients with anaplastic astrocytoma</ArticleTitle>
+                <JournalTitle>J Neurooncol</JournalTitle>
+                <VolumeID>120</VolumeID>
+                <FirstPage>85</FirstPage>
+                <LastPage>93</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s11060-014-1520-4</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC2cXhtFSgurnK</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>24993250</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Kizilbash SH, Giannini C, Voss JS et al (2014) The impact of concurrent temozolomide with adjuvant radiation and IDH mutation status among patients with anaplastic astrocytoma. J Neurooncol 120:85–93</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <CitationNumber>6</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Kopecký</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>P</Initials>
+                  <FamilyName>Priester</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>L</Initials>
+                  <FamilyName>Slováček</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2010</Year>
+                <ArticleTitle Language="En">Aplastic anemia as a cause of death in a patient with glioblastoma multiforme treated with temozolomide</ArticleTitle>
+                <JournalTitle>Strahlenther Onkol</JournalTitle>
+                <VolumeID>186</VolumeID>
+                <FirstPage>452</FirstPage>
+                <LastPage>457</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s00066-010-2132-3</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>20803286</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Kopecký J, Priester P, Slováček L et al (2010) Aplastic anemia as a cause of death in a patient with glioblastoma multiforme treated with temozolomide. Strahlenther Onkol 186:452–457</BibUnstructured>
+            </Citation>
+            <Citation ID="CR7">
+              <CitationNumber>7</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>SG</Initials>
+                  <FamilyName>Rogne</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Konglund</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Scheie</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">Anaplastic astrocytomas: survival and prognostic factors in a surgical series</ArticleTitle>
+                <JournalTitle>Acta Neurochir (Wien)</JournalTitle>
+                <VolumeID>156</VolumeID>
+                <FirstPage>1053</FirstPage>
+                <LastPage>1061</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s00701-014-2053-5</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rogne SG, Konglund A, Scheie D et al (2014) Anaplastic astrocytomas: survival and prognostic factors in a surgical series. Acta Neurochir (Wien) 156:1053–1061</BibUnstructured>
+            </Citation>
+            <Citation ID="CR8">
+              <CitationNumber>8</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Schemper</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>TL</Initials>
+                  <FamilyName>Smith</FamilyName>
+                </BibAuthorName>
+                <Year>1996</Year>
+                <ArticleTitle Language="En">A note on quantifying follow-up in studies of failure time</ArticleTitle>
+                <JournalTitle>Control Clin Trials</JournalTitle>
+                <VolumeID>17</VolumeID>
+                <FirstPage>343</FirstPage>
+                <LastPage>346</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/0197-2456(96)00075-X</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK2s%2FksVaktA%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>8889347</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Schemper M, Smith TL (1996) A note on quantifying follow-up in studies of failure time. Control Clin Trials 17:343–346</BibUnstructured>
+            </Citation>
+            <Citation ID="CR9">
+              <CitationNumber>9</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Scoccianti</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SM</Initials>
+                  <FamilyName>Magrini</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>U</Initials>
+                  <FamilyName>Ricardi</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Radiotherapy and temozolomide in anaplastic astrocytoma: a retrospective multicenter study by the Central Nervous System Study Group of AIRO (Italian Association of Radiation Oncology)</ArticleTitle>
+                <JournalTitle>Neuro Oncol</JournalTitle>
+                <VolumeID>14</VolumeID>
+                <FirstPage>798</FirstPage>
+                <LastPage>807</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1093/neuonc/nos081</Handle>
+                </Occurrence>
+                <Occurrence Type="PMCID">
+                  <Handle>3367850</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC38Xhtl2hsb%2FO</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>22539339</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Scoccianti S, Magrini SM, Ricardi U et al (2012) Radiotherapy and temozolomide in anaplastic astrocytoma: a retrospective multicenter study by the Central Nervous System Study Group of AIRO (Italian Association of Radiation Oncology). Neuro Oncol 14:798–807</BibUnstructured>
+            </Citation>
+            <Citation ID="CR10">
+              <CitationNumber>10</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>NA</Initials>
+                  <FamilyName>Shonka</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Theeler</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Cahill</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Outcomes for patients with anaplastic astrocytoma treated with chemoradiation, radiation therapy alone or radiation therapy followed by chemotherapy: a retrospective review within the era of temozolomide</ArticleTitle>
+                <JournalTitle>J Neurooncol</JournalTitle>
+                <VolumeID>113</VolumeID>
+                <FirstPage>305</FirstPage>
+                <LastPage>311</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s11060-013-1116-4</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC3sXptlKmtro%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23526410</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Shonka NA, Theeler B, Cahill D et al (2013) Outcomes for patients with anaplastic astrocytoma treated with chemoradiation, radiation therapy alone or radiation therapy followed by chemotherapy: a retrospective review within the era of temozolomide. J Neurooncol 113:305–311</BibUnstructured>
+            </Citation>
+            <Citation ID="CR11">
+              <CitationNumber>11</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>LA</Initials>
+                  <FamilyName>Stewart</FamilyName>
+                </BibAuthorName>
+                <Year>2002</Year>
+                <ArticleTitle Language="En">Chemotherapy in adult high-grade glioma: a systematic review and meta-analysis of individual patient data from 12 randomised trials</ArticleTitle>
+                <JournalTitle>Lancet</JournalTitle>
+                <VolumeID>359</VolumeID>
+                <FirstPage>1011</FirstPage>
+                <LastPage>1018</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/S0140-6736(02)08091-1</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD38XisV2htro%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>11937180</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Stewart LA (2002) Chemotherapy in adult high-grade glioma: a systematic review and meta-analysis of individual patient data from 12 randomised trials. Lancet 359:1011–1018</BibUnstructured>
+            </Citation>
+            <Citation ID="CR12">
+              <CitationNumber>12</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Stupp</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WP</Initials>
+                  <FamilyName>Mason</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MJ</Initials>
+                  <FamilyName>Van Den Bent</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2005</Year>
+                <ArticleTitle Language="En">Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma</ArticleTitle>
+                <JournalTitle>N Engl J Med</JournalTitle>
+                <VolumeID>352</VolumeID>
+                <FirstPage>987</FirstPage>
+                <LastPage>996</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1056/NEJMoa043330</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD2MXit1Wksbk%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>15758009</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Stupp R, Mason WP, Van Den Bent MJ et al (2005) Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. N Engl J Med 352:987–996</BibUnstructured>
+            </Citation>
+            <Citation ID="CR13">
+              <CitationNumber>13</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Tanaka</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>FB</Initials>
+                  <FamilyName>Meyer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JC</Initials>
+                  <FamilyName>Buckner</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Presentation, management, and outcome of elderly patients with newly-diagnosed anaplastic astrocytoma</ArticleTitle>
+                <JournalTitle>J Neurooncol</JournalTitle>
+                <VolumeID>110</VolumeID>
+                <FirstPage>227</FirstPage>
+                <LastPage>235</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s11060-012-0956-7</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>22875708</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Tanaka S, Meyer FB, Buckner JC et al (2012) Presentation, management, and outcome of elderly patients with newly-diagnosed anaplastic astrocytoma. J Neurooncol 110:227–235</BibUnstructured>
+            </Citation>
+            <Citation ID="CR14">
+              <CitationNumber>14</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>CK</Initials>
+                  <FamilyName>Tham</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SJ</Initials>
+                  <FamilyName>See</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SH</Initials>
+                  <FamilyName>Tan</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Combined temozolomide and radiation as an initial treatment for anaplastic glioma</ArticleTitle>
+                <JournalTitle>Asia Pac J Clin Oncol</JournalTitle>
+                <VolumeID>9</VolumeID>
+                <FirstPage>220</FirstPage>
+                <LastPage>225</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1111/ajco.12038</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23279669</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Tham CK, See SJ, Tan SH et al (2013) Combined temozolomide and radiation as an initial treatment for anaplastic glioma. Asia Pac J Clin Oncol 9:220–225</BibUnstructured>
+            </Citation>
+            <Citation ID="CR15">
+              <CitationNumber>15</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>MJ</Initials>
+                  <FamilyName>Bent</FamilyName>
+                  <Particle>Van den</Particle>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AA</Initials>
+                  <FamilyName>Brandes</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MJ</Initials>
+                  <FamilyName>Taphoorn</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Adjuvant procarbazine, lomustine, and vincristine chemotherapy in newly diagnosed anaplastic oligodendroglioma: long-term follow-up of EORTC brain tumor group study 26951</ArticleTitle>
+                <JournalTitle>J Clin Oncol</JournalTitle>
+                <VolumeID>31</VolumeID>
+                <FirstPage>344</FirstPage>
+                <LastPage>350</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1200/JCO.2012.43.2229</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23071237</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Van den Bent MJ, Brandes AA, Taphoorn MJ et al (2013) Adjuvant procarbazine, lomustine, and vincristine chemotherapy in newly diagnosed anaplastic oligodendroglioma: long-term follow-up of EORTC brain tumor group study 26951. J Clin Oncol 31:344–350</BibUnstructured>
+            </Citation>
+            <Citation ID="CR16">
+              <CitationNumber>16</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>MD</Initials>
+                  <FamilyName>Walker</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Alexander</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WE</Initials>
+                  <FamilyName>Hunt</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>1978</Year>
+                <ArticleTitle Language="En">Evaluation of BCNU and/or radiotherapy in the treatment of anaplastic gliomas. A cooperative clinical trial</ArticleTitle>
+                <JournalTitle>J Neurosurg</JournalTitle>
+                <VolumeID>49</VolumeID>
+                <FirstPage>333</FirstPage>
+                <LastPage>343</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.3171/jns.1978.49.3.0333</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaE1c3ksVWrug%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>355604</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Walker MD, Alexander E, Hunt WE et al (1978) Evaluation of BCNU and/or radiotherapy in the treatment of anaplastic gliomas. A cooperative clinical trial. J Neurosurg 49:333–343</BibUnstructured>
+            </Citation>
+            <Citation ID="CR17">
+              <CitationNumber>17</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>MD</Initials>
+                  <FamilyName>Walker</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>TA</Initials>
+                  <FamilyName>Strike</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>GE</Initials>
+                  <FamilyName>Sheline</FamilyName>
+                </BibAuthorName>
+                <Year>1979</Year>
+                <ArticleTitle Language="En">An analysis of dose-effect relationship in the radiotherapy of malignant gliomas</ArticleTitle>
+                <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                <VolumeID>5</VolumeID>
+                <FirstPage>1725</FirstPage>
+                <LastPage>1731</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/0360-3016(79)90553-4</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaL3c7hsV2rsA%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>231022</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Walker MD, Strike TA, Sheline GE (1979) An analysis of dose-effect relationship in the radiotherapy of malignant gliomas. Int J Radiat Oncol Biol Phys 5:1725–1731</BibUnstructured>
+            </Citation>
+            <Citation ID="CR18">
+              <CitationNumber>18</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>W</Initials>
+                  <FamilyName>Wick</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Hartmann</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Engel</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">NOA-04 randomized phase III trial of sequential radiochemotherapy of anaplastic glioma with procarbazine, lomustine, and vincristine or temozolomide</ArticleTitle>
+                <JournalTitle>J Clin Oncol</JournalTitle>
+                <VolumeID>27</VolumeID>
+                <FirstPage>5874</FirstPage>
+                <LastPage>5880</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1200/JCO.2009.23.6497</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC3cXhtVWis7g%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>19901110</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Wick W, Hartmann C, Engel C et al (2009) NOA-04 randomized phase III trial of sequential radiochemotherapy of anaplastic glioma with procarbazine, lomustine, and vincristine or temozolomide. J Clin Oncol 27:5874–5880</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ArticleBackmatter>
+      </Article>
+    </JournalOnlineFirst>
+  </Journal>
+</Publisher>

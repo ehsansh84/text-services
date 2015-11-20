@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-014-0786-y" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>786</ArticleID>
+            <ArticleDOI>10.1007/s00066-014-0786-y</ArticleDOI>
+            <ArticleSequenceNumber>2</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Intracranial stereotactic radiosurgery with an adapted linear accelerator vs. robotic radiosurgery</ArticleTitle>
+            <ArticleSubTitle Language="En">Comparison of dosimetric treatment plan quality</ArticleSubTitle>
+            <ArticleTitle Language="De">Intrakranielle stereotaktische Radiochirurgie mit einem adaptierten Linearbeschleuniger vs. robotergesteuerter Radiochirurgie</ArticleTitle>
+            <ArticleSubTitle Language="De">Vergleich von dosimetrischer Behandlungsplanqualität</ArticleSubTitle>
+            <ArticleCategory>Original article</ArticleCategory>
+            <ArticleFirstPage>470</ArticleFirstPage>
+            <ArticleLastPage>476</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>12</Day>
+              </Received>
+              <Accepted>
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2014</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Harald</GivenName>
+                  <FamilyName>Treuer</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>harald.treuer@uk-koeln.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Moritz</GivenName>
+                  <FamilyName>Hoevels</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Klaus</GivenName>
+                  <FamilyName>Luyken</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Veerle</GivenName>
+                  <FamilyName>Visser-Vandewalle</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Jochen</GivenName>
+                  <FamilyName>Wirths</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Martin</GivenName>
+                  <FamilyName>Kocher</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Maximilian</GivenName>
+                  <FamilyName>Ruge</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Stereotaxy and Functional Neurosurgery</OrgDivision>
+                <OrgName>University Hospital Cologne</OrgName>
+                <OrgAddress>
+                  <City>Cologne</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Radiotherapy</OrgDivision>
+                <OrgName>University Hospital Cologne</OrgName>
+                <OrgAddress>
+                  <City>Cologne</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Background and purpose</Heading>
+                <Para>Stereotactic radiosurgery with an adapted linear accelerator (linac-SRS) is an established therapy option for brain metastases, benign brain tumors, and arteriovenous malformations. We intended to investigate whether the dosimetric quality of treatment plans achieved with a CyberKnife (CK) is at least equivalent to that for linac-SRS with circular or micromultileaf collimators (microMLC).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Patients and methods</Heading>
+                <Para>A random sample of 16 patients with 23 target volumes, previously treated with linac-SRS, was replanned with CK. Planning constraints were identical dose prescription and clinical applicability. In all cases uniform optimization scripts and inverse planning objectives were used. Plans were compared with respect to coverage, minimal dose within target volume, conformity index, and volume of brain tissue irradiated with ≥ 10 Gy.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para>Generating the CK plan was unproblematic with simple optimization scripts in all cases. With the CK plans, coverage, minimal target volume dosage, and conformity index were significantly better, while no significant improvement could be shown regarding the 10 Gy volume. Multiobjective comparison for the irradiated target volumes was superior in the CK plan in 20 out of 23 cases and equivalent in 3 out of 23 cases. Multiobjective comparison for the treated patients was superior in the CK plan in all 16 cases.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusion</Heading>
+                <Para>The results clearly demonstrate the superiority of the irradiation plan for CK compared to classical linac-SRS with circular collimators and microMLC. In particular, the average minimal target volume dose per patient, increased by 1.9 Gy, and at the same time a 14 % better conformation index seems to be an improvement with clinical relevance.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="De" OutputMedium="All">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec5">
+                <Heading>Hintergrund und Zielsetzung</Heading>
+                <Para>Stereotaktische Radiochirurgie mit einem adaptierten Linearbeschleuniger (Linac-SRS) ist eine erfolgreiche und etablierte Therapieoption für Hirnmetastasen, benigne Hirntumoren und arteriovenöse Malformationen. Ziel war es, zu untersuchen, ob die mit einem CyberKnife (CK) erreichbare dosimetrische Planqualität mindestens gleichwertig ist wie bei der Linac-SRS mit Rundkollimatoren und mit Mikro-Multileafkollimatoren (microMLC).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec6">
+                <Heading>Patienten und Methoden</Heading>
+                <Para>Eine repräsentative Stichprobe von 16 Patienten mit 23 Zielvolumen, die mit Linac-SRS behandelt wurden, wurde am CK nachgeplant. Randbedingungen waren gleiche Dosisverschreibung und klinische Applizierbarkeit. In allen Fällen wurden einheitliche Optimierungsskripte und Optimierungsziele verwendet. Der Planvergleich erfolgte im Rahmen der multikriteriellen Entscheidungstheorie. Entscheidungskriterien waren Coverage, minimale Dosis im Zielvolumen, Konformitätsindex und Volumen des mit mehr als 10 Gy bestrahlten Hirngewebes.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7">
+                <Heading>Ergebnisse</Heading>
+                <Para>Die Erzeugung der CK-Pläne war in allen Fällen ohne Probleme mit einfachen Optimierungsskripten möglich. Bei den CK-Plänen waren Coverage, minimale Zielvolumendosis und Konformitätsindex signifikant und das 10-Gy-Volumen nicht signifikant besser als bei den Linac-SRS-Plänen. Der multikriterielle Vergleich für die bestrahlten Zielvolumen zeigte eine Überlegenheit der CK-Pläne in 20 von 23 Fällen und in 3 von 23 Fällen eine Gleichwertigkeit. Der multikriterielle Vergleich für die behandelten Patienten ergab eine Überlegenheit der CK-Pläne in allen 16 Fällen.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8">
+                <Heading>Schlussfolgerung</Heading>
+                <Para>Im Ergebnis zeigt der Vergleich die deutliche Überlegenheit der Bestrahlungspläne für das CK gegenüber der klassischen Linac-SRS mit Rundkollimatoren und auch mit microMLC. Speziell die im Mittel pro Patient um 1,9 Gy höhere minimale Zielvolumendosis bei gleichzeitig um 14 % besserem Konformitätsindex erscheint als Verbesserung von klinischer Relevanz.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Brain neoplasms</Keyword>
+              <Keyword>Neoplasm metastasis</Keyword>
+              <Keyword>Arteriovenous malformations</Keyword>
+              <Keyword>Radiotherapy planning, computer-assisted</Keyword>
+              <Keyword>Radiosurgery</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Hirnneoplasien</Keyword>
+              <Keyword>Tumormetastasierung</Keyword>
+              <Keyword>Arteriovenöse Malformation</Keyword>
+              <Keyword>Computergestützte Strahlentherapieplanung</Keyword>
+              <Keyword>Radiochirurgie</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Para>Stereotactic radiosurgery using an adapted linear accelerator (linac-SRS) is an established treatment option for brain metastases, a variety of benign brain tumors and arteriovenous malformations (AVM) [<CitationRef CitationID="CR5">5</CitationRef>–<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR26">26</CitationRef>]. Focused isocentric irradiation techniques and a set of 24 1.5-mm graded circular collimators as well as the use of a micromultileaf collimator (microMLC) with 1.5 mm optimally wide blades allow the generation of dose distributions with high conformity [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR28">28</CitationRef>]. Here we investigated whether at least an equivalent treatment plan can be achieved with a CyberKnife (Accuray) with 12 circular collimators (graduated: 2.5–5 mm) and a non-isocentric irradiation technique [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>]. Our aim was to compare the established clinical standard with clinically realizable CyberKnife plans. Therefore randomly chosen clinically realized linac-SRS plans were used in our comparison since they constitute an unbiased representation of current treatment plan quality and CyberKnife planning was performed with a uniform planning procedure and with subject to clinical constraints.</Para>
+            <Para>For this investigation treatment plans were compared based on the multicriteria decision theory as outlined in a metastudy on plan comparison by Phillips and Holdsworth [<CitationRef CitationID="CR23">23</CitationRef>]. Uniform dosimetric decision objectives for plan comparison were defined. Comparison was performed separately for each decision objective and on a multiobjective basis by scoring decision outcomes of the decision objectives for each patient and each target volume.</Para>
+            <Section1 ID="Sec1">
+              <Heading>Material and methods</Heading>
+              <Para>Patients treated in our clinic with intracranial linac-SRS in August 2012 (<Emphasis Type="Italic">n</Emphasis> = 16) were retrospectively selected as reference candidates. We purposely chose a period prior to the establishment of the CK technique in our hospital to avoid any bias with regard to planning strategies.</Para>
+              <Para>The treatment of the patients was performed as single dose irradiation after invasive head fixation in a stereotactic frame in all cases. The basis for the treatment planning was an intraoperative stereotactic CT and preoperative (frameless) magnetic resonance imaging. The irradiation planning was for circular collimators with STP3.5 (Leibinger) and for microMLC plans with Virtuoso 3.0.3 (Leibinger). Circular collimators were mainly used for small targets because of the superior accuracy in field definition and microMLC for large and complex shaped target volumes. An adapted linear accelerator SL25 (Elekta) with 6 MV photon radiation was used. Treatment time was about 45 min for each target volume. The patient’s head stayed fixed in the stereotactic frame during the whole procedure to ensure high geometrical accuracy of the treatment. This allowed to use a CTV–PTV (clinical target volume–planning target volume) margin of 0 mm. The treatment method has been described in detail previously [<CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>, <CitationRef CitationID="CR26">26</CitationRef>].</Para>
+              <Para>All cases were re-planned with the CyberKnife planning program Multiplan 4.5.0 (Accuray) for a CyberKnife with 6 MV and without a flattening filter. Identical PTV as in linac-SRS were used with zero margins. Only the 12 fixed circular collimators were used; the Iris Collimator [<CitationRef CitationID="CR10">10</CitationRef>] was not used due to the broader penumbra area. Like linac-SRS, the CyberKnife was commissioned for patient use and all dose measurements were performed with comparable methods and similar equipment [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR31">31</CitationRef>]. Constraints in planning were boundary and maximal dosage taken from the linac-SRS plans, as well as an irradiation time of less than 60 min per target volume. Parameters for estimating the irradiation time were 6 min for the setup time per collimator and intervals of 60 s for imaging. For the CyberKnife planning sequential optimization was selected [<CitationRef CitationID="CR27">27</CitationRef>] with the inverse planning objectives: (1) target coverage, (2) conformity, and (3) minimal monitor units (MU). Since collimator size was not included in sequential optimization, for each target volume several collimator settings were specified manually and then the best solution in the context of the decision objectives (see below) was selected.</Para>
+              <Para>The irradiation plans were compared pair-wise in terms of the decision objectives (1) dosage conformity (<Emphasis Type="Italic">CI</Emphasis>), (2) minimal dose in target volume (<Emphasis Type="Italic">D</Emphasis>
+                <Subscript>min</Subscript>), (3) coverage (<Emphasis Type="Italic">Cov</Emphasis>), and (4) volume of brain tissue irradiated by more than 10 Gy (<Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10</Subscript>). Coverage was defined by <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="66_2014_786_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ Cov = {{{V_{{\textrm{T,}}TD}}}\mathord{\left/ {\vphantom {{{V_{{\textrm{T,}}TD}}}{{V_{\textrm{T}}}}}}\right. \kern-\nulldelimiterspace} {{V_{\textrm{T}}}}} $$
+]]></EquationSource>
+                </InlineEquation>, where <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>T</Subscript> represents the target volume, and <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>T, <Emphasis Type="Italic">TD</Emphasis>
+                </Subscript> the proportion of the target volume irradiated with a dose of <Emphasis Type="Italic">TD</Emphasis> or more. The conformity index is defined by <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="66_2014_786_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ CI = {{V_{{\textrm{T,}}TD}^2} \mathord{\left/ {\vphantom {{V_{{\textrm{T,}}TD}^2} {({V_{TD}}}}}\right. \kern-\nulldelimiterspace} {({V_{TD}}}}\cdot {V_{\textrm{T}}}) $$
+]]></EquationSource>
+                </InlineEquation>, where <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>
+                  <Emphasis Type="Italic">TD</Emphasis>
+                </Subscript> represents the size of the volume irradiated with a dose of <Emphasis Type="Italic">TD</Emphasis> or more [<CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR34">34</CitationRef>]. In a generalization of these definitions, for patients with more than one target volume the total coverage <Emphasis Type="Italic">Cov</Emphasis>
+                <Subscript>total</Subscript> of all <Emphasis Type="Italic">n</Emphasis>
+                <Subscript>T</Subscript> target volumes is calculated by <InlineEquation ID="IEq3">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="66_2014_786_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ Co{v_{{\textrm{total}}}}= {{\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{{\textrm{T,}}TD{\textrm{,}}i}}}}\mathord{\left/ {\vphantom {{\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{{\textrm{T,}}TD{\textrm{,}}i}}}}{\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{{\textrm{T,}}i}}}}}}\right. \kern-\nulldelimiterspace} {\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{{\textrm{T,}}i}}}}} $$
+]]></EquationSource>
+                </InlineEquation>, where <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>T,<Emphasis Type="Italic">i</Emphasis>
+                </Subscript> stands for the volume of the <Emphasis Type="Italic">i</Emphasis>-th target and <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>T,<Emphasis Type="Italic">TD</Emphasis>,<Emphasis Type="Italic">i</Emphasis>
+                </Subscript> for the proportion of the <Emphasis Type="Italic">i</Emphasis>-th target volume irradiated with a dose of <Emphasis Type="Italic">TD</Emphasis> or more. Correspondingly the total conformity index <Emphasis Type="Italic">CI</Emphasis>
+                <Subscript>total</Subscript> is calculated according to <InlineEquation ID="IEq4">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="66_2014_786_Article_IEq4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ C{I_{{\textrm{total}}}}= {{{{\left({\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{{\textrm{T,}}TD,i}}}}\right)}^2}}\mathord{\left/ {\vphantom {{{{\left({\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{{\textrm{T,}}TD,i}}}}\right)}^2}}{\left({\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{TD,i}}}\cdot \sum\nolimits_{i = 1}^{{n_T}}{{V_{{\textrm{T}},i}}}}\right)}}}\right. \kern-\nulldelimiterspace} {\left({\sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{TD,i}}}\cdot \sum\nolimits_{i = 1}^{{n_T}}{{V_{{\textrm{T}},i}}}}\right)}} $$
+]]></EquationSource>
+                </InlineEquation>. Furthermore, the minimal dose <Emphasis Type="Italic">D</Emphasis>
+                <Subscript>min, total</Subscript> in the case of several target volumes is calculated by <InlineEquation ID="IEq5">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="66_2014_786_Article_IEq5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ {D_{{\textrm{min,total}}}}= \mathop {\min }_{i = 1,{n_{\textrm{T}}}}\left\{{{D_{\min,i}}}\right\} $$
+]]></EquationSource>
+                </InlineEquation> and the total volume <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10,total</Subscript> of brain tissue irradiated by more than 10 Gy by <InlineEquation ID="IEq6">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="66_2014_786_Article_IEq6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="TEX"><![CDATA[
+$$ {V_{10,{\textrm{total}}}}= \sum\nolimits_{i = 1}^{{n_{\textrm{T}}}}{{V_{10,i}}} $$
+]]></EquationSource>
+                </InlineEquation>.</Para>
+              <Para>Plan ranking was achieved by multiobjective comparison of the decision objectives [<CitationRef CitationID="CR23">23</CitationRef>]. The values of the decision objectives for each target volume were compared pair-wise. The ranges within the decision objectives seen as equivalent were as follows: ± 0.5 % for <Emphasis Type="Italic">Cov</Emphasis>, ± 0.5 Gy for <Emphasis Type="Italic">D</Emphasis>
+                <Subscript>min</Subscript>, ± 0.03 for <Emphasis Type="Italic">CI</Emphasis>, and ± 0.5 ml for <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10</Subscript>. Larger deviations, each according to their signs, were classified as better or worse and the outcomes were scored for a target volume or patient for all decision objectives.</Para>
+              <Para>Differences in the decision objectives of CyberKnife and linac-SRS plans were tested for significance with the Wilcoxon signed rank test on paired samples. The software IBM SPSS Statistics V20 was used.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Results</Heading>
+              <Para>A total of 16 patients and 23 target volumes were treated with linac-SRS. Of these patients, 8 had one or more brain metastases, 3 an acoustic neuroma, 3 a pituitary adenoma, 1 a meningioma, and 1 AVM. Circular collimators were used in 9 patients and 15 target volumes and the microMLC in 7 patients and 8 target volumes. The median target volume size (<Emphasis Type="Italic">V</Emphasis>
+                <Subscript>T</Subscript>) was 1.99 ml (mean 2.44 ml, range 0.01–7.9 ml). The treatment dose (<Emphasis Type="Italic">TD</Emphasis>) had a median of 18 Gy (mean 17.5 Gy, range 12–25 Gy) and the median treatment isodose was 64.9 % (mean 66.1 %, range 58.7–80.0 %).</Para>
+              <Para>In all cases generating focal and conformal dose distributions with CyberKnife was no problem. For all 16 patients and for 20 out of 23 target volumes the CyberKnife plans were superior to the linac-SRS plans. In 4 out of 23 target volumes, the CyberKnife plan was better for all four decision objectives, in 8 cases for three decision objectives, in 6 cases for two decision objectives, and in 2 cases for one decision objective. For three target volumes, the plans were equivalent. In 3 out of 16 patients the CyberKnife plan was better for all four decision objectives, in 8 patients for three decision objectives, in 3 patients for two decision objectives, and in 2 patients for one decision objective. These results were robust against changes in the range limits, within which two decision objectives were classified as equivalent.</Para>
+              <Para>In linac-SRS, the mean coverage of the target volumes was 98.9 % (range 93.3–100 %), the mean minimal dose was 15.3 Gy (range 8.3–27.1 Gy), the mean conformity index was 0.57 (range 0.05–0.81), and the mean <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10</Subscript> was 4.7 ml (range 0.3–10.3 ml). In the CyberKnife plans the mean coverage of the target volumes was 99.6 % (range 98.8–100 %), the mean minimal dose was 16.6 Gy (range 10.8–25.1 Gy), the mean conformity index was 0.72 (range 0.32–0.91), and the mean V10 was 4.5 ml (range 0.3–10.0 ml). With the CyberKnife plans the coverage was significantly higher (<Emphasis Type="Italic">p</Emphasis> = 0.006) by 0.7 % (mean, range − 0.5  - +6.5 %), the minimal dose was significantly higher (<Emphasis Type="Italic">p</Emphasis> = 0.001) by 1.3 Gy (mean, range − 6.7  - +4.4 Gy), the conformity index was significantly higher (<Emphasis Type="Italic">p</Emphasis> &lt; 0.001) by 0.15 (mean, range − 0.03  - +2.7), and <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10</Subscript> was less (<Emphasis Type="Italic">p</Emphasis> = 0.157) by 0.2 ml (mean, range − 2.2  - +2.0 ml). The expected treatment duration with CyberKnife was on average 40 min/target volume (range 20–59 min). Similar values were obtained for patient-related decision objectives. On average <Emphasis Type="Italic">Cov</Emphasis>
+                <Subscript>total</Subscript> was significantly higher (<Emphasis Type="Italic">p</Emphasis> = 0.003) by 1.0 % (mean, range − 0.5  - +6.5 %), <Emphasis Type="Italic">D</Emphasis>
+                <Subscript>min,total</Subscript> was significantly higher (<Emphasis Type="Italic">p</Emphasis> = 0.001) by 1.9 Gy (mean, range − 0.0  - +4.4 Gy), <Emphasis Type="Italic">CI</Emphasis>
+                <Subscript>total</Subscript> was significantly higher (<Emphasis Type="Italic">p</Emphasis> &lt; 0.001) by 0.14 (mean, range + 0.06  - +0.28), and <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10,total</Subscript> was less (<Emphasis Type="Italic">p</Emphasis> = 0.155) by 0.3 ml (mean, range − 2.2  - +1.4 ml). The expected treatment duration with CyberKnife was on average 58 min/patient (range 20–115 min/patient). In comparison, the treatment duration with linac-SRS was on average 83 min/patient (range 30–205 min/patient).</Para>
+              <Para>Distributions of the decision objectives of individual target volumes (Fig. <InternalRef RefID="Fig1">1</InternalRef>) as well as individual patients (Fig. <InternalRef RefID="Fig2">2</InternalRef>) were directly compared between the SRS plans and CyberKnife plans.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Distribution of the decision objectives of the linac-SRS plans (<Emphasis Type="Italic">SRS</Emphasis>) and CyberKnife plans (<Emphasis Type="Italic">CK</Emphasis>) for individual target volumes (<Emphasis Type="Italic">n</Emphasis> = 23) represented as box plots</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2014_786_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+                <Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Distribution of the decision objectives for the linac-SRS plans (<Emphasis Type="Italic">SRS</Emphasis>, <Emphasis Type="Italic">horizontal axis</Emphasis>) and CyberKnife plans (<Emphasis Type="Italic">CK</Emphasis>, <Emphasis Type="Italic">vertical axis</Emphasis>) for individual patients (<Emphasis Type="Italic">n</Emphasis> = 16) represented as scatter plots. The areas within which two values were classified as equivalent are indicated by <Emphasis Type="Italic">dashed lines</Emphasis>
+                      </SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2014_786_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Discussion</Heading>
+              <Para>Application of high single doses of typically 12–20 Gy or more in intracranial stereotactic radiosurgery poses the highest demands on both the quality of the irradiation plan and the target accuracy of the dose application [<CitationRef CitationID="CR30">30</CitationRef>, <CitationRef CitationID="CR32">32</CitationRef>]. The limit for the maximal target point deviation lies at 1 mm [<CitationRef CitationID="CR33">33</CitationRef>], a challenge that can be met with a CyberKnife [<CitationRef CitationID="CR2">2</CitationRef>]. The aim of this study was to investigate whether the plan quality with a CyberKnife can also be at least equivalent to that achieved with established linac-SRS with circular collimators and with microMLC.</Para>
+              <Para>Several studies are already published on dosimetric comparison of linac-SRS and CyberKnife [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR29">29</CitationRef>, <CitationRef CitationID="CR36">36</CitationRef>]. However, none of these studies were suitable to answer the questions we posed here. Either the studies concentrated on purely geometric investigations with an elliptic target volume [<CitationRef CitationID="CR36">36</CitationRef>] or focused on special indications such as acoustic neuroma [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>] and AVMs [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>]. Alternatively they investigated very specific questions such as volume load with irradiation of multiple metastases [<CitationRef CitationID="CR20">20</CitationRef>]. Also the aim of one study was not “to do a strict dosimetric study” but “to compare actual treatment plans from institutes” in the Netherlands [<CitationRef CitationID="CR29">29</CitationRef>].</Para>
+              <Para>Some of the studies based dosimetric comparison on one individual case [<CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR36">36</CitationRef>]. The study by Dutta et al. [<CitationRef CitationID="CR9">9</CitationRef>] only investigated CyberKnife plans with multiple isocenters and the study by Gevaert et al. [<CitationRef CitationID="CR15">15</CitationRef>] with CyberKnife exclusively used the Iris-collimator instead of circular collimators. Thus, in both cases the dosimetric possibilities of CyberKnife were not adequately exploited. Finally, several of the studies did not meet the quality standards for dosimetric comparison studies defined by Phillips and Holdsworth in a meta-analysis [<CitationRef CitationID="CR23">23</CitationRef>]. For example, the comparison of decision objectives sometimes used the <Emphasis Type="Italic">t</Emphasis>-test [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>]. However the <Emphasis Type="Italic">t</Emphasis>-test assumes normal distribution and the Wilcoxon signed rank test would probably have been more appropriate for the data [<CitationRef CitationID="CR23">23</CitationRef>].</Para>
+              <Para>As a basis for the comparative study presented here, we selected a random sample from 16 patients and 23 target volumes, which had been treated in our clinic with state-of-the-art linac-SRS procedures. This sample was thought to represent typical clinical cases encountered in intracranial radiosurgery. The methodical procedure in our comparative study was carried out according to the multi-criteria decision theory [<CitationRef CitationID="CR23">23</CitationRef>].</Para>
+              <Para>The definition of the decision objectives was as follows. According to a guideline of the Radiation Therapy Oncology Group (RTOG) for radiosurgery the parameters coverage, homogeneity index, and conformity index should be used to evaluate the irradiation plan [<CitationRef CitationID="CR32">32</CitationRef>]. In radiosurgery today, depending on kind and location of the target volume, it is common practice to use the homogeneity of the dose distribution as part of the dose prescription in treatment planning. We therefore used the homogeneity index of the linac-SRS plans as a constraint for the CyberKnife plans.</Para>
+              <Para>The term coverage is not uniformly used in the literature and is sometimes dosimetrically defined as the ratio of the minimal dose in the target volume to the prescribed dose, but often also volumetrically defined as the ratio of the proportion of the target volume covered by the prescribed isodose to the total volume of the target [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>]. Due to the steep dose gradient in radiosurgery, both aspects of coverage have independent meanings [<CitationRef CitationID="CR19">19</CitationRef>]. To take this into account, we have not only chosen the volumetrically defined coverage <Emphasis Type="Italic">Cov</Emphasis> but also the minimal dose <Emphasis Type="Italic">D</Emphasis>
+                <Subscript>min</Subscript> in the target volume as decision objectives. We counteract these two parameters that characterize coverage with two similarly complementary parameters that characterize conformity, i.e., the conformity index <Emphasis Type="Italic">CI</Emphasis> and the volume <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10</Subscript>. Risk analyses of stereotactic radiosurgery have shown that the volume of healthy brain tissue that is irradiated with a single dose of more than 10 Gy must be regarded as an important parameter [<CitationRef CitationID="CR35">35</CitationRef>].</Para>
+              <Para>Our results show that for the multiobjective comparison of the plans, the CyberKnife is significantly superior to the classic linac-SRS with circular collimators or microMLC. The larger graduation of the CyberKnife collimators of ≥ 2.5 mm, compared to those according to Bortfeld et al. [<CitationRef CitationID="CR4">4</CitationRef>] with “optimal” graduation of 1.5 mm for 6 MV photon irradiation with the linac-SRS, is apparently more than compensated by the possibility of nonisocentric beam steering with the CyberKnife and perhaps by the slightly improved lateral dose distributions due to the flattening filter free design of the CyberKnife. <Emphasis Type="Italic">Cov</Emphasis>, <Emphasis Type="Italic">D</Emphasis>
+                <Subscript>min</Subscript>, and <Emphasis Type="Italic">CI</Emphasis> for all patients and target volumes were in general clearly significantly better with the CyberKnife plans, with at the same time moderate improvement in <Emphasis Type="Italic">V</Emphasis>
+                <Subscript>10</Subscript>. In particular, the mean higher minimal dose of 1.9 Gy per patient in the target volume, with concurrently a better conformity index of 14 % in the target volume, appears to be an improvement with clear clinical relevance.</Para>
+              <Para>In all cases generating the CyberKnife plans was unproblematic using simple and uniform optimization scripts. The question remains as to what extent the generated CyberKnife plans are already optimal or whether there is even more room for improvement. Compared to linac-SRS there is an increased time window for treatment planning with the CyberKnife as frameless and image-guided treatments can even be performed on an outpatient basis. With frame-based linac-SRS, the possibility to generate optimal plans is definitely limited simply due to the time pressure in treatment planning during the treatment of patients fixed in a stereotactic frame. Taken together, irradiation planning for radiosurgery with CyberKnife seems to be clearly superior to the classic linac-SRS.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2014_Article_786.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Ethics>
+              <Heading>Compliance with ethical guidelines</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Conflict of interest</Heading>
+                <Para>H. Treuer, M. Hoevels, K. Luyken, V. Visser-Vandewalle, J. Wirths, M. Kocher, and M. Ruge state that there are no conflicts of interest.</Para>
+              </FormalPara>
+              <SimplePara>The accompanying manuscript does not include studies on humans or animals.</SimplePara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibUnstructured> Adler JR Jr, Chang SD, Murphy MJ, Doty J, Geis P, Hancock SL (1997) The Cyberknife: a frameless robotic system for radiosurgery. Stereotact Funct Neurosurg 69:124–128</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Antypas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Pantelis</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Performance evaluation of a CyberKnife G4 image-guided robotic stereotactic radiosurgery system</ArticleTitle>
+                  <JournalTitle>Phys Med Biol</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>4697</FirstPage>
+                  <LastPage>4718</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0031-9155/53/17/016</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18695294</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Antypas C, Pantelis E (2008) Performance evaluation of a CyberKnife G4 image-guided robotic stereotactic radiosurgery system. Phys Med Biol 53:4697–4718</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Blamek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Grządziel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Miszczyk</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Robotic radiosurgery versus micro-multileaf collimator: a dosimetric comparison for large or critically located arteriovenous malformations</ArticleTitle>
+                  <JournalTitle>Radiat Oncol</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>205</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1748-717X-8-205</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3766053</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23968165</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Blamek S, Grządziel A, Miszczyk L (2013) Robotic radiosurgery versus micro-multileaf collimator: a dosimetric comparison for large or critically located arteriovenous malformations. Radiat Oncol 8:205</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Bortfeld</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Oelfke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Nill</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">What is the optimum leaf width of a multileaf collimator?</ArticleTitle>
+                  <JournalTitle>Med Phys</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>2494</FirstPage>
+                  <LastPage>2502</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1118/1.1319524</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M7hsVWksA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11128300</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Bortfeld T, Oelfke U, Nill S (2000) What is the optimum leaf width of a multileaf collimator? Med Phys 27:2494–2502</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibUnstructured> Boström JP, Meyer A, Pintea B, Gerlach R, Surber G, Lammering G, Hamm K (2014) Risk-adapted single or fractionated stereotactic high-precision radiotherapy in a pooled series of nonfunctioning pituitary adenomas: High local control and low toxicity. Strahlenther Onkol. 2014 Aug 5. [Epub ahead of print]</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>IA</Initials>
+                    <FamilyName>Cetin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Ates</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Dhaens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Storme</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Retrospective analysis of linac-based radiosurgery for arteriovenous malformations and testing of the Flickinger formula in predicting radiation injury</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>188</VolumeID>
+                  <FirstPage>1133</FirstPage>
+                  <LastPage>1138</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-012-0180-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3s7htFensQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23128895</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Cetin IA, Ates R, Dhaens J, Storme G (2012) Retrospective analysis of linac-based radiosurgery for arteriovenous malformations and testing of the Flickinger formula in predicting radiation injury. Strahlenther Onkol 188:1133–1138</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SF</Initials>
+                    <FamilyName>Correa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GN</Initials>
+                    <FamilyName>Marta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Teixeira</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Neurosymptomatic carvenous sinus meningioma: a 15-years experience with fractionated stereotactic radiotherapy and radiosurgery</ArticleTitle>
+                  <JournalTitle>Radiat Oncol</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>27</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1748-717X-9-27</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3904186</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24438670</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Correa SF, Marta GN, Teixeira MJ (2014) Neurosymptomatic carvenous sinus meningioma: a 15-years experience with fractionated stereotactic radiotherapy and radiosurgery. Radiat Oncol 9:27</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Dieterich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Cavedon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Chuang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AB</Initials>
+                    <FamilyName>Cohen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Garrett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CL</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Lowenstein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MF</Initials>
+                    <FamilyName>d'Souza</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DD</Initials>
+                    <FamilyName>Taylor</FamilyName>
+                    <Suffix>Jr</Suffix>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Yu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Report of AAPM TG 135: quality assurance for robotic radiosurgery</ArticleTitle>
+                  <JournalTitle>Med Phys</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>2914</FirstPage>
+                  <LastPage>2936</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1118/1.3579139</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21815366</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Dieterich S, Cavedon C, Chuang CF, Cohen AB, Garrett JA, Lee CL, Lowenstein JR, d'Souza MF, Taylor DD Jr, Wu X, Yu C (2011) Report of AAPM TG 135: quality assurance for robotic radiosurgery. Med Phys 38:2914–2936</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Dutta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Balaji Subramanian</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Murli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sudahar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PG</Initials>
+                    <FamilyName>Gopalakrishna Kurup</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Potharaju</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Dosimetric comparison of Linac-based (BrainLAB®) and robotic radiosurgery (CyberKnife ®) stereotactic system plans for acoustic schwannoma</ArticleTitle>
+                  <JournalTitle>J Neurooncol</JournalTitle>
+                  <VolumeID>106</VolumeID>
+                  <FirstPage>637</FirstPage>
+                  <LastPage>642</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11060-011-0703-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21892741</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Dutta D, Balaji Subramanian S, Murli V, Sudahar H, Gopalakrishna Kurup PG, Potharaju M (2012) Dosimetric comparison of Linac-based (BrainLAB®) and robotic radiosurgery (CyberKnife ®) stereotactic system plans for acoustic schwannoma. J Neurooncol 106:637–642</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>GG</Initials>
+                    <FamilyName>Echner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Kilby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Earnst</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Sayeh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schlaefer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Rhein</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Dooley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Lang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Blanck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Lessard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CR</Initials>
+                    <FamilyName>Maurer</FamilyName>
+                    <Suffix>Jr</Suffix>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Schlegel</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">The design, physical properties and clinical utility of an iris collimator for robotic radiosurgery</ArticleTitle>
+                  <JournalTitle>Phys Med Biol</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>5359</FirstPage>
+                  <LastPage>5380</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0031-9155/54/18/001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD1Mrps1WrtQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19687567</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Echner GG, Kilby W, Lee M, Earnst E, Sayeh S, Schlaefer A, Rhein B, Dooley JR, Lang C, Blanck O, Lessard E, Maurer CR Jr, Schlegel W (2009) The design, physical properties and clinical utility of an iris collimator for robotic radiosurgery. Phys Med Biol 54:5359–5380</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>El Majdoub</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Elawady</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Bührle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>El-Khatib</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hoevels</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Müller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Maarouf</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">μMLC-LINAC radiosurgery for intracranial meningiomas of complex shape</ArticleTitle>
+                  <JournalTitle>Acta Neurochir (Wien)</JournalTitle>
+                  <VolumeID>154</VolumeID>
+                  <FirstPage>599</FirstPage>
+                  <LastPage>604</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00701-012-1278-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> El Majdoub F, Elawady M, Bührle C, El-Khatib M, Hoevels M, Treuer H, Müller RP, Sturm V, Maarouf M (2012) μMLC-LINAC radiosurgery for intracranial meningiomas of complex shape. Acta Neurochir (Wien) 154:599–604</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Feuvret</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Noël</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Mazeron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Bey</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Conformity index: a review</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>333</FirstPage>
+                  <LastPage>342</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2005.09.028</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16414369</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Feuvret L, Noël G, Mazeron JJ, Bey P (2006) Conformity index: a review. Int J Radiat Oncol Biol Phys 64:333–342</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Fu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Kuduvalli</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A fast, accurate, and automatic 2D-3D image registration for image-guided cranial radiosurgery</ArticleTitle>
+                  <JournalTitle>Med Phys</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>2180</FirstPage>
+                  <LastPage>2194</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1118/1.2903431</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18561693</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Fu D, Kuduvalli G (2008) A fast, accurate, and automatic 2D-3D image registration for image-guided cranial radiosurgery. Med Phys 35:2180–2194</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Fuetsch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>El Majdoub</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hoevels</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Müller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Maarouf</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Stereotactic LINAC radiosurgery for the treatment of brainstem cavernomas</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>188</VolumeID>
+                  <FirstPage>311</FirstPage>
+                  <LastPage>316</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-011-0050-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC38vitlCltw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22314579</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Fuetsch M, El Majdoub F, Hoevels M, Müller RP, Sturm V, Maarouf M (2012) Stereotactic LINAC radiosurgery for the treatment of brainstem cavernomas. Strahlenther Onkol 188:311–316</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Gevaert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Levivier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Lacornerie</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Verellen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Engels</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Reynaert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Tournel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Duchateau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Reynders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Depuydt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Collen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Lartigau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>De Ridder</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Dosimetric comparison of different treatment modalities for stereotactic radiosurgery of arteriovenous malformations and acoustic neuromas</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>106</VolumeID>
+                  <FirstPage>192</FirstPage>
+                  <LastPage>197</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2012.07.002</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22884842</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Gevaert T, Levivier M, Lacornerie T, Verellen D, Engels B, Reynaert N, Tournel K, Duchateau M, Reynders T, Depuydt T, Collen C, Lartigau E, De Ridder M (2013) Dosimetric comparison of different treatment modalities for stereotactic radiosurgery of arteriovenous malformations and acoustic neuromas. Radiother Oncol 106:192–197</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Henzel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hamm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sitter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MW</Initials>
+                    <FamilyName>Gross</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Surber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Kleinert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Engenhart-Cabillic</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Comparison of stereotactic radiosurgery and fractionated stereotactic radiotherapy of acoustic neurinomas according to 3-D tumor volume shrinkage and quality of life</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>185</VolumeID>
+                  <FirstPage>567</FirstPage>
+                  <LastPage>573</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-009-1959-y</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19756422</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Henzel M, Hamm K, Sitter H, Gross MW, Surber G, Kleinert G, Engenhart-Cabillic R (2009) Comparison of stereotactic radiosurgery and fractionated stereotactic radiotherapy of acoustic neurinomas according to 3-D tumor volume shrinkage and quality of life. Strahlenther Onkol 185:567–573</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Wittig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Piroth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Seegenschmiedt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ruge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Grosu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Guckenberger</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery for treatment of brain metastases. A report of the DEGRO Working Group on Stereotactic Radiotherapy</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>190</VolumeID>
+                  <FirstPage>521</FirstPage>
+                  <LastPage>532</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-014-0648-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24715242</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Kocher M, Wittig A, Piroth MD, Treuer H, Seegenschmiedt H, Ruge M, Grosu AL, Guckenberger M (2014) Stereotactic radiosurgery for treatment of brain metastases. A report of the DEGRO Working Group on Stereotactic Radiotherapy. Strahlenther Onkol 190:521–532</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Kuo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Yu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Petrovich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Apuzzo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">The CyberKnife stereotactic radiosurgery system: description, installation, and an initial evaluation of use and functionality</ArticleTitle>
+                  <JournalTitle>Neurosurgery</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>1235</FirstPage>
+                  <LastPage>1239</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1227/01.NEU.0000089485.47590.05</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>14580294</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Kuo JS, Yu C, Petrovich Z, Apuzzo ML (2003) The CyberKnife stereotactic radiosurgery system: description, installation, and an initial evaluation of use and functionality. Neurosurgery 53:1235–1239</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NJ</Initials>
+                    <FamilyName>Lomax</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SG</Initials>
+                    <FamilyName>Scheib</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Quantifying the degree of conformity in radiosurgery treatment planning</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>1409</FirstPage>
+                  <LastPage>1419</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(02)04599-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12654454</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Lomax NJ, Scheib SG (2003) Quantifying the degree of conformity in radiosurgery treatment planning. Int J Radiat Oncol Biol Phys 55:1409–1419</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Ma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Petti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Descovich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Chuang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>IJ</Initials>
+                    <FamilyName>Barani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kunwar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DC</Initials>
+                    <FamilyName>Shrieve</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Sahgal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Larson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Apparatus dependence of normal brain tissue dose in stereotactic radiosurgery for multiple brain metastases</ArticleTitle>
+                  <JournalTitle>J Neurosurg</JournalTitle>
+                  <VolumeID>114</VolumeID>
+                  <FirstPage>1580</FirstPage>
+                  <LastPage>1584</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3171/2011.1.JNS101056</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21375377</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Ma L, Petti P, Wang B, Descovich M, Chuang C, Barani IJ, Kunwar S, Shrieve DC, Sahgal A, Larson DA (2011) Apparatus dependence of normal brain tissue dose in stereotactic radiosurgery for multiple brain metastases. J Neurosurg 114:1580–1584</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Paddick</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">A simple scoring ratio to index the conformity of radiosurgical treatment plans. Technical note</ArticleTitle>
+                  <JournalTitle>J Neurosurg</JournalTitle>
+                  <VolumeID>93</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>219</FirstPage>
+                  <LastPage>222</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>11143252</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Paddick I (2000) A simple scoring ratio to index the conformity of radiosurgical treatment plans. Technical note. J Neurosurg 93(Suppl 3):219–222</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Pastyr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GH</Initials>
+                    <FamilyName>Hartmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Schlegel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schabbert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Lorenz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <Year>1989</Year>
+                  <ArticleTitle Language="En">Stereotactically guided convergent beam irradiation with a linear accelerator: localization-technique</ArticleTitle>
+                  <JournalTitle>Acta Neurochir (Wien)</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>61</FirstPage>
+                  <LastPage>64</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/BF01407778</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaL1MzjtlertA%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Pastyr O, Hartmann GH, Schlegel W, Schabbert S, Treuer H, Lorenz WJ, Sturm V (1989) Stereotactically guided convergent beam irradiation with a linear accelerator: localization-technique. Acta Neurochir (Wien) 99:61–64</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MH</Initials>
+                    <FamilyName>Phillips</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Holdsworth</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">When is better best? A multiobjective perspective</ArticleTitle>
+                  <JournalTitle>Med Phys</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>1635</FirstPage>
+                  <LastPage>1640</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1118/1.3553404</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3064685</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21520876</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Phillips MH, Holdsworth C (2011) When is better best? A multiobjective perspective. Med Phys 38:1635–1640</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Romanelli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DW</Initials>
+                    <FamilyName>Schaal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Adler</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Image-guided radiosurgical ablation of intra- and extra-cranial lesions</ArticleTitle>
+                  <JournalTitle>Technol Cancer Res Treat</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>421</FirstPage>
+                  <LastPage>428</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/153303460600500410</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16866572</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Romanelli P, Schaal DW, Adler JR (2006) Image-guided radiosurgical ablation of intra- and extra-cranial lesions. Technol Cancer Res Treat 5:421–428</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MI</Initials>
+                    <FamilyName>Ruge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Maarouf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Hamisch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Voges</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Comparison of stereotactic brachytherapy (125 iodine seeds) with stereotactic radiosurgery (LINAC) for the treatment of singular cerebral metastases</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>187</VolumeID>
+                  <FirstPage>7</FirstPage>
+                  <LastPage>14</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-010-2168-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21234527</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Ruge MI, Kocher M, Maarouf M, Hamisch C, Treuer H, Voges J, Sturm V (2011) Comparison of stereotactic brachytherapy (125 iodine seeds) with stereotactic radiosurgery (LINAC) for the treatment of singular cerebral metastases. Strahlenther Onkol 187:7–14</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Runge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Maarouf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Hunsche</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MI</Initials>
+                    <FamilyName>Ruge</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>El Majdoub</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Mueller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Voges</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">LINAC-radiosurgery for nonsecreting pituitary adenomas. Long-term results</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>188</VolumeID>
+                  <FirstPage>319</FirstPage>
+                  <LastPage>325</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-011-0052-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC38vjsF2rtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22349709</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Runge MJ, Maarouf M, Hunsche S, Kocher M, Ruge MI, El Majdoub F, Treuer H, Mueller RP, Voges J, Sturm V (2012) LINAC-radiosurgery for nonsecreting pituitary adenomas. Long-term results. Strahlenther Onkol 188:319–325</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schlaefer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schweikard</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Stepwise multi-criteria optimization for robotic radiosurgery</ArticleTitle>
+                  <JournalTitle>Med Phys</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>2094</FirstPage>
+                  <LastPage>2103</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1118/1.2900716</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD1czptl2nuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18561685</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Schlaefer A, Schweikard A (2008) Stepwise multi-criteria optimization for robotic radiosurgery. Med Phys 35:2094–2103</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28</CitationNumber>
+                <BibUnstructured> Schlegel W, Pastyr O, Kubesch R, Stein J, Diemer T, Höver KH, Rhein B (1997) A computer controlled micromultileaf-collimator for stereotactic conformal radiotherapy. In: Leavitt DD, Starkschall G (eds) Proceedings of the 12th International Conference on the use of computers in radiation therapy. Medical Physics Publishing, Madison, pp 79–82</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schoonbeek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Monshouwer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Hanssens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Raaijmakers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Nowak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Marijnissen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FJ</Initials>
+                    <FamilyName>Lagerwaard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Cuijpers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EJ</Initials>
+                    <FamilyName>Vonk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RW</Initials>
+                    <FamilyName>Maazen</FamilyName>
+                    <Particle>van der</Particle>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Intracranial radiosurgery in the Netherlands. A planning comparison of available systems with regard to physical aspects and workload</ArticleTitle>
+                  <JournalTitle>Technol Cancer Res Treat</JournalTitle>
+                  <VolumeID>9</VolumeID>
+                  <FirstPage>279</FirstPage>
+                  <LastPage>290</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/153303461000900307</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3czhtFSitA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20441238</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Schoonbeek A, Monshouwer R, Hanssens P, Raaijmakers E, Nowak P, Marijnissen JP, Lagerwaard FJ, Cuijpers JP, Vonk EJ, van der Maazen RW (2010) Intracranial radiosurgery in the Netherlands. A planning comparison of available systems with regard to physical aspects and workload. Technol Cancer Res Treat 9:279–290</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30</CitationNumber>
+                <BibUnstructured> Seung SK, Larson DA, Galvin JM, Mehta MP, Potters L, Schultz CJ, Yajnik SV, Hartford AC, Rosenthal SA (2013) American College of Radiology (ACR) and American Society for Radiation Oncology (ASTRO) Practice Guideline for the Performance of Stereotactic Radiosurgery (SRS). Am J Clin Oncol 36:310–315</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SC</Initials>
+                    <FamilyName>Sharma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JT</Initials>
+                    <FamilyName>Ott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Dickow</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Commissioning and acceptance testing of a CyberKnife linear accelerator</ArticleTitle>
+                  <JournalTitle>J Appl Clin Med Phys</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>119</FirstPage>
+                  <LastPage>125</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1120/jacmp.v8i3.2473</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Sharma SC, Ott JT, Williams JB, Dickow D (2007) Commissioning and acceptance testing of a CyberKnife linear accelerator. J Appl Clin Med Phys 8:119–125</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Shaw</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Kline</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Gillin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Souhami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hirschfeld</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Dinapoli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Martin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Radiation Therapy Oncology Group: radiosurgery quality assurance guidelines</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>27</VolumeID>
+                  <FirstPage>1231</FirstPage>
+                  <LastPage>1239</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0360-3016(93)90548-A</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2c%2Fos1Cjuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>8262852</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Shaw E, Kline R, Gillin M, Souhami L, Hirschfeld A, Dinapoli R, Martin L (1993) Radiation Therapy Oncology Group: radiosurgery quality assurance guidelines. Int J Radiat Oncol Biol Phys 27:1231–1239</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hoevels</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Hunsche</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Luyken</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Maarouf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Voges</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Müller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Impact of target point deviations on control and complication probabilities in stereotactic radiosurgery of AVMs and metastases</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>25</FirstPage>
+                  <LastPage>32</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2006.08.022</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17005278</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Treuer H, Kocher M, Hoevels M, Hunsche S, Luyken K, Maarouf M, Voges J, Müller RP, Sturm V (2006) Impact of target point deviations on control and complication probabilities in stereotactic radiosurgery of AVMs and metastases. Radiother Oncol 81:25–32</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>van’t Riet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Mak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Moerland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LH</Initials>
+                    <FamilyName>Elders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>van der Zee</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">A conformation number to quantify the degree of conformality in brachytherapy and external beam irradiation: application to the prostate</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>731</FirstPage>
+                  <LastPage>736</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(96)00601-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>9112473</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> van’t Riet A, Mak AC, Moerland MA, Elders LH, van der Zee W (1997) A conformation number to quantify the degree of conformality in brachytherapy and external beam irradiation: application to the prostate. Int J Radiat Oncol Biol Phys 37:731–736</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Voges</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Treuer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Sturm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Büchner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lehrke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Staar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Kuchta</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Müller</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Risk analysis of linear accelerator radiosurgery</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>1055</FirstPage>
+                  <LastPage>1063</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(96)00422-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK2s7jvVSjsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>8985027</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured> Voges J, Treuer H, Sturm V, Büchner C, Lehrke R, Kocher M, Staar S, Kuchta J, Müller RP (1996) Risk analysis of linear accelerator radiosurgery. Int J Radiat Oncol Biol Phys 36:1055–1063</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36</CitationNumber>
+                <BibUnstructured> Yu C, Jozsef G, Apuzzo ML, Petrovich Z (2003) Dosimetric comparison of CyberKnife with other radiosurgical modalities for an ellipsoidal target. Neurosurgery 53:1155–62 (discussion 1162–1163)</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

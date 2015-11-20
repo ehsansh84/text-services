@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-014-0797-8" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>797</ArticleID>
+            <ArticleDOI>10.1007/s00066-014-0797-8</ArticleDOI>
+            <ArticleSequenceNumber>8</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Expression of transforming growth factor beta 1-related signaling proteins in irradiated vessels</ArticleTitle>
+            <ArticleTitle Language="De">Expression TGF-β1-bezogener Signalproteine in bestrahlten Gefäßen</ArticleTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>518</ArticleFirstPage>
+            <ArticleLastPage>524</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+              </Received>
+              <Accepted>
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2014</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff2" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Raimund H. M.</GivenName>
+                  <FamilyName>Preidl</FamilyName>
+                  <Degrees>M.D.</Degrees>
+                </AuthorName>
+                <Contact>
+                  <Phone>0049-9131 8543724</Phone>
+                  <Email>raimund.preidl@uk-erlangen.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Patrick</GivenName>
+                  <FamilyName>Möbius</FamilyName>
+                  <Degrees>D.M.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Manuel</GivenName>
+                  <FamilyName>Weber</FamilyName>
+                  <Degrees>M.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Kerstin</GivenName>
+                  <FamilyName>Amann</FamilyName>
+                  <Degrees>M.D., Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Friedrich W.</GivenName>
+                  <FamilyName>Neukam</FamilyName>
+                  <Degrees>M.D., D.M.D., Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Andreas</GivenName>
+                  <FamilyName>Schlegel</FamilyName>
+                  <Degrees>M.D., D.M.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Falk</GivenName>
+                  <FamilyName>Wehrhan</FamilyName>
+                  <Degrees>M.D., D.M.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Oral and Maxillofacial Surgery</OrgDivision>
+                <OrgName>University of Erlangen- Nürnberg</OrgName>
+                <OrgAddress>
+                  <Street>Glückstraße 11</Street>
+                  <Postcode>91054</Postcode>
+                  <City>Erlangen</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>University of Erlangen- Nürnberg</OrgName>
+                <OrgAddress>
+                  <City>Erlangen</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Aim</Heading>
+                <Para>Microvascular free tissue transfer is a standard method in head and neck reconstructive surgery. However, previous radiotherapy of the operative region is associated with an increased incidence in postoperative flap-related complications and complete flap loss. As transforming growth factor beta (TGF-β) 1 and galectin-3 are well known markers in the context of fibrosis and lectin-like oxidized low-density lipoprotein 1 (LOX-1) supports vascular atherosclerosis, the aim of this study was to evaluate the expression of TGF-β1 and related markers as well as LOX-1 in irradiated vessels.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Materials and methods</Heading>
+                <Para>To evaluate the expression of galectin-3, Smad 2/3, TGF-β1, and LOX-1, 20 irradiated and 20 nonirradiated arterial vessels were used for immunohistochemical staining. We semiquantitatively assessed the ratio of stained cells/total number of cells (labeling index).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para>Expression of galectin-3, Smad 2/3, and TGF-β1 was significantly increased in previously irradiated vessels compared with nonirradiated controls. Furthermore, LOX-1 was expressed significantly higher in irradiated compared with nonirradiated vessels.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusion</Heading>
+                <Para>Fibrosis-related proteins like galectin-3, Smad 2/3, and TGF-β1 are upregulated after radiotherapy and support histopathological changes leading to vasculopathy of the irradiated vessels. Furthermore, postoperative complications in irradiated patients can be explained by increased endothelial dysfunction caused by LOX-1 in previously irradiated patients. Consequently, not only TGF-β1 but also galectin-3inhibitors may decrease complications after microsurgical tissue transfer.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="De" OutputMedium="All">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec5">
+                <Heading>Einführung</Heading>
+                <Para>Der freie mikrovaskuläre Gewebetransfer gilt heute als fester Standard in der rekonstruktiven Kopf-Hals-Chirurgie. Es zeigte sich jedoch, dass im Falle einer stattgehabten Bestrahlung im Operationsgebiet mit einer erhöhten Rate an transplantatbezogenen Komplikationen gerechnet werden muss. Sowohl TGF-β1 als auch Galektin-3 sind bekannte Mediatoren in Bezug auf die Fibroseentstehung, wohingegen LOX-1 eine unterstützende Rolle bei der Entwicklung von Atherosklerose einnimmt. Das Ziel dieser Studie war es, zu untersuchen, wie sich die Expression von TGF-β1 und verwandten Fibrosemediatoren sowie LOX-1 im bestrahlten Gefäß verhält.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec6">
+                <Heading>Material und Methoden</Heading>
+                <Para>20 bestrahlte und 20 nichtbestrahlte Arterien wurden mittels immunhistochemischer Färbungen auf die Expression von Galektin-3, Smad2/3, TGF-β1 sowie LOX-1 hin untersucht. Semiquantitativ wurde das Verhältnis gefärbte Zellen pro Gesamtzellzahl (Färbungsindex) bestimmt.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7">
+                <Heading>Ergebnisse</Heading>
+                <Para>Die Expression von Galektin-3, Smad2/3 sowie TGF-β1 war in bestrahlten Arterien signifikant höher als in nichtbestrahlten Gefäßen. LOX-1 wurde in vorbestrahlten Gefäßen ebenso signifikant höher exprimiert.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8">
+                <Heading>Konklusion</Heading>
+                <Para>Mediatoren der Fibroseentstehung wie Galektin-3, Smad2/3 und TGF-β1 sind in bestrahlten Gefäßen erhöht exprimiert und tragen mutmaßlich zu der Entstehung der radiogen induzierten Vaskulopathie bei. Des Weiteren können postoperative Komplikationen bei bestrahlen Patienten durch die verstärkte endotheliale Dysfunktion, unterstützt durch LOX-1, erklärt werden. Folglich könnten nicht nur TGF-β1- sondern auch Galektin-3-Inhibitoren einen minimierenden Effekt auf die Komplikationen nach mikrovaskulärem Gewebetransfer haben.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Radiotherapy</Keyword>
+              <Keyword>Vessel</Keyword>
+              <Keyword>Radiation-induced vasculopathy</Keyword>
+              <Keyword>Transforming growth factor beta</Keyword>
+              <Keyword>Head and neck surgery</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Radiotherapie</Keyword>
+              <Keyword>Gefäße</Keyword>
+              <Keyword>Radiogeninduzierte Vaskulopathie</Keyword>
+              <Keyword>Transforming growth factor β</Keyword>
+              <Keyword>Kopf-Hals-Chirurgie</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Raimund H.M. Preidl and Patrick Möbius shared first authorship.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <Section1 ID="Sec1">
+              <Heading>Introduction</Heading>
+              <Para>Microvascular free tissue transfer in head and neck surgery is an established reconstructive method and is frequently applied in order to restore functionality considering speech and swallowing as well as achieving esthetic rehabilitation [<CitationRef CitationID="CR16">16</CitationRef>]. However, there are still numerous cases of postoperative complications regarding infections, thrombosis, and even complete flap loss especially in patients who previously received radiotherapy in the head and neck area [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>].</Para>
+              <Para>Previous radiotherapy in the head and neck region is linked to an increased risk for neurovascular events associated with an accelerated atherosclerotic plaque formation, a decrease in blood flow, and subsequent arterial wall thickening [<CitationRef CitationID="CR25">25</CitationRef>].</Para>
+              <Para>We already know that intima dehiscence as well as increased proteoglycan contents and elevated levels of inflammatory cells with concomitant activation of nuclear factor kappa B can be observed in previously irradiated vessels [<CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>]. This leads to an increase in intima-media thickness of irradiated arteries with elevated contents of collagens, comparable to atherosclerotic disease, resulting even in luminal occlusion [<CitationRef CitationID="CR4">4</CitationRef>].</Para>
+              <Para>Galectin-3 supports the attraction of inflammatory cells in the vessel wall by inducing endothelial adhesion molecules [<CitationRef CitationID="CR13">13</CitationRef>]. Furthermore, TGF-β1 secretion is supported by galectin-3, a well-known mediator in the context of organ fibrosis. After radiotherapy an increase in TGF-β1 caused by macrophages and fibroblasts can be observed in the surrounding soft tissue, thus playing an important role in the development of local fibrosis [<CitationRef CitationID="CR22">22</CitationRef>]. In the context of cardiovascular pathological changes, TGF-β1 is known to stimulate fibroblasts and vascular smooth muscle cells resulting in atherosclerosis and vessel stenosis as wells as hypertension [<CitationRef CitationID="CR18">18</CitationRef>]. Regarding the TGF-β receptor 1 pathway, Smad2 and Smad3 are phosphorylated by activated TGF-β1 receptors and influence the transcription of fibronectin, procollagens, as well as plasminogen activator-inhibitor 1 (PAI-1) in the vessel wall [<CitationRef CitationID="CR18">18</CitationRef>]. Therefore, Smad2 and Smad3 predominantly transmit TGF-β signals throughout the cytoplasm into the nucleus.</Para>
+              <Para>Lectin-like oxidized low-density lipoprotein 1 (LOX-1) plays an essential role in the pathogenesis of atherosclerotic lesions by inducing endothelial adhesion molecules and attracting inflammatory cells [<CitationRef CitationID="CR20">20</CitationRef>]. Being almost undetectable under physiological conditions, it is upregulated in endothelial cells and smooth muscle cells by proinflammatory cytokines leading to vascular cell dysfunction and advanced plaque formation [<CitationRef CitationID="CR11">11</CitationRef>].</Para>
+              <Para>The aim of this study was to determine whether the pathogenesis of radiation-induced vasculopathy is mediated by the TGF-β1 pathway or if galectin-3 and LOX-1 independently support the histomorphological changes in previously irradiated human arteries compared with nonirradiated controls.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Materials and methods</Heading>
+              <Section2 ID="Sec3">
+                <Heading>Patients and tissue harvesting</Heading>
+                <Para>In all, 20 irradiated and 20 nonirradiated arterial vessels from arterial microvascular anastomoses of patients treated in the Department of Oral and Maxillofacial Surgery at the University of Erlangen-Nürnberg, Germany, were selected for this study. Written and oral informed consent was obtained from all patients prior to enrolment. The study protocol was approved by the ethics committee of the University of Erlangen-Nuremberg, Germany (Ref.- No. 83_13B). Each specimen was confirmed to show representative regions of the vessel (intima, media, and adventitia). The radiation dose used during radiotherapy was 50–70 Gy applied to the lower head and neck area where the investigated vessels were situated. The average timespan between end of irradiation and vessel removal was 57.01 ± 8.98 months.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Immunohistochemical staining</Heading>
+                <Para>The formalin-fixed, paraffin-embedded tissue samples were sliced in sections of 2-μm thickness by using a rotation microtome (Leica, Nussloch, Germany). The sections were dewaxed in xylole and then rehydrated in graded alcohol. Staining was performed by applying the APAAP (alkaline phosphatase–anti-alkaline phosphatase) method and an automated staining device (Autostainer plus, Dako Cytomation, Hamburg, Germany). Antigens were detected by incubating tissues in the autostainer (21 ℃, 30 min) with specific antibodies. The following primary antibodies were used: anti-galectin-3 (sc-20157, Santa Cruz Biotech., Santa Cruz, Calif.) 1:150, anti-Smad 2/3 (sc-6033, Santa Cruz Biotech.) 1:50, anti-TGF-β1 (sc-146, Santa Cruz Biotech.) 1:100, and anti-LOX-1 (ab85839, abcam. Cambridge, UK) 1:50. Biotinylated immunoglobulins were used for all samples. The samples were incubated in hematoxylin (Dako Cytomation) for nucleus-counterstaining. Negative and positive controls were performed for each immunohistochemical staining.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Qualitative and semiquantitative immunohistochemical analysis</Heading>
+                <Para>The samples used in this study were scanned and digitalized completely by using the method of “whole slide imaging.” All scanned samples were virtually microscoped on PC (Pannoramic MIRAX viewer, Zeiss, Jena, Germany). Quality controls were performed with a bright-field microscope (Zeiss Axioskop and Axiocam 5, magnification: ×5–400). As the vessels revealed a homogeneous expression of antigens in the immunohistochemical stainings, three representative visual fields per section at a magnification of ×200 were selected from each sample. The visual fields were imported into Biomas (MSAB, Erlangen, Germany) to perform cell counting by three independent observers. The number of positive-stained cells for galectin-3, Smad 2/3, TGF-β1, and LOX-1 in the intima, media, and adventitia was evaluated for each sample.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Statistical analysis</Heading>
+                <Para>To quantify the immunohistochemical stainings, the labeling index (ratio of positive cells to total cell number resembling the expression rate) per visual field, sample, and study group was determined. The results are expressed as median, the interquartile range (IQR), standard deviation (SD), and range. Box plot diagrams illustrate the median, the interquartile range, minimum (Min), and maximum (Max). Two-sided, adjusted <Emphasis Type="Italic">p</Emphasis> values of  ≤ 0.05 were considered statistically significant. All analyses were done with SPSS 21.0 for Mac (IBM Inc., New York, N.Y.).</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Results</Heading>
+              <Section2 ID="Sec8">
+                <Heading>Qualitative analysis</Heading>
+                <Para>Galectin-3 expression in irradiated vessels was predominantly detected in the nucleus and only rarely in the cytoplasm throughout the intima, media, and adventitia. Smad2/3 was detected mainly in the media with only a few stained cells in the intima and almost none in the adventitia in both groups. Furthermore, stained cells for Smad2/3 showed a predominant expression in the nucleus rather than in the cytoplasm. By contrast, nonirradiated vessels revealed a cytoplasmic expression of galectin-3 with only a few stained nuclei. TGF-β1 was mostly present in the intima and media and not in the adventitia. Compared with galectin-3, TGF-β1 staining within the cells was localized predominantly in the cytoplasm. By contrast, LOX-1 could be detected in the cytoplasm of cells localized in the intima and media in irradiated as well as nonirradiated vessels (Fig. <InternalRef RefID="Fig1">1</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Immunohistochemical stainings for galectin-3, Smad2/3, TGF-β1, and LOX-1 in irradiated (<Emphasis Type="Italic">right column</Emphasis>) and nonirradiated (<Emphasis Type="Italic">left column</Emphasis>) arterial vessels</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_797_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>Quantitative analysis</Heading>
+                <Para>Immunohistochemical stainings revealed a significantly increased labeling index for galectin-3 in irradiated vessels compared with nonirradiated controls [labeling index galectin-3: 3226 ± 20.01 (irradiated group) vs. 10.14 ± 8.39 (nonirradiated group); <Emphasis Type="Italic">p</Emphasis> &lt; 0.05] (Fig. <InternalRef RefID="Fig2">2</InternalRef>). Smad2/3 expression was significantly higher in irradiated arteries compared with controls [labeling index Smad2/3: 48.26 ± 23.15 (irradiated group) vs. 33.84 ± 21.04 (nonirradiated group); <Emphasis Type="Italic">p</Emphasis> &lt; 0.05] (Fig. <InternalRef RefID="Fig3">3</InternalRef>). Likewise, quantitative analysis of TGF-β1 presented a significantly elevated expression in previously irradiated arteries compared with nonirradiated vessels [labeling index TGF-β1: 22.00 ± 18.13 (irradiated group) vs. 15.99 ± 11.54 (nonirradiated group); <Emphasis Type="Italic">p</Emphasis> &lt; 0.05] (Fig. <InternalRef RefID="Fig4">4</InternalRef>). Furthermore, LOX-1 was detected significantly more often in the vessel walls after radiotherapy compared with untreated controls [labeling index LOX-1: 37.20 ± 27.68 (irradiated group) vs. 27.52 ± 17.58 (nonirradiated group); <Emphasis Type="Italic">p</Emphasis> &lt; 0.05] (Fig. <InternalRef RefID="Fig5">5</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Galectin-3 expression was significantly increased in previously irradiated arteries compared with nonirradiated controls</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_797_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Quantification of Smad2/3 expression revealing significantly higher levels in irradiated vessels</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_797_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Quantification of TGF-β1 expression in previously irradiated vessel compared with nonirradiated controls showing a significantly higher labeling index for TGF-β1 in vessels after radiotherapy</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO4">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_797_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>LOX-1 is expressed significantly higher in irradiated than in nonirradiated arteries. Standard deviation in both groups is comparably large as the investigated vessels might have already developed different stages of atherosclerosis</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO5">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_797_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec10">
+              <Heading>Discussion</Heading>
+              <Para>Preoperative radiotherapy is a risk factor for postoperative complications in microvascular free tissue reconstructions in the head and neck area [<CitationRef CitationID="CR15">15</CitationRef>]. The incidence of postoperative wound infections and fistulas in previously irradiated patients is increased, resembling compromised healing capacities [<CitationRef CitationID="CR3">3</CitationRef>]. Consequently, the length of hospital stay in these patients, compared with nonirradiated patients, is reported to be prolonged [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+              <Para>TGF-β1 plays an essential role in healing processes and in the induction of fibrosis in irradiated tissue [<CitationRef CitationID="CR27">27</CitationRef>]. Regarding the graft-bed of free microsurgical transplants after radiotherapy, elevated levels TGF-β1 as well as Smad3 could be observed [<CitationRef CitationID="CR23">23</CitationRef>]. Furthermore, the application of a TGF-β1 inhibitor resulted in reduced graft-bed fibrosis and improved healing capacities [<CitationRef CitationID="CR24">24</CitationRef>]. The results of our study show that an increase in pro-fibrotic mediators like galectin-3 and TGF-β1 seems not only to mediate fibrosis in surrounding soft tissue but also in irradiated vessel walls. Furthermore, the expression of Smad2 and Smad3, being part of the TGF-β receptor 1 pathway, was also increased.</Para>
+              <Para>Our results are in a line with data published by others, detecting increased TGF-β1 levels in previously irradiated skin [<CitationRef CitationID="CR14">14</CitationRef>]. In the study of Martin et al., TGF-β1 could not only be detected in fibroblasts but also in endothelial cells and the collagenous matrix after a period of 6–12 months. Therefore, the authors concluded that TGF–β1 is involved in the pathomechanism of fibrotic lesions in the early but also in long-term stages after radiotherapy [<CitationRef CitationID="CR14">14</CitationRef>].</Para>
+              <Para>As galectin-3 is known to support profibrotic responses in various organ systems and acts independently of TGF-β, histomorphological changes observed in irradiated vessel walls may also be primarily caused by this protein. In our experiments, galectin-3 expression in irradiated vessels was predominantly and homogeneously expressed in the nucleus, whereas in nonirradiated vessels the protein was mostly detected in the cytoplasm. According to Moutstatsos et al., a cytoplasmic expression of galectin-3 can be found in inactivated fibroblasts whereas activated fibroblasts are characterized by a predominantly nuclear location of the protein. These findings support the hypothesis of galectin-3 together with TGF-β playing a major role in long-term pathological changes in the vessel walls after radiotherapy. Furthermore, one could speculate at this stage that galectin-3, as a fetal antigen, might be re-expressed in irradiated vessels because of ongoing fibrogenesis [<CitationRef CitationID="CR9">9</CitationRef>].</Para>
+              <Para>Rodriguez-Vita et al. have already shown that Smad2 and Smad3 are rapidly activated by angiotensin II in vascular smooth muscle cells independently of TGF-β [<CitationRef CitationID="CR17">17</CitationRef>]. In the context of pathological changes in atherosclerotic lesions, Smad2 and Smad3 are known to increase fibronectin which, on the other hand, can also be found in irradiated vessels [<CitationRef CitationID="CR24">24</CitationRef>]. Beside this, advanced glycation end products (AGEs) can selectively activate Smad2/3, indicating that Smad proteins are not exclusively promoted by the classic TGF-β trigger mechanisms [<CitationRef CitationID="CR12">12</CitationRef>]. Therefore, the vasculopathy after radiotherapy may not be selectively mediated by TGF-β1 and galectin-3 but could also be supported by general cardiovascular mediators initiating the TGF-β pathway and leading to endothelial dysfunction and increased endothelial adhesion molecule expression [<CitationRef CitationID="CR1">1</CitationRef>, <CitationRef CitationID="CR6">6</CitationRef>]. This hypothesis is supported by the fact of impaired endothelium-dependent vasodilation in previously irradiated arteries along with a decrease of nitric oxide, which causes endothelial dysfunction promoting adverse vascular events [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR26">26</CitationRef>]. In a therapeutic context, we already know that statins increased the eNOS content and reduced inflammatory adhesion molecule expression on the endothelium in an animal model [<CitationRef CitationID="CR8">8</CitationRef>]. Therefore, these drugs might decrease postoperative complications and neurovascular events in previously irradiated patients in future.</Para>
+              <Para>It is known that LOX-1 is not only upregulated in pathological conditions like atherosclerosis, promoting intimal hyperplasia in the vessel wall, but can also be detected in postradiation vasculopathy [<CitationRef CitationID="CR7">7</CitationRef>]. Furthermore, LOX-1, being highly expressed in smooth muscle cells, influences endothelial function and supports the attraction of inflammatory cells via induction of cell adhesion molecules like selectins [<CitationRef CitationID="CR10">10</CitationRef>]. Arteries investigated in this study revealed a significant increase in LOX-1 expression in previously irradiated vessels compared to controls. As the expression of LOX-1 was detected not only in the media but also in the intima of the arteries, we could speculate at this stage that LOX-1 supports endothelial dysfunction in irradiated vessels comparable to its role in atherosclerotic lesions. However, the fact of detecting LOX-1 in nonirradiated controls points out that in those patients ongoing inflammatory reactions in the vessel wall, presumably caused by atherosclerosis or perioperative inflammation, were taking place. Therefore, the fact of detecting significantly increased levels of LOX-1 in irradiated vessels even after a period of more than 5 years is in a line with clinical reports showing an increased risk of long-term vascular adverse events in irradiated patients compared with controls. This also explains the increased incidence of postoperative complications after microvascular free tissue transfer and the increase in neurovascular disease in irradiated patients presumably caused by endothelial dysfunction.</Para>
+              <Para>The general limitation of this analysis is caused by the heterogeneous status of vascular inflammatory reactions and the varying doses of radiation in the investigated patient cohort. Therefore, our findings could be influenced by, for example, ongoing atherosclerotic reactions differing in our subjects. Presumably, radiotherapy therefore augments preexisting pathologies in these vessels. This might be the reason for the rather high standard deviation in the groups. This general bias, however, could only be eliminated by analyzing vessels lying the farthest from the radiation field in the same patient and within the same interval after radiotherapy, which is not in accordance with general ethical principles.</Para>
+              <Para>Conclusively, these results emphasize the role of galectin-3 and TGF-β1 in the pathogenesis of increased vessel wall fibrosis after radiotherapy comparable to atherosclerotic lesions. With regard to therapeutic options for reducing cardiovascular events after radiotherapy and further improving wound healing capacities after microvascular free tissue transfer, one could speculate at this stage that not only TGF-β1 but also novel galectin-3 inhibitors and statins might be useful.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2014_Article_797.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Acknowledgments>
+              <Heading>Acknowledgments</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Author contribution</Heading>
+                <Para>R.H.M.P., P.M., A.S. and F.W. designed the study, R.H.M.P., P.M. and M.W. collected the data, R.H.M.P., F.W., K.A., A.S. and F.N. drafted the article and all authors approved the final version.</Para>
+              </FormalPara>
+            </Acknowledgments>
+            <Ethics>
+              <Heading>Compliance with ethical guidelines</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Conflict of interest</Heading>
+                <Para>R.H.M. Preidl, P. Möbius, M. Weber, K. Amann, F.W. Neukam, A. Schlegel, and F. Wehrhan state that there are no conflicts of interest. All studies on humans described in the present manuscript were carried out with the approval of the responsible ethics committee and in accordance with national law and the Helsinki Declaration of 1975 (in its current, revised form). Informed consent was obtained from all patients included in studies.</Para>
+              </FormalPara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RG</Initials>
+                    <FamilyName>Baluna</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TY</Initials>
+                    <FamilyName>Eng</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CR</Initials>
+                    <FamilyName>Thomas</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Adhesion molecules in radiotherapy</ArticleTitle>
+                  <JournalTitle>Radiat Res</JournalTitle>
+                  <VolumeID>166</VolumeID>
+                  <FirstPage>819</FirstPage>
+                  <LastPage>831</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1667/RR0380.1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD28Xht12hurfM</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17149971</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Baluna RG, Eng TY, Thomas CR (2006) Adhesion molecules in radiotherapy. Radiat Res 166:819–831</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Beckman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Thakore</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BH</Initials>
+                    <FamilyName>Kalinowski</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Radiation therapy impairs endothelium-dependent vasodilation in humans</ArticleTitle>
+                  <JournalTitle>J Am Coll Cardiol</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>761</FirstPage>
+                  <LastPage>765</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0735-1097(00)01190-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXitlKitLs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11693749</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Beckman JA, Thakore A, Kalinowski BH et al (2001) Radiation therapy impairs endothelium-dependent vasodilation in humans. J Am Coll Cardiol 37:761–765</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Benatar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Dassonville</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Chamorey</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Impact of preoperative radiotherapy on head and neck free flap reconstruction: a report on 429 cases</ArticleTitle>
+                  <JournalTitle>J Plast Reconstr Aesthet Surg</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>478</FirstPage>
+                  <LastPage>482</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.bjps.2012.12.019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3szislymtg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23352884</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Benatar MJ, Dassonville O, Chamorey E et al (2013) Impact of preoperative radiotherapy on head and neck free flap reconstruction: a report on 429 cases. J Plast Reconstr Aesthet Surg 66:478–482</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>LD</Initials>
+                    <FamilyName>Dorresteijn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Kappelle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NM</Initials>
+                    <FamilyName>Scholz</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Increased carotid wall thickening after radiotherapy on the neck</ArticleTitle>
+                  <JournalTitle>Eur J Cancer</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>1026</FirstPage>
+                  <LastPage>1030</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ejca.2005.01.020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15862751</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Dorresteijn LD, Kappelle AC, Scholz NM et al (2005) Increased carotid wall thickening after radiotherapy on the neck. Eur J Cancer 41:1026–1030</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Halle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gabrielsen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Paulsson-Berne</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Sustained inflammation due to nuclear factor-kappa B activation in irradiated human arteries</ArticleTitle>
+                  <JournalTitle>J Am Coll Cardiol</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>1227</FirstPage>
+                  <LastPage>1236</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jacc.2009.10.047</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXpvFSqu74%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20298930</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Halle M, Gabrielsen A, Paulsson-Berne G et al (2010) Sustained inflammation due to nuclear factor-kappa B activation in irradiated human arteries. J Am Coll Cardiol 55:1227–1236</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Halle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Hall</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Tornvall</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Cardiovascular disease associated with radiotherapy: activation of nuclear factor kappa-B</ArticleTitle>
+                  <JournalTitle>J Intern Med</JournalTitle>
+                  <VolumeID>269</VolumeID>
+                  <FirstPage>469</FirstPage>
+                  <LastPage>477</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/j.1365-2796.2011.02353.x</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXnt1aqt74%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21255133</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Halle M, Hall P, Tornvall P (2011) Cardiovascular disease associated with radiotherapy: activation of nuclear factor kappa-B. J Intern Med 269:469–477</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hinagata</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kakutani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Fujii</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Oxidized LDL receptor LOX-1 is involved in neointimal hyperplasia after balloon arterial injury in a rat model</ArticleTitle>
+                  <JournalTitle>Cardiovasc Res</JournalTitle>
+                  <VolumeID>69</VolumeID>
+                  <FirstPage>263</FirstPage>
+                  <LastPage>271</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cardiores.2005.08.013</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXhtlGisbzL</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16183045</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hinagata J, Kakutani M, Fujii T et al (2006) Oxidized LDL receptor LOX-1 is involved in neointimal hyperplasia after balloon arterial injury in a rat model. Cardiovasc Res 69:263–271</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Holler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Buard</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MH</Initials>
+                    <FamilyName>Gaugler</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Pravastatin limits radiation-induced vascular dysfunction in the skin</ArticleTitle>
+                  <JournalTitle>J Invest Dermatol</JournalTitle>
+                  <VolumeID>129</VolumeID>
+                  <FirstPage>1280</FirstPage>
+                  <LastPage>1291</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/jid.2008.360</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1MXksFaktbg%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19212344</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Holler V, Buard V, Gaugler MH et al (2009) Pravastatin limits radiation-induced vascular dysfunction in the skin. J Invest Dermatol 129:1280–1291</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kasper</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Fehrenbach</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Immunohistochemical evidence for the occurrence of similar epithelial phenotypes during lung development and radiation-induced fibrogenesis</ArticleTitle>
+                  <JournalTitle>Int J Radiat Biol</JournalTitle>
+                  <VolumeID>76</VolumeID>
+                  <FirstPage>493</FirstPage>
+                  <LastPage>501</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/095530000138493</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXjs1Omsb0%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10815629</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kasper M, Fehrenbach H (2000) Immunohistochemical evidence for the occurrence of similar epithelial phenotypes during lung development and radiation-induced fibrogenesis. Int J Radiat Biol 76:493–501</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Kume</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Kita</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Roles of lectin-like oxidized LDL receptor-1 and its soluble forms in atherogenesis</ArticleTitle>
+                  <JournalTitle>Curr Opin Lipidol</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <FirstPage>419</FirstPage>
+                  <LastPage>423</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/00041433-200108000-00008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3MXlsFOnsrw%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11507327</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kume N, Kita T (2001) Roles of lectin-like oxidized LDL receptor-1 and its soluble forms in atherogenesis. Curr Opin Lipidol 12:419–423</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>DY</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Chen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ED</Initials>
+                    <FamilyName>Staples</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Oxidized low-density lipoprotein receptor LOX-1 and apoptosis in human atherosclerotic lesions</ArticleTitle>
+                  <JournalTitle>J Cardiovasc Pharmacol Ther</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <FirstPage>147</FirstPage>
+                  <LastPage>153</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1177/107424840200700304</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XotlGksLY%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12232563</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li DY, Chen HJ, Staples ED et al (2002) Oxidized low-density lipoprotein receptor LOX-1 and apoptosis in human atherosclerotic lesions. J Cardiovasc Pharmacol Ther 7:147–153</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Li</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>XR</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HJ</Initials>
+                    <FamilyName>Zhu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Advanced glycation end products activate Smad signaling via TGF-beta-dependent and independent mechanisms: implications for diabetic renal and vascular disease</ArticleTitle>
+                  <JournalTitle>FASEB J</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>176</FirstPage>
+                  <LastPage>178</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1096/fj.04-2273com</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXlvFOqsg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12709399</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Li JH, Huang XR, Zhu HJ et al (2004) Advanced glycation end products activate Smad signaling via TGF-beta-dependent and independent mechanisms: implications for diabetic renal and vascular disease. FASEB J 18:176–178</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Mackinnon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Gibbons</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Farnworth</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Regulation of transforming growth factor-beta1-driven lung fibrosis by galectin-3</ArticleTitle>
+                  <JournalTitle>Am J Respir Crit Care Med</JournalTitle>
+                  <VolumeID>185</VolumeID>
+                  <FirstPage>537</FirstPage>
+                  <LastPage>546</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1164/rccm.201106-0965OC</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3410728</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC38XktlOqsbo%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22095546</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mackinnon AC, Gibbons MA, Farnworth SL et al (2012) Regulation of transforming growth factor-beta1-driven lung fibrosis by galectin-3. Am J Respir Crit Care Med 185:537–546</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Martin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Lefaix</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Pinton</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Temporal modulation of TGF-beta 1 and beta-actin gene expression in pig skin and muscular fibrosis after ionizing radiation</ArticleTitle>
+                  <JournalTitle>Radiat Res</JournalTitle>
+                  <VolumeID>134</VolumeID>
+                  <FirstPage>63</FirstPage>
+                  <LastPage>70</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/3578502</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK3s3jsVOhtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>8475255</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Martin M, Lefaix JL, Pinton P et al (1993) Temporal modulation of TGF-beta 1 and beta-actin gene expression in pig skin and muscular fibrosis after ionizing radiation. Radiat Res 134:63–70</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Mucke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Rau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Weitz</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Influence of irradiation and oncologic surgery on head and neck microsurgical reconstructions</ArticleTitle>
+                  <JournalTitle>Oral Oncol</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>367</FirstPage>
+                  <LastPage>371</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.oraloncology.2011.11.013</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22155256</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mucke T, Rau A, Weitz J et al (2012) Influence of irradiation and oncologic surgery on head and neck microsurgical reconstructions. Oral Oncol 48:367–371</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Pohlenz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Klatt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Schon</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Microvascular free flaps in head and neck surgery: complications and outcome of 1000 flaps</ArticleTitle>
+                  <JournalTitle>Int J Oral Maxillofac Surg</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>739</FirstPage>
+                  <LastPage>743</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijom.2012.02.012</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC38vnt1Wqtw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22424757</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pohlenz P, Klatt J, Schon G et al (2012) Microvascular free flaps in head and neck surgery: complications and outcome of 1000 flaps. Int J Oral Maxillofac Surg 41:739–743</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Rodriguez-Vita</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sanchez-Lopez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Esteban</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Angiotensin II activates the Smad pathway in vascular smooth muscle cells by a transforming growth factor-beta-independent mechanism</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>111</VolumeID>
+                  <FirstPage>2509</FirstPage>
+                  <LastPage>2517</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1161/01.CIR.0000165133.84978.E2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2MXjvFOisro%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15883213</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rodriguez-Vita J, Sanchez-Lopez E, Esteban V et al (2005) Angiotensin II activates the Smad pathway in vascular smooth muscle cells by a transforming growth factor-beta-independent mechanism. Circulation 111:2509–2517</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ruiz-Ortega</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Rodriguez-Vita</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Sanchez-Lopez</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">TGF-beta signaling in vascular fibrosis</ArticleTitle>
+                  <JournalTitle>Cardiovasc Res</JournalTitle>
+                  <VolumeID>74</VolumeID>
+                  <FirstPage>196</FirstPage>
+                  <LastPage>206</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cardiores.2007.02.008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2sXjvFehs7k%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17376414</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ruiz-Ortega M, Rodriguez-Vita J, Sanchez-Lopez E et al (2007) TGF-beta signaling in vascular fibrosis. Cardiovasc Res 74:196–206</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NS</Initials>
+                    <FamilyName>Russell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Hoving</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Heeneman</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Novel insights into pathological changes in muscular arteries of radiotherapy patients</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>92</VolumeID>
+                  <FirstPage>477</FirstPage>
+                  <LastPage>483</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2009.05.021</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1MXhtFajtLzK</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19541382</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Russell NS, Hoving S, Heeneman S et al (2009) Novel insights into pathological changes in muscular arteries of radiotherapy patients. Radiother Oncol 92:477–483</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Saito</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Fujimura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Inoue</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Relationship between lectin-like oxidized low-density lipoprotein receptor 1 expression and preoperative echogenic findings of vulnerable carotid plaque</ArticleTitle>
+                  <JournalTitle>Acta Neurochi</JournalTitle>
+                  <VolumeID>152</VolumeID>
+                  <FirstPage>589</FirstPage>
+                  <LastPage>595</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00701-009-0573-1</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Saito A, Fujimura M, Inoue T et al (2010) Relationship between lectin-like oxidized low-density lipoprotein receptor 1 expression and preoperative echogenic findings of vulnerable carotid plaque. Acta Neurochi 152:589–595</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schultze-Mosgau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Erbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Keilholz</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Histomorphometric analysis of irradiated recipient vessels and transplant vessels of free flaps in patients undergoing reconstruction after ablative surgery</ArticleTitle>
+                  <JournalTitle>Int J Oral Maxillofac Surg</JournalTitle>
+                  <VolumeID>29</VolumeID>
+                  <FirstPage>112</FirstPage>
+                  <LastPage>118</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0901-5027(00)80007-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3cvgsFemtg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10833147</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schultze-Mosgau S, Erbe M, Keilholz L et al (2000) Histomorphometric analysis of irradiated recipient vessels and transplant vessels of free flaps in patients undergoing reconstruction after ablative surgery. Int J Oral Maxillofac Surg 29:112–118</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schultze-Mosgau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Wehrhan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Grabenbauer</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Transforming growth factor beta1 and beta2 (TGFbeta2/TGFbeta2) profile changes in previously irradiated free flap beds</ArticleTitle>
+                  <JournalTitle>Head Neck</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>33</FirstPage>
+                  <LastPage>41</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/hed.10011</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11774400</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schultze-Mosgau S, Wehrhan F, Grabenbauer G et al (2002) Transforming growth factor beta1 and beta2 (TGFbeta2/TGFbeta2) profile changes in previously irradiated free flap beds. Head Neck 24:33–41</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schultze-Mosgau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Wehrhan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Amann</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">In Vivo TGF-beta 3 expression during wound healing in irradiated tissue. An experimental study</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>179</VolumeID>
+                  <FirstPage>410</FirstPage>
+                  <LastPage>416</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>12789468</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schultze-Mosgau S, Wehrhan F, Amann K et al (2003) In Vivo TGF-beta 3 expression during wound healing in irradiated tissue. An experimental study. Strahlenther Onkol 179:410–416</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schultze-Mosgau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Blaese</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Grabenbauer</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Smad-3 and Smad-7 expression following anti-transforming growth factor beta 1 (TGFbeta1)-treatment in irradiated rat tissue</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>70</VolumeID>
+                  <FirstPage>249</FirstPage>
+                  <LastPage>259</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2004.01.010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2cXivVWltr4%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15064009</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schultze-Mosgau S, Blaese MA, Grabenbauer G et al (2004) Smad-3 and Smad-7 expression following anti-transforming growth factor beta 1 (TGFbeta1)-treatment in irradiated rat tissue. Radiother Oncol 70:249–259</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AS</Initials>
+                    <FamilyName>Scott</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Parr</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PA</Initials>
+                    <FamilyName>Johnstone</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Risk of cerebrovascular events after neck and supraclavicular radiotherapy: a systematic review</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>90</VolumeID>
+                  <FirstPage>163</FirstPage>
+                  <LastPage>165</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2008.12.019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19171403</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Scott AS, Parr LA, Johnstone PA (2009) Risk of cerebrovascular events after neck and supraclavicular radiotherapy: a systematic review. Radiother Oncol 90:163–165</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Sugihara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Hattori</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Yamamoto</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Preferential impairment of nitric oxide-mediated endothelium-dependent relaxation in human cervical arteries after irradiation</ArticleTitle>
+                  <JournalTitle>Circulation</JournalTitle>
+                  <VolumeID>100</VolumeID>
+                  <FirstPage>635</FirstPage>
+                  <LastPage>641</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1161/01.CIR.100.6.635</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK1MXlslyjsLs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10441101</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Sugihara T, Hattori Y, Yamamoto Y et al (1999) Preferential impairment of nitric oxide-mediated endothelium-dependent relaxation in human cervical arteries after irradiation. Circulation 100:635–641</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Wehrhan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GG</Initials>
+                    <FamilyName>Grabenbauer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Rodel</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Exogenous modulation of TGF-beta(1) influences TGF-betaR-III-associated vascularization during wound healing in irradiated tissue</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>180</VolumeID>
+                  <FirstPage>526</FirstPage>
+                  <LastPage>533</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-004-1212-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15292974</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wehrhan F, Grabenbauer GG, Rodel F et al (2004) Exogenous modulation of TGF-beta(1) influences TGF-betaR-III-associated vascularization during wound healing in irradiated tissue. Strahlenther Onkol 180:526–533</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

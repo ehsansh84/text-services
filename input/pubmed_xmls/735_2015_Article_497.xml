@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0497-3" OutputMedium="All">
+          <ArticleInfo ArticleType="News" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>497</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0497-3</ArticleDOI>
+            <ArticleSequenceNumber>2</ArticleSequenceNumber>
+            <ArticleTitle Language="De">panorama</ArticleTitle>
+            <ArticleFirstPage>2</ArticleFirstPage>
+            <ArticleLastPage>3</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <Body>
+            <Section1 ID="Sec1" OutputMedium="All" Type="Box">
+              <Heading>Nachrichten aus dem Österreichischen Gesundheits- und Krankenpflegeverband (ÖGKV)</Heading>
+              <Section2 ID="Sec2" OutputMedium="All">
+                <Heading>Personalsituation im Bereich der Gesundheits- und Krankenpflegeberufe</Heading>
+                <Para>In der aktuellen öffentlichen Diskussion rund um die Umsetzung des <Emphasis Type="Bold">Versorgungsauftrages der Gesundheitsberufe</Emphasis> insgesamt bleiben — einmal mehr — die Gesundheits- und Krankenpflegeberufe weitgehend ausgespart. Dabei ist längst klar, dass insbesondere in den Akutkrankenhäusern, wesentliche Bereiche ohne den Einsatz der <Emphasis Type="Bold">pflegerischen Fachkompetenz</Emphasis> nicht mehr erfüllbar sind.</Para>
+                <Para>Aber auch für die Pflege chronisch erkrankter Menschen und im Bereich der Langzeitpflegeeinrichtungen werden die <Emphasis Type="Bold">Ressourcen immer knapper</Emphasis> und der Sparstift wird insbesondere am Sektor <Emphasis Type="Bold">Einsparungen bei den Personalkosten</Emphasis> angesetzt. Einsparungspotentiale wollen die Verantwortlichen in erster Linie über eine <Emphasis Type="Bold">Ausdünnung des qualifizierten Gesundheits- und Krankenpflegepersonals</Emphasis> erreichen.</Para>
+                <Para>Der Internationale Vergleich zeigt sehr deutlich das <Emphasis Type="Bold">Ungleichgewicht in der Verteilung</Emphasis> von Gesundheits- und Krankenpflegepersonen und Ärzten in den Versorgungssystemen (Ärzte pro 1000 Einwohner in Österreich 4,8 — EU 3,2 — Deutschland 3,8 und Pflegefachkräfte pro 1000 Einwohner in Österreich 7,9 — EU 8,8 — D 11,4).</Para>
+                <Para>Die bis dato durchgesickerten Eckpunkte der anstehenden <Emphasis Type="Bold">Novelle des Gesundheits- und Krankenpflegegesetzes</Emphasis> hinsichtlich Aufgabenbereichen, Ausbildung, Verankerung der Kompetenzen, Delegationsmechanismen zur Übernahme von Tätigkeiten aus den medizinischen Bereichen, lassen bis dato <Emphasis Type="Bold">wenige tatsächliche Reformen</Emphasis> erkennen. Es ist den Verantwortlichen dringend zu empfehlen, die notwendigen Veränderungen zur Pflegeleistungserbringung durch ein am <Emphasis Type="Bold">Gesundheitsversorgungsbedarf der Menschen</Emphasis> orientiertes Berufsgesetz für Gesundheits- und Krankenpflegepersonen zu ermöglichen.</Para>
+                <Para>Der <Emphasis Type="Bold">ÖGKV</Emphasis> setzt sich mit ganzer Kraft <Emphasis Type="Bold">für die berufspolitischen Interessen</Emphasis> der Angehörigen der Gesundheits- und Krankenpflegeberufe ein.</Para>
+                <Para>
+                  <Emphasis Type="Italic">Ursula Frohner,</Emphasis>
+                </Para>
+                <Para>
+                  <Emphasis Type="Italic">Präsidentin Österreichischer Gesundheits- und Krankenpflegeverband</Emphasis>
+                </Para>
+                <Para>Informationen: Österreichischer Gesundheits- und Krankenpflegeverband, Wilhelminenstraße 91/II e, 1160 Wien, Tel.: 01/478 27 10, E-Mail: office@oegkv.at, Internet: <ExternalRef>
+                    <RefSource>www.oegkv.at</RefSource>
+                    <RefTarget Address="http://www.oegkv.at" TargetType="URL"/>
+                  </ExternalRef>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec3" OutputMedium="All">
+              <Heading>Auszeichnung für L&amp;R</Heading>
+              <Section2 ID="Sec4" OutputMedium="All">
+                <Heading>„TOP-Lehrbetrieb“ und „Competence Headquarter“</Heading>
+                <Para>Zwei unterschiedliche Auszeichnungen bescheinigen dem Medizinprodukte-Hersteller Lohmann&amp;Rauscher (L&amp;R) bzw. der österreichischen Unternehmenstochter hohe Qualität in der Ausbildung und in der Forschung.</Para>
+                <Para>Der L&amp;R Standort in Wien erhielt das Qualitätssiegel „TOP-Lehrbetrieb“, welches die Ausbildungsqualität von Wiener Unternehmen bewertet und prämiert. Das Qualitätssiegel wird von der Stadt Wien, verschiedenen Sozialpartner und der Industriellenvereinigung verliehen und ist für vier Jahre gültig. Derzeit bildet L&amp;R in Wien im Jahr acht Lehrlinge zum Industriekaufmann sowie zum IT-Techniker aus.</Para>
+                <Para>Eine weitere Anerkennung erhielt die L&amp;R Forschungs- und Entwicklungsabteilung am Standort Schönau a. d. Triesting: Die Forschungsförderungsgesellschaft Österreich (FFG) verlieh dem F&amp;E Standort den Status eines „Competence Headquarter“. Mit dieser Zuerkennung verbunden sind auch Fördergelder der FFG und des Bundeslandes Niederösterreich, die L&amp;R für die Forschung im Bereich Medizintechnik/Unterdrucktherapie sowie für die Forschungskooperation mit anderen Institutionen in den nächsten drei Jahren erhält.
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Ausgezeichnete Ausbildungsqualität</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_497_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec5" OutputMedium="All">
+              <Heading>Kooperation</Heading>
+              <Section2 ID="Sec6" OutputMedium="All">
+                <Heading>Apotheker und Pflegeberufe als Partner</Heading>
+                <Para>Wovon die Gesundheitspolitik seit langem spricht, wird von den Pflegeberufen und Apothekern aktiv umgesetzt: Eine engere Zusammenarbeit der Gesundheitsberufe zum Wohle der Patienten. Pflege und Apotheken entwickeln ein umfassendes Kooperationsprogramm, um die Medikation von pflegebedürftigen Personen in Heimen, Krankenhäusern oder betreutem Wohnen zu verbessern. Die erste Maßnahme war die gemeinsame Fortbildung zum Thema „Geriatrische Pharmazie und Pflege“, die Mitte März in Saalfelden stattfand.</Para>
+                <Para>Ursula Frohner, Präsidentin des Österreichischen Gesundheits- und Krankenpflegeverbandes, und Mag. pharm. Max Wellan, Präsident der Österreichischen Apothekerkammer, sind sich über den Nutzen dieser Zusammenarbeit einig: „Es ist evident, dass Apotheker und Pflegepersonal vom Austausch des Wissens um die Betreuung der Patientinnen und Patienten profitieren. Wir erwarten uns von unseren Kooperationsprojekten, dass sich die Lebensqualität der Patientinnen und Patienten erhöht, und arzneimittelbezogene Probleme rascher erkannt werden können.“</Para>
+                <Para>Pflegebedürftige Personen sind in der Regel über 60 Jahre und brauchen auch eine medikamentöse Therapie. Das Risiko für Wechselwirkungen steigt mit der Anzahl von gleichzeitig eingenommenen Medikamenten stark an. Sowohl ein zuviel, als auch ein zu wenig, eine falsch angewendete oder gar falsche Medikation führt zu einer dramatischen Verschlechterung des Gesundheitszustandes der Patienten. Die Pflegeberufe sollen zukünftig Warnanzeichen besser verstehen lernen und die Apotheker rechtzeitig darüber informieren. Infolgedessen kann ein Apotheker im Zuge einer Medikationsmanagement-Beratung die Medikation des Patienten und damit seinen Gesundheitszustand verbessern.</Para>
+                <Para>Ein aktuelles Projekt der Apotheke Bad Gastein zur optimalen Betreuung der Pflegeheimbewohner wurde kürzlich ausgezeichnet. Die Apothekerschaft hat neue wissenschaftliche Projekte zu den Themen „Sturzgefahr“ und „Schlafmittel“ sowie eine neue Datenbank zur Teilbarkeit von Arzneimitteln in Ausarbeitung.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7" OutputMedium="All">
+              <Heading>ROTE NASEN</Heading>
+              <Section2 ID="Sec8" OutputMedium="All">
+                <Heading>Premiere eines neuen Seniorenprojekts</Heading>
+                <Para>Seit mittlerweile 15 Jahren besuchen ROTE NASEN Clowndoctors nicht nur kleine Patienten im Spital, sondern auch ältere Menschen in Pflegeeinrichtungen. Dieses Jubiläum nimmt ROTE NASEN zum Anlass, um ein neues Projekt zu starten, bei dem betagte, pflegebedürftige Menschen drei Tage lang in die magische Welt des „Varietés“ eintauchen und selbst zu Stars werden. Die Premiere dieses neuen Projekts fand im Vorfeld zum „Weltlachtag“, der am 3. Mai international gefeiert wird — im Pflegewohnhaus Innerfavoriten in Wien statt.</Para>
+                <Para>ROTE NASEN bringen Leichtigkeit, Freude und Optimismus in den Alltag von Senioren. Beim Varieté werden die Bewohner zu Stars, die ihr Können in den Mittelpunkt stellen können. Ihre Defizite rücken dabei in den Hintergrund. Drei Tage lang begeben sich die Bewohner geriatrischer Einrichtungen in die magische Welt des Varietés. Mit viel Feingefühl unterstützen die Clowns die Senioren an zwei Vormittagen beim Einstudieren ihrer persönlichen Bühnennummern aus den Bereichen Tanz, Artistik, Magie und Kurioses. Das Programm ist so gestaltet, dass auch Menschen mit unterschiedlichsten körperlichen und kognitiven Beeinträchtigungen mitmachen können. Um auf jede und jeden der maximal acht bis zehn Teilnehmer individuell eingehen zu können, finden im Vorhinein jeweils Gespräche mit dem Pflegepersonal statt, bei denen der Gesundheitszustand und die Möglichkeiten der Teilnehmer besprochen werden.</Para>
+                <Para>Vor ausgewähltem Publikum (Bewohner, Angehörige, Pflegepersonal) heißt es dann nach zwei Probetagen „Vorhang auf“ — die Senioren führen ihr erlerntes Können in einer Show vor. Der Applaus und ihre erfolgreiche Darbietung stärken das Selbstbewusstsein der Bewohner und zeigen ihnen, welche vergessen geglaubten Fähigkeiten noch in ihnen stecken.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="De">
+                      <CaptionContent>
+                        <SimplePara>Im Rote Nasen Varieté werden Senioren zu Stars.</SimplePara>
+                        <SimplePara><?Start ImageCredit?>Photo: © Rote NasenDonau<?End ImageCredit?>
+                        </SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/735_2015_497_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>Die Premiere des ROTE NASEN Varietés fand im Pflegewohnhaus Innerfavoriten in Wien statt. In den kommenden Monaten wird es in Wien, Niederösterreich, Kärnten, dem Burgenland, Tirol und der Steiermark weitere Varieté Einsätze geben, bei denen pflegebedürftige ältere Menschen raus aus der Welt der Hilflosigkeit hinein in eine Welt der Lebensfreude und der Begeisterung geholt werden.</Para>
+              </Section2>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_497.pdf" TargetType="OnlinePDF"/>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9278-x" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9278</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9278-x</ArticleDOI>
+            <ArticleSequenceNumber>5</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Analytical Solutions for Unsteady Flow of a Fourth-Grade Fluid Arising in the Metallic Wire Coating Process Inside a Cylindrical Roll Die</ArticleTitle>
+            <ArticleFirstPage>370</ArticleFirstPage>
+            <ArticleLastPage>384</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>M.</GivenName>
+                  <FamilyName>Abdulhameed</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>M.</GivenName>
+                  <FamilyName>Mohamad</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>H.</GivenName>
+                  <FamilyName>Saleh</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>R.</GivenName>
+                  <FamilyName>Roslan</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Centre for Research in Computational Mathematics Faculty of Science</OrgDivision>
+                <OrgName>Technology and Human Development Universiti Tun Hussein Onn</OrgName>
+                <OrgAddress>
+                  <Street>86400 Batu Pahat</Street>
+                  <City>Johor</City>
+                  <State>DT</State>
+                  <Country>Malaysia</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgName>School of Mathematical Sciences &amp; Solar Energy Research Institute Faculty of Science &amp; Technology Universiti Kebangsaan Malaysia</OrgName>
+                <OrgAddress>
+                  <Street>43600 UKM Bangi</Street>
+                  <City>Selangor</City>
+                  <State>DE</State>
+                  <Country>Malaysia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">The unsteady flow of a non-Newtonian fluid in a metallic wire coating process inside a cylindrical roll die is considered. The constitutive equations of the fluid are modeled for a fourth-grade non-Newtonian fluid with non-homogenous boundary conditions. Analytical solutions for the axial velocity field have been obtained in explicit forms by modified homotopy perturbation transform method. These solutions are written as the sum between the permanent and the transient solutions. However, for large values of <Emphasis Type="Italic">t</Emphasis>, both of these solutions become identical. The obtained velocity field is compared with the existing exact solution of the same flow problem for a second grade fluid. Also, graphs representing the solutions are discussed and appropriate conclusions drawn.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>wire coating</Keyword>
+              <Keyword>cylindrical roll die</Keyword>
+              <Keyword>unsteady non-Newtonian fluid</Keyword>
+              <Keyword>analytical solution</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9278.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Nadeem</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ali</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Analytical solutions for pipe flow of a fourth grade fluid with Reynold and Vogel’s models of viscosities</ArticleTitle>
+                  <JournalTitle>Commun. Nonlinear Sci. Numer. Simul.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>2073</FirstPage>
+                  <LastPage>2090</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cnsns.2008.05.013</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1221.76020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2474466</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Nadeem and M. Ali, “Analytical solutions for pipe flow of a fourth grade fluid with Reynold and Vogel’s models of viscosities,” <Emphasis Type="Italic">Commun. Nonlinear Sci. Numer. Simul.,</Emphasis>
+                  <Emphasis Type="Bold">14</Emphasis>, 2073–2090 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hayat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sajid</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ayub</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">On explicit analytic solution for MHD pipe flow of a fourth grade fluid</ArticleTitle>
+                  <JournalTitle>Commun. Nonlinear Sci. Numer. Simul.</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>745</FirstPage>
+                  <LastPage>751</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cnsns.2006.07.009</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1221.76221</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2381498</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>2	T. Hayat, M. Sajid, and M. Ayub, “On explicit analytic solution for MHD pipe flow of a fourth grade fluid,” <Emphasis Type="Italic">Commun. Nonlinear Sci. Numer. Simul.,</Emphasis>
+                  <Emphasis Type="Bold">13</Emphasis>, 745–751 (2008).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Islam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Bano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Siddique</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Siddiqui</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">The optimal solution for the flow of a fourth-grade fluid with partial slip</ArticleTitle>
+                  <JournalTitle>Comput. Math. Appl.</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>1507</FirstPage>
+                  <LastPage>1516</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.camwa.2011.01.014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1217.76006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2775917</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. Islam, Z. Bano, I. Siddique, and A. M. Siddiqui, “The optimal solution for the flow of a fourth-grade fluid with partial slip,” <Emphasis Type="Italic">Comput. Math. Appl.,</Emphasis> 61, 1507–1516 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Siddiqui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ahmed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Islam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>QK</Initials>
+                    <FamilyName>Ghori</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Homotopy analysis of Couette and Poiseuille flows for fourth grade fluids</ArticleTitle>
+                  <JournalTitle>Acta Mech.</JournalTitle>
+                  <VolumeID>180</VolumeID>
+                  <FirstPage>117</FirstPage>
+                  <LastPage>132</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00707-005-0260-0</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1080.76008</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A.M. Siddiqui, M. Ahmed, S. Islam, and Q. K. Ghori, “Homotopy analysis of Couette and Poiseuille flows for fourth grade fluids,” <Emphasis Type="Italic">Acta Mech.,</Emphasis>
+                  <Emphasis Type="Bold">180</Emphasis>, 117–132 (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hayat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AH</Initials>
+                    <FamilyName>Kara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Momoniat</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">The unsteady flow of a fourth-grade fluid past a porous plate</ArticleTitle>
+                  <JournalTitle>Math. Comput. Modelling</JournalTitle>
+                  <VolumeID>41</VolumeID>
+                  <FirstPage>1347</FirstPage>
+                  <LastPage>1353</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.mcm.2004.01.010</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1080.76006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2151948</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Hayat, A. H. Kara, and E. Momoniat, “The unsteady flow of a fourth-grade fluid past a porous plate,” <Emphasis Type="Italic">Math. Comput. Modelling,</Emphasis>
+                  <Emphasis Type="Bold">41</Emphasis>, 1347–1353 (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CD</Initials>
+                    <FamilyName>Han</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DA</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <Year>1980</Year>
+                  <ArticleTitle Language="En">Studies on wire coating extrusion. II. The rheology of wire coating coextrusion</ArticleTitle>
+                  <JournalTitle>Polym. Eng. Sci.</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>128</FirstPage>
+                  <LastPage>139</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/pen.760200204</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C.D. Han and D.A. Rao, “Studies on wire coating extrusion. II. The rheology of wire coating coextrusion,” <Emphasis Type="Italic">Polym. Eng. Sci.,</Emphasis>
+                  <Emphasis Type="Bold">20</Emphasis>, 128–139 (1980).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Siddiqui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Haroon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Khan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Wire coating extrusion in a pressure-type die in flow of a third grade fluid via homotopy perturbation method</ArticleTitle>
+                  <JournalTitle>Int. J. Nonlinear Sci. Numer. Simul.</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>247</FirstPage>
+                  <LastPage>258</LastPage>
+                </BibArticle>
+                <BibUnstructured>A.M. Siddiqui, T. Haroon, and H. Khan, “Wire coating extrusion in a pressure-type die in flow of a third grade fluid via homotopy perturbation method,” <Emphasis Type="Italic">Int. J. Nonlinear Sci. Numer. Simul.,</Emphasis>
+                  <Emphasis Type="Bold">10</Emphasis>, 247–258 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sajid</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Siddiqui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hayat</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Wire coating analysis using MHD Oldroyd 8-constant fluid</ArticleTitle>
+                  <JournalTitle>Int. J. Eng. Sci.</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>381</FirstPage>
+                  <LastPage>392</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijengsci.2007.04.010</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Sajid, A. M. Siddiqui, and T. Hayat, “Wire coating analysis using MHD Oldroyd 8-constant fluid,” <Emphasis Type="Italic">Int. J. Eng. Sci.,</Emphasis>
+                  <Emphasis Type="Bold">45</Emphasis>, 381–392 (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RA</Initials>
+                    <FamilyName>Shah</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Islam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Siddiqui</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Haroon</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Optimal homotopy asymptotic method solution of unsteady second grade fluid in wire coating analysis</ArticleTitle>
+                  <JournalTitle>J. KSIAM</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>201</FirstPage>
+                  <LastPage>222</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2877991</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. A. Shah, S. Islam, A.M. Siddiqui, and T. Haroon, “Optimal homotopy asymptotic method solution of unsteady second grade fluid in wire coating analysis,” <Emphasis Type="Italic">J. KSIAM,</Emphasis>
+                  <Emphasis Type="Bold">15</Emphasis>, 201–222 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RA</Initials>
+                    <FamilyName>Shah</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Islam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Siddiqui</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Exact solution of a differential equation arising in the wire coating analysis of an unsteady second grade fluid</ArticleTitle>
+                  <JournalTitle>Math. Comput. Model.</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>1284</FirstPage>
+                  <LastPage>1288</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.mcm.2012.10.031</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3034132</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>10	R.A. Shah, S. Islam and A.M. Siddiqui, “Exact solution of a differential equation arising in the wire coating analysis of an unsteady second grade fluid,” <Emphasis Type="Italic">Math. Comput. Model.,</Emphasis>
+                  <Emphasis Type="Bold">57</Emphasis>, 1284–1288 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>He</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Application of homotopy perturbation method to nonlinear wave equations</ArticleTitle>
+                  <JournalTitle>Chaos Soliton Fract.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <FirstPage>695</FirstPage>
+                  <LastPage>700</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.chaos.2005.03.006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1072.35502</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>J.H. He, “Application of homotopy perturbation method to nonlinear wave equations,” <Emphasis Type="Italic">Chaos Soliton Fract.,</Emphasis>
+                  <Emphasis Type="Bold">26</Emphasis>, 695–700 (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Ghorbani</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Beyond Adomian polynomials: He polynomials</ArticleTitle>
+                  <JournalTitle>Chaos Soliton Fract.</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>1486</FirstPage>
+                  <LastPage>1492</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.chaos.2007.06.034</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1197.65061</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2512946</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Ghorbani, “Beyond Adomian polynomials: He polynomials,” <Emphasis Type="Italic">Chaos Soliton Fract.,</Emphasis>
+                  <Emphasis Type="Bold">39</Emphasis>, 1486–1492 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>Khan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Q</Initials>
+                    <FamilyName>Wu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Homotopy perturbation transform method for nonlinear equations using He’s polynomials</ArticleTitle>
+                  <JournalTitle>Comput. Math. Appl.</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>1963</FirstPage>
+                  <LastPage>1967</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.camwa.2010.08.022</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1219.65119</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2785523</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Y. Khan and Q. Wu, “Homotopy perturbation transform method for nonlinear equations using He’s polynomials,” <Emphasis Type="Italic">Comput. Math. Appl.,</Emphasis>
+                  <Emphasis Type="Bold">61</Emphasis>, 1963–1967 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Zahedi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Buzhabadi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Effati</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Homotopy perturbation method and He’s polynomials for solving the porous media equation</ArticleTitle>
+                  <JournalTitle>J. Comput. Math. Model.</JournalTitle>
+                  <VolumeID>24</VolumeID>
+                  <FirstPage>279</FirstPage>
+                  <LastPage>292</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10598-013-9177-y</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>3104711</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M.S. Zahedi, R. Buzhabadi, and S. Effati, “Homotopy perturbation method and He’s polynomials for solving the porous media equation,” <Emphasis Type="Italic">J. Comput. Math. Model.,</Emphasis>
+                  <Emphasis Type="Bold">24</Emphasis>, 279–292 (2013).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

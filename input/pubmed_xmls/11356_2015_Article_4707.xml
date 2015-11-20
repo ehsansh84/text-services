@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>11356</JournalID>
+      <JournalDOI>10.1007/11356.1614-7499</JournalDOI>
+      <JournalPrintISSN>0944-1344</JournalPrintISSN>
+      <JournalElectronicISSN>1614-7499</JournalElectronicISSN>
+      <JournalTitle>Environmental Science and Pollution Research</JournalTitle>
+      <JournalAbbreviatedTitle>Environ Sci Pollut Res</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCU" Type="Primary">Environment</JournalSubject>
+        <JournalSubject Code="SCU00009" Priority="1" Type="Secondary">Environment, general</JournalSubject>
+        <JournalSubject Code="SCU15000" Priority="2" Type="Secondary">Environmental Chemistry</JournalSubject>
+        <JournalSubject Code="SCU25001" Priority="3" Type="Secondary">Ecotoxicology</JournalSubject>
+        <JournalSubject Code="SCU18005" Priority="4" Type="Secondary">Environmental Health</JournalSubject>
+        <JournalSubject Code="SCU35010" Priority="5" Type="Secondary">Atmospheric Protection/Air Quality Control/Air Pollution</JournalSubject>
+        <JournalSubject Code="SCU35040" Priority="6" Type="Secondary">Waste Water Technology / Water Pollution Control / Water Management / Aquatic Pollution</JournalSubject>
+        <SubjectCollection Code="SC7">Earth and Environmental Science</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <JournalOnlineFirst>
+      <Article ID="s11356-015-4707-0" OutputMedium="All">
+        <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+          <ArticleID>4707</ArticleID>
+          <ArticleDOI>10.1007/s11356-015-4707-0</ArticleDOI>
+          <ArticleTitle Language="En">Assessment of the service performance of drainage system and transformation of pipeline network based on urban combined sewer system model</ArticleTitle>
+          <ArticleCategory>Research Article</ArticleCategory>
+          <ArticleFirstPage>1</ArticleFirstPage>
+          <ArticleLastPage>10</ArticleLastPage>
+          <ArticleHistory>
+            <RegistrationDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>13</Day>
+            </RegistrationDate>
+            <Received>
+              <Year>2014</Year>
+              <Month>8</Month>
+              <Day>16</Day>
+            </Received>
+            <Accepted>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>13</Day>
+            </Accepted>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+          </ArticleHistory>
+          <ArticleEditorialResponsibility>Philippe Garrigues</ArticleEditorialResponsibility>
+          <ArticleCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </ArticleCopyright>
+          <ArticleGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ArticleGrants>
+        </ArticleInfo>
+        <ArticleHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Hai-Qin</GivenName>
+                <FamilyName>Peng</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff2">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Yan</GivenName>
+                <FamilyName>Liu</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Hong-Wu</GivenName>
+                <FamilyName>Wang</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Lu-Ming</GivenName>
+                <FamilyName>Ma</FamilyName>
+              </AuthorName>
+              <Contact>
+                <Email>lumingma@tongji.edu.cn</Email>
+              </Contact>
+            </Author>
+            <Affiliation ID="Aff1">
+              <OrgDivision>National Engineering Research Center for Urban Pollution Control</OrgDivision>
+              <OrgName>Tongji University</OrgName>
+              <OrgAddress>
+                <Street>1239 Siping Road</Street>
+                <City>Shanghai</City>
+                <Postcode>200092</Postcode>
+                <Country>China</Country>
+              </OrgAddress>
+            </Affiliation>
+            <Affiliation ID="Aff2">
+              <OrgDivision>Department of Environmental Science and Engineering</OrgDivision>
+              <OrgName>Fudan University</OrgName>
+              <OrgAddress>
+                <Street>220 Handan Road</Street>
+                <City>Shanghai</City>
+                <Postcode>200433</Postcode>
+                <Country>China</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+          <Abstract ID="Abs1" Language="En" OutputMedium="All">
+            <Heading>Abstract</Heading>
+            <Para ID="Par1">In recent years, due to global climate change and rapid urbanization, extreme weather events occur to the city at an increasing frequency. Waterlogging is common because of heavy rains. In this case, the urban drainage system can no longer meet the original design requirements, resulting in traffic jams and even paralysis and post a threat to urban safety. Therefore, it provides a necessary foundation for urban drainage planning and design to accurately assess the capacity of the drainage system and correctly simulate the transport effect of drainage network and the carrying capacity of drainage facilities. This study adopts InfoWorks Integrated Catchment Management (ICM) to present the two combined sewer drainage systems in Yangpu District, Shanghai (China). The model can assist the design of the drainage system. Model calibration is performed based on the historical rainfall events. The calibrated model is used for the assessment of the outlet drainage and pipe loads for the storm scenario currently existing or possibly occurring in the future. The study found that the simulation and analysis results of the drainage system model were reliable. They could fully reflect the service performance of the drainage system in the study area and provide decision-making support for regional flood control and transformation of pipeline network.</Para>
+          </Abstract>
+          <KeywordGroup Language="En" OutputMedium="All">
+            <Heading>Keywords</Heading>
+            <Keyword>Drainage system model</Keyword>
+            <Keyword>Pipe network transformation</Keyword>
+            <Keyword>Infoworks ICM</Keyword>
+            <Keyword>Design storm</Keyword>
+          </KeywordGroup>
+          <ArticleNote Type="CommunicatedBy">
+            <SimplePara>Responsible editor: Philippe Garrigues</SimplePara>
+          </ArticleNote>
+        </ArticleHeader>
+        <Body>
+          <Section1 ID="Sec1" Type="Introduction">
+            <Heading>Introduction</Heading>
+            <Para ID="Par2">Due to global climate change and intensive urban construction, although increasing efforts have been made in urban infrastructure construction including drainage system, the problem of urban waterlogging is still serious. It is even more serious in coastal cities due to natural factors such as wind, storms, and tide. In these cities, even the power equipments of cars and high-rise buildings are soaked, and the urban lifeline system such as electricity, water, gas, and communications are destroyed. Therefore, an accurate assessment of the service performance of drainage system and simulation of its operation status have become an urgent problem in the industry.</Para>
+            <Para ID="Par3">Many countries in the world are faced with increasingly frequent and intensive waterlogging disasters and significant losses resulting from it (Zou et al. <CitationRef CitationID="CR31">2012</CitationRef>). The Central People’s Government of the People’s Republic of China reported that as of May 2014, Southern China had suffered five large-scale heavy rainfalls; in many cities, the average precipitation and the number of storm days were the second highest and the highest in the same period of time since 1976, respectively. The cities were attacked by waterlogging, which seriously affected people’s production and lives. This phenomenon does not only occur to the developing countries. For example, in Western Europe, flood occurs several times a year. In 2010, over 30 people were killed by flood in France, Germany, and Belgium, with an estimated loss of over US$1.8 billion (Leskens et al. <CitationRef CitationID="CR13">2014</CitationRef>). According to the International Federation of Red Cross (IFRC) and Red Crescent Societies (RCS), in 2002–2011, 57,000 people were killed by waterlogging and 1.2 billion people were affected, causing an economic loss of US$278 billion (Zetter <CitationRef CitationID="CR29">2012</CitationRef>). So there are many researchers engaged in the research on urban drainage network model. The drainage network was simulated through software to identify the problem. It was scientifically planned, designed, and managed to meet the needs for urban drainage and flood control.</Para>
+            <Para ID="Par4">RisUrsim developed by Schmitt et al. is a representative of dual drainage model, which was used for simulation of overload and flood in the pipelines in Kaiserslautern City (Schmitt et al. <CitationRef CitationID="CR23">2004</CitationRef>). Djordjevic et al. explained that dual drainage model considered not only the flow in pipelines by simulation but also the overland flow path and flood-affected areas (Djordjevic et al. <CitationRef CitationID="CR9">1999</CitationRef>). Park and Johnson solved the problem of the street flooding in Jeffery Manor District by partial reconstruction through using SWMM/EXTRAN (Park and Johnson <CitationRef CitationID="CR19">1998</CitationRef>). Brath et al. (<CitationRef CitationID="CR5">2006</CitationRef>) reduced the frequency of flood by changing the land use types through modeling. Boughton changed the frequency of flood using the long-term simulation results of the hydrological model (Boughton and Droop <CitationRef CitationID="CR4">2003</CitationRef>). Wang (<CitationRef CitationID="CR26">2005</CitationRef>) used Hydro Works and MIKE11 to develop the municipal storm drainage system model in Southern Hong Kong Island and assessed the operational status of the pipeline network and flood risk. Ostroff Gary (<CitationRef CitationID="CR18">2005</CitationRef>) used storm water management model (SWMM) model to analyze the impact of green roof on storm water management in New York City and effectively reduced the pressure of urban drainage network. Xiangyu et al (<CitationRef CitationID="CR28">2006</CitationRef>) selected the typical districts in Beijing to calculate the drainage and waterlogging effect based on SWMM and proposed suggestions for improvement.</Para>
+            <Para ID="Par5">Most of the models mentioned above are based on storm water management or sewage and are used for the studies on small areas. They have certain academic reference value but are difficult to be promoted in engineering applications. There are few studies on the detailed procedures of simulation and assessment based on the operational status of the combined sewer system (considering not only the storm but also the urban domestic drainage). Compared with other models, the mature software InfoWorks has been widely used in urban drainage system. In this work, the combined sewer system was selected the research subject, using InfoWorks software to simulate and evaluate the drainage capacity of the drainage system, which can find the bottleneck of the pipe and achieve the desired goal by adjusting the model. This work aims at resolving regional waterlogging and stormwater overflow pollution problem theoretically, which can be applied in other cities with high practical value. In addition, it develops the model over a large area and a long span of time, with adequate data on pipelines, manholes, and pumping stations. Compared with the small-scale drainage system models, this model is more representative, convincing, and reliable in assessing the operational status of the pipelines and suitable for engineering application.</Para>
+            <Para ID="Par6">This study adopted InfoWorks ICM2.0 to develop urban combined sewer network model. The objective of this study is to assess the service performance of the drainage system and to understand its operational status through model management and accurate simulation based on the drainage network information system to achieve scientific management and planning. The rest of this study is organized as follows: the “<InternalRef RefID="Sec2">Methods</InternalRef>” section introduces the combined sewer information system of the pipeline network facilities such as manholes, drainage pipes, catchment area, land use, and pumping stations. In this section, calculation of the hydraulic model of the drainage network is performed and calibration is completed. The “<InternalRef RefID="Sec8">Results and discussion</InternalRef>” section explains that the developed model can provide support for decision-making, including simulation of the pipeline network and pumping stations. The bottleneck of insufficient drainage capacity in the operation of the network is identified, so as to determine the cause for waterlogging, assess the drainage capacity, and propose suggestions for transformation and design of the drainage network. The fourth section is the conclusions.</Para>
+          </Section1>
+          <Section1 ID="Sec2" Type="MaterialsAndMethods">
+            <Heading>Methods</Heading>
+            <Section2 ID="Sec3">
+              <Heading>Case study</Heading>
+              <Para ID="Par7">Yangpu Riverside District is an important part of Huangpu Riverside area in Shanghai. In this district, there are a number of established drainage systems. Although being re-planned and adjusted for several times, they still cannot meet the higher needs of functional positioning and development. Among the drainage systems, Huoshan Drainage System and Huimin Drainage System are located in Yangshupu Port in Yangpu District and along Huangpu River, respectively. The two drainage systems are close to each other. Their sea level elevation is about 4 m. They were established in the 1950s and 1960s with the design standard of 1-year flood. The drainage system is the combined sewage system. The service area of Huoshan Drainage System is 97 ha; the design scale of the pumping station is 6.84 m<Superscript>3</Superscript>/s and that of the intercepting pumping station is 0.4 m<Superscript>3</Superscript>/s. The service area of Huimin Drainage System is 91 ha; the design scale of pumping station is 8.68 m<Superscript>3</Superscript>/s and that of intercepting pumping station is 0.55 m<Superscript>3</Superscript>/s. The sewage flows into the wastewater treatment plant, and rainwater into Yangpu Port. The study site and the scope of pumping stations service is shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Location of the study site</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/11356_2015_4707_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par8">The land use types in the catchment fall into six categories, that is, residential land (39.4 %), public facilities (21.1 %), industrial land (0.5 %), roads and squares (20.3 %), municipal utilities (7.2 %), and green space (11.5 %). Runoff surface in the area is classified into three types, i.e., road surface, roofs, and green surface. The building area covered by Huoshan Drainage System is 197.42 km<Superscript>2</Superscript> (2.04 %); the green area is 359 km<Superscript>2</Superscript> (3.7 %); and road surface area is 9143.58 km<Superscript>2</Superscript> (94.26 %). The building area covered by Huimin Drainage System is 197 km<Superscript>2</Superscript> (2.16 %); the green area is 1161 km<Superscript>2</Superscript> (12.76 %); and road surface area is 7742 km<Superscript>2</Superscript> (85.08 %). Rapid urban development and increased road hardening area have cause the increase of urban storm runoff, which exceeds the original construction standard of the drainage pipelines. This aggravates non-point source pollution and flood risk in the basin. Therefore, it is necessary to use the hydraulic model to investigate the operational status of the current drainage system during rainstorms and improve it at the planning level to better guide the construction and management of the drainage system.</Para>
+            </Section2>
+            <Section2 ID="Sec4">
+              <Heading>Data collection</Heading>
+              <Para ID="Par9">The establishment of hydraulic model of drainage system requires the data of combined sewer network, watershed hydrology and hydraulic parameters (Dotto et al. <CitationRef CitationID="CR10">2011</CitationRef>; Willems <CitationRef CitationID="CR27">2008</CitationRef>; Devesa et al. <CitationRef CitationID="CR7">2009</CitationRef>; Artina et al. <CitationRef CitationID="CR1">2007</CitationRef>). Network data include surface elevation and bottom elevation of the manhole, diameter of pipeline, bottom elevation of the pipeline in the upstream and downstream, and the pumping station elevation. The data are provided by Shanghai Urban Drainage Co., Ltd. in the format of shp in ArcGIS. The data on water level of pumping station of Huoshan and Huimin drainage systems were obtained through field monitoring during the rainfall. To obtain Manning coefficient, the roughness <Emphasis Type="Italic">N</Emphasis> of the drainage pipeline is determined depending on the actual pipelines in different areas. The catchment hydrology and hydraulic parameters include land use types, vegetation coverage, and surface slope (the slope of grass, roofing and road surface is 0.005, 0.03, and 0.015 m/m, respectively), which are provided by Shanghai Water Planning and Design Institute. The data on water level of pumping station and rainfall of Huoshan and Huimin drainage systems are provided by Shanghai Urban Drainage Co., Ltd. through field measurement. The population density provided by Shanghai Municipal Bureau of Statistics for Yangpu District in 2012 was 217.5 person/h<Subscript>a</Subscript>. The domestic water consumption per capita per day was 221 L/person/day, provided by Shanghai Water Supply Department according to the main water consumption indicators of Shanghai in 2012. The average daily dry-weather sewage was 90 % of the average daily water consumption and the domestic sewage quota was 198.9 L/person/day.</Para>
+            </Section2>
+            <Section2 ID="Sec5">
+              <Heading>Model construction</Heading>
+              <Para ID="Par10">InfoWorks ICM 2.0 uses ArcGIS to import the data on pipeline network and manhole while appropriately simplifying the pipeline network to simulate the main and branch pipelines. The manholes on both sides of the road are not included in the modeling. The catchment areas in the network are automatically divided according to the elevation of the manholes. According to the actual situation of land use, different catchment areas are assigned with different surface runoff parameter values. Appropriate runoff generation model and confluence model are selected, and finally, the topology of the pipeline network is checked. The hydraulic model of Huoshan and Huimin drainage systems is improved through repeated modification and test (Devoldere et al. <CitationRef CitationID="CR8">2009</CitationRef>; Liguori et al. <CitationRef CitationID="CR15">2012</CitationRef>; Bastien et al. <CitationRef CitationID="CR2">2010</CitationRef>). The method of modification is provided by the engineering plausibility check of InfoWorks function.</Para>
+              <Para ID="Par11">The hydraulic model of the drainage system covers a total basin area of 188 hm<Superscript>2</Superscript> with 1073 sub-catchments, 1079 manholes, 2 outlets, 1126 drainage pipelines (including 2 parallel pipelines), and 2 pumping stations. The total length of the pipeline is about 31,316.6 m, with the diameter between 300 and 2000 mm. The drainage system model of the study area is shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <!--Style3-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Drainage network model</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/11356_2015_4707_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par12">As there are detailed data on land use types in the research area and proportion of surface runoff in the service area of the drainage system, the fixed percentage runoff model is used for the study on surface runoff. The parameter of the model is fixed runoff coefficient. The SWMM model is used for the study on surface confluence. The parameters of the model are catchment slope and catchment width. According to the research results of Sun (<CitationRef CitationID="CR24">2009</CitationRef>), Zhang (<CitationRef CitationID="CR30">2012</CitationRef>), and Qiong (<CitationRef CitationID="CR25">2007</CitationRef>), combination of the fixed runoff model and SWMM model can achieve good simulation results and accurately simulate the regional rainfall runoff.</Para>
+            </Section2>
+            <Section2 ID="Sec6">
+              <Heading>Model calibration and verification</Heading>
+              <Para ID="Par13">The three rainfall events on January 31 to February 1, 2013, October 7–8 2013, and June 7–8 2013 are used for model parameter calibration; the two rainfall events on December 27–28, 2012 and July 5–6, 2013 are used for model accuracy verification (Schellart et al. <CitationRef CitationID="CR21">2010</CitationRef>, <CitationRef CitationID="CR22">2012</CitationRef>; Mannina et al. <CitationRef CitationID="CR16">2012</CitationRef>). The characteristics of the rainfall events are shown in Table <InternalRef RefID="Tab1">1</InternalRef>.<Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Characteristics of the five rainfall events</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="6">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="char" char="." colname="c2" colnum="2"/>
+                    <colspec align="char" char="." colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="char" char="." colname="c5" colnum="5"/>
+                    <colspec align="char" char="." colname="c6" colnum="6"/>
+                    <thead>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>Rainfall event</SimplePara>
+                        </entry>
+                        <entry colname="c2">
+                          <SimplePara>Rainfall depth (mm)</SimplePara>
+                        </entry>
+                        <entry colname="c3">
+                          <SimplePara>Rainfall length (h)</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Type</SimplePara>
+                        </entry>
+                        <entry colname="c5">
+                          <SimplePara>Average rainfall intensity (mm/h)</SimplePara>
+                        </entry>
+                        <entry colname="c6">
+                          <SimplePara>Maximum rainfall intensity (mm/h)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>January 31–February 1, 2013 (calibration)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>21</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>7.8</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Moderate rain</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>2.7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>13.2</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>October 7–8, 2013 (calibration)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>261.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>47</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Downpour</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>5.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>55.2</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>June 7–8, 2013 (calibration)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>53.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>19</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Heavy rain</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>2.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>15.6</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>December 27–28, 2012 (verification)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>20.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>22</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Moderate rain</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>0.97</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>July 5–6, 2013 (verification)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>31.6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>18</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Heavy rain</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>1.76</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>25.2</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Para>
+              <Para ID="Par14">In the process of rainfall, the water level of pumping station forebay is monitored. The monitoring data of water level in Huoshan Pumping Station corresponding during the period of rainfall events are used as the basis for model parameter calibration (Bertrand et al. <CitationRef CitationID="CR3">2008</CitationRef>; Liew et al. <CitationRef CitationID="CR14">2012</CitationRef>). Operating water level of the pumping station is 2.8 m, parking level is −0.8 m, and the total flow is 6.9 m<Superscript>3</Superscript>/s. Model running at the initial moment, there is domestic sewage in pipes. The amount of sewage is determined by the catchment area, the population density, and per capita water consumption. Thus, the different pipes correspond to different initial values. The model parameter calibration uses deterministic coefficient <Emphasis Type="Italic">R</Emphasis>
+                <Superscript>2</Superscript> to assess the consistency between the simulation curve and monitoring time series, which is shown in Formula (<InternalRef RefID="Equ1">1</InternalRef>).<Equation ID="Equ1">
+                  <EquationNumber>1</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equ1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <msup>
+                        <mi>R</mi>
+                        <mn>2</mn>
+                      </msup>
+                      <mo>=</mo>
+                      <msup>
+                        <mfenced close=")" open="(">
+                          <mfrac>
+                            <mstyle displaystyle="true">
+                              <munderover>
+                                <mo stretchy="true">∑</mo>
+                                <mrow>
+                                  <mi>i</mi>
+                                  <mo>=</mo>
+                                  <mn>1</mn>
+                                </mrow>
+                                <mi>n</mi>
+                              </munderover>
+                              <mrow>
+                                <mfenced close=")" open="(">
+                                  <mrow>
+                                    <msup>
+                                      <msub>
+                                        <mrow>
+                                          <mi mathvariant="normal">W</mi>
+                                          <mi mathvariant="normal">L</mi>
+                                        </mrow>
+                                        <mi>i</mi>
+                                      </msub>
+                                      <mrow>
+                                        <mi mathvariant="normal">o</mi>
+                                        <mi mathvariant="normal">b</mi>
+                                        <mi mathvariant="normal">s</mi>
+                                      </mrow>
+                                    </msup>
+                                    <mo>−</mo>
+                                    <msub>
+                                      <mrow>
+                                        <mi mathvariant="normal">W</mi>
+                                        <mi mathvariant="normal">L</mi>
+                                      </mrow>
+                                      <mrow>
+                                        <mi mathvariant="normal">a</mi>
+                                        <mi mathvariant="normal">v</mi>
+                                      </mrow>
+                                    </msub>
+                                  </mrow>
+                                </mfenced>
+                                <mfenced close=")" open="(">
+                                  <mrow>
+                                    <msup>
+                                      <msub>
+                                        <mrow>
+                                          <mi mathvariant="normal">W</mi>
+                                          <mi mathvariant="normal">L</mi>
+                                        </mrow>
+                                        <mi>i</mi>
+                                      </msub>
+                                      <msub>
+                                        <mrow/>
+                                        <mrow>
+                                          <mi mathvariant="normal">s</mi>
+                                          <mi mathvariant="normal">i</mi>
+                                          <mi mathvariant="normal">m</mi>
+                                        </mrow>
+                                      </msub>
+                                    </msup>
+                                    <mo>−</mo>
+                                    <msub>
+                                      <mover accent="true">
+                                        <mrow>
+                                          <mi mathvariant="normal">W</mi>
+                                          <mi mathvariant="normal">L</mi>
+                                        </mrow>
+                                        <mo stretchy="true">¯</mo>
+                                      </mover>
+                                      <mrow>
+                                        <mi mathvariant="normal">s</mi>
+                                        <mi mathvariant="normal">i</mi>
+                                        <mi mathvariant="normal">m</mi>
+                                      </mrow>
+                                    </msub>
+                                  </mrow>
+                                </mfenced>
+                              </mrow>
+                            </mstyle>
+                            <msqrt>
+                              <mstyle displaystyle="true">
+                                <munderover>
+                                  <mo stretchy="true">∑</mo>
+                                  <mrow>
+                                    <mi>i</mi>
+                                    <mo>=</mo>
+                                    <mn>1</mn>
+                                  </mrow>
+                                  <mi>n</mi>
+                                </munderover>
+                                <mrow>
+                                  <msup>
+                                    <mfenced close=")" open="(">
+                                      <mrow>
+                                        <msup>
+                                          <msub>
+                                            <mrow>
+                                              <mi mathvariant="normal">W</mi>
+                                              <mi mathvariant="normal">L</mi>
+                                            </mrow>
+                                            <mi>i</mi>
+                                          </msub>
+                                          <msub>
+                                            <mrow/>
+                                            <mrow>
+                                              <mi mathvariant="normal">o</mi>
+                                              <mi mathvariant="normal">b</mi>
+                                              <mi mathvariant="normal">s</mi>
+                                            </mrow>
+                                          </msub>
+                                        </msup>
+                                        <mo>−</mo>
+                                        <msub>
+                                          <mrow>
+                                            <mi mathvariant="normal">W</mi>
+                                            <mi mathvariant="normal">L</mi>
+                                          </mrow>
+                                          <msup>
+                                            <mrow/>
+                                            <msub>
+                                              <mrow/>
+                                              <mrow>
+                                                <mi>a</mi>
+                                                <mi>v</mi>
+                                              </mrow>
+                                            </msub>
+                                          </msup>
+                                        </msub>
+                                      </mrow>
+                                    </mfenced>
+                                    <mn>2</mn>
+                                  </msup>
+                                  <mstyle displaystyle="true">
+                                    <munderover>
+                                      <mo stretchy="true">∑</mo>
+                                      <mrow>
+                                        <mi>i</mi>
+                                        <mo>=</mo>
+                                        <mn>1</mn>
+                                      </mrow>
+                                      <mi>n</mi>
+                                    </munderover>
+                                    <mrow>
+                                      <msup>
+                                        <mfenced close=")" open="(">
+                                          <mrow>
+                                            <msup>
+                                              <msub>
+                                                <mrow>
+                                                  <mi mathvariant="normal">W</mi>
+                                                  <mi mathvariant="normal">L</mi>
+                                                </mrow>
+                                                <mi>i</mi>
+                                              </msub>
+                                              <mrow>
+                                                <mi mathvariant="normal">s</mi>
+                                                <mi mathvariant="normal">i</mi>
+                                                <mi mathvariant="normal">m</mi>
+                                              </mrow>
+                                            </msup>
+                                            <mo>−</mo>
+                                            <msub>
+                                              <mover accent="true">
+                                                <mrow>
+                                                  <mi>W</mi>
+                                                  <mi>L</mi>
+                                                </mrow>
+                                                <mo stretchy="true">¯</mo>
+                                              </mover>
+                                              <mrow>
+                                                <mi mathvariant="normal">s</mi>
+                                                <mi mathvariant="normal">i</mi>
+                                                <mi mathvariant="normal">m</mi>
+                                              </mrow>
+                                            </msub>
+                                          </mrow>
+                                        </mfenced>
+                                        <mn>2</mn>
+                                      </msup>
+                                    </mrow>
+                                  </mstyle>
+                                </mrow>
+                              </mstyle>
+                            </msqrt>
+                          </mfrac>
+                        </mfenced>
+                        <mn>2</mn>
+                      </msup>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ {R}^2={\left(\frac{{\displaystyle \sum_{i=1}^n\left({{\mathrm{WL}}_i}^{\mathrm{obs}}-{\mathrm{WL}}_{\mathrm{av}}\right)\left({{\mathrm{WL}}_i}^{{}_{\mathrm{sim}}}-{\overline{\mathrm{WL}}}_{\mathrm{sim}}\right)}}{\sqrt{{\displaystyle \sum_{i=1}^n{\left({{\mathrm{WL}}_i}^{{}_{\mathrm{obs}}}-{\mathrm{WL}}_{{}^{{}_{av}}}\right)}^2{\displaystyle \sum_{i=1}^n{\left({{\mathrm{WL}}_i}^{\mathrm{sim}}-{\overline{WL}}_{\mathrm{sim}}\right)}^2}}}}\right)}^2 $$]]></EquationSource>
+                </Equation>where <Emphasis Type="Italic">R</Emphasis>
+                <Superscript>2</Superscript> is the deterministic coefficient; WL<Subscript>
+                  <Emphasis Type="Italic">i</Emphasis>
+                </Subscript>
+                <Superscript>sim</Superscript> is the simulation value at time <Emphasis Type="Italic">i</Emphasis>; WL<Subscript>
+                  <Emphasis Type="ItalicUnderline">i</Emphasis>
+                </Subscript>
+                <Superscript>obs</Superscript> is the observed value at time <Emphasis Type="Italic">i</Emphasis>; WL<Subscript>av</Subscript> is the average of the observed data; and <InlineEquation ID="IEq1">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_IEq1.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <msub>
+                        <mover accent="true">
+                          <mrow>
+                            <mi mathvariant="normal">W</mi>
+                            <mi mathvariant="normal">L</mi>
+                          </mrow>
+                          <mo stretchy="true">¯</mo>
+                        </mover>
+                        <mrow>
+                          <mi mathvariant="normal">s</mi>
+                          <mi mathvariant="normal">i</mi>
+                          <mi mathvariant="normal">m</mi>
+                        </mrow>
+                      </msub>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ {\overline{\mathrm{WL}}}_{\mathrm{sim}} $$]]></EquationSource>
+                </InlineEquation> is the average of the simulation data.</Para>
+              <Para ID="Par15">Fixed runoff coefficient, the initial loss, catchment width, Manning roughness coefficient, and confluence coefficient are repeated adjustments to complete model calibration. Results of the model calibration and verification are shown in Table <InternalRef RefID="Tab2">2</InternalRef>. The difference between the observed maximum water level of pumping station and the simulation value is 2.9–12.7 %; the difference between the observed minimum water level and the simulation value is 1.4–5.9 %. However, the simulation results of the model on rainfall events are consistent with the observed values, and the deterministic coefficient (<Emphasis Type="Italic">R</Emphasis>
+                <Superscript>2</Superscript>) is larger than 0.9. Figure <InternalRef RefID="Fig3">3</InternalRef> shows the observed and simulation values of the water level in Huoshan Pumping Station during the rainfall events on January 31 to February 1, 2013 (calibration) and December 27–28, 2012 (verification).<Table Float="Yes" ID="Tab2">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of model calibration and verification</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="8">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="char" char="." colname="c2" colnum="2"/>
+                    <colspec align="char" char="." colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <colspec align="char" char="." colname="c5" colnum="5"/>
+                    <colspec align="char" char="." colname="c6" colnum="6"/>
+                    <colspec align="left" colname="c7" colnum="7"/>
+                    <colspec align="char" char="." colname="c8" colnum="8"/>
+                    <thead>
+                      <row>
+                        <entry colname="c1" morerows="1">
+                          <SimplePara>Rainfall event</SimplePara>
+                        </entry>
+                        <entry nameend="c4" namest="c2">
+                          <SimplePara>Max water level (m)</SimplePara>
+                        </entry>
+                        <entry nameend="c7" namest="c5">
+                          <SimplePara>Min water level (m)</SimplePara>
+                        </entry>
+                        <entry colname="c8" morerows="1">
+                          <SimplePara>
+                            <Emphasis Type="Italic">R</Emphasis>
+                            <Superscript>2</Superscript>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c2">
+                          <SimplePara>Observed</SimplePara>
+                        </entry>
+                        <entry colname="c3">
+                          <SimplePara>Simulated</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Differences</SimplePara>
+                        </entry>
+                        <entry colname="c5">
+                          <SimplePara>Observed</SimplePara>
+                        </entry>
+                        <entry colname="c6">
+                          <SimplePara>Simulated</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>Differences</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>January 31–February 1, 2013 (calibration)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c2">
+                          <SimplePara>−1.6</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c3">
+                          <SimplePara>−1.69</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>0.09 (5.6 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c5">
+                          <SimplePara>−3.7</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c6">
+                          <SimplePara>−3.58</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>0.12 (3.2 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c8">
+                          <SimplePara>0.974</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>October 7–8, 2013 (calibration)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c2">
+                          <SimplePara>−0.96</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c3">
+                          <SimplePara>−0.88</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>0.08 (8.3 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c5">
+                          <SimplePara>−3.7</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c6">
+                          <SimplePara>−3.48</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>0.22 (5.9 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c8">
+                          <SimplePara>0.976</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>June 7–8, 2013 (calibration)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c2">
+                          <SimplePara>−1.35</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c3">
+                          <SimplePara>−1.24</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>0.11 (8.1 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c5">
+                          <SimplePara>−3.49</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c6">
+                          <SimplePara>−3.54</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>0.05 (1.4 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c8">
+                          <SimplePara>0.964</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>December 27–28, 2012 (verification)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c2">
+                          <SimplePara>−1.97</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c3">
+                          <SimplePara>−2.22</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>0.25 (12.7 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c5">
+                          <SimplePara>−3.64</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c6">
+                          <SimplePara>−3.58</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>0.06 (1.6 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c8">
+                          <SimplePara>0.945</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>July 5–6, 2013 (verification)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c2">
+                          <SimplePara>−1.37</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c3">
+                          <SimplePara>−1.41</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>0.04 (2.9 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c5">
+                          <SimplePara>−3.46</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c6">
+                          <SimplePara>-−3.54</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>0.08 (2.3 %)</SimplePara>
+                        </entry>
+                        <entry align="char" char="." colname="c8">
+                          <SimplePara>0.948</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Figure Category="Standard" Float="Yes" ID="Fig3">
+                  <!--Style3-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Observed vs. simulated flow for 31 January 2013 (model calibration) (<Emphasis Type="Bold">a</Emphasis>) and Observed vs. simulated flow for 27 December 2012 (model verification) (<Emphasis Type="Bold">b</Emphasis>)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO3">
+                    <ImageObject Color="Color" FileRef="MediaObjects/11356_2015_4707_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec7">
+              <Heading>Configuration for the simulation of rainfall scenario</Heading>
+              <Para ID="Par16">With rapid urbanization and increased proportion of impervious area, the surface runoff increases, and the carrying capacity of the current drainage pipelines can no longer meet the requirements of urban drainage design. The existing pipelines have to be transformed. The storm intensity formula and design rainfall pattern are the basis for the transformation of the drainage system. Currently, the domestic and foreign researchers use model rainfall pattern (Deng <CitationRef CitationID="CR6">2006</CitationRef>), Keifer and Chu rainfall pattern (<CitationRef CitationID="CR12">1957</CitationRef>), Huff method (<CitationRef CitationID="CR11">1967</CitationRef>), and Pilgrim and Cordery method (<CitationRef CitationID="CR20">1975</CitationRef>) to design rainfall. Ning studied the storm density formula and design rainfall pattern of Shanghai in <CitationRef CitationID="CR17">2006</CitationRef> and pointed out that model rainfall pattern could be accurately used for storm design in Shanghai. Therefore, this study uses model rainfall pattern to design storm, which has lower requirements on rainfall data.</Para>
+              <Para ID="Par17">The domestic and international statistics on a large quantity of measured storm data show that the peak usually occurs at the first one third of the total duration of the rainfall (<Emphasis Type="Italic">r</Emphasis> = 0.25–0.4). The storm intensity shows a variation trend of small-big-small.</Para>
+              <Para ID="Par18">Suppose that the total duration of the intensity process of the model rainfall pattern is <Emphasis Type="Italic">T</Emphasis>; the instantaneous intensity curve prior to the peak is <Emphasis Type="Italic">T</Emphasis>
+                <Subscript>a</Subscript>; the corresponding duration is <Emphasis Type="Italic">t</Emphasis>
+                <Subscript>a</Subscript>; the cumulative rainfall amount is <Emphasis Type="Italic">H</Emphasis>
+                <Subscript>a</Subscript>; the instantaneous curve after the peak is <Emphasis Type="Italic">I</Emphasis>
+                <Subscript>b</Subscript>; the corresponding duration is <Emphasis Type="Italic">t</Emphasis>
+                <Subscript>b</Subscript>; the cumulative rainfall amount is <Emphasis Type="Italic">H</Emphasis>
+                <Subscript>b</Subscript>; and the total rainfall amount <Emphasis Type="Italic">H</Emphasis>
+                <Subscript>T</Subscript> = <Emphasis Type="Italic">H</Emphasis>
+                <Subscript>a</Subscript> + <Emphasis Type="Italic">H</Emphasis>
+                <Subscript>b</Subscript>. When <Emphasis Type="Italic">T</Emphasis> = 1 and the location of the intensity peak is <Emphasis Type="Italic">r</Emphasis> (between 0 and 1), <InlineEquation ID="IEq2">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_IEq2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi>T</mi>
+                      <mo>=</mo>
+                      <mfrac>
+                        <msub>
+                          <mi>t</mi>
+                          <mi mathvariant="normal">a</mi>
+                        </msub>
+                        <mi>r</mi>
+                      </mfrac>
+                      <mo>=</mo>
+                      <mfrac>
+                        <msub>
+                          <mi>t</mi>
+                          <mi mathvariant="normal">b</mi>
+                        </msub>
+                        <mfenced close=")" open="(">
+                          <mrow>
+                            <mn>1</mn>
+                            <mo>−</mo>
+                            <mi>r</mi>
+                          </mrow>
+                        </mfenced>
+                      </mfrac>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ T=\frac{t_{\mathrm{a}}}{r}=\frac{t_{\mathrm{b}}}{\left(1-r\right)} $$]]></EquationSource>
+                </InlineEquation>.</Para>
+              <Para ID="Par19">When storm intensity formula <InlineEquation ID="IEq3">
+                  <InlineMediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_IEq3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </InlineMediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi>i</mi>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mi>A</mi>
+                        <msup>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mi>T</mi>
+                              <mo>+</mo>
+                              <mi>b</mi>
+                            </mrow>
+                          </mfenced>
+                          <mi>n</mi>
+                        </msup>
+                      </mfrac>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ i=\frac{A}{{\left(T+b\right)}^n} $$]]></EquationSource>
+                </InlineEquation> is used and the time coordinate of rain peak is 0:00, the instantaneous intensity prior to and after the rain peak <Emphasis Type="Italic">I</Emphasis>
+                <Subscript>a</Subscript> and <Emphasis Type="Italic">I</Emphasis>
+                <Subscript>b</Subscript> are the following: When<Equation ID="Equ2">
+                  <EquationNumber>2</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equ2.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mn>0</mn>
+                      <mo>≦</mo>
+                      <mi>t</mi>
+                      <mo>≦</mo>
+                      <msub>
+                        <mi>t</mi>
+                        <mi mathvariant="normal">a</mi>
+                      </msub>
+                      <mo>,</mo>
+                      <mspace width="0.5em"/>
+                      <msub>
+                        <mi>I</mi>
+                        <mi mathvariant="normal">a</mi>
+                      </msub>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mrow>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mn>1</mn>
+                              <mo>−</mo>
+                              <mi>n</mi>
+                            </mrow>
+                          </mfenced>
+                          <msup>
+                            <mi>r</mi>
+                            <mi>n</mi>
+                          </msup>
+                          <mi>A</mi>
+                        </mrow>
+                        <msup>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mi>t</mi>
+                              <mo>+</mo>
+                              <mi>r</mi>
+                              <mi>b</mi>
+                            </mrow>
+                          </mfenced>
+                          <mi>n</mi>
+                        </msup>
+                      </mfrac>
+                      <mo>+</mo>
+                      <mfrac>
+                        <mrow>
+                          <mi>n</mi>
+                          <mi>b</mi>
+                          <msup>
+                            <mi>r</mi>
+                            <mrow>
+                              <mi>n</mi>
+                              <mo>+</mo>
+                              <mn>1</mn>
+                            </mrow>
+                          </msup>
+                          <mi>A</mi>
+                        </mrow>
+                        <msup>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mi>t</mi>
+                              <mo>+</mo>
+                              <mi>r</mi>
+                              <mi>b</mi>
+                            </mrow>
+                          </mfenced>
+                          <mrow>
+                            <mi>n</mi>
+                            <mo>+</mo>
+                            <mn>1</mn>
+                          </mrow>
+                        </msup>
+                      </mfrac>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ 0\leqq t\leqq {t}_{\mathrm{a}},\kern0.5em {I}_{\mathrm{a}}=\frac{\left(1-n\right){r}^nA}{{\left(t+rb\right)}^n}+\frac{nb{r}^{n+1}A}{{\left(t+rb\right)}^{n+1}} $$]]></EquationSource>
+                </Equation>When<Equation ID="Equ3">
+                  <EquationNumber>3</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equ3.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mn>0</mn>
+                      <mo>≦</mo>
+                      <mi>t</mi>
+                      <mo>≦</mo>
+                      <msub>
+                        <mi>t</mi>
+                        <mrow>
+                          <mi mathvariant="normal">b</mi>
+                          <mo>,</mo>
+                        </mrow>
+                      </msub>
+                      <mspace width="0.5em"/>
+                      <msub>
+                        <mi>I</mi>
+                        <mi mathvariant="normal">b</mi>
+                      </msub>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mrow>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mn>1</mn>
+                              <mo>−</mo>
+                              <mi>n</mi>
+                            </mrow>
+                          </mfenced>
+                          <msup>
+                            <mfenced close=")" open="(">
+                              <mrow>
+                                <mn>1</mn>
+                                <mo>−</mo>
+                                <mi>r</mi>
+                              </mrow>
+                            </mfenced>
+                            <mi>n</mi>
+                          </msup>
+                          <mi>A</mi>
+                        </mrow>
+                        <msup>
+                          <mfenced close="]" open="[">
+                            <mrow>
+                              <mi>t</mi>
+                              <mo>+</mo>
+                              <mfenced close=")" open="(">
+                                <mrow>
+                                  <mn>1</mn>
+                                  <mo>−</mo>
+                                  <mi>r</mi>
+                                </mrow>
+                              </mfenced>
+                              <mi>b</mi>
+                            </mrow>
+                          </mfenced>
+                          <mi>n</mi>
+                        </msup>
+                      </mfrac>
+                      <mo>+</mo>
+                      <mfrac>
+                        <mrow>
+                          <mi>n</mi>
+                          <mi>b</mi>
+                          <msup>
+                            <mfenced close=")" open="(">
+                              <mrow>
+                                <mn>1</mn>
+                                <mo>−</mo>
+                                <mi>r</mi>
+                              </mrow>
+                            </mfenced>
+                            <mrow>
+                              <mi>n</mi>
+                              <mo>+</mo>
+                              <mn>1</mn>
+                            </mrow>
+                          </msup>
+                          <mi>A</mi>
+                        </mrow>
+                        <msup>
+                          <mfenced close="]" open="[">
+                            <mrow>
+                              <mi>t</mi>
+                              <mo>+</mo>
+                              <mfenced close=")" open="(">
+                                <mrow>
+                                  <mn>1</mn>
+                                  <mo>−</mo>
+                                  <mi>r</mi>
+                                </mrow>
+                              </mfenced>
+                              <mi>b</mi>
+                            </mrow>
+                          </mfenced>
+                          <mrow>
+                            <mi>n</mi>
+                            <mo>+</mo>
+                            <mn>1</mn>
+                          </mrow>
+                        </msup>
+                      </mfrac>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ 0\leqq t\leqq {t}_{\mathrm{b},}\kern0.5em {I}_{\mathrm{b}}=\frac{\left(1-n\right){\left(1-r\right)}^nA}{{\left[t+\left(1-r\right)b\right]}^n}+\frac{nb{\left(1-r\right)}^{n+1}A}{{\left[t+\left(1-r\right)b\right]}^{n+1}} $$]]></EquationSource>
+                </Equation>
+              </Para>
+              <Para ID="Par20">The calculation formula of the cumulative amount of the model rainfall pattern is as follows:When<Equation ID="Equ4">
+                  <EquationNumber>4</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equ4.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mn>0</mn>
+                      <mo>≦</mo>
+                      <mi>t</mi>
+                      <mo>≦</mo>
+                      <mi>r</mi>
+                      <mi>T</mi>
+                      <mo>,</mo>
+                      <mspace width="0.5em"/>
+                      <mi>H</mi>
+                      <mo>=</mo>
+                      <msub>
+                        <mi>H</mi>
+                        <mi mathvariant="normal">T</mi>
+                      </msub>
+                      <mfenced close="}" open="{">
+                        <mrow>
+                          <mi>r</mi>
+                          <mo>−</mo>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mi>r</mi>
+                              <mo>−</mo>
+                              <mfrac>
+                                <mi>t</mi>
+                                <mi>T</mi>
+                              </mfrac>
+                            </mrow>
+                          </mfenced>
+                          <msup>
+                            <mfenced close="]" open="[">
+                              <mrow>
+                                <mn>1</mn>
+                                <mo>−</mo>
+                                <mfrac>
+                                  <mi>t</mi>
+                                  <mrow>
+                                    <mi>r</mi>
+                                    <mfenced close=")" open="(">
+                                      <mrow>
+                                        <mi>T</mi>
+                                        <mo>+</mo>
+                                        <mi>b</mi>
+                                      </mrow>
+                                    </mfenced>
+                                  </mrow>
+                                </mfrac>
+                              </mrow>
+                            </mfenced>
+                            <mrow>
+                              <mo>−</mo>
+                              <mi>n</mi>
+                            </mrow>
+                          </msup>
+                        </mrow>
+                      </mfenced>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ 0\leqq t\leqq rT,\kern0.5em H={H}_{\mathrm{T}}\left\{r-\left(r-\frac{t}{T}\right){\left[1-\frac{t}{r\left(T+b\right)}\right]}^{-n}\right\} $$]]></EquationSource>
+                </Equation>When<Equation ID="Equ5">
+                  <EquationNumber>5</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equ5.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi>r</mi>
+                      <mi>T</mi>
+                      <mo>≦</mo>
+                      <mi>t</mi>
+                      <mo>≦</mo>
+                      <mi>T</mi>
+                      <mo>,</mo>
+                      <mspace width="0.5em"/>
+                      <mi>H</mi>
+                      <mo>=</mo>
+                      <msub>
+                        <mi>H</mi>
+                        <mi mathvariant="normal">T</mi>
+                      </msub>
+                      <mfenced close="}" open="{">
+                        <mrow>
+                          <mi>r</mi>
+                          <mo>+</mo>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mfrac>
+                                <mi>t</mi>
+                                <mi>T</mi>
+                              </mfrac>
+                              <mo>−</mo>
+                              <mi>r</mi>
+                            </mrow>
+                          </mfenced>
+                          <msup>
+                            <mfenced close="]" open="[">
+                              <mrow>
+                                <mn>1</mn>
+                                <mo>+</mo>
+                                <mfrac>
+                                  <mrow>
+                                    <mi>t</mi>
+                                    <mo>−</mo>
+                                    <mi>T</mi>
+                                  </mrow>
+                                  <mrow>
+                                    <mfenced close=")" open="(">
+                                      <mrow>
+                                        <mn>1</mn>
+                                        <mo>−</mo>
+                                        <mi>r</mi>
+                                      </mrow>
+                                    </mfenced>
+                                    <mfenced close=")" open="(">
+                                      <mrow>
+                                        <mi>T</mi>
+                                        <mo>+</mo>
+                                        <mi>b</mi>
+                                      </mrow>
+                                    </mfenced>
+                                  </mrow>
+                                </mfrac>
+                              </mrow>
+                            </mfenced>
+                            <mrow>
+                              <mo>−</mo>
+                              <mi>n</mi>
+                            </mrow>
+                          </msup>
+                        </mrow>
+                      </mfenced>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ rT\leqq t\leqq T,\kern0.5em H={H}_{\mathrm{T}}\left\{r+\left(\frac{t}{T}-r\right){\left[1+\frac{t-T}{\left(1-r\right)\left(T+b\right)}\right]}^{-n}\right\} $$]]></EquationSource>
+                </Equation>Where<Equation ID="Equa">
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equa.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <msub>
+                        <mi>H</mi>
+                        <mi mathvariant="normal">T</mi>
+                      </msub>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mrow>
+                          <mi>A</mi>
+                          <msub>
+                            <mi>t</mi>
+                            <mn>0</mn>
+                          </msub>
+                        </mrow>
+                        <msup>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mi>T</mi>
+                              <mo>+</mo>
+                              <mi>b</mi>
+                            </mrow>
+                          </mfenced>
+                          <mi>n</mi>
+                        </msup>
+                      </mfrac>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ {H}_{\mathrm{T}}=\frac{A{t}_0}{{\left(T+b\right)}^n} $$]]></EquationSource>
+                </Equation>
+              </Para>
+              <Para ID="Par21">The storm intensity formula of Shanghai is<Equation ID="Equ6">
+                  <EquationNumber>6</EquationNumber>
+                  <MediaObject>
+                    <ImageObject Color="BlackWhite" FileRef="11356_2015_4707_Article_Equ6.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                  </MediaObject>
+                  <EquationSource Format="MATHML"><![CDATA[
+
+                            ]]><math xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <mi>i</mi>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mrow>
+                          <mn>33.2</mn>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <msup>
+                                <mi>P</mi>
+                                <mn>0.3</mn>
+                              </msup>
+                              <mo>−</mo>
+                              <mn>0.42</mn>
+                            </mrow>
+                          </mfenced>
+                        </mrow>
+                        <msup>
+                          <mfenced close=")" open="(">
+                            <mrow>
+                              <mi>t</mi>
+                              <mo>+</mo>
+                              <mn>10</mn>
+                              <mo>+</mo>
+                              <mn>7</mn>
+                              <mo>lg</mo>
+                              <mi>P</mi>
+                            </mrow>
+                          </mfenced>
+                          <mrow>
+                            <mn>0.82</mn>
+                            <mo>+</mo>
+                            <mn>0.07</mn>
+                            <mo>lg</mo>
+                            <mi>P</mi>
+                          </mrow>
+                        </msup>
+                      </mfrac>
+                    </math><![CDATA[
+]]></EquationSource>
+                  <EquationSource Format="TEX"><![CDATA[$$ i=\frac{33.2\left({P}^{0.3}-0.42\right)}{{\left(t+10+7 \lg P\right)}^{0.82+0.07 \lg P}} $$]]></EquationSource>
+                </Equation>where <Emphasis Type="Italic">i</Emphasis> is intensity (mm/min); <Emphasis Type="Italic">P</Emphasis> is the return period of the design rainfall (<Emphasis Type="Italic">a</Emphasis>); and <Emphasis Type="Italic">t</Emphasis> is the duration of the rainfall (min).</Para>
+              <Para ID="Par22">Formula (<InternalRef RefID="Equ6">6</InternalRef>) is used to calculate the values of <Emphasis Type="Italic">A</Emphasis>, <Emphasis Type="Italic">b</Emphasis>, and <Emphasis Type="Italic">n</Emphasis> in the storm intensity formula. Formulas (<InternalRef RefID="Equ2">2</InternalRef>)–(<InternalRef RefID="Equ5">5</InternalRef>) are used to design the rainfall in Shanghai with the return period of 1<Emphasis Type="Italic">a</Emphasis>, 3<Emphasis Type="Italic">a</Emphasis>, 5<Emphasis Type="Italic">a</Emphasis>, and 10<Emphasis Type="Italic">a</Emphasis> and the duration of 2 h. This study uses the calculation results of InfoWorks ICM model to analyze the operational status of the drainage system under the rainfall scenario with different return period.</Para>
+            </Section2>
+          </Section1>
+          <Section1 ID="Sec8" Type="Results">
+            <Heading>Results and discussion</Heading>
+            <Section2 ID="Sec9">
+              <Heading>Analysis of the outlet conditions</Heading>
+              <Para ID="Par23">Before the pumping station is started, the combined sewage flows into the confluence phase III project via the drainage system and finally into the wastewater treatment plant. When rainfall continues and the forebay water level reaches the pumping level, the rain water will flow into Yangpu Port via the pumping station. Therefore, it becomes more important to use the model to assess the design rainfall of different return period (1, 3, 5, and 10 years) for 2 h and compare the operational conditions of the pumping station and the impact of the outlet water depth on regional flood control and drainage. The simulation results are shown in Table <InternalRef RefID="Tab3">3</InternalRef>. Taking Huoshan Pumping Station and its outlet as an example, Fig. <InternalRef RefID="Fig4">4</InternalRef> shows the change of the pumping flow and water depth in the outlet pipeline over time under the design rainfall with the return period of <Emphasis Type="Italic">P</Emphasis> = 1<Emphasis Type="Italic">a</Emphasis>.
+                
+                
+                <!--Style3-->
+                <Table Float="Yes" ID="Tab3">
+                  <!--Style3-->
+                  <Caption Language="En">
+                    <CaptionNumber>Table 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Results of simulations of outlet water depth and pumping time for various return periods</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="5">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="char" char="." colname="c2" colnum="2"/>
+                    <colspec align="char" char="." colname="c3" colnum="3"/>
+                    <colspec align="char" char="." colname="c4" colnum="4"/>
+                    <colspec align="char" char="." colname="c5" colnum="5"/>
+                    <thead>
+                      <row>
+                        <entry colname="c1" morerows="1">
+                          <SimplePara>Item</SimplePara>
+                        </entry>
+                        <entry nameend="c5" namest="c2">
+                          <SimplePara>Return period (year)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c2">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry colname="c3">
+                          <SimplePara>3</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry colname="c5">
+                          <SimplePara>10</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>Total time of opening pump (min)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>56</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>82</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>93</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>108</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>Maximum water depth of the outlet (m)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>1.526</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1.561</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1.575</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>1.590</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Figure Category="Standard" Float="Yes" ID="Fig4">
+                  <!--Style3-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The pumping flow (<Emphasis Type="Bold">a</Emphasis>) and water depth in the outlet pipeline (<Emphasis Type="Bold">b</Emphasis>)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO4">
+                    <ImageObject Color="Color" FileRef="MediaObjects/11356_2015_4707_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para ID="Par24">Table <InternalRef RefID="Tab3">3</InternalRef> shows that with longer return period, the maximum water depth in the outlet pipeline increases. When <Emphasis Type="Italic">P</Emphasis> = 1a, the maximum water depth in the pipeline reaches 1.526 m, higher than the diameter of the pipeline, which is 1.35 m. This seriously affects the smooth discharge of rainwater. To meet the design standard for 3-year flood, the diameter of the outlet pipeline can be increased to 1600 mm.</Para>
+              <Para ID="Par25">Figure <InternalRef RefID="Fig4">4</InternalRef> shows that in the simulation process with the rainfall return period of 1<Emphasis Type="Italic">a</Emphasis> and the rainfall duration of 2 h, the pumping flow curve is consistent with that of the water depth in the outlet pipeline. When water level in the pumping forebay increases, the pumping station is started for some time; when water level decreases, the pumping station stops operating. However, when water level increases again with the continuous rainfall, the pumping station is started again; it stops pumping until the water level decreases two hours later when the rainfall stops.</Para>
+            </Section2>
+            <Section2 ID="Sec10">
+              <Heading>Analysis of pipeline load and manhole overflow</Heading>
+              <Para ID="Par26">Overload of the urban drainage pipelines will cause overflow from the manholes, resulting in waterlogging, which seriously obstructs the traffic. In this study, the model is used to simulate the operational status of the pipelines under the design rainfall with the return period of 1 year to timely identify the overloaded pipelines. These pipelines are then transformed at the planning level and the drainage design standard is raised. The load of the drainage pipelines in the study area under the design storm with the return period of 1<Emphasis Type="Italic">a</Emphasis> is shown in Fig. <InternalRef RefID="Fig5">5</InternalRef>. The rainfall is designed with different return period, taking the overflow of some manholes as an example (see Table <InternalRef RefID="Tab4">4</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig5">
+                  <!--Style3-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 5</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>One-year return period rainfall pipeline load</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO5">
+                    <ImageObject Color="Color" FileRef="MediaObjects/11356_2015_4707_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+                <Table Float="Yes" ID="Tab4">
+                  <Caption Language="En">
+                    <CaptionNumber>Table 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Different return periods of rainfall part manholes overflow situation</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="13">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="char" char="." colname="c2" colnum="2"/>
+                    <colspec align="char" char="." colname="c3" colnum="3"/>
+                    <colspec align="char" char="." colname="c4" colnum="4"/>
+                    <colspec align="char" char="." colname="c5" colnum="5"/>
+                    <colspec align="char" char="." colname="c6" colnum="6"/>
+                    <colspec align="char" char="." colname="c7" colnum="7"/>
+                    <colspec align="char" char="." colname="c8" colnum="8"/>
+                    <colspec align="char" char="." colname="c9" colnum="9"/>
+                    <colspec align="char" char="." colname="c10" colnum="10"/>
+                    <colspec align="char" char="." colname="c11" colnum="11"/>
+                    <colspec align="char" char="." colname="c12" colnum="12"/>
+                    <colspec align="char" char="." colname="c13" colnum="13"/>
+                    <thead>
+                      <row>
+                        <entry colname="c1" morerows="1">
+                          <SimplePara>Node number</SimplePara>
+                          <SimplePara>Return period</SimplePara>
+                        </entry>
+                        <entry nameend="c4" namest="c2">
+                          <SimplePara>6171<Superscript>#</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry nameend="c7" namest="c5">
+                          <SimplePara>7841<Superscript>#</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry nameend="c10" namest="c8">
+                          <SimplePara>2241<Superscript>#</Superscript>
+                          </SimplePara>
+                        </entry>
+                        <entry nameend="c13" namest="c11">
+                          <SimplePara>6201<Superscript>#</Superscript>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c2">
+                          <SimplePara>Total overflow time (min)</SimplePara>
+                        </entry>
+                        <entry colname="c3">
+                          <SimplePara>Maximum overflow traffic (m<Superscript>3</Superscript>)</SimplePara>
+                        </entry>
+                        <entry colname="c4">
+                          <SimplePara>Max flood depth (m)</SimplePara>
+                        </entry>
+                        <entry colname="c5">
+                          <SimplePara>Total overflow time (min)</SimplePara>
+                        </entry>
+                        <entry colname="c6">
+                          <SimplePara>Maximum overflow traffic (m<Superscript>3</Superscript>)</SimplePara>
+                        </entry>
+                        <entry colname="c7">
+                          <SimplePara>Max flood depth (m)</SimplePara>
+                        </entry>
+                        <entry colname="c8">
+                          <SimplePara>Total overflow time (min)</SimplePara>
+                        </entry>
+                        <entry colname="c9">
+                          <SimplePara>Maximum overflow traffic (m<Superscript>3</Superscript>)</SimplePara>
+                        </entry>
+                        <entry colname="c10">
+                          <SimplePara>Max flood depth (m)</SimplePara>
+                        </entry>
+                        <entry colname="c11">
+                          <SimplePara>Total overflow time (min)</SimplePara>
+                        </entry>
+                        <entry colname="c12">
+                          <SimplePara>Maximum overflow traffic (m<Superscript>3</Superscript>)</SimplePara>
+                        </entry>
+                        <entry colname="c13">
+                          <SimplePara>Max flood depth (m)</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Italic">P</Emphasis> = 1<Emphasis Type="Italic">a</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>10</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.067</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>40</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>26.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>0.579</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>45</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>20.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>0.564</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>125</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c12">
+                          <SimplePara>60.9</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c13">
+                          <SimplePara>0.818</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Italic">P</Emphasis> = 3<Emphasis Type="Italic">a</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>20</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>18.3</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.409</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>65</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>66.5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>0.807</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>70</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>44.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>0.763</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>190</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c12">
+                          <SimplePara>118.4</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c13">
+                          <SimplePara>1.042</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Italic">P</Emphasis> = 5<Emphasis Type="Italic">a</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.519</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>80</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>89.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>0.898</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>85</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>59.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>0.846</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>220</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c12">
+                          <SimplePara>147.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c13">
+                          <SimplePara>1.139</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Italic">P</Emphasis> = 10<Emphasis Type="Italic">a</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>40</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>61</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.635</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c5">
+                          <SimplePara>95</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c6">
+                          <SimplePara>123.1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c7">
+                          <SimplePara>1.004</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c8">
+                          <SimplePara>100</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c9">
+                          <SimplePara>80.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c10">
+                          <SimplePara>0.946</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c11">
+                          <SimplePara>265</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c12">
+                          <SimplePara>183.2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c13">
+                          <SimplePara>1.26</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+              </Para>
+              <Para ID="Par27">Figure <InternalRef RefID="Fig5">5</InternalRef> and Table <InternalRef RefID="Tab4">4</InternalRef> show that under the design storm with the return period of 1a, a number of pipelines in the drainage system are overloaded. Waterlogging occurs to the upstream and downstream manholes and lasts for more than 10 min or even 2 h with the depth of 0.818 m, which is easy to cause flood. This indicates that the current drainage system is unable to meet the original design standard for 1-year flood. With longer return period, an increasing number of pipelines are overloaded in the study area and the water depth in manholes increases. Therefore, it is necessary to develop a modification scheme for the pipelines to meet the ideal design standard.</Para>
+            </Section2>
+            <Section2 ID="Sec11">
+              <Heading>Transformation of the drainage system</Heading>
+              <Para ID="Par28">The current drainage facilities are relatively fragile. Therefore, project investment costs are taken into consideration to appropriately raise the design standard of the drainage system to accommodate to 3-year flood. To achieve this goal, the following two suggestions for modification are proposed in this study:<OrderedList>
+                  <ListItem>
+                    <ItemNumber>1.</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par29">Increasing the diameter of the pipeline. The pipeline network in the study area is reconstructed according to the actual situation on the road. Simulation of the model indicates that a large number of pipelines need to be transformed. The transformation of some pipelines is shown in Table <InternalRef RefID="Tab5">5</InternalRef>.<Table Float="Yes" ID="Tab5">
+                          <Caption Language="En">
+                            <CaptionNumber>Table 5</CaptionNumber>
+                            <CaptionContent>
+                              <SimplePara>Part of pipelines reconstruction situation</SimplePara>
+                            </CaptionContent>
+                          </Caption>
+                          <tgroup align="left" cols="8">
+                            <colspec align="left" colname="c1" colnum="1"/>
+                            <colspec align="left" colname="c2" colnum="2"/>
+                            <colspec align="left" colname="c3" colnum="3"/>
+                            <colspec align="left" colname="c4" colnum="4"/>
+                            <colspec align="left" colname="c5" colnum="5"/>
+                            <colspec align="left" colname="c6" colnum="6"/>
+                            <colspec align="left" colname="c7" colnum="7"/>
+                            <colspec align="char" char="." colname="c8" colnum="8"/>
+                            <thead>
+                              <row>
+                                <entry colname="c1">
+                                  <SimplePara>Road</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Starting point</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>End point</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>Upstream node</SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>Downstream node</SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>Status diameter (mm)</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>Transformation diameter (mm)</SimplePara>
+                                </entry>
+                                <entry colname="c8">
+                                  <SimplePara>Total length (m)</SimplePara>
+                                </entry>
+                              </row>
+                            </thead>
+                            <tbody>
+                              <row>
+                                <entry colname="c1" morerows="1">
+                                  <SimplePara>Jing-ning</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Tong-bei</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Xu-Chang</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>28,681<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>9415<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN300</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN800</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>301.4</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c2">
+                                  <SimplePara>Xu-Chang</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Huai-de</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>9415<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>3343<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN380</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN600</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>155.1</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c1">
+                                  <SimplePara>Long-jiang</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Ji-ji-ha-er</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Lan-zhou</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>7742<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>8838<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN900</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN1200</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>224.4</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c1" morerows="1">
+                                  <SimplePara>Jiang-pu</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Chang-yang</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Huo-shan</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>9127<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>9694<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN300</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN800</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>163.1</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c2">
+                                  <SimplePara>Jing-ning</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Hui-ming</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>4752<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>9119<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN600</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN800</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>161.7</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c1" morerows="1">
+                                  <SimplePara>Huai-de</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Huo-shan</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Jing-ning</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>8339<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>8348<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN380</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN800</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>147.1</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c2">
+                                  <SimplePara>Jing-ning</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Hui-ming</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>3343<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>1504<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN380</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN600</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>156.7</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c1" morerows="1">
+                                  <SimplePara>Tong-bei</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Chang-yang</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Huo-shan</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>6189<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>8416<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c6">
+                                  <SimplePara>680x450</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN800</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>201.4</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c2">
+                                  <SimplePara>Yang-zhou</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Yang-shu-pu</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>1224<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>3620<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN300</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN800</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>193.2</SimplePara>
+                                </entry>
+                              </row>
+                              <row>
+                                <entry colname="c1">
+                                  <SimplePara>Ji-ji-ha-er</SimplePara>
+                                </entry>
+                                <entry colname="c2">
+                                  <SimplePara>Chang-yang</SimplePara>
+                                </entry>
+                                <entry colname="c3">
+                                  <SimplePara>Huo-shan</SimplePara>
+                                </entry>
+                                <entry colname="c4">
+                                  <SimplePara>7192<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c5">
+                                  <SimplePara>9694<Superscript>#</Superscript>
+                                  </SimplePara>
+                                </entry>
+                                <entry colname="c6">
+                                  <SimplePara>DN600</SimplePara>
+                                </entry>
+                                <entry colname="c7">
+                                  <SimplePara>DN1000</SimplePara>
+                                </entry>
+                                <entry align="char" char="." colname="c8">
+                                  <SimplePara>172.6</SimplePara>
+                                </entry>
+                              </row>
+                            </tbody>
+                          </tgroup>
+                        </Table>
+                      </Para>
+                    </ItemContent>
+                  </ListItem>
+                  <ListItem>
+                    <ItemNumber>2.</ItemNumber>
+                    <ItemContent>
+                      <Para ID="Par30">Increasing green space and reducing runoff coefficient.</Para>
+                    </ItemContent>
+                  </ListItem>
+                </OrderedList>
+              </Para>
+              <Para ID="Par31">The area of impermeable pavement in the study site accounts for over 85 %, with a large runoff coefficient. The green space is increased and runoff coefficient is reduced by paving permeable bricks, lawn bricks, construction of roof garden, and other measures. By doing so, the number of overload pipelines is decreased and the total amount of overflow of the drainage system is reduced, thus the duration of surface waterlogging is shortened. The green area in the service area of Huoshan Drainage System has been increased from 12.76 to 17.76 % through model simulation. When the green area increases by 5 %, under the design rainfall with the return period of <Emphasis Type="Italic">P</Emphasis> = 1<Emphasis Type="Italic">a</Emphasis>, the total flow of Huoshan Pumping Station decreases from 30,247.9<Superscript>3</Superscript> to 28,996.0<Superscript>3</Superscript> m<Superscript>3</Superscript>, a reduction by 4.14 %. Variation of the pumping flow over time is shown in Fig. <InternalRef RefID="Fig6">6</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig6">
+                  <!--Style3-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 6</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Variation of the pumping flow with different green area</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO6">
+                    <ImageObject Color="Color" FileRef="MediaObjects/11356_2015_4707_Fig6_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section2>
+          </Section1>
+          <Section1 ID="Sec12" Type="Conclusion">
+            <Heading>Conclusions</Heading>
+            <Para ID="Par32">According to the actual situation of the pipelines in the study area, InfoWorks ICM was selected for the establishment of drainage system model. The measured data on water level of the pumping station were used for model parameter calibration and verification to ensure that the model could be accurately used for drainage scenario analysis. The drainage system model and designed rainfall with different return period indicate that in order to achieve the ideal drainage standard, the diameter of the pipe in the study area and the green space need to be increased to reduce the number of overload pipelines and manhole overflow and shorten the duration of waterlogging. The model simulation results reflect the service performance of the whole drainage system and help managers to identify the problem pipelines. This also provides decision-making support for the designers on the transformation of drainage pipelines.</Para>
+          </Section1>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/11356_2015_Article_4707.pdf" TargetType="OnlinePDF"/>
+        <ArticleBackmatter>
+          <Acknowledgments>
+            <Heading>Acknowledgments</Heading>
+            <SimplePara>The authors wish to thank National Major Science and Technology Project on Water Pollution Control and Management of China (2013ZX07304-003) for the financial support of this study. The authors would also like to thank Shanghai Urban Drainage Ltd. for providing the network data, pumping water level data, and rainfall data. In addition, the authors also thank the Shanghai Municipal Bureau of Statistics (NBS) for providing the population density data and the Shanghai Water Supply Department for providing per capita water consumption life data.</SimplePara>
+          </Acknowledgments>
+          <Bibliography ID="Bib1">
+            <Heading>References</Heading>
+            <Citation ID="CR1">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Artina</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Bolognesi</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Liserra</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Maglionico</FamilyName>
+                </BibAuthorName>
+                <Year>2007</Year>
+                <ArticleTitle Language="En">Simulation of a storm sewer network in industrial area: comparison between models calibrated through experimental data</ArticleTitle>
+                <JournalTitle>Environ Model Softw</JournalTitle>
+                <VolumeID>22</VolumeID>
+                <IssueID>8</IssueID>
+                <FirstPage>1221</FirstPage>
+                <LastPage>1228</LastPage>
+              </BibArticle>
+              <BibUnstructured>Artina S, Bolognesi A, Liserra T, Maglionico A (2007) Simulation of a storm sewer network in industrial area: comparison between models calibrated through experimental data. Environ Model Softw 22(8):1221–1228</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>N</Initials>
+                  <FamilyName>Bastien</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Arthur</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Wallis</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Scholz</FamilyName>
+                </BibAuthorName>
+                <Year>2010</Year>
+                <ArticleTitle Language="En">The best management of SuDS treatment trains: a holistic approach</ArticleTitle>
+                <JournalTitle>Water Sci Technol</JournalTitle>
+                <VolumeID>61</VolumeID>
+                <IssueID>1</IssueID>
+                <FirstPage>263</FirstPage>
+                <LastPage>271</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC3cXisVeitLg%3D</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Bastien N, Arthur S, Wallis S, Scholz M (2010) The best management of SuDS treatment trains: a holistic approach. Water Sci Technol 61(1):263–271</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>N</Initials>
+                  <FamilyName>Bertrand</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Jefferson</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>P</Initials>
+                  <FamilyName>Jeffrey</FamilyName>
+                </BibAuthorName>
+                <Year>2008</Year>
+                <ArticleTitle Language="En">Cross sectoral and scale-up impacts of greywater recycling technologies on catchment hydrological flows</ArticleTitle>
+                <JournalTitle>Water Sci Technol</JournalTitle>
+                <VolumeID>57</VolumeID>
+                <IssueID>5</IssueID>
+                <FirstPage>741</FirstPage>
+                <LastPage>746</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD1czks1Wmsw%3D%3D</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Bertrand N, Jefferson B, Jeffrey P (2008) Cross sectoral and scale-up impacts of greywater recycling technologies on catchment hydrological flows. Water Sci Technol 57(5):741–746</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>W</Initials>
+                  <FamilyName>Boughton</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>O</Initials>
+                  <FamilyName>Droop</FamilyName>
+                </BibAuthorName>
+                <Year>2003</Year>
+                <ArticleTitle Language="En">Continuous simulation for design flood estimation-a review</ArticleTitle>
+                <JournalTitle>Environ Model Softw</JournalTitle>
+                <VolumeID>18</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>309</FirstPage>
+                <LastPage>318</LastPage>
+              </BibArticle>
+              <BibUnstructured>Boughton W, Droop O (2003) Continuous simulation for design flood estimation-a review. Environ Model Softw 18(4):309–318</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Brath</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Montanari</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Moretti</FamilyName>
+                </BibAuthorName>
+                <Year>2006</Year>
+                <ArticleTitle Language="En">Assessing the effect on flood frequency of land use change via hydrological simulation (with uncertainty)</ArticleTitle>
+                <JournalTitle>J Hydrol</JournalTitle>
+                <VolumeID>324</VolumeID>
+                <IssueID>1-4</IssueID>
+                <FirstPage>141</FirstPage>
+                <LastPage>153</LastPage>
+              </BibArticle>
+              <BibUnstructured>Brath A, Montanari A, Moretti G (2006) Assessing the effect on flood frequency of land use change via hydrological simulation (with uncertainty). J Hydrol 324(1-4):141–153</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>P</Initials>
+                  <FamilyName>Deng</FamilyName>
+                </BibAuthorName>
+                <Year>2006</Year>
+                <ArticleTitle Language="En">Study on designed capacity of municipal rainwater system: capacity balancing method</ArticleTitle>
+                <JournalTitle>Water Wastewater Eng</JournalTitle>
+                <VolumeID>32</VolumeID>
+                <IssueID>2</IssueID>
+                <FirstPage>21</FirstPage>
+                <LastPage>26</LastPage>
+              </BibArticle>
+              <BibUnstructured>Deng P (2006) Study on designed capacity of municipal rainwater system: capacity balancing method. Water Wastewater Eng 32(2):21–26</BibUnstructured>
+            </Citation>
+            <Citation ID="CR7">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Devesa</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Comas</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Turon</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Freixo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Carrasco</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Poch</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Scenario analysis for the role of sanitation infrastructures in integrated urban wastewater management</ArticleTitle>
+                <JournalTitle>Environ Model Softw</JournalTitle>
+                <VolumeID>24</VolumeID>
+                <IssueID>3</IssueID>
+                <FirstPage>371</FirstPage>
+                <LastPage>380</LastPage>
+              </BibArticle>
+              <BibUnstructured>Devesa F, Comas J, Turon C, Freixo A, Carrasco F, Poch M (2009) Scenario analysis for the role of sanitation infrastructures in integrated urban wastewater management. Environ Model Softw 24(3):371–380</BibUnstructured>
+            </Citation>
+            <Citation ID="CR8">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Devoldere</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>V</Initials>
+                  <FamilyName>Vandenberghe</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>P</Initials>
+                  <FamilyName>Borsanyi</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>I</Initials>
+                  <FamilyName>Nopens</FamilyName>
+                  <Particle>Van</Particle>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SWH</Initials>
+                  <FamilyName>Hulle</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Small-scale modelling of river subcatchments: the Kleine Ronsebeek brook case study</ArticleTitle>
+                <JournalTitle>Desalination</JournalTitle>
+                <VolumeID>237</VolumeID>
+                <IssueID>1-3</IssueID>
+                <FirstPage>92</FirstPage>
+                <LastPage>98</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/j.desal.2007.12.025</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1MXjs1Sgtw%3D%3D</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Devoldere S, Vandenberghe V, Borsanyi P, Van Nopens I, Hulle SWH (2009) Small-scale modelling of river subcatchments: the Kleine Ronsebeek brook case study. Desalination 237(1-3):92–98</BibUnstructured>
+            </Citation>
+            <Citation ID="CR9">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Djordjevic</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Prodanovic</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Maksimovic</FamilyName>
+                </BibAuthorName>
+                <Year>1999</Year>
+                <ArticleTitle Language="En">An approach to simulation of dual drainage</ArticleTitle>
+                <JournalTitle>Water Sci Technol</JournalTitle>
+                <VolumeID>39</VolumeID>
+                <IssueID>9</IssueID>
+                <FirstPage>95</FirstPage>
+                <LastPage>103</LastPage>
+              </BibArticle>
+              <BibUnstructured>Djordjevic S, Prodanovic D, Maksimovic C (1999) An approach to simulation of dual drainage. Water Sci Technol 39(9):95–103</BibUnstructured>
+            </Citation>
+            <Citation ID="CR10">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>CBS</Initials>
+                  <FamilyName>Dotto</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Kleidorfer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Deletic</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>W</Initials>
+                  <FamilyName>Rauch</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>DT</Initials>
+                  <FamilyName>McCarthy</FamilyName>
+                </BibAuthorName>
+                <Year>2011</Year>
+                <ArticleTitle Language="En">Performance and sensitivity analysis of stormwater models using a Bayesian approach and long-term high resolution data</ArticleTitle>
+                <JournalTitle>Environ Model Softw</JournalTitle>
+                <VolumeID>26</VolumeID>
+                <IssueID>10</IssueID>
+                <FirstPage>1225</FirstPage>
+                <LastPage>1239</LastPage>
+              </BibArticle>
+              <BibUnstructured>Dotto CBS, Kleidorfer M, Deletic A, Rauch W, McCarthy DT (2011) Performance and sensitivity analysis of stormwater models using a Bayesian approach and long-term high resolution data. Environ Model Softw 26(10):1225–1239</BibUnstructured>
+            </Citation>
+            <Citation ID="CR11">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>FA</Initials>
+                  <FamilyName>Huff</FamilyName>
+                </BibAuthorName>
+                <Year>1967</Year>
+                <ArticleTitle Language="En">Time distribution of rainfall in heavy storms</ArticleTitle>
+                <JournalTitle>Water Resour Res</JournalTitle>
+                <VolumeID>3</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>1007</FirstPage>
+                <LastPage>1019</LastPage>
+              </BibArticle>
+              <BibUnstructured>Huff FA (1967) Time distribution of rainfall in heavy storms. Water Resour Res 3(4):1007–1019</BibUnstructured>
+            </Citation>
+            <Citation ID="CR12">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>CJ</Initials>
+                  <FamilyName>Keifer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>HH</Initials>
+                  <FamilyName>Chu</FamilyName>
+                </BibAuthorName>
+                <Year>1957</Year>
+                <ArticleTitle Language="En">Synthetic storm patterns for drainage design</ArticleTitle>
+                <JournalTitle>J Hydraul Div ASCE</JournalTitle>
+                <VolumeID>83</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>1</FirstPage>
+                <LastPage>25</LastPage>
+              </BibArticle>
+              <BibUnstructured>Keifer CJ, Chu HH (1957) Synthetic storm patterns for drainage design. J Hydraul Div ASCE 83(4):1–25</BibUnstructured>
+            </Citation>
+            <Citation ID="CR13">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>JG</Initials>
+                  <FamilyName>Leskens</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Brugnach</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AY</Initials>
+                  <FamilyName>Hoekstra</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>W</Initials>
+                  <FamilyName>Schuurmans</FamilyName>
+                </BibAuthorName>
+                <Year>2014</Year>
+                <ArticleTitle Language="En">Why are decisions in flood disaster management so poorly supported by information from flood models?</ArticleTitle>
+                <JournalTitle>Environ Model Softw</JournalTitle>
+                <VolumeID>53</VolumeID>
+                <FirstPage>53</FirstPage>
+                <LastPage>61</LastPage>
+              </BibArticle>
+              <BibUnstructured>Leskens JG, Brugnach M, Hoekstra AY, Schuurmans W (2014) Why are decisions in flood disaster management so poorly supported by information from flood models? Environ Model Softw 53:53–61</BibUnstructured>
+            </Citation>
+            <Citation ID="CR14">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>YS</Initials>
+                  <FamilyName>Liew</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>Z</Initials>
+                  <FamilyName>Selamat</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AA</Initials>
+                  <FamilyName>Ghani</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>NA</Initials>
+                  <FamilyName>Zakaria</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Performance of a dry detention pond: case study of Kota Damansara, Selangor, Malaysia</ArticleTitle>
+                <JournalTitle>Urban Water J</JournalTitle>
+                <VolumeID>9</VolumeID>
+                <IssueID>2</IssueID>
+                <FirstPage>129</FirstPage>
+                <LastPage>136</LastPage>
+              </BibArticle>
+              <BibUnstructured>Liew YS, Selamat Z, Ghani AA, Zakaria NA (2012) Performance of a dry detention pond: case study of Kota Damansara, Selangor, Malaysia. Urban Water J 9(2):129–136</BibUnstructured>
+            </Citation>
+            <Citation ID="CR15">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Liguori</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MA</Initials>
+                  <FamilyName>Rico-Ramirez</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>ANA</Initials>
+                  <FamilyName>Schellart</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AJ</Initials>
+                  <FamilyName>Saul</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Using probabilistic radar rainfall nowcasts and NWP forecasts for flow prediction in urban catchments</ArticleTitle>
+                <JournalTitle>Atmos Res</JournalTitle>
+                <VolumeID>103</VolumeID>
+                <FirstPage>80</FirstPage>
+                <LastPage>95</LastPage>
+              </BibArticle>
+              <BibUnstructured>Liguori S, Rico-Ramirez MA, Schellart ANA, Saul AJ (2012) Using probabilistic radar rainfall nowcasts and NWP forecasts for flow prediction in urban catchments. Atmos Res 103:80–95</BibUnstructured>
+            </Citation>
+            <Citation ID="CR16">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Mannina</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>ANA</Initials>
+                  <FamilyName>Schellart</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Tait</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Viviani</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Uncertainty in sewer sediment deposit modelling: detailed vs simplified modelling approaches</ArticleTitle>
+                <JournalTitle>Phys Chem Earth</JournalTitle>
+                <VolumeID>42–44</VolumeID>
+                <FirstPage>11</FirstPage>
+                <LastPage>20</LastPage>
+              </BibArticle>
+              <BibUnstructured>Mannina G, Schellart ANA, Tait S, Viviani G (2012) Uncertainty in sewer sediment deposit modelling: detailed vs simplified modelling approaches. Phys Chem Earth 42–44:11–20</BibUnstructured>
+            </Citation>
+            <Citation ID="CR17">
+              <BibUnstructured>Ning J (2006) Shanghai short duration storm intensity formula and design hyetograph research. Master thesis, March 2006. School of Environmental Science and Engineering. Tongji University, Shanghai</BibUnstructured>
+            </Citation>
+            <Citation ID="CR18">
+              <BibUnstructured>Ostroff GM (2005) A micro &amp; macro-model approach to evaluating greenroofs as a CSO control in New York City. ASCE, Impacts of Global Climate Change: pp, 1-6</BibUnstructured>
+            </Citation>
+            <Citation ID="CR19">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>H</Initials>
+                  <FamilyName>Park</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>TJ</Initials>
+                  <FamilyName>Johnson</FamilyName>
+                </BibAuthorName>
+                <Year>1998</Year>
+                <ArticleTitle Language="En">Hydrodynamic modeling in solving combined sewer problems: a case study</ArticleTitle>
+                <JournalTitle>Water Res</JournalTitle>
+                <VolumeID>32</VolumeID>
+                <IssueID>6</IssueID>
+                <FirstPage>1948</FirstPage>
+                <LastPage>1956</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DyaK1cXks1Smu7g%3D</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Park H, Johnson TJ (1998) Hydrodynamic modeling in solving combined sewer problems: a case study. Water Res 32(6):1948–1956</BibUnstructured>
+            </Citation>
+            <Citation ID="CR20">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>DH</Initials>
+                  <FamilyName>Pilgrim</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>I</Initials>
+                  <FamilyName>Cordery</FamilyName>
+                </BibAuthorName>
+                <Year>1975</Year>
+                <ArticleTitle Language="En">Rainfall temporal patterns for design floods</ArticleTitle>
+                <JournalTitle>J Hydraul Div ASCE</JournalTitle>
+                <VolumeID>101</VolumeID>
+                <IssueID>1</IssueID>
+                <FirstPage>81</FirstPage>
+                <LastPage>95</LastPage>
+              </BibArticle>
+              <BibUnstructured>Pilgrim DH, Cordery I (1975) Rainfall temporal patterns for design floods. J Hydraul Div ASCE 101(1):81–95</BibUnstructured>
+            </Citation>
+            <Citation ID="CR21">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>ANA</Initials>
+                  <FamilyName>Schellart</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SJ</Initials>
+                  <FamilyName>Tait</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>RM</Initials>
+                  <FamilyName>Ashley</FamilyName>
+                </BibAuthorName>
+                <Year>2010</Year>
+                <ArticleTitle Language="En">Towards quantification of uncertainty in predicting water quality failures in integrated catchment model studies</ArticleTitle>
+                <JournalTitle>Water Res</JournalTitle>
+                <VolumeID>44</VolumeID>
+                <IssueID>13</IssueID>
+                <FirstPage>3893</FirstPage>
+                <LastPage>3904</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC3cXnslamsbo%3D</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Schellart ANA, Tait SJ, Ashley RM (2010) Towards quantification of uncertainty in predicting water quality failures in integrated catchment model studies. Water Res 44(13):3893–3904</BibUnstructured>
+            </Citation>
+            <Citation ID="CR22">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>ANA</Initials>
+                  <FamilyName>Schellart</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WJ</Initials>
+                  <FamilyName>Shepherd</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AJ</Initials>
+                  <FamilyName>Saul</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Influence of rainfall estimation error and spatial variability on sewer flow prediction at a small urban scale</ArticleTitle>
+                <JournalTitle>Adv Water Resour</JournalTitle>
+                <VolumeID>45</VolumeID>
+                <FirstPage>65</FirstPage>
+                <LastPage>75</LastPage>
+              </BibArticle>
+              <BibUnstructured>Schellart ANA, Shepherd WJ, Saul AJ (2012) Influence of rainfall estimation error and spatial variability on sewer flow prediction at a small urban scale. Adv Water Resour 45:65–75</BibUnstructured>
+            </Citation>
+            <Citation ID="CR23">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>TG</Initials>
+                  <FamilyName>Schmitt</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Thomas</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>N</Initials>
+                  <FamilyName>Ettrich</FamilyName>
+                </BibAuthorName>
+                <Year>2004</Year>
+                <ArticleTitle Language="En">Analysis and modeling of flooding in urban drainage systems</ArticleTitle>
+                <JournalTitle>J Hydrol</JournalTitle>
+                <VolumeID>299</VolumeID>
+                <IssueID>3-4</IssueID>
+                <FirstPage>300</FirstPage>
+                <LastPage>311</LastPage>
+              </BibArticle>
+              <BibUnstructured>Schmitt TG, Thomas M, Ettrich N (2004) Analysis and modeling of flooding in urban drainage systems. J Hydrol 299(3-4):300–311</BibUnstructured>
+            </Citation>
+            <Citation ID="CR24">
+              <BibUnstructured>Sun X (2009) Simulation of urban storm system and risk assessment of city waterlogging. Master thesis, May, 2009. School of Environmental Science and Engineering. Tianjin University, Tianjin</BibUnstructured>
+            </Citation>
+            <Citation ID="CR25">
+              <BibUnstructured>Tan Q (2007) Application of drainage model for urban storm water quantity management. PhD thesis, May 2007. School of Environmental Science and Engineering. Tongji University, Shanghai</BibUnstructured>
+            </Citation>
+            <Citation ID="CR26">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>X</Initials>
+                  <FamilyName>Wang</FamilyName>
+                </BibAuthorName>
+                <Year>2005</Year>
+                <ArticleTitle Language="En">Introduction on the general planning of storm water drainage system in the south area of Hong Kong Island</ArticleTitle>
+                <JournalTitle>Water Wastewater Eng</JournalTitle>
+                <VolumeID>31</VolumeID>
+                <IssueID>6</IssueID>
+                <FirstPage>103</FirstPage>
+                <LastPage>107</LastPage>
+              </BibArticle>
+              <BibUnstructured>Wang X (2005) Introduction on the general planning of storm water drainage system in the south area of Hong Kong Island. Water Wastewater Eng 31(6):103–107</BibUnstructured>
+            </Citation>
+            <Citation ID="CR27">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>P</Initials>
+                  <FamilyName>Willems</FamilyName>
+                </BibAuthorName>
+                <Year>2008</Year>
+                <ArticleTitle Language="En">Quantification and relative comparison of different types of uncertainties in sewer water quality modeling</ArticleTitle>
+                <JournalTitle>Water Res</JournalTitle>
+                <VolumeID>42</VolumeID>
+                <IssueID>13</IssueID>
+                <FirstPage>3539</FirstPage>
+                <LastPage>3551</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1cXnsFagu70%3D</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Willems P (2008) Quantification and relative comparison of different types of uncertainties in sewer water quality modeling. Water Res 42(13):3539–3551</BibUnstructured>
+            </Citation>
+            <Citation ID="CR28">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Xiangyu</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>N</Initials>
+                  <FamilyName>Guangheng</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>H</Initials>
+                  <FamilyName>Shibo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Fuqiang</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>Z</Initials>
+                  <FamilyName>Tong</FamilyName>
+                </BibAuthorName>
+                <Year>2006</Year>
+                <ArticleTitle Language="En">Simulative analysis on storm flood in typical urban region of Beijing based on SWMM</ArticleTitle>
+                <JournalTitle>Water Resources and Hydropower Engineering</JournalTitle>
+                <VolumeID>37</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>64</FirstPage>
+                <LastPage>68</LastPage>
+              </BibArticle>
+              <BibUnstructured>Xiangyu C, Guangheng N, Shibo H, Fuqiang T, Tong Z (2006) Simulative analysis on storm flood in typical urban region of Beijing based on SWMM. Water Resources and Hydropower Engineering 37(4):64–68</BibUnstructured>
+            </Citation>
+            <Citation ID="CR29">
+              <BibUnstructured>Zetter R (2012) World disaster report: focus on forced migration and displacement. Int Fed Red Cross Red Crescent Soc pp, 260–267</BibUnstructured>
+            </Citation>
+            <Citation ID="CR30">
+              <BibUnstructured>Zhang W (2012) Research on sediment deposition in drainage pipes using InfoWorks CS model. Master thesis, May, 2012. Municipal Engineering. Hunan University, Hunan</BibUnstructured>
+            </Citation>
+            <Citation ID="CR31">
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>Q</Initials>
+                  <FamilyName>Zou</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JZ</Initials>
+                  <FamilyName>Zhou</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Zhou</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Guo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WP</Initials>
+                  <FamilyName>Deng</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MQ</Initials>
+                  <FamilyName>Yang</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>L</Initials>
+                  <FamilyName>Liao</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">Fuzzy risk analysis of flood disasters based on diffused-interior-outer-set model</ArticleTitle>
+                <JournalTitle>Expert Syst Appl</JournalTitle>
+                <VolumeID>39</VolumeID>
+                <IssueID>6</IssueID>
+                <FirstPage>6213</FirstPage>
+                <LastPage>6220</LastPage>
+              </BibArticle>
+              <BibUnstructured>Zou Q, Zhou JZ, Zhou C, Guo J, Deng WP, Yang MQ, Liao L (2012) Fuzzy risk analysis of flood disasters based on diffused-interior-outer-set model. Expert Syst Appl 39(6):6213–6220</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ArticleBackmatter>
+      </Article>
+    </JournalOnlineFirst>
+  </Journal>
+</Publisher>

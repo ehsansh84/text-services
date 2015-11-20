@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-014-0807-x" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>807</ArticleID>
+            <ArticleDOI>10.1007/s00066-014-0807-x</ArticleDOI>
+            <ArticleSequenceNumber>7</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Effect of the coffee ingredient cafestol on head and neck squamous cell carcinoma cell lines</ArticleTitle>
+            <ArticleTitle Language="De">Wirkung des Kaffeebestandteils Cafestol auf Kopf-Hals-Tumorzelllinien</ArticleTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>511</ArticleFirstPage>
+            <ArticleLastPage>517</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+              </Received>
+              <Accepted>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2014</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ulana</GivenName>
+                  <FamilyName>Kotowski</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gregor</GivenName>
+                  <FamilyName>Heiduschka</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+                <Contact>
+                  <Phone>+43 1 40400 2078</Phone>
+                  <Email>gregor.heiduschka@meduniwien.ac.at</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rudolf</GivenName>
+                  <FamilyName>Seemann</FamilyName>
+                  <Degrees>MD, DMD, MSc, MBA</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Julia</GivenName>
+                  <FamilyName>Eckl-Dorna</FamilyName>
+                  <Degrees>MD, PhD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Rainer</GivenName>
+                  <FamilyName>Schmid</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Veronika</GivenName>
+                  <FamilyName>Kranebitter</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Isabella</GivenName>
+                  <FamilyName>Stanisz</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Markus</GivenName>
+                  <FamilyName>Brunner</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Claudia</GivenName>
+                  <FamilyName>Lill</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Dietmar</GivenName>
+                  <FamilyName>Thurnher</FamilyName>
+                  <Degrees>MD</Degrees>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Otorhinolaryngology, Head and Neck Surgery</OrgDivision>
+                <OrgName>Medical University of Vienna</OrgName>
+                <OrgAddress>
+                  <Street>Waehringer Guertel 18–20</Street>
+                  <Postcode>1090</Postcode>
+                  <City>Vienna</City>
+                  <Country>Austria</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Departement of Cranio-, Maxillofacial- and Oral Surgery</OrgDivision>
+                <OrgName>Medical University of Vienna</OrgName>
+                <OrgAddress>
+                  <City>Vienna</City>
+                  <Country>Austria</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Department of Radiotherapy</OrgDivision>
+                <OrgName>Medical University of Vienna</OrgName>
+                <OrgAddress>
+                  <City>Vienna</City>
+                  <Country>Austria</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Background and purpose</Heading>
+                <Para>Cafestol is a diterpene molecule found in coffee beans and has anticarcinogenic properties. The aim of the study was to examine the effects of cafestol in head and neck squamous cell carcinoma (HNSCC) cells.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Materials and methods</Heading>
+                <Para>Three HNSCC cell lines (SCC25, CAL27 and FaDu) were treated with increasing doses of cafestol. Then combination experiments with cisplatin and irradiation were carried out. Drug interactions and possible synergy were calculated using the combination index analysis. Clonogenic assays were performed after irradiation with 2, 4, 6 and 8 Gy, respectively, and the rate of apoptosis was measured with flow cytometry.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para>Treatment of HNSCC cells with cafestol leads to a dose-dependent reduction of cell viability and to induction of apoptosis. Combination with irradiation shows a reduction of clonogenic survival compared to each treatment method alone. In two of the cell lines a significant additive effect was observed.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusion</Heading>
+                <Para>Cafestol is a naturally occurring effective compound with growth-inhibiting properties in head and neck cancer cells. Moreover, it leads to a significant inhibition of colony formation.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="De" OutputMedium="All">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec5">
+                <Heading>Hintergrund und Ziel</Heading>
+                <Para>Cafestol ist ein Diterpen, das in der Kaffeebohne vorkommt und antikanzerogene Eigenschaften besitzt. Ziel der Studie war, die Wirkung von Cafestol auf Kopf-Hals-Tumorzelllinien zu untersuchen.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec6">
+                <Heading>Material und Methodik</Heading>
+                <Para>Drei Kopf-Hals-Tumorzelllinien (SCC25, CAL27 und FaDu) wurden mit steigenden Cafestol-Dosen behandelt. Anschließend fanden Kombinationsexperimente mit Cisplatin und Bestrahlung statt. Die Wechselwirkung zwischen den Substanzen und mögliche synergistische Wirkungen wurden mit dem Combination-Index analysiert. Koloniebildungstests wurden nach Bestrahlung mit 2, 4, 6 und 8 Gy durchgeführt. Apoptose wurde mittels Durchflusszytometrie gemessen.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7">
+                <Heading>Ergebnisse</Heading>
+                <Para>Die Behandlung der Kopf-Hals-Tumorzelllinien mit Cafestol führt zu einer dosisabhängigen Abnahme des Zellüberlebens und zur Induktion von Apoptose. Die Kombination von Cafestol mit Bestrahlung zeigt eine geringere Koloniebildung verglichen mit den einzelnen Behandlungsmethoden. In 2 Zelllinien konnten wir einen signifikanten additiven Effekt nachweisen.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8">
+                <Heading>Schlussfolgerung</Heading>
+                <Para>Cafestol ist ein natürlich vorkommender, effektiver und vielversprechender Wirkstoff mit wachstumshemmenden Eigenschaften in Kopf-Hals-Tumorzelllinien. Zudem führt er zu einer signifikanten Inhibition der Koloniebildung.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Phytochemicals</Keyword>
+              <Keyword>Irradiation</Keyword>
+              <Keyword>Head and neck cancer</Keyword>
+              <Keyword>Cytotoxins</Keyword>
+              <Keyword>Cisplatin</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Phytochemikalien</Keyword>
+              <Keyword>Bestrahlung</Keyword>
+              <Keyword>Kopf- und Halstumoren</Keyword>
+              <Keyword>Zytotoxine</Keyword>
+              <Keyword>Cisplatin</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <Body>
+            <Para>With more than 550,000 cases per year worldwide, head and neck squamous cell carcinoma (HNSCC) is still a significant cause of death [<CitationRef CitationID="CR7">7</CitationRef>]. At the time of diagnosis, HNSCC tumours are often already at an advanced stage with rather unspecific symptoms. Currently, surgery, radio- and chemotherapy are the available treatment options but they are all accompanied by significant side effects [<CitationRef CitationID="CR20">20</CitationRef>, <CitationRef CitationID="CR21">21</CitationRef>]. In advanced stages intensifying the treatment by combining modalities does not lead to a better outcome [<CitationRef CitationID="CR5">5</CitationRef>]. Thus, there is a need for new strategies with fewer side effects in the treatment of HNSCC tumors.</Para>
+            <Para>Naturally occurring compounds have historically played an important role as a source of new therapeutic agents [<CitationRef CitationID="CR11">11</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>] and more than 60 % of approved drugs are based on natural products [<CitationRef CitationID="CR17">17</CitationRef>]. In recent decades, molecular research has focused on the development of synthetic drugs, however without achieving the expected success. Hence, the interest in natural compounds revived. Many phytochemical compounds like green tea polyphenols, curcurmin, resveratrol or lycopene have already shown chemopreventive effects in head and neck cancer [<CitationRef CitationID="CR19">19</CitationRef>]. Substances like betulinic acid [<CitationRef CitationID="CR6">6</CitationRef>], sulforaphane [<CitationRef CitationID="CR14">14</CitationRef>] or resveratrol [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>] have been tested in cancer cell lines and showed a direct cytotoxic effect.</Para>
+            <Para>Cafestol is a diterpene molecule [<CitationRef CitationID="CR1">1</CitationRef>] found in coffee beans with varying amounts in different coffee plant species. Cafestol has anti-inflammatory and anti-carcinogenic properties due to the induction of phase II detoxifying enzymes and inhibition of phase I activating enzymes [<CitationRef CitationID="CR2">2</CitationRef>]. At the same time cafestol may increase serum cholesterol and therefore increase risk of cardiovascular diseases [<CitationRef CitationID="CR22">22</CitationRef>].</Para>
+            <Para>So far there are only two studies investigating the effects of cafestol in malignant cell lines in vitro. In pleural mesothelioma cell lines cafestol induced apoptotic cell death [<CitationRef CitationID="CR15">15</CitationRef>]. In renal carcinoma cell lines treatment with cafestol also led to apoptosis with reduction of mitochondrial membrane potential, activation of caspase 3, cytochrome c release and down-regulation of anti-apoptotic proteins [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+            <Para>The aim of this study was to examine the effect of cafestol in the three HNSCC cell lines SCC25, CAL27 and FaDu. Furthermore, we hypothesized synergistic effects of cafestol in combination with the standard treatment methods. Therefore we co-incubated the cells with cafestol and cisplatin or irradiation. We carried out cell viability and clonogenic assays. Apoptosis was measured by flow cytometry.</Para>
+            <Section1 ID="Sec1">
+              <Heading>Materials and methods</Heading>
+              <Section2 ID="Sec2">
+                <Heading>Study drugs</Heading>
+                <Para>Cafestol was purchased from Sigma–Aldrich (St. Louis, MO, USA), dissolved in dimethylsulfoxide (DMSO) to a 100 mM stock solution and stored at − 20º. Cisplatin was obtained from a ready-to-use infusion.</Para>
+              </Section2>
+              <Section2 ID="Sec3">
+                <Heading>Cell culture</Heading>
+                <Para>The head and neck squamous cell carcinoma cell lines SCC25 and FaDu were obtained from the American Type Culture Collection (Manassas, VA, USA). CAL27 was obtained from the German Collection of Microorganisms and Cell Cultures (Braunschweig, Germany). Tumour cells were cultured in Quantum 263 medium (PAA Laboratories, Linz, Austria) supplemented with 1 % penicillin–streptomycin at 37 °C in a humidified atmosphere of 5 % CO<Subscript>2</Subscript>.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Cell viability assay</Heading>
+                <Para>To determine the cytotoxic effects of cafestol on tumour cells in vitro we performed cell viability assays using Cell Counting Kit-8 (CCK-8, Dojindo Molecular Technologies, Gaithersburg, MD, USA), a variant of the MTT assay. Cells were seeded at 3 × 10<Superscript>3</Superscript> cells per well into 96-well plates and incubated for 24 h. Then cells were treated with increasing concentrations of cafestol (0–200 μM) or aliquots of DMSO as control. For combination experiments cells were co-incubated either with cisplatin or were irradiated subsequently. After 72 h of incubation cell viability was measured by CCK-8 according to manufacturer’s protocol. Experiments were carried out at least three independent times and were performed in triplicate.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Irradiation</Heading>
+                <Para>Cells were irradiated using a 150 kV x-ray machine (Gulmay D3300, Gulmay Medical Ltd., Byfleet, UK) at a dose rate of 2 Gy/min at room temperature. The field size was 20 × 20 cm and the focus–object distance was 52 cm. For dosimetry measurements using thermoluminescence dosimeters (TLDs) were performed.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Clonogenic assay</Heading>
+                <Para>Clonogenic assays were performed as described by Franken et al. [<CitationRef CitationID="CR8">8</CitationRef>]. In short, 3- to 15 × 10<Superscript>2</Superscript> cells were plated in 6-well plates and incubated for 24 h. Then cells were treated with 30 or 60 μM cafestol and/or irradiated with 2, 4, 6 or 8 Gy. After 72 h drug-containing medium was replaced by drug-free medium. After further 10 days cells were washed with phosphate-buffered saline, fixed with methanol and stained with methylene blue. Colonies with more than 50 cells were regarded as survivors and counted.</Para>
+              </Section2>
+              <Section2 ID="Sec7">
+                <Heading>Flow cytometry analysis</Heading>
+                <Para>In 6-well plates 1 × 10<Superscript>5</Superscript> cells were seeded. After 24 h cells were treated with cafestol. Apoptosis was measured after 48 and 72 h using the Annexin-V Apoptosis Detection Kit (Bender MedSystems, Vienna, Austria). Apoptosis was defined as Ann+/PI–. Ann–/PI+ and Ann+/PI+ were both defined as necrotic since late apoptosis and necrosis cannot be differentiated with this assay.</Para>
+              </Section2>
+              <Section2 ID="Sec8">
+                <Heading>Statistical analysis</Heading>
+                <Para>Statistical analysis for the cell viability assays and flow cytometry experiments was performed using either Graph Pad 5.0 software by PRISM® (GraphPad Software Inc., San Diego, CA, USA) or SPSS® Version 21 software (IBM®). The presence of homoscedasticity was analysed and either Tukey or Games–Howell post hoc tests were performed.</Para>
+                <Para>Based on the data of the cell viability assays, dose–response curves were generated with the GraphPad 5.0 software from PRISM® (GraphPad Software Inc., San Diego, CA, USA). Interactions with cisplatin were calculated with the CalcuSyn® software (Version 2.0, Biosoft, Cambridge, UK) based on the Chou–Talalay equation [<CitationRef CitationID="CR4">4</CitationRef>].</Para>
+                <Para>The outcome of the clonogenic assays was evaluated by a linear–quadratic model according to the protocol of Franken et al. [<CitationRef CitationID="CR8">8</CitationRef>]. For details see Table <InternalRef RefID="Tab2">2</InternalRef>. Error bars represent standard errors of the means (SEM). All experiments were repeated at least three times. <Emphasis Type="Italic">P</Emphasis>-values &lt; 0.05 were considered statistically significant.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec9">
+              <Heading>Results</Heading>
+              <Section2 ID="Sec10">
+                <Heading>Effect of cafestol on cell viability</Heading>
+                <Para>Firstly, the three HNSCC cell lines SCC25, CAL27 and FaDu were exposed for 72 h to increasing concentrations of cafestol (0–200 μM). Growth inhibition was measured using the CCK-8 assay. Treatment with cafestol led to a dose-dependent inhibition of cell viability in all tested cell lines (Fig. <InternalRef RefID="Fig1">1</InternalRef>). IC<Subscript>50</Subscript> ranged from 49.8–72.7 μM (Table <InternalRef RefID="Tab1">1</InternalRef>). FaDu, a pharyngeal cancer cell line, was most sensitive to the treatment.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Dose–response curves after treatment with cafestol (0–200 μM) or cisplatin (0–20 μM) or the combination of both in a ratio of 10:1. SCC25, CAL27 and FaDu cells were treated with increasing drug dosages and incubated for 72 h. Error bars represent the standard error of the mean (<Emphasis Type="Italic">SEM</Emphasis>)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/66_2014_807_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                  <Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>IC50 values (in µM) and standard errors of the mean (<Emphasis Type="Italic">SEM</Emphasis>) for the proliferation assays after 72 h of treatment</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="7">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1" morerows="1"/>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>SCC25</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c5" namest="c4">
+                            <SimplePara>CAL27</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c7" namest="c6">
+                            <SimplePara>FaDu</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c2">
+                            <SimplePara>IC50</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>SEM</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>IC50</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>SEM</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>IC50</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>SEM</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Cafestol</Emphasis>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>71.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1.09</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>72.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>1.14</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>49.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.09</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>
+                              <Emphasis Type="Bold">Cisplatin</Emphasis>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>2.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>1.09</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>2.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>1.12</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>1.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>1.31</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec11">
+                <Heading>Combinatorial effect of cafestol and cisplatin on cell viability</Heading>
+                <Para>To investigate whether cafestol would enhance the effect of a standard chemotherapeutic agent we treated cells simultaneously with cafestol and cisplatin. Cisplatin and cafestol were combined at a ratio of 1:10. The results of the cell viability assays are shown in Fig. <InternalRef RefID="Fig1">1</InternalRef>. The effect was calculated with CalcuSyn software and expressed as CI (combination index) versus Fa (fraction affected): CI &lt; 1 indicates synergy, CI = 1 an additive effect and CI &gt; 1 indicates antagonism. CI plots of the combination experiments are shown in Fig. <InternalRef RefID="Fig2">2</InternalRef>. In all tested cell lines a mainly antagonistic effect was observed.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Combination index (<Emphasis Type="Italic">CI</Emphasis>) plots for the simultaneous treatment with cafestol and cisplatin. CI values where calculated by CalcuSyn® software: CI = 1 indicates an additive effect, CI &lt; 1 indicates a synergistic effect and CI &gt; 1 indicates an antagonistic effect</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO2">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2014_807_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec12">
+                <Heading>Combinatorial effect of cafestol and radiation on cell viability and on clonogenic survival</Heading>
+                <Para>Subsequently, we performed combination experiments with cafestol and radiation. Therefore, cell viability assays were carried out. Cells were treated with cafestol (0–200 μM) und subsequently irradiated (0–8 Gy). After 72 h growth inhibition was measured with the CCK-8 assay. As shown in Fig. <InternalRef RefID="Fig3">3</InternalRef>, the combined treatment led to a dose-dependent inhibition of cell viability in all tested cell lines.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 3</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Dose–response curves after treatment with cafestol (0–200 μM) and irradiation. SCC25, CAL27 and FaDu cells were treated with increasing dosages of cafestol, subsequently irradiated with 2, 4 or 8 Gy and incubated for 72 h. Error bars represent the standard error of the mean (<Emphasis Type="Italic">SEM</Emphasis>)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO3">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/66_2014_807_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+                <Para>To determine the long-term effect of treatment on cells, clonogenic assays were performed. In all tested cell lines treatment with cafestol and/or radiation led to a reduced clonogenic survival (Fig. <InternalRef RefID="Fig4">4</InternalRef>). Squared radiation dose and cafestol were significant factors of inhibited colony forming in each of the three cell lines (see Table <InternalRef RefID="Tab2">2</InternalRef>, all estimated coefficients significantly &lt; 0). CAL27 and FaDu showed significantly inhibited colony forming after treatment with radiation (see Table <InternalRef RefID="Tab2">2</InternalRef>, coefficient α). In SCC25 this factor—although negative—was not significant. For the combined treatment the interaction of radiation and cafestol was proven to be significant additive in SCC25 and CAL27. For FaDu this was not the case. Although negative, the coefficient δwas not significant (see Table <InternalRef RefID="Tab2">2</InternalRef>).<Table Float="Yes" ID="Tab2">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Statistical analysis of clonogenic assays</SimplePara>
+                        <SimplePara>Estimates and standard errors for α and β, 95 % confidence interval (<Emphasis Type="Italic">CI</Emphasis>) were determined by curve fitting with a linear–quadratic model. The model was formulated as S<Subscript>(D)</Subscript>/S<Subscript>(O)</Subscript> = exp(intercept + α × D + β × D<Superscript>2 </Superscript>+ γ × cafestol + δ × D × cafestol), where S<Subscript>(D)</Subscript>/S<Subscript>(O)</Subscript> is colonies divided by cells, α is the coefficient of radiation dose, β the coefficient of squared radiation dose, γ the factor of cafestol dose, and δ the coefficient of cafestol–radiation dose interaction. δ indicates the type of additivity. As proposed by Franken et al the model was fitted using a weighted least squares algorithm with weights minimizing sum(weight × error<Superscript>2</Superscript>) to compensate different variances. The weights were calculated as colonies × cells/(cells – colonies). The estimated coefficients are reported in column 1 of each experiment (SCC25, CAL27 and FaDu), column two reports the <Emphasis Type="Italic">p</Emphasis>-value of the Wald’s test (determines probability that estimated coefficient is 0). Coefficients describing the enhancement of radiotherapy of two different concentrations (30, 60 μM) of cafestol on SCC25, CAL27 and FaDu were calculated. The last row prints each model’s characteristics such as residual error, multiple R<Superscript>2</Superscript>, adjusted R<Superscript>2</Superscript> and F-statistic</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="7">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1"/>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>SCC25</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c5" namest="c4">
+                            <SimplePara>CAL27</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c7" namest="c6">
+                            <SimplePara>FaDu</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Coefficient</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Estimate ± SD (95 % CI)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>P<Subscript>Wald</Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>Estimate ± SD (95 % CI)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>P<Subscript>Wald</Subscript>
+                            </SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>Estimate ± SD (95 % CI)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>P<Subscript>Wald</Subscript>
+                            </SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Intercept (ref = 0 μM cafestol)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>0.072 ± 0.098</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.464</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.073 ± 0.054</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.186</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.079 ± 0.086</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.362</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>α (Gy<Superscript>−1</Superscript>) ± 95 % CI</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>− 0.032 ± 0.052 (−0.1365,0.0719)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.539</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>− 0.116 ± 0.031 (− 0.1788,− 0.054)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>&lt; 0.001</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>− 0.169 ± 0.058 (− 0.2848, − 0.0533)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.005</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>β (Gy<Superscript>−2</Superscript>) ± 95 % CI</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>− 0.022 ± 0.006 (− 0.0343,− 0.0092)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>&lt; 0.001</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>− 0.021 ± 0.004 (− 0.0286, − 0.0126)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>&lt; 0.001</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>− 0.021 ± 0.008 (− 0.0376, − 0.0051)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.011</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>γ (μM<Subscript> cafestol</Subscript>
+                              <Superscript> −1</Superscript>)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>− 0.009 ± 0.003 (− 0.0146, − 0.0035)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.002</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>− 0.012 ± 0.002 (− 0.0152, − 0.0085)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>&lt; 0.001</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>− 0.021 ± 0.004 (− 0.0286, − 0.014)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>&lt; 0.001</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>δ (Gy<Superscript>−1</Superscript>μM<Subscript> cafestol</Subscript>
+                              <Superscript> −1</Superscript>)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>− 0.002 ± 0.001 (− 0.0031, -3e-04)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.020</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>− 0.001 ± 0.0004 (− 0.0021, − 4e-04)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.006</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>− 0.0005 ± 0.001 (− 0.0025, 0.0016)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>0.660</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Model characteristics</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c3" namest="c2">
+                            <SimplePara>Residual standard error: 2.61 on 85 DOF</SimplePara>
+                            <SimplePara>Multiple R-squared: 0.765</SimplePara>
+                            <SimplePara>Adjusted R-squared: 0.754</SimplePara>
+                            <SimplePara>F-statistic: 69.2 on 4 and 85 DOF, <Emphasis Type="Italic">p</Emphasis>-value:</SimplePara>
+                            <SimplePara> 0.001</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c5" namest="c4">
+                            <SimplePara>Residual standard error: 1.68 on 85</SimplePara>
+                            <SimplePara>DOF Multiple R-squared: 0.926</SimplePara>
+                            <SimplePara>Adjusted R-squared: 0.922</SimplePara>
+                            <SimplePara>F-statistic: 264 on 4 and 85 DOF, <Emphasis Type="Italic">p</Emphasis>-value:</SimplePara>
+                            <SimplePara> 0.001</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c7" namest="c6">
+                            <SimplePara>Residual standard error: 2.2 on 85</SimplePara>
+                            <SimplePara>DOF Multiple R-squared: 0.812</SimplePara>
+                            <SimplePara>Adjusted R-squared: 0.803</SimplePara>
+                            <SimplePara>F-statistic: 91.9 on 4 and 85 DOF, <Emphasis Type="Italic">p</Emphasis>-value:</SimplePara>
+                            <SimplePara> 0.001</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>
+                        <Emphasis Type="Italic">DOF = degrees of freedom</Emphasis>, SD = standard deviation</SimplePara>
+                    </tfooter>
+                  </Table>
+                  <Figure Category="Standard" Float="Yes" ID="Fig4">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 4</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Clonogenic survival after treatment with cafestol and irradiation. Variable amounts of SCC25, CAL27 and FaDu cells were treated with 30 or 60 μM cafestol and subsequently irradiated with 2, 4, 6 or 8 Gy. After 72 h drug-containing medium was replaced by drug-free medium. After further 10 days surviving colonies where counted. Results are shown in a semilogarithmic scale</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO4">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/66_2014_807_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec13">
+                <Heading>Cafestol induces apoptosis in HNSCC</Heading>
+                <Para>Since treatment with cafestol led to reduced viability of cancer cells, flow cytometry was performed to evaluate the induction of apoptosis. SCC25, CAL27 and FaDu were treated with 50 and 100 μM cafestol and incubated for 48 and 72 h. Treatment with cafestol resulted in increased apoptosis in all tested cell lines as compared to untreated control (Fig. <InternalRef RefID="Fig5">5</InternalRef>). <Figure Category="Standard" Float="Yes" ID="Fig5">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 5</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Evaluation of apoptosis by flow cytometry. SCC25, CAL27 and FaDu cells were treated with 50 or 100 μM cafestol. Apoptosis was measured after 48 and 72 h by flow cytometry using the Annexin-V Apoptosis Detection Kit. Error bars represent the standard error of the mean (<Emphasis Type="Italic">SEM</Emphasis>)</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO5">
+                      <ImageObject Color="BlackWhite" FileRef="MediaObjects/66_2014_807_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="Linedraw"/>
+                    </MediaObject>
+                  </Figure>
+                </Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec14">
+              <Heading>Discussion</Heading>
+              <Para>In recent years, dietary phytochemicals have gained attention in both cancer prevention and cancer therapy [<CitationRef CitationID="CR9">9</CitationRef>]. So far, there have not been many articles that address the possible cytotoxic effect of cafestol. To our knowledge, this is the first report about the effect of cafestol in HNSCC cell lines. Our results show that cafestol is an effective cytotoxic agent in HNSCC cell lines. Treatment of our three cell lines showed a dose-dependent reduction of cell viability with an IC<Subscript>50</Subscript> ranging from 49.8–72.7 μM. This is in accordance to the literature since in pleural mesothelioma cells the IC<Subscript>50</Subscript> was determined between 56.00 μM and 82.07 μM after 48 h [<CitationRef CitationID="CR15">15</CitationRef>]. In renal carcinoma cells, the IC<Subscript>50</Subscript> was measured at 40 μM after 24 h [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+              <Para>This growth inhibition is mediated by the induction of apoptosis. Our investigations showed that treatment of HNSCC with cafestol with 50 and 100 μM leads to a significant increase of apoptosis compared to untreated control cells. Likewise, cafestol induces apoptosis in the previously mentioned renal and pleural mesothelioma cell lines [<CitationRef CitationID="CR15">15</CitationRef>] as well in breast und brain cancer cell lines [<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+              <Para>For the very first time, we examined the combinatorial effect of cafestol and chemotherapy or radiotherapy in vitro as irradiation is one of the principal therapy options in treatment of HNSCC lesions apart from upfront surgery [<CitationRef CitationID="CR10">10</CitationRef>]. Although being an effective therapy, radiotherapy comes with significant side effects. To improve the therapeutic outcome often chemotherapeutic agents are applied concomitantly [<CitationRef CitationID="CR13">13</CitationRef>]. This approach frequently leads to more toxicity at the expense of healthy tissue. An approach in oncologic research therefore is to find agents that render malignant cells more sensitive to radiotherapy without being toxic themselves—so called radiosensitizers. A prominent group within the radiosensitizers are natural compounds like curcumin, genistein or resveratrol which have shown their respective potential in various malignancies [<CitationRef CitationID="CR18">18</CitationRef>]. Hence, we combined cafestol with irradiation and demonstrated an additive effect in two of our HNSCC cell lines. Our experiments showed that combined treatment leads to a significantly stronger inhibition of clonogenic survival compared to each treatment method alone. So far, such an effect of cafestol has not been described in the literature before.</Para>
+              <Para>Because cisplatin is the most commonly used chemotherapeutic agent for the treatment of HNSCC, we combined it with cafestol and assessed the interaction. In all of the tested cell lines this combination showed an antagonistic effect. Thus cafestol does not seem to be a suitable combination partner for cisplatin as it shows a protective effect.</Para>
+            </Section1>
+            <Section1 ID="Sec15" Type="Conclusion">
+              <Heading>Conclusion</Heading>
+              <Para>The results of our research have shown for the first time that cafestol is an effective growth-inhibiting compound in HNSCC that leads to induction of apoptosis. Combination of this agent with irradiation leads to a significant decrease of clonogenic survival in the cell lines SCC25 and CAL27. Therefore we consider cafestol as a noteworthy substance commending itself for further studies.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2014_Article_807.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Ethics>
+              <Heading>Compliance with ethical guidelines</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Conflict of interest</Heading>
+                <Para>U. Kotowski, G. Heiduschka, R. Seemann, J. Eckl-Dorna, R. Schmid, V. Kranebitter, I. Stanisz, M. Brunner, C. Lilland D. Thurnher state that there are no conflicts of interest.</Para>
+              </FormalPara>
+              <SimplePara>The accompanying manuscript does not include studies on humans or animals.</SimplePara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibUnstructured>Breitmaier E (2006) Terpenes. Wiley - VCH Verlag GmbH &amp; Co. KGaA, Weinheim, Germany</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Cavin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Holzhaeuser</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Scharf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Constable</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WW</Initials>
+                    <FamilyName>Huber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Schilter</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Cafestol and kahweol, two coffee specific diterpenes with anticarcinogenic activity</ArticleTitle>
+                  <JournalTitle>Food Chem Toxicol</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>1155</FirstPage>
+                  <LastPage>1163</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0278-6915(02)00029-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XksVamtbw%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12067578</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cavin C, Holzhaeuser D, Scharf G, Constable A, Huber WW, Schilter B (2002) Cafestol and kahweol, two coffee specific diterpenes with anticarcinogenic activity. Food Chem Toxicol 40:1155–1163</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MJ</Initials>
+                    <FamilyName>Choi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EJ</Initials>
+                    <FamilyName>Park</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Oh</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Cafestol, a coffee-specific diterpene, induces apoptosis in renal carcinoma Caki cells through down-regulation of anti-apoptotic proteins and Akt phosphorylation</ArticleTitle>
+                  <JournalTitle>Chem Biol Interact</JournalTitle>
+                  <VolumeID>190</VolumeID>
+                  <FirstPage>102</FirstPage>
+                  <LastPage>108</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cbi.2011.02.013</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXltFeltb0%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21334318</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Choi MJ, Park EJ, Oh JH et al (2011) Cafestol, a coffee-specific diterpene, induces apoptosis in renal carcinoma Caki cells through down-regulation of anti-apoptotic proteins and Akt phosphorylation. Chem Biol Interact 190:102–108</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T-C</Initials>
+                    <FamilyName>Chou</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Theoretical basis, experimental design, and computerized simulation of synergism and antagonism in drug combination studies</ArticleTitle>
+                  <JournalTitle>Pharmacol Rev</JournalTitle>
+                  <VolumeID>58</VolumeID>
+                  <FirstPage>621</FirstPage>
+                  <LastPage>681</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1124/pr.58.3.10</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD28XhtVOhtLfL</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16968952</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chou T-C (2006) Theoretical basis, experimental design, and computerized simulation of synergism and antagonism in drug combination studies. Pharmacol Rev 58:621–681</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Corry</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LJ</Initials>
+                    <FamilyName>Peters</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Rischin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Optimising the therapeutic ratio in head and neck cancer</ArticleTitle>
+                  <JournalTitle>Lancet Oncol</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>287</FirstPage>
+                  <LastPage>291</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1470-2045(09)70384-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20202613</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Corry J, Peters LJ, Rischin D (2010) Optimising the therapeutic ratio in head and neck cancer. Lancet Oncol 11:287–291</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Eder-Czembirek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BM</Initials>
+                    <FamilyName>Erovic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Czembirek</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Betulinic acid a radiosensitizer in head and neck squamous cell carcinoma cell lines</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>186</VolumeID>
+                  <FirstPage>143</FirstPage>
+                  <LastPage>148</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-010-2069-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20339825</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Eder-Czembirek C, Erovic BM, Czembirek C et al (2010) Betulinic acid a radiosensitizer in head and neck squamous cell carcinoma cell lines. Strahlenther Onkol 186:143–148</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Ferlay</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H-R</Initials>
+                    <FamilyName>Shin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Bray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Forman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Mathers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Parkin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008</ArticleTitle>
+                  <JournalTitle>Int J Cancer</JournalTitle>
+                  <VolumeID>127</VolumeID>
+                  <FirstPage>2893</FirstPage>
+                  <LastPage>2917</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/ijc.25516</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXhtlWhs7fO</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21351269</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ferlay J, Shin H-R, Bray F, Forman D, Mathers C, Parkin DM (2010) Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008. Int J Cancer 127:2893–2917</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NAP</Initials>
+                    <FamilyName>Franken</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HM</Initials>
+                    <FamilyName>Rodermond</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Stap</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Haveman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Bree</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Clonogenic assay of cells in vitro</ArticleTitle>
+                  <JournalTitle>Nat Protoc</JournalTitle>
+                  <VolumeID>1</VolumeID>
+                  <FirstPage>2315</FirstPage>
+                  <LastPage>2319</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nprot.2006.339</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2sXhtFGjtLnI</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17406473</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Franken NAP, Rodermond HM, Stap J, Haveman J, van Bree C (2006) Clonogenic assay of cells in vitro. Nat Protoc 1:2315–2319</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>González-Vallinas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>González-Castejón</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Rodríguez-Casado</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Ramírez de Molina</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Dietary phytochemicals in cancer prevention and therapy: a complementary approach with promising perspectives</ArticleTitle>
+                  <JournalTitle>Nutr Rev</JournalTitle>
+                  <VolumeID>71</VolumeID>
+                  <FirstPage>585</FirstPage>
+                  <LastPage>599</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1111/nure.12051</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24032363</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>González-Vallinas M, González-Castejón M, Rodríguez-Casado A, Ramírez de Molina A (2013) Dietary phytochemicals in cancer prevention and therapy: a complementary approach with promising perspectives. Nutr Rev 71:585–599</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RI</Initials>
+                    <FamilyName>Haddad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Shin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Recent advances in head and neck cancer</ArticleTitle>
+                  <JournalTitle>N Engl J Med</JournalTitle>
+                  <VolumeID>359</VolumeID>
+                  <FirstPage>1143</FirstPage>
+                  <LastPage>1154</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1056/NEJMra0707975</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1cXhtFWrsLvI</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18784104</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Haddad RI, Shin DM (2008) Recent advances in head and neck cancer. N Engl J Med 359:1143–1154</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Harvey</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Natural products in drug discovery</ArticleTitle>
+                  <JournalTitle>Drug Discovery Today</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>894</FirstPage>
+                  <LastPage>901</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.drudis.2008.07.004</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1cXhtFCgu7fJ</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18691670</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Harvey A (2008) Natural products in drug discovery. Drug Discovery Today 13:894–901</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Heiduschka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Lill</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Seemann</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">The effect of resveratrol in combination with irradiation and chemotherapy: study using Merkel cell carcinoma cell lines</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>190</VolumeID>
+                  <FirstPage>75</FirstPage>
+                  <LastPage>80</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-013-0445-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC2c7jsVyqsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24196280</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Heiduschka G, Lill C, Seemann R et al (2014) The effect of resveratrol in combination with irradiation and chemotherapy: study using Merkel cell carcinoma cell lines. Strahlenther Onkol 190:75–80</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Joseph</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Vishwanath</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BK</Initials>
+                    <FamilyName>Venugopal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Radiosensitization in head and neck cancer: do we have an alternative to platins? Role of taxanes</ArticleTitle>
+                  <JournalTitle>Oral Surg Oral Med Oral Pathol Oral Radiol</JournalTitle>
+                  <VolumeID>117</VolumeID>
+                  <FirstPage>324</FirstPage>
+                  <LastPage>328</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.oooo.2013.10.006</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24388535</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Joseph B, Vishwanath L, Venugopal BK (2014) Radiosensitization in head and neck cancer: do we have an alternative to platins? Role of taxanes. Oral Surg Oral Med Oral Pathol Oral Radiol 117:324–328</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Kotowski</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Heiduschka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Brunner</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Radiosensitization of head and neck cancer cells by the phytochemical agent sulforaphane</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>187</VolumeID>
+                  <FirstPage>575</FirstPage>
+                  <LastPage>580</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-011-2218-6</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21858418</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kotowski U, Heiduschka G, Brunner M et al (2011) Radiosensitization of head and neck cancer cells by the phytochemical agent sulforaphane. Strahlenther Onkol 187:575–580</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K-A</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J-I</Initials>
+                    <FamilyName>Chae</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J-H</Initials>
+                    <FamilyName>Shim</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Natural diterpenes from coffee, cafestol and kahweol induce apoptosis through regulation of specificity protein 1 expression in human malignant pleural mesothelioma</ArticleTitle>
+                  <JournalTitle>J Biomed Sci</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <FirstPage>60</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1423-0127-19-60</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3431247</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3sXhsFWqsb8%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22734486</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lee K-A, Chae J-I, Shim J-H (2012) Natural diterpenes from coffee, cafestol and kahweol induce apoptosis through regulation of specificity protein 1 expression in human malignant pleural mesothelioma. J Biomed Sci 19:60</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BB</Initials>
+                    <FamilyName>Mishra</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VK</Initials>
+                    <FamilyName>Tiwari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Natural products: an evolving role in future drug discovery</ArticleTitle>
+                  <JournalTitle>Eur J Med Chem</JournalTitle>
+                  <VolumeID>46</VolumeID>
+                  <FirstPage>4769</FirstPage>
+                  <LastPage>4807</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ejmech.2011.07.057</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXht1amt7zP</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21889825</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Mishra BB, Tiwari VK (2011) Natural products: an evolving role in future drug discovery. Eur J Med Chem 46:4769–4807</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Molinari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Natural products in drug discovery: present status and perspectives</ArticleTitle>
+                  <JournalTitle>Adv Exp Med Biol</JournalTitle>
+                  <VolumeID>655</VolumeID>
+                  <FirstPage>13</FirstPage>
+                  <LastPage>27</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXhtlSgs7fK</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20047031</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Molinari G (2009) Natural products in drug discovery: present status and perspectives. Adv Exp Med Biol 655:13–27</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Nambiar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Rajamani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Singh</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Effects of phytochemicals on ionization radiation-mediated carcinogenesis and cancer therapy</ArticleTitle>
+                  <JournalTitle>Mutat Res</JournalTitle>
+                  <VolumeID>728</VolumeID>
+                  <FirstPage>139</FirstPage>
+                  <LastPage>157</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.mrrev.2011.07.005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXht12rsbbF</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22030216</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nambiar D, Rajamani P, Singh RP (2011) Effects of phytochemicals on ionization radiation-mediated carcinogenesis and cancer therapy. Mutat Res 728:139–157</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Rahman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ARMR</Initials>
+                    <FamilyName>Amin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DM</Initials>
+                    <FamilyName>Shin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Chemopreventive potential of natural compounds in head and neck cancer</ArticleTitle>
+                  <JournalTitle>Nutr Cancer</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>973</FirstPage>
+                  <LastPage>987</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/01635581.2010.509538</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3744227</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXht1GkurfP</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20924973</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rahman MA, Amin ARMR, Shin DM (2010) Chemopreventive potential of natural compounds in head and neck cancer. Nutr Cancer 62:973–987</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Tribius</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Sommer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Prosch</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Xerostomie nach Strahlentherapie</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>189</VolumeID>
+                  <FirstPage>216</FirstPage>
+                  <LastPage>222</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-012-0257-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3szivFSgtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23354440</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Tribius S, Sommer J, Prosch C et al (2013) Xerostomie nach Strahlentherapie. Strahlenther Onkol 189:216–222</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Trotti</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Toxicity in head and neck cancer: a review of trends and issues</ArticleTitle>
+                  <JournalTitle>Radiat Oncol Biol</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>12</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(99)00558-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3c3itlequw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Trotti A (2000) Toxicity in head and neck cancer: a review of trends and issues. Radiat Oncol Biol 47:1–12</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Urgert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MB</Initials>
+                    <FamilyName>Katan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">The cholesterol-raising factor from coffee beans</ArticleTitle>
+                  <JournalTitle>J R Soc Med</JournalTitle>
+                  <VolumeID>89</VolumeID>
+                  <FirstPage>618</FirstPage>
+                  <LastPage>623</LastPage>
+                  <Occurrence Type="PMCID">
+                    <Handle>1295997</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DyaK2sXptV2qtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>9135590</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Urgert R, Katan MB (1996) The cholesterol-raising factor from coffee beans. J R Soc Med 89:618–623</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

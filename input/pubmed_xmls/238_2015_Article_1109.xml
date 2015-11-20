@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>238</JournalID>
+      <JournalDOI>10.1007/238.1435-0130</JournalDOI>
+      <JournalPrintISSN>0930-343X</JournalPrintISSN>
+      <JournalElectronicISSN>1435-0130</JournalElectronicISSN>
+      <JournalTitle>European Journal of Plastic Surgery</JournalTitle>
+      <JournalAbbreviatedTitle>Eur J Plast Surg</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH59087" Priority="1" Type="Secondary">Plastic Surgery</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <JournalOnlineFirst>
+      <Article ID="s00238-015-1109-y" OutputMedium="All">
+        <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+          <ArticleID>1109</ArticleID>
+          <ArticleDOI>10.1007/s00238-015-1109-y</ArticleDOI>
+          <ArticleTitle Language="En">Novel use of the superficial inferior epigastric vein <Emphasis Type="Italic">lifeboat</Emphasis> in DIEP flap harvest</ArticleTitle>
+          <ArticleCategory>Ideas and Innovations</ArticleCategory>
+          <ArticleFirstPage>1</ArticleFirstPage>
+          <ArticleLastPage>4</ArticleLastPage>
+          <ArticleHistory>
+            <RegistrationDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>13</Day>
+            </RegistrationDate>
+            <Received>
+              <Year>2015</Year>
+              <Month>3</Month>
+              <Day>18</Day>
+            </Received>
+            <Accepted>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>12</Day>
+            </Accepted>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+          </ArticleHistory>
+          <ArticleCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </ArticleCopyright>
+          <ArticleGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ArticleGrants>
+        </ArticleInfo>
+        <ArticleHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Nakul</GivenName>
+                <GivenName>Gamanlal</GivenName>
+                <FamilyName>Patel</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Venkat</GivenName>
+                <GivenName>V</GivenName>
+                <FamilyName>Ramakrishnan</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff2" CorrespondingAffiliationID="Aff2">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Warren</GivenName>
+                <GivenName>Matthew</GivenName>
+                <FamilyName>Rozen</FamilyName>
+              </AuthorName>
+              <Contact>
+                <Email>warrenrozen@hotmail.com</Email>
+              </Contact>
+            </Author>
+            <Affiliation ID="Aff1">
+              <OrgName>St Andrew’s Centre for Plastic Surgery and Burns, Broomfield Hospital, Mid Essex Hospital Services NHS Trust</OrgName>
+              <OrgAddress>
+                <Street>Room E322, Mayflower Ward, Level 3, Zone E, West Wing</Street>
+                <City>Chelmsford, Essex</City>
+                <Postcode>CM1 7ET</Postcode>
+                <Country>UK</Country>
+              </OrgAddress>
+            </Affiliation>
+            <Affiliation ID="Aff2">
+              <OrgDivision>Department of Surgery</OrgDivision>
+              <OrgName>Monash University</OrgName>
+              <OrgAddress>
+                <Street>Level 5, E Block, Monash Medical Centre, 246 Clayton Road</Street>
+                <City>Clayton</City>
+                <State>Victoria</State>
+                <Postcode>3168</Postcode>
+                <Country>Australia</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+          <Abstract ID="Abs1" Language="En" OutputMedium="All">
+            <Heading>Abstract</Heading>
+            <Para ID="Par1">Deep inferior epigastric artery perforator (DIEP) flap reconstruction has become a well-established procedure for breast reconstruction. While vascular compromise is not common, venous congestion is the most commonly reported cause of such compromise, and of those that may require re-exploration, insufficient venous drainage is the most common cause. In such cases, flap salvage may require establishment of a secondary venous outflow source. In a standard unilateral breast reconstruction with a DIEP flap, zone IV is discarded, with the intra-flap segment of the superficial inferior epigastric vein (SIEV) unused. We describe the novel approach of harvesting the SIEV within zone IV and banking within the breast pocket near the contralateral superficial vein should it be required for further salvage surgery. Our approach involves harvest of the SIEV on a side table (which allows simultaneous operating), flushing the graft with heparinized saline, and tagging the proximal end with an 8/0 nylon suture. This vein graft is then transferred and banked at the breast recipient site, near the flap vein where it is likely to be required. This simple step prevents further morbidity of a secondary donor site and reduces operative time should re-exploration be required.</Para>
+            <Para ID="Par2">Level of Evidence: Level V, therapeutic study</Para>
+          </Abstract>
+          <KeywordGroup Language="En" OutputMedium="All">
+            <Heading>Keywords</Heading>
+            <Keyword>SIEV</Keyword>
+            <Keyword>Spare parts</Keyword>
+            <Keyword>Salvage</Keyword>
+            <Keyword>Vein grafts deep inferior epigastric artery perforator flap</Keyword>
+          </KeywordGroup>
+        </ArticleHeader>
+        <Body>
+          <Section1 ID="Sec1">
+            <Heading>Introduction</Heading>
+            <Para ID="Par3">Deep inferior epigastric artery perforator (DIEP) flap reconstruction has become a well-established procedure for breast reconstruction. While vascular compromise is not common, venous congestion is the most commonly reported cause of such compromise, and of those that may require re-exploration, insufficient venous drainage is the most common cause. In such cases, flap salvage may require establishment of a secondary venous outflow source. Some authors utilize a secondary venous outflow source as a primary manoeuvre, while others use a “wait-and-see” approach, rather than prophylactically performing a secondary venous outflow, given that venous congestion occurs in less than 5–10 % of cases (the approach that we employ) [<CitationRef CitationID="CR1">1</CitationRef>–<CitationRef CitationID="CR5">5</CitationRef>].</Para>
+            <Para ID="Par4">Varying means augmenting or supercharging the venous drainage of congested or compromised flaps that have been described. The methods used to augment this venous drainage have included the use of additional venae comitantes of the ipsilateral DIEA [<CitationRef CitationID="CR6">6</CitationRef>], the venae comitantes of the contralateral DIEA [<CitationRef CitationID="CR7">7</CitationRef>], through the ipsilateral superficial inferior epigastric vein (SIEV) [<CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>], and the contralateral SIEV [<CitationRef CitationID="CR10">10</CitationRef>]. While all of these options are suitable, and may be individualized, many of these often require a vein graft to reach recipient vessels.</Para>
+            <Para ID="Par5">In a standard unilateral breast reconstruction with a DIEP flap, zone IV is discarded, with the intra-flap segment of the SIEV unused. We describe the novel approach of harvesting the SIEV within zone IV and banking within the breast pocket near the contralateral superficial vein should it be required for further salvage surgery.</Para>
+            <Section2 ID="Sec2">
+              <Heading>Surgical technique</Heading>
+              <Para ID="Par6">Our approach involves harvest of the SIEV on a side table (which allows simultaneous operating), flushing the graft with heparinized saline, and tagging the proximal end with an 8/0 nylon suture (see Fig. <InternalRef RefID="Fig1">1</InternalRef>). This vein graft is then transferred and banked at the breast recipient site, near the flap vein where it is likely to be required (see Fig. <InternalRef RefID="Fig2">2</InternalRef>). Our approach to secondary venous drainage for flap salvage begins with choice of recipient vessel, typically involving the use of a vein in the axilla, usually of the subscapular system: the serratus branch of the thoracodorsal vein, a thoracodorsal vein, or lateral thoracic vein. Other options include using an internal mammary vein or a cephalic turn-down. Both options can be useful, although there is some contention in the literature [<CitationRef CitationID="CR11">11</CitationRef>]. Regardless of recipient choice, we utilize a superficial inferior epigastric vein stump from the flap with a vein graft. The approach described herein offers ready availability of this graft.<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <!--SingleCol-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Intraoperative photograph, demonstrating a superficial inferior epigastric vein (SIEV) harvested from the discarded zone IV of a deep inferior epigastric artery perforator (DIEP) flap, for banking at the chest recipient site for potential future use</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1109_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+                <Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <!--SingleCol-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>The harvested superficial inferior epigastric vein (SIEV) graft being banked at the chest recipient site for potential future use</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1109_Fig2_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section2>
+            <Section2 ID="Sec3">
+              <Heading>Representative case</Heading>
+              <Para ID="Par7">We have performed this manoeuvre in 20 cases to date, and in this series, we encountered a single case in which the graft was required. In this case, flap raise entailed a single-perforator DIEP flap, in which the flap displayed signs of global venous congestion after anastomosis of the primary pedicle to the thoracodorsal vessels. A decision to augment venous drainage to facilitate flap salvage was made, and the need for a vein graft to the ipsilateral SIEV was identified (no photographs available).</Para>
+              <Para ID="Par8">As such, the contralateral SIEV graft was utilized as a vein graft, harvested from the flap recipient site. Harvest time was several seconds, as preparation had been performed previously, and no additional donor sites required. Graft length available was 15 cm. Anastomosis to the ipsilateral (congested) SIEV and an internal mammary artery perforator were thus performed. The congestion was rapidly alleviated, and the flap inset and managed in a routine manner thereafter. A postoperative photograph 24 h after salvage is shown in Fig. <InternalRef RefID="Fig3">3</InternalRef>. There have been no complications from the harvest or use of the described technique in any cases, and this simple step prevents further morbidity of a secondary donor site and reduces operative time should re-exploration be required.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                  <!--SingleCol-->
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Postoperative photograph of a deep inferior epigastric artery perforator (DIEP) flap, 24 h after salvage of a congested flap with a banked superficial inferior epigastric vein (SIEV) graft</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO3">
+                    <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1109_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section2>
+          </Section1>
+          <Section1 ID="Sec4" Type="Discussion">
+            <Heading>Discussion</Heading>
+            <Para ID="Par9">The current report describes a straightforward operative step which offers the rapid availability of vein graft in the setting of re-exploration for venous congestion or compromise. The technique is readily employed routinely, requiring little additional operative time and no donor morbidity. This can further reduce morbidity of a secondary donor site and reduce operative time should re-exploration be required.</Para>
+            <Para ID="Par10">The implications of inadequate venous drainage of DIEA perforator flaps are critical to operative success, with the potential for partial or complete flap loss. While identification of venous compromise clinically is straightforward for most reconstructive surgeons, understanding the cause for venous compromise in individual cases is difficult to predict. Identification of the features of draining veins that optimize venous drainage, through both superficial and deep venous systems, can be selected preoperatively for inclusion in the flap. Previous anatomical studies have sought to identify these features in cadaveric and clinical studies through various means: assessing the direction of venous flow past valves [<CitationRef CitationID="CR12">12</CitationRef>–<CitationRef CitationID="CR16">16</CitationRef>], demonstrating that the direction of venous flow is preferentially from the superficial venous system to the deep venous system, through a series of perforating veins. The size of venous perforators has also been highlighted as a significant contributing factor to venous congestion, with cases highlighting no suitable perforating veins in an entire hemiabdominal wall, proposing that venous compromise is “probably due to the sacrifice of a critical number of venous perforators” [<CitationRef CitationID="CR12">12</CitationRef>]. This hypothesis has been confirmed experimentally, showing that the calibre of perforating veins is the limiting factor to venous drainage [<CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>], and has been confirmed also in a clinical study of the DIEA perforator flap [<CitationRef CitationID="CR9">9</CitationRef>].</Para>
+            <Para ID="Par11">In addition to perforator diameter and flow, the degree of midline crossover by the SIEV has been implicated as a cause for flap venous congestion [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR19">19</CitationRef>]. While a single perforator is widely used to drain the entire flap, venous drainage is essential through communication with veins of each side of the abdominal wall. Blondeel et al. [<CitationRef CitationID="CR16">16</CitationRef>] identified a lack of midline crossover by the SIEV in 36 % of cases dissected, while Schaverien et al. [<CitationRef CitationID="CR19">19</CitationRef>] reported a case without any midline venous crossover. Both of these studies postulated this midline crossover as the cause of venous problems. Our own series has identified that there was no midline crossover in 1/16 cadaveric specimens and in 14/100 clinical cases (13 % of cases overall) [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR4">4</CitationRef>]. A further anatomical factor in the pathogenesis of venous compromise involves the communication between perforating deep veins and the SIEV, as this communication is not uniform, with this communication often of substantially smaller calibre than either the SIEV or the perforating veins themselves. These communications (“oscillating veins” between the adjacent venous territories) [<CitationRef CitationID="CR15">15</CitationRef>] may be the limiting factor to venous drainage. The use of preoperative imaging to demonstrate the presence and calibre of these communications may be a useful tool for aiding perforator selection and for maximizing venous outflow [<CitationRef CitationID="CR20">20</CitationRef>]. As such, an SIEV greater than 1.5 mm in diameter can be considered a dominant superficial system vein, and a perforating vein greater than 1 mm in diameter is a dominant DIEV perforator.</Para>
+            <Para ID="Par12">While planning appropriate venous drainage requires optimization of these anatomical factors in the selection of the best venous perforators, with the SIEV itself able to be used as the primary drainage route, or consideration of using both the DIEV and SIEV in the drainage of a DIEP flap, it is in the secondary situation, after venous congestion has presented, that is the focus of the current manuscript. In this setting, a range of options are on offer for flap salvage, as described earlier. While there is no clear benefit of one technique over another, the ability to harvest a graft rapidly, avoid donor site morbidity, and have substantial length of available graft are the primary objective in all such cases, and the technique described is able to address each of these successfully.</Para>
+            <Para ID="Par13">Recall, Sir Harold Gillies’ Principles:<BlockQuote>
+                <Para ID="Par14">Thou shalt not throw away a living thing.</Para>
+                <Para ID="Par15">Thou shalt provide thyself with a lifeboat.</Para>
+              </BlockQuote>
+            </Para>
+          </Section1>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/238_2015_Article_1109.pdf" TargetType="OnlinePDF"/>
+        <ArticleBackmatter>
+          <Acknowledgments>
+            <FormalPara ID="FPar1" RenderingStyle="Style1">
+              <Heading>Conflicts of interest</Heading>
+              <Para ID="Par17">Nakul Gamanlal Patel, Venkat V Ramakrishnan, Warren Matthew Rozen declare that they have no conflict of interest.</Para>
+            </FormalPara>
+            <FormalPara ID="FPar2" RenderingStyle="Style1">
+              <Heading>Ethical standards</Heading>
+              <Para ID="Par18">The authors declare conformity with ethical standards as outlined in the journal and the 1964 Declaration of Helsinki.</Para>
+            </FormalPara>
+          </Acknowledgments>
+          <Bibliography ID="Bib1">
+            <Heading>References</Heading>
+            <Citation ID="CR1">
+              <CitationNumber>1.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Audolfsson</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WM</Initials>
+                  <FamilyName>Rozen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MJ</Initials>
+                  <FamilyName>Wagstaff</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>IS</Initials>
+                  <FamilyName>Whitaker</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Acosta</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">A reliable and aesthetic technique for cephalic vein harvest in DIEP flap surgery</ArticleTitle>
+                <JournalTitle>J Reconstr Microsurg</JournalTitle>
+                <VolumeID>25</VolumeID>
+                <FirstPage>319</FirstPage>
+                <LastPage>321</LastPage>
+                <Occurrence Type="PID">
+                  <Handle>19399719</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Audolfsson T, Rozen WM, Wagstaff MJ, Whitaker IS, Acosta R (2009) A reliable and aesthetic technique for cephalic vein harvest in DIEP flap surgery. J Reconstr Microsurg 25:319–321</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <CitationNumber>2.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Enajat</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WM</Initials>
+                  <FamilyName>Rozen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>IS</Initials>
+                  <FamilyName>Whitaker</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JM</Initials>
+                  <FamilyName>Smit</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Acosta</FamilyName>
+                </BibAuthorName>
+                <Year>2010</Year>
+                <ArticleTitle Language="En">A single center comparison of one versus two venous anastomoses in 564 consecutive DIEP flaps: investigating the effect on venous congestion and flap survival</ArticleTitle>
+                <JournalTitle>Microsurgery</JournalTitle>
+                <VolumeID>30</VolumeID>
+                <FirstPage>185</FirstPage>
+                <LastPage>191</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1002/micr.20712</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>19790180</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Enajat M, Rozen WM, Whitaker IS, Smit JM, Acosta R (2010) A single center comparison of one versus two venous anastomoses in 564 consecutive DIEP flaps: investigating the effect on venous congestion and flap survival. Microsurgery 30:185–191</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <CitationNumber>3.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>WM</Initials>
+                  <FamilyName>Rozen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>WR</Initials>
+                  <FamilyName>Pan</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>CM</Initials>
+                  <FamilyName>Roux</FamilyName>
+                  <Particle>Le</Particle>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>GI</Initials>
+                  <FamilyName>Taylor</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MW</Initials>
+                  <FamilyName>Ashton</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">The venous anatomy of the anterior abdominal wall: an anatomical and clinical study</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>124</VolumeID>
+                <FirstPage>848</FirstPage>
+                <LastPage>853</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1MXhtVygtbzI</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>19730303</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rozen WM, Pan WR, Le Roux CM, Taylor GI, Ashton MW (2009) The venous anatomy of the anterior abdominal wall: an anatomical and clinical study. Plast Reconstr Surg 124:848–853</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <CitationNumber>4.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>WM</Initials>
+                  <FamilyName>Rozen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MW</Initials>
+                  <FamilyName>Ashton</FamilyName>
+                </BibAuthorName>
+                <Year>2012</Year>
+                <ArticleTitle Language="En">The venous anatomy of the abdominal wall for deep inferior epigastric artery (DIEP) flaps in breast reconstruction</ArticleTitle>
+                <JournalTitle>Gland Surg</JournalTitle>
+                <VolumeID>1</VolumeID>
+                <FirstPage>92</FirstPage>
+                <LastPage>110</LastPage>
+                <Occurrence Type="PMCID">
+                  <Handle>4115682</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>25083432</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rozen WM, Ashton MW (2012) The venous anatomy of the abdominal wall for deep inferior epigastric artery (DIEP) flaps in breast reconstruction. Gland Surg 1:92–110</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <CitationNumber>5.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Rubino</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>V</Initials>
+                  <FamilyName>Ramakrishnan</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Figus</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Bulla</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>V</Initials>
+                  <FamilyName>Coscia</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MA</Initials>
+                  <FamilyName>Cavazzuti</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Flap size/flow rate relationship in perforator flaps and its importance in DIEP flap drainage</ArticleTitle>
+                <JournalTitle>J Plast Reconstr Aesthet Surg</JournalTitle>
+                <VolumeID>62</VolumeID>
+                <FirstPage>1666</FirstPage>
+                <LastPage>1670</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD1MjlsFGlsw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>18851934</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rubino C, Ramakrishnan V, Figus A, Bulla A, Coscia V, Cavazzuti MA (2009) Flap size/flow rate relationship in perforator flaps and its importance in DIEP flap drainage. J Plast Reconstr Aesthet Surg 62:1666–1670</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <CitationNumber>6.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>EG</Initials>
+                  <FamilyName>Tutor</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Auba</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Benito</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Rábago</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>W</Initials>
+                  <FamilyName>Kreutler</FamilyName>
+                </BibAuthorName>
+                <Year>2002</Year>
+                <ArticleTitle Language="En">Easy venous superdrainage in DIEP flap breast reconstruction through the intercostal branch</ArticleTitle>
+                <JournalTitle>J Reconstr Microsurg</JournalTitle>
+                <VolumeID>18</VolumeID>
+                <FirstPage>595</FirstPage>
+                <LastPage>598</LastPage>
+                <Occurrence Type="PID">
+                  <Handle>12404134</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Tutor EG, Auba C, Benito A, Rábago G, Kreutler W (2002) Easy venous superdrainage in DIEP flap breast reconstruction through the intercostal branch. J Reconstr Microsurg 18:595–598</BibUnstructured>
+            </Citation>
+            <Citation ID="CR7">
+              <CitationNumber>7.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>NS</Initials>
+                  <FamilyName>Niranjan</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AR</Initials>
+                  <FamilyName>Khandwala</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>DM</Initials>
+                  <FamilyName>Mackenzie</FamilyName>
+                </BibAuthorName>
+                <Year>2001</Year>
+                <ArticleTitle Language="En">Venous augmentation of the free TRAM flap</ArticleTitle>
+                <JournalTitle>Br J Plast Surg</JournalTitle>
+                <VolumeID>54</VolumeID>
+                <FirstPage>335</FirstPage>
+                <LastPage>337</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD3M3msVWqug%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>11355990</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Niranjan NS, Khandwala AR, Mackenzie DM (2001) Venous augmentation of the free TRAM flap. Br J Plast Surg 54:335–337</BibUnstructured>
+            </Citation>
+            <Citation ID="CR8">
+              <CitationNumber>8.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>O</Initials>
+                  <FamilyName>Villafane</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Gahankari</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Webster</FamilyName>
+                </BibAuthorName>
+                <Year>1999</Year>
+                <ArticleTitle Language="En">Superficial inferior epigastric vein (SIEV): ‘lifeboat’ for DIEP/TRAM flaps</ArticleTitle>
+                <JournalTitle>Br J Plast Surg</JournalTitle>
+                <VolumeID>52</VolumeID>
+                <FirstPage>599</FirstPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD3c7is1GhsQ%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>10658125</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Villafane O, Gahankari D, Webster M (1999) Superficial inferior epigastric vein (SIEV): ‘lifeboat’ for DIEP/TRAM flaps. Br J Plast Surg 52:599</BibUnstructured>
+            </Citation>
+            <Citation ID="CR9">
+              <CitationNumber>9.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Wechselberger</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Schoeller</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Bauer</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Ninkovic</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Otto</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Ninkovic</FamilyName>
+                </BibAuthorName>
+                <Year>2001</Year>
+                <ArticleTitle Language="En">Venous superdrainage in deep inferior epigastric perforator flap breast reconstruction</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>108</VolumeID>
+                <FirstPage>162</FirstPage>
+                <LastPage>166</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD3MzlvFyqtg%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>11420520</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Wechselberger G, Schoeller T, Bauer T, Ninkovic M, Otto A, Ninkovic M (2001) Venous superdrainage in deep inferior epigastric perforator flap breast reconstruction. Plast Reconstr Surg 108:162–166</BibUnstructured>
+            </Citation>
+            <Citation ID="CR10">
+              <CitationNumber>10.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Lundberg</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>H</Initials>
+                  <FamilyName>Mark</FamilyName>
+                </BibAuthorName>
+                <Year>2006</Year>
+                <ArticleTitle Language="En">Avoidance of complications after the use of deep inferior epigastric perforator flaps for reconstruction of the breast</ArticleTitle>
+                <JournalTitle>Scand J Plast Reconstr Surg Hand Surg</JournalTitle>
+                <VolumeID>40</VolumeID>
+                <FirstPage>79</FirstPage>
+                <LastPage>81</LastPage>
+                <Occurrence Type="PID">
+                  <Handle>16537253</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Lundberg J, Mark H (2006) Avoidance of complications after the use of deep inferior epigastric perforator flaps for reconstruction of the breast. Scand J Plast Reconstr Surg Hand Surg 40:79–81</BibUnstructured>
+            </Citation>
+            <Citation ID="CR11">
+              <CitationNumber>11.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Santanelli Di Pompeo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Longo</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Sorotos</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Pagnoni</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Laporta</FamilyName>
+                </BibAuthorName>
+                <Year>2015</Year>
+                <ArticleTitle Language="En">The axillary versus internal mammary recipient vessel sites for breast reconstruction with DIEP flaps: a retrospective study of 256 consecutive cases</ArticleTitle>
+                <JournalTitle>Microsurgery</JournalTitle>
+                <VolumeID>35</VolumeID>
+                <FirstPage>34</FirstPage>
+                <LastPage>38</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1002/micr.22266</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>24782202</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Santanelli Di Pompeo F, Longo B, Sorotos M, Pagnoni M, Laporta R (2015) The axillary versus internal mammary recipient vessel sites for breast reconstruction with DIEP flaps: a retrospective study of 256 consecutive cases. Microsurgery 35:34–38</BibUnstructured>
+            </Citation>
+            <Citation ID="CR12">
+              <CitationNumber>12.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>MA</Initials>
+                  <FamilyName>Carramenha e Costa</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Carriquiry</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>LO</Initials>
+                  <FamilyName>Vasconez</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JC</Initials>
+                  <FamilyName>Grotting</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>RH</Initials>
+                  <FamilyName>Herrera</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>BH</Initials>
+                  <FamilyName>Windle</FamilyName>
+                </BibAuthorName>
+                <Year>1987</Year>
+                <ArticleTitle Language="En">An anatomic study of the venous drainage of the transverse rectus abdominis musculocutaneous flap</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>79</VolumeID>
+                <FirstPage>208</FirstPage>
+                <LastPage>217</LastPage>
+                <Occurrence Type="PID">
+                  <Handle>2949331</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Carramenha e Costa MA, Carriquiry C, Vasconez LO, Grotting JC, Herrera RH, Windle BH (1987) An anatomic study of the venous drainage of the transverse rectus abdominis musculocutaneous flap. Plast Reconstr Surg 79:208–217</BibUnstructured>
+            </Citation>
+            <Citation ID="CR13">
+              <CitationNumber>13.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>HK</Initials>
+                  <FamilyName>Moon</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>GI</Initials>
+                  <FamilyName>Taylor</FamilyName>
+                </BibAuthorName>
+                <Year>1988</Year>
+                <ArticleTitle Language="En">The vascular anatomy of rectus abdominis musculocutaneous flaps based on the deep superior epigastric system</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>82</VolumeID>
+                <FirstPage>815</FirstPage>
+                <LastPage>829</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaL1M%2FhslKhtw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>2971981</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Moon HK, Taylor GI (1988) The vascular anatomy of rectus abdominis musculocutaneous flaps based on the deep superior epigastric system. Plast Reconstr Surg 82:815–829</BibUnstructured>
+            </Citation>
+            <Citation ID="CR14">
+              <CitationNumber>14.</CitationNumber>
+              <BibUnstructured>Taylor GI (1987) In discussion of: Carramenha e Costa MA, Carriquiry C, Vasconez LO, Grotting JC, Herrera RH, Windle BH. An anatomic study of the venous drainage of the transverse rectus abdominis musculocutaneous flap. Plast Reconstr Surg 79(2):208–17. Plast Reconst Surg 1987, 79:214–7</BibUnstructured>
+            </Citation>
+            <Citation ID="CR15">
+              <CitationNumber>15.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>GI</Initials>
+                  <FamilyName>Taylor</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>CM</Initials>
+                  <FamilyName>Caddy</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>PA</Initials>
+                  <FamilyName>Watterson</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JG</Initials>
+                  <FamilyName>Crock</FamilyName>
+                </BibAuthorName>
+                <Year>1990</Year>
+                <ArticleTitle Language="En">The venous territories (venosomes) of the human body: experimental study and clinical implications</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>86</VolumeID>
+                <FirstPage>185</FirstPage>
+                <LastPage>213</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK3czhtFCgsQ%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>2367570</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Taylor GI, Caddy CM, Watterson PA, Crock JG (1990) The venous territories (venosomes) of the human body: experimental study and clinical implications. Plast Reconstr Surg 86:185–213</BibUnstructured>
+            </Citation>
+            <Citation ID="CR16">
+              <CitationNumber>16.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>PN</Initials>
+                  <FamilyName>Blondeel</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Arnstein</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Verstraete</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>K</Initials>
+                  <FamilyName>Depuydt</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>KH</Initials>
+                  <FamilyName>Landuyt</FamilyName>
+                  <Particle>Van</Particle>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SJ</Initials>
+                  <FamilyName>Monstrey</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2000</Year>
+                <ArticleTitle Language="En">Venous congestion and blood flow in free transverse rectus abdominis myocutaneous and deep inferior epigastric perforator flaps</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>106</VolumeID>
+                <FirstPage>1295</FirstPage>
+                <LastPage>1299</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD3M%2FkslSrtw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>11083558</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Blondeel PN, Arnstein M, Verstraete K, Depuydt K, Van Landuyt KH, Monstrey SJ et al (2000) Venous congestion and blood flow in free transverse rectus abdominis myocutaneous and deep inferior epigastric perforator flaps. Plast Reconstr Surg 106:1295–1299</BibUnstructured>
+            </Citation>
+            <Citation ID="CR17">
+              <CitationNumber>17.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>SP</Initials>
+                  <FamilyName>Chow</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>DZ</Initials>
+                  <FamilyName>Chen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>YD</Initials>
+                  <FamilyName>Gu</FamilyName>
+                </BibAuthorName>
+                <Year>1993</Year>
+                <ArticleTitle Language="En">The significance of venous drainage in free flap transfer</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>91</VolumeID>
+                <FirstPage>713</FirstPage>
+                <LastPage>715</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK3s7ovFOluw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>8446725</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Chow SP, Chen DZ, Gu YD (1993) The significance of venous drainage in free flap transfer. Plast Reconstr Surg 91:713–715</BibUnstructured>
+            </Citation>
+            <Citation ID="CR18">
+              <CitationNumber>18.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>DA</Initials>
+                  <FamilyName>Miles</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>NL</Initials>
+                  <FamilyName>Crosby</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JB</Initials>
+                  <FamilyName>Clapson</FamilyName>
+                </BibAuthorName>
+                <Year>1997</Year>
+                <ArticleTitle Language="En">The role of the venous system in the abdominal flap of the rat</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>99</VolumeID>
+                <FirstPage>2030</FirstPage>
+                <LastPage>2033</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK2szisVKhsA%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>9180727</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Miles DA, Crosby NL, Clapson JB (1997) The role of the venous system in the abdominal flap of the rat. Plast Reconstr Surg 99:2030–2033</BibUnstructured>
+            </Citation>
+            <Citation ID="CR19">
+              <CitationNumber>19.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Schaverien</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Saint-Cyr</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Arbique</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SA</Initials>
+                  <FamilyName>Brown</FamilyName>
+                </BibAuthorName>
+                <Year>2008</Year>
+                <ArticleTitle Language="En">Arterial and venous anatomies of the deep inferior epigastric perforator and superficial inferior epigastric artery flaps</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>121</VolumeID>
+                <FirstPage>1909</FirstPage>
+                <LastPage>1919</LastPage>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1cXmvFajsrw%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>18520876</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Schaverien M, Saint-Cyr M, Arbique G, Brown SA (2008) Arterial and venous anatomies of the deep inferior epigastric perforator and superficial inferior epigastric artery flaps. Plast Reconstr Surg 121:1909–1919</BibUnstructured>
+            </Citation>
+            <Citation ID="CR20">
+              <CitationNumber>20.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>WM</Initials>
+                  <FamilyName>Rozen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Garcia-Tutor</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Alonso-Burgos</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Acosta</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Stillaert</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JL</Initials>
+                  <FamilyName>Zubieta</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>2010</Year>
+                <ArticleTitle Language="En">Planning and optimizing DIEP flaps with virtual surgery: the Navarra experience</ArticleTitle>
+                <JournalTitle>J Plast Reconstr Aesthet Surg</JournalTitle>
+                <VolumeID>2010</VolumeID>
+                <FirstPage>2</FirstPage>
+              </BibArticle>
+              <BibUnstructured>Rozen WM, Garcia-Tutor E, Alonso-Burgos A, Acosta R, Stillaert F, Zubieta JL et al (2010) Planning and optimizing DIEP flaps with virtual surgery: the Navarra experience. J Plast Reconstr Aesthet Surg 2010:2</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ArticleBackmatter>
+      </Article>
+    </JournalOnlineFirst>
+  </Journal>
+</Publisher>

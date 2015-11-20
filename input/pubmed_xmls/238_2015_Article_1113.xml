@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>238</JournalID>
+      <JournalDOI>10.1007/238.1435-0130</JournalDOI>
+      <JournalPrintISSN>0930-343X</JournalPrintISSN>
+      <JournalElectronicISSN>1435-0130</JournalElectronicISSN>
+      <JournalTitle>European Journal of Plastic Surgery</JournalTitle>
+      <JournalAbbreviatedTitle>Eur J Plast Surg</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH59087" Priority="1" Type="Secondary">Plastic Surgery</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <JournalOnlineFirst>
+      <Article ID="s00238-015-1113-2" OutputMedium="All">
+        <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+          <ArticleID>1113</ArticleID>
+          <ArticleDOI>10.1007/s00238-015-1113-2</ArticleDOI>
+          <ArticleTitle Language="En">Growth of ears reconstructed from autologous rib cartilage</ArticleTitle>
+          <ArticleCategory>Original Paper</ArticleCategory>
+          <ArticleFirstPage>1</ArticleFirstPage>
+          <ArticleLastPage>6</ArticleLastPage>
+          <ArticleHistory>
+            <RegistrationDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>16</Day>
+            </RegistrationDate>
+            <Received>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>4</Day>
+            </Received>
+            <Accepted>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>15</Day>
+            </Accepted>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+          </ArticleHistory>
+          <ArticleCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </ArticleCopyright>
+          <ArticleGrants Type="Regular">
+            <MetadataGrant Grant="OpenAccess"/>
+            <AbstractGrant Grant="OpenAccess"/>
+            <BodyPDFGrant Grant="Restricted"/>
+            <BodyHTMLGrant Grant="Restricted"/>
+            <BibliographyGrant Grant="Restricted"/>
+            <ESMGrant Grant="Restricted"/>
+          </ArticleGrants>
+        </ArticleInfo>
+        <ArticleHeader>
+          <AuthorGroup>
+            <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Emma</GivenName>
+                <FamilyName>Roos</FamilyName>
+              </AuthorName>
+              <Contact>
+                <Email>emma.roos.2@gmail.com</Email>
+              </Contact>
+            </Author>
+            <Author AffiliationIDS="Aff2">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Sven-Olof</GivenName>
+                <FamilyName>Wikström</FamilyName>
+              </AuthorName>
+            </Author>
+            <Author AffiliationIDS="Aff2">
+              <AuthorName DisplayOrder="Western">
+                <GivenName>Martin</GivenName>
+                <FamilyName>Öberg</FamilyName>
+              </AuthorName>
+            </Author>
+            <Affiliation ID="Aff1">
+              <OrgName>Lund University</OrgName>
+              <OrgAddress>
+                <City>Malmö</City>
+                <Country>Sweden</Country>
+              </OrgAddress>
+            </Affiliation>
+            <Affiliation ID="Aff2">
+              <OrgDivision>Department of Plastic and Reconstructive Surgery</OrgDivision>
+              <OrgName>Skåne University Hospital</OrgName>
+              <OrgAddress>
+                <City>Malmö</City>
+                <Country>Sweden</Country>
+              </OrgAddress>
+            </Affiliation>
+          </AuthorGroup>
+          <Abstract ID="Abs1" Language="En" OutputMedium="All">
+            <Heading>Abstract</Heading>
+            <AbstractSection ID="ASec1">
+              <Heading>Background</Heading>
+              <Para ID="Par1">Microtia is a congenital abnormality characterised by a deformed or absent auricle, which can be reconstructed surgically using autologous rib cartilage. Long-term symmetry in size is an important goal. The optimal age for surgery and sizing of the framework is still under debate, as it has not been clearly shown if the reconstructed ear grows. Our objective was to determine if the reconstructed ear grows and to compare the growth with the normal ear.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec2">
+              <Heading>Methods</Heading>
+              <Para ID="Par2">Twenty-two patients were selected in this retrospective study. Digital morphometry was used to measure the length of the reconstructed and normal ears. An initial photograph had been taken after the reconstruction at a median of 11.2 years (range 8.0–12.5 years) of age and a second photograph at a median of 16.3 years (range 14.5–21.6 years). The median follow-up time was 5.6 years (range 2.1–10.6 years). The differences in length in the first and second photograph were calculated, and paired Student’s <Emphasis Type="Italic">t</Emphasis> tests and Mann–Whitney <Emphasis Type="Italic">U</Emphasis> tests were used for the analysis.</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec3">
+              <Heading>Results</Heading>
+              <Para ID="Par3">The mean growth of the reconstructed ears was 0.62 cm (95 % CI 0.43–0.81) and that of the normal ears was 0.53 cm (95 % CI 0.38–0.68). There was no significant difference between the growth of the normal and the reconstructed ears (<Emphasis Type="Italic">p</Emphasis> = 0.26).</Para>
+            </AbstractSection>
+            <AbstractSection ID="ASec4">
+              <Heading>Conclusions</Heading>
+              <Para ID="Par4">The reconstructed ears grew during the studied time-interval, and this was most likely due to growth of the actual cartilage. There was no significant difference between the growth on the reconstructed and normal sides.</Para>
+              <Para ID="Par5">Level of evidence: Level III, risk/prognostic study.</Para>
+            </AbstractSection>
+          </Abstract>
+          <KeywordGroup Language="En" OutputMedium="All">
+            <Heading>Keywords</Heading>
+            <Keyword>Microtia</Keyword>
+            <Keyword>Autologous ear reconstruction</Keyword>
+            <Keyword>Rib cartilage</Keyword>
+            <Keyword>Growth</Keyword>
+            <Keyword>Ear</Keyword>
+            <Keyword>Digital morphometry</Keyword>
+          </KeywordGroup>
+        </ArticleHeader>
+        <Body>
+          <Section1 ID="Sec1" Type="Introduction">
+            <Heading>Introduction</Heading>
+            <Para ID="Par6">Microtia is a congenital abnormality characterised by a deformed or absent auricle, which is unilateral in about 90 % of cases [<CitationRef CitationID="CR1">1</CitationRef>]. Microtia is often associated with hemifacial microsomia, which can be seen as a spectrum of malformations where an isolated microtia would be a mild form [<CitationRef CitationID="CR2">2</CitationRef>]. The prevalence in Sweden is 2.35 per 10,000 births [<CitationRef CitationID="CR3">3</CitationRef>]. The microtia classification system used divides the malformation into the concha type, small concha type, lobular type and anotia depending on the appearance of the ear [<CitationRef CitationID="CR4">4</CitationRef>].</Para>
+            <Para ID="Par7">The ears grow rapidly during the first 3–6 months and then grow slower until adulthood [<CitationRef CitationID="CR5">5</CitationRef>]. The age at which the length is mature varies slightly between studies due to, for example, the ethnicity of the study population and the measurement method, but has been estimated to be between 11 and 14 years [<CitationRef CitationID="CR5">5</CitationRef>–<CitationRef CitationID="CR7">7</CitationRef>].</Para>
+            <Para ID="Par8">The deformed ear can be reconstructed surgically by using autologous rib cartilage to create the framework of a new ear. This is a three- to four-stage procedure originally developed by Tanzer [<CitationRef CitationID="CR8">8</CitationRef>] and altered by Brent [<CitationRef CitationID="CR9">9</CitationRef>, <CitationRef CitationID="CR10">10</CitationRef>]. There is also another technique developed by Nagata where only two sessions are needed [<CitationRef CitationID="CR11">11</CitationRef>]. At our unit, we have developed a three-stage technique inspired both by Nagata and Brent. The reconstruction is often initiated at 7 years of age and completed 1.5 years later (Fig. <InternalRef RefID="Fig1">1</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                <!--Style3-->
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Reconstructed ear before (<Emphasis Type="Bold">a</Emphasis>) and after (<Emphasis Type="Bold">b</Emphasis>) surgery, and ear on the normal side (<Emphasis Type="Bold">c</Emphasis>)</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO1">
+                  <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1113_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+            </Para>
+            <Para ID="Par9">Whether the reconstructed ears grow is under debate. Evaluation of eventual growth is important to determine the optimal age for surgery, and to decide if the framework initially should be oversized compared to the normal ear.</Para>
+            <Para ID="Par10">The objective of this study was to observe any changes in the size of the reconstructed ear and to compare these with the changes of the normal ear. During puberty, thoracic dimensions greatly expand [<CitationRef CitationID="CR12">12</CitationRef>], and it could be anticipated to be the time when the harvested cartilage would grow the most. In this study, analysis of the ear size was performed before and after puberty.</Para>
+          </Section1>
+          <Section1 ID="Sec2" Type="MaterialsAndMethods">
+            <Heading>Material and methods</Heading>
+            <Para ID="Par11">At the time of this study, our registry for auricular reconstruction contained 322 patients. This registry contained all ear reconstructions made at our hospital, with diagnoses including microtia, trauma and ENT tumours. To evaluate the growth of the reconstructed ear, the inclusion criteria were as follows: (1) unilateral microtia, (2) completed reconstruction with postoperative photographic documentation before the age of 12.5 years and (3) a final photograph after the age of 14.5 years.</Para>
+            <Para ID="Par12">Twenty-two patients met these limited criteria. Two photographs of the ears of each patient were analysed, the first before the age of 12.5 and the second at 14.5 years or later. All patients with surgical procedures done during the follow-up time were reviewed by a plastic surgeon that specialised in ear reconstructions. Those who had undergone surgery that was judged to significantly alter the length of the ear were excluded. These procedures included alterations of the lobule or helix.</Para>
+            <Para ID="Par13">The group was stratified into subgroups depending on whether surgical procedures had been done during the follow-up time, as this could possibly affect the length. The group was also divided by follow-up time of &gt;5 and &lt;5 years.</Para>
+            <Para ID="Par14">Seven (32 %) of the 22 included patients had undergone a surgical procedure in the ear region during follow-up. Fourteen (64 %) had a follow-up time of &gt;5 years. See Fig. <InternalRef RefID="Fig2">2</InternalRef> for attrition analysis.<Figure Category="Standard" Float="Yes" ID="Fig2">
+                <!--Style3-->
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Attrition analysis of microtia registry</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO2">
+                  <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1113_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+            </Para>
+            <Para ID="Par15">The median age of the first reconstructive surgery was 7.5 years (range 6.1–10.6 years). The median age for the first photograph was 11.2 years (range 8.0–12.5 years), and 16.3 years (range 14.5–21.6 years) for the second photograph. The median follow-up time was 5.6 years (range 2.1–10.6 years).</Para>
+            <Para ID="Par16">Digital morphometry was used for the measurements, which has a high interindividual variation, but an intraindividual random error comparable with the classic methods of calliper or compass and ruler [<CitationRef CitationID="CR13">13</CitationRef>]. To assess the accuracy of the examiner, a validation was done where the ears of 10 patients were measured twice, with an interval of 1 week. The means of the two measurements were compared and the standard deviation of the difference between the means calculated. Using these values, random and systematic errors were calculated according to the methods of Bland and Altmann [<CitationRef CitationID="CR14">14</CitationRef>].</Para>
+            <Para ID="Par17">The length, defined as the longest axis of the ear, was measured bilaterally by a single examiner using Picsara Professional Image Management, ver 8.9 r5 (Euromed Networks AB).</Para>
+            <Para ID="Par18">The length of the reconstructed ear and the normal ear were measured in the first and second photographs, respectively. Three subsequent measurements were made for each photograph, and the mean of these was used in the calculations described in the following section.</Para>
+            <Para ID="Par19">The chronologic order of the first and second photographs was blinded to the examiner until the measurements were completed.</Para>
+          </Section1>
+          <Section1 ID="Sec3">
+            <Heading>Statistical evaluation</Heading>
+            <Para ID="Par20">Paired Student’s <Emphasis Type="Italic">t</Emphasis> tests were used for comparing the different length measurements. Mann–Whitney <Emphasis Type="Italic">U</Emphasis> tests were used for the subgroup comparisons, including follow-up time of more or less than 5 years, and whether patients underwent surgical procedure during the follow-up period. All analyses were calculated with SPSS Statistics, version 22, IBM.</Para>
+          </Section1>
+          <Section1 ID="Sec4" Type="Results">
+            <Heading>Results</Heading>
+            <Para ID="Par21">In the validation series, the random error of the length measurements was 0.63 mm for the reconstructed ear and 0.79 mm for the normal ear. The systematic error for this method was negligible.</Para>
+            <Para ID="Par22">The mean length of the reconstructed ears at the first measurement was 5.46 and 6.09 cm at the second measurement. The mean length of the normal ears was 5.59 cm at the first measurement and 6.12 cm at the second measurement (Table <InternalRef RefID="Tab1">1</InternalRef>).
+              
+              
+              <!--Style4-->
+              <Table Float="Yes" ID="Tab1">
+                <Caption Language="En">
+                  <CaptionNumber>Table 1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Length of ear</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup align="left" cols="5">
+                  <colspec align="left" colname="c1" colnum="1"/>
+                  <colspec align="char" char="." colname="c2" colnum="2"/>
+                  <colspec align="char" char="." colname="c3" colnum="3"/>
+                  <colspec align="char" char="." colname="c4" colnum="4"/>
+                  <colspec align="char" char="." colname="c5" colnum="5"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1"/>
+                      <entry colname="c2">
+                        <SimplePara>Reconstructed, first measurement (cm)</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>Reconstructed, second measurement (cm)</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>Normal, first measurement (cm)</SimplePara>
+                      </entry>
+                      <entry colname="c5">
+                        <SimplePara>Normal, second measurement (cm)</SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Mean</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c2">
+                        <SimplePara>5.46</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c3">
+                        <SimplePara>6.09</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c4">
+                        <SimplePara>5.59</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c5">
+                        <SimplePara>6.12</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Standard deviation</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c2">
+                        <SimplePara>0.42</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c3">
+                        <SimplePara>0.44</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c4">
+                        <SimplePara>0.41</SimplePara>
+                      </entry>
+                      <entry align="char" char="." colname="c5">
+                        <SimplePara>0.39</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+            </Para>
+            <Para ID="Par23">The difference between the first and second measurement of the reconstructed ear was 0.62 cm (95 % CI 0.43–0.81 cm), an 11 % length increase. The difference between the first and second measurement of the normal ear was 0.53 cm (95 % CI 0.38–0.68 cm), a 9.5 % length increase. The difference between the growth of the reconstructed and normal ears during the studied time-period was 0.10 cm (95 % CI −0.08–0.27), which was insignificant. The distribution of the growth in the study group is shown in Fig. <InternalRef RefID="Fig3">3</InternalRef>.<Figure Category="Standard" Float="Yes" ID="Fig3">
+                <!--Style3-->
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Distribution of growth of reconstructed and normal ears (cm)</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO3">
+                  <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1113_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+            </Para>
+            <Para ID="Par24">The mean difference between the normal and reconstructed ears was 0.46 cm at the first measurement and 0.41 cm at the second measurement (Figs. <InternalRef RefID="Fig4">4</InternalRef> and <InternalRef RefID="Fig5">5</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig4">
+                <!--Style3-->
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 4</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Distribution of the differences between the normal and reconstructed ears at the first measurement (cm). Y-axis shows number of study subjects in each length interval</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO4">
+                  <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1113_Fig4_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+              <Figure Category="Standard" Float="Yes" ID="Fig5">
+                <!--Style3-->
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 5</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Distribution of the differences between the normal and reconstructed ears at the second measurement (cm). Y-axis shows number of study subjects in each length interval</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO5">
+                  <ImageObject Color="Color" FileRef="MediaObjects/238_2015_1113_Fig5_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+            </Para>
+            <Para ID="Par25">The length of the reconstructed and normal ears had increased significantly more in the group followed for &gt;5 years compared with the group followed for &lt;5 years (<Emphasis Type="Italic">p</Emphasis> = 0.01 and <Emphasis Type="Italic">p</Emphasis> = 0.005, respectively). The difference of the age at first surgery between these groups was negligible.</Para>
+            <Para ID="Par26">There was no significant difference between the group that underwent a surgical procedure during follow-up time and the group that had not (<Emphasis Type="Italic">p</Emphasis> = 0.41).</Para>
+          </Section1>
+          <Section1 ID="Sec5" Type="Discussion">
+            <Heading>Discussion</Heading>
+            <Para ID="Par27">Ever since Burt Brent reported his clinical observations of substantial growth of the reconstructed ear at long-term follow-up, the subject of the growth of the cartilage has been under debate.</Para>
+            <Para ID="Par28">In this study of cartilage growth, the inclusion criteria were very strict, yielding a small selection of patients with unilateral microtia from a registry for ear reconstruction containing over 300 patients. This strategy gave a small but homogenous group of patients. One of the limitations in the material was adequate photographic documentation—despite the large photo registry, few patients had continuous documentation.</Para>
+            <Para ID="Par29">A third of the study group had undergone minor surgical procedures during the follow-up time. There was a theoretical risk that these small procedures could alter the length of the ear. However, the results show that there was no growth difference between the subjects that had undergone a procedure during follow-up time and the subjects that had not. Thus, these patients were not excluded from the study.</Para>
+            <Para ID="Par30">The single examiner’s individual random and systematic errors were determined for the method of measurement used in this study. These were small compared to the observed growth.</Para>
+            <Para ID="Par31">The first photograph was usually taken at the 1-year follow-up, but for some subjects, this was not possible as they underwent additional minor correctional procedures. This explains the large time-interval between the first surgery and the first photograph in our study group.</Para>
+            <Para ID="Par32">There are several possible methods for measuring ears, including magnetic resonance tomography, tantalum beads in the cartilage and computerised tomography. These tests are either expensive or invasive. Callipers or a compass and ruler are widely used but are not reproducible. We used digital morphometry, since this is relatively precise, non-invasive and the measurements can be done and redone retrospectively.</Para>
+            <Para ID="Par33">We believe that it is the cartilage framework that grows, which is indirectly shown as an increase in total ear length. It is implausible that the soft tissue, a minor part of the total length, would contribute much to the growth of the ear. Growth due to increased laxity is not normally seen at this age.</Para>
+            <Para ID="Par34">Previous studies have reported an increase of 1–5.3 mm in length of the normal ear in the age-span of 11–17 years. Our findings correspond to the upper range of these findings [<CitationRef CitationID="CR5">5</CitationRef>–<CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR15">15</CitationRef>]. The studies are not completely consistent with each other, which could be due to the different definitions and measurements of ear length. Nor is the material in these studies comparable to ours regarding the age-span. Since our measurements began at a younger age, it could be anticipated that we would find growth of the normal ear within the upper range of previously reported observations. A source of bias could be that knowledge of the first measurement affected the second measurement. This was eliminated in our study by blinding the chronological order of the photos to the examiner. None of the aforementioned studies tested the repeatability of their method and the examiners.</Para>
+            <Para ID="Par35">In this retrospective study, the reconstructed ears grew significantly. This is consistent with some earlier studies.</Para>
+            <Para ID="Par36">Thomson and Winslow found that compared to lead templates of the normal ear at the time of the first surgery, tracings of both the normal and reconstructed ears had increased in size after a minimum follow-up of 2 years, and that the difference in size between the normal and reconstructed ears was not significant [<CitationRef CitationID="CR16">16</CitationRef>]. Instead of measuring the ears directly, templates were used, which is a potential source of error. The parameters used were area and perimeter, which differs from other studies, and makes the results difficult to compare.</Para>
+            <Para ID="Par37">DellaCroce et al. measured the reconstructed ears of 10 patients with an average follow-up time of 3 years, and found a length increase of 10.4 % and a width increase of 7.02 %, which was not significantly different from the growth of the normal ear on the six patients with unilateral microtia. The study group had only undergone the first stage of surgery at 5–10 years of age [<CitationRef CitationID="CR17">17</CitationRef>]. From our experience, ear width is difficult to measure due to the less defined landmarks.</Para>
+            <Para ID="Par38">Kizhner and Barak found that the length decreased by 3.1 % and the width increased by 4.0 % when comparing measurements of the reconstructed ear with the size of the original template in 28 patients operated with the Nagata technique. Only 11 of these underwent the procedure before maturity (stated as 12–13 years of age). The follow-up time varied between 9 and 28 months. The measurements here were also done on templates [<CitationRef CitationID="CR18">18</CitationRef>], which creates possible systematic or random errors.</Para>
+            <Para ID="Par39">Xu et al. found a width increase of 3.7 and 3.9 % in children and adolescents, respectively, after a mean follow-up time of 2.5 years. Compared with the normal ear, the height decreased by 1.3 % in the children and 2.1 % in the adolescent group. The measurements were done directly on the ear with a calliper. Xu et al. suggested that the relative shrinkage could be due to the patients putting pressure on the ear, thus restricting blood flow to the graft. The 126 patients studied were Asians [<CitationRef CitationID="CR19">19</CitationRef>] as opposed to our study group, which was mostly Caucasians.</Para>
+            <Para ID="Par40">Possible reasons for the inconsistencies in the results of these studies are use of different methods, study of different age-spans and the longer follow-up time of our study. The comparison we made between the growth of the reconstructed ears of the subjects followed for &lt;5 and &gt;5 years indicates that on average, the ears grow more the longer the follow-up time during the age-span that we studied.</Para>
+            <Para ID="Par41">The mean difference in length between the normal ear and the reconstructed ear of each study subject at the time of the first and second photographs, respectively, was small. There was, however, a variance around the mean. At the end of follow-up, 64 % had a difference of &lt;0.5 cm and 91 % &lt;1.0 cm. In comparison, Sforza et al. stated that at the age of 15–17 years, the mean difference between a normal right and left ear is 1.1 mm, but the range of the differences was not clearly stated [<CitationRef CitationID="CR15">15</CitationRef>].</Para>
+            <Para ID="Par42">We found that the reconstructed ears grew as much as the normal ears, and hence it is reasonable to use the normal ear as a template at the time of the first reconstructive stage. Our results also support commencing the reconstructive series as early as at the age of 7 years.</Para>
+          </Section1>
+        </Body>
+        <BodyRef FileRef="BodyRef/PDF/238_2015_Article_1113.pdf" TargetType="OnlinePDF"/>
+        <ArticleBackmatter>
+          <Acknowledgments>
+            <Heading>Ethical standards</Heading>
+            <SimplePara>This study was not considered to be harmful in any way to the study subjects, and all information used was acquired from already existing medical records. For this type of study, formal consent from a local ethics committee is not required.</SimplePara>
+            <FormalPara ID="FPar1" RenderingStyle="Style1">
+              <Heading>Conflict of interest</Heading>
+              <Para ID="Par43">Emma Roos, Sven-Olof Wikström and Martin Öberg declare that they have no conflict of interest.</Para>
+            </FormalPara>
+            <FormalPara RenderingStyle="Style1">
+              <Heading>Patient consent</Heading>
+              <Para>Parents or legal guardians provided written consent for the inclusion of patients and use of their images in this study.</Para>
+            </FormalPara>
+          </Acknowledgments>
+          <Bibliography ID="Bib1">
+            <Heading>References</Heading>
+            <Citation ID="CR1">
+              <CitationNumber>1.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Alasti</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Camp</FamilyName>
+                  <Particle>Van</Particle>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Genetics of microtia and associated syndromes</ArticleTitle>
+                <JournalTitle>J Med Genet</JournalTitle>
+                <VolumeID>46</VolumeID>
+                <IssueID>6</IssueID>
+                <FirstPage>361</FirstPage>
+                <LastPage>369</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1136/jmg.2008.062158</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1MXps1Wit7c%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>19293168</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Alasti F, Van Camp G (2009) Genetics of microtia and associated syndromes. J Med Genet 46(6):361–369</BibUnstructured>
+            </Citation>
+            <Citation ID="CR2">
+              <CitationNumber>2.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>IJ</Initials>
+                  <FamilyName>Keogh</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MJ</Initials>
+                  <FamilyName>Troulis</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>AA</Initials>
+                  <FamilyName>Monroy</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>RD</Initials>
+                  <FamilyName>Eavey</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>LB</Initials>
+                  <FamilyName>Kaban</FamilyName>
+                </BibAuthorName>
+                <Year>2007</Year>
+                <ArticleTitle Language="En">Isolated microtia as a marker for unsuspected hemifacial microsomia</ArticleTitle>
+                <JournalTitle>Arch Otolaryngol Head Neck Surg</JournalTitle>
+                <VolumeID>133</VolumeID>
+                <IssueID>10</IssueID>
+                <FirstPage>997</FirstPage>
+                <LastPage>1001</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1001/archotol.133.10.997</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>17938322</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Keogh IJ, Troulis MJ, Monroy AA, Eavey RD, Kaban LB (2007) Isolated microtia as a marker for unsuspected hemifacial microsomia. Arch Otolaryngol Head Neck Surg 133(10):997–1001</BibUnstructured>
+            </Citation>
+            <Citation ID="CR3">
+              <CitationNumber>3.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Harris</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Kallen</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>E</Initials>
+                  <FamilyName>Robert</FamilyName>
+                </BibAuthorName>
+                <Year>1996</Year>
+                <ArticleTitle Language="En">The epidemiology of anotia and microtia</ArticleTitle>
+                <JournalTitle>J Med Genet</JournalTitle>
+                <VolumeID>33</VolumeID>
+                <IssueID>10</IssueID>
+                <FirstPage>809</FirstPage>
+                <LastPage>813</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1136/jmg.33.10.809</Handle>
+                </Occurrence>
+                <Occurrence Type="PMCID">
+                  <Handle>1050757</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK2s%2Foslehug%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>8933331</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Harris J, Kallen B, Robert E (1996) The epidemiology of anotia and microtia. J Med Genet 33(10):809–813</BibUnstructured>
+            </Citation>
+            <Citation ID="CR4">
+              <CitationNumber>4.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>BS</Initials>
+                  <FamilyName>Bauer</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Reconstruction of microtia</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>124</VolumeID>
+                <IssueID>1 Suppl</IssueID>
+                <FirstPage>14e</FirstPage>
+                <LastPage>26e</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/PRS.0b013e3181aa0e79</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BD1MXnvVOls7c%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>19568136</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Bauer BS (2009) Reconstruction of microtia. Plast Reconstr Surg 124(1 Suppl):14e–26e</BibUnstructured>
+            </Citation>
+            <Citation ID="CR5">
+              <CitationNumber>5.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Purkait</FamilyName>
+                </BibAuthorName>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Progression of growth in the external ear from birth to maturity: a 2-year follow-up study in India</ArticleTitle>
+                <JournalTitle>Aesthetic Plast Surg</JournalTitle>
+                <VolumeID>37</VolumeID>
+                <IssueID>3</IssueID>
+                <FirstPage>605</FirstPage>
+                <LastPage>616</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1007/s00266-013-0097-1</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23519877</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Purkait R (2013) Progression of growth in the external ear from birth to maturity: a 2-year follow-up study in India. Aesthetic Plast Surg 37(3):605–616</BibUnstructured>
+            </Citation>
+            <Citation ID="CR6">
+              <CitationNumber>6.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>LG</Initials>
+                  <FamilyName>Farkas</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>JC</Initials>
+                  <FamilyName>Posnick</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>TM</Initials>
+                  <FamilyName>Hreczko</FamilyName>
+                </BibAuthorName>
+                <Year>1992</Year>
+                <ArticleTitle Language="En">Anthropometric growth study of the ear</ArticleTitle>
+                <JournalTitle>Cleft Palate Craniofac J</JournalTitle>
+                <VolumeID>29</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>324</FirstPage>
+                <LastPage>329</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1597/1545-1569(1992)029&lt;0324:AGSOTE&gt;2.3.CO;2</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK38zltlSlsQ%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>1643061</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Farkas LG, Posnick JC, Hreczko TM (1992) Anthropometric growth study of the ear. Cleft Palate Craniofac J 29(4):324–329</BibUnstructured>
+            </Citation>
+            <Citation ID="CR7">
+              <CitationNumber>7.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>MT</Initials>
+                  <FamilyName>Kalcioglu</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>MC</Initials>
+                  <FamilyName>Miman</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>Y</Initials>
+                  <FamilyName>Toplu</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Yakinci</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>O</Initials>
+                  <FamilyName>Ozturan</FamilyName>
+                </BibAuthorName>
+                <Year>2003</Year>
+                <ArticleTitle Language="En">Anthropometric growth study of normal human auricle</ArticleTitle>
+                <JournalTitle>Int J Pediatr Otorhinolaryngol</JournalTitle>
+                <VolumeID>67</VolumeID>
+                <IssueID>11</IssueID>
+                <FirstPage>1169</FirstPage>
+                <LastPage>1177</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/S0165-5876(03)00221-0</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>14597366</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Kalcioglu MT, Miman MC, Toplu Y, Yakinci C, Ozturan O (2003) Anthropometric growth study of normal human auricle. Int J Pediatr Otorhinolaryngol 67(11):1169–1177</BibUnstructured>
+            </Citation>
+            <Citation ID="CR8">
+              <CitationNumber>8.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>RC</Initials>
+                  <FamilyName>Tanzer</FamilyName>
+                </BibAuthorName>
+                <Year>1959</Year>
+                <ArticleTitle Language="En">Total reconstruction of the external ear</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg Transplant Bull</JournalTitle>
+                <VolumeID>23</VolumeID>
+                <IssueID>1</IssueID>
+                <FirstPage>1</FirstPage>
+                <LastPage>15</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/00006534-195901000-00001</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaG1M%2FmtlSktw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>13633474</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Tanzer RC (1959) Total reconstruction of the external ear. Plast Reconstr Surg Transplant Bull 23(1):1–15</BibUnstructured>
+            </Citation>
+            <Citation ID="CR9">
+              <CitationNumber>9.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Brent</FamilyName>
+                </BibAuthorName>
+                <Year>1980</Year>
+                <ArticleTitle Language="En">The correction of microtia with autogenous cartilage grafts: I. The classic deformity?</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>66</VolumeID>
+                <IssueID>1</IssueID>
+                <FirstPage>1</FirstPage>
+                <LastPage>12</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/00006534-198007000-00001</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaL3c3jsFShsw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>7394028</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Brent B (1980) The correction of microtia with autogenous cartilage grafts: I. The classic deformity? Plast Reconstr Surg 66(1):1–12</BibUnstructured>
+            </Citation>
+            <Citation ID="CR10">
+              <CitationNumber>10.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>B</Initials>
+                  <FamilyName>Brent</FamilyName>
+                </BibAuthorName>
+                <Year>1980</Year>
+                <ArticleTitle Language="En">The correction of microtia with autogenous cartilage grafts: II. Atypical and complex deformities</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>66</VolumeID>
+                <IssueID>1</IssueID>
+                <FirstPage>13</FirstPage>
+                <LastPage>21</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/00006534-198007000-00002</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaL3c3jsFShuw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>6994145</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Brent B (1980) The correction of microtia with autogenous cartilage grafts: II. Atypical and complex deformities. Plast Reconstr Surg 66(1):13–21</BibUnstructured>
+            </Citation>
+            <Citation ID="CR11">
+              <CitationNumber>11.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Nagata</FamilyName>
+                </BibAuthorName>
+                <Year>1993</Year>
+                <ArticleTitle Language="En">A new method of total reconstruction of the auricle for microtia</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>92</VolumeID>
+                <IssueID>2</IssueID>
+                <FirstPage>187</FirstPage>
+                <LastPage>201</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/00006534-199308000-00001</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK3szjtV2qtA%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>8337267</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Nagata S (1993) A new method of total reconstruction of the auricle for microtia. Plast Reconstr Surg 92(2):187–201</BibUnstructured>
+            </Citation>
+            <Citation ID="CR12">
+              <CitationNumber>12.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Rosenthal</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SH</Initials>
+                  <FamilyName>Bain</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>D</Initials>
+                  <FamilyName>Cramer</FamilyName>
+                </BibAuthorName>
+                <Etal/>
+                <Year>1993</Year>
+                <ArticleTitle Language="En">Lung function in white children aged 4 to 19 years: I—spirometry</ArticleTitle>
+                <JournalTitle>Thorax</JournalTitle>
+                <VolumeID>48</VolumeID>
+                <IssueID>8</IssueID>
+                <FirstPage>794</FirstPage>
+                <LastPage>802</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1136/thx.48.8.794</Handle>
+                </Occurrence>
+                <Occurrence Type="PMCID">
+                  <Handle>464704</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK2c%2FisVOmsA%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>8211868</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Rosenthal M, Bain SH, Cramer D et al (1993) Lung function in white children aged 4 to 19 years: I—spirometry. Thorax 48(8):794–802</BibUnstructured>
+            </Citation>
+            <Citation ID="CR13">
+              <CitationNumber>13.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Oberg</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>H</Initials>
+                  <FamilyName>Svensson</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Bjork</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Flodin</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>SO</Initials>
+                  <FamilyName>Wikstrom</FamilyName>
+                </BibAuthorName>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">A comparison of digital morphometry and clinical measurements of ears</ArticleTitle>
+                <JournalTitle>J Plast Surg Hand Surg</JournalTitle>
+                <VolumeID>47</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>317</FirstPage>
+                <LastPage>319</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.3109/2000656X.2013.766886</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23547537</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Oberg M, Svensson H, Bjork C, Flodin J, Wikstrom SO (2013) A comparison of digital morphometry and clinical measurements of ears. J Plast Surg Hand Surg 47(4):317–319</BibUnstructured>
+            </Citation>
+            <Citation ID="CR14">
+              <CitationNumber>14.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>JM</Initials>
+                  <FamilyName>Bland</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>DG</Initials>
+                  <FamilyName>Altman</FamilyName>
+                </BibAuthorName>
+                <Year>1986</Year>
+                <ArticleTitle Language="En">Statistical methods for assessing agreement between two methods of clinical measurement</ArticleTitle>
+                <JournalTitle>Lancet</JournalTitle>
+                <VolumeID>1</VolumeID>
+                <IssueID>8476</IssueID>
+                <FirstPage>307</FirstPage>
+                <LastPage>310</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1016/S0140-6736(86)90837-8</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaL287hslWqsQ%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>2868172</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Bland JM, Altman DG (1986) Statistical methods for assessing agreement between two methods of clinical measurement. Lancet 1(8476):307–310</BibUnstructured>
+            </Citation>
+            <Citation ID="CR15">
+              <CitationNumber>15.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>C</Initials>
+                  <FamilyName>Sforza</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>G</Initials>
+                  <FamilyName>Grandi</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>M</Initials>
+                  <FamilyName>Binelli</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>DG</Initials>
+                  <FamilyName>Tommasi</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>R</Initials>
+                  <FamilyName>Rosati</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>VF</Initials>
+                  <FamilyName>Ferrario</FamilyName>
+                </BibAuthorName>
+                <Year>2009</Year>
+                <ArticleTitle Language="En">Age- and sex-related changes in the normal human ear</ArticleTitle>
+                <JournalTitle>Forensic Sci Int</JournalTitle>
+                <VolumeID>187</VolumeID>
+                <IssueID>1–3</IssueID>
+                <FirstPage>110.e1</FirstPage>
+                <LastPage>7</LastPage>
+              </BibArticle>
+              <BibUnstructured>Sforza C, Grandi G, Binelli M, Tommasi DG, Rosati R, Ferrario VF (2009) Age- and sex-related changes in the normal human ear. Forensic Sci Int 187(1–3):110.e1–7</BibUnstructured>
+            </Citation>
+            <Citation ID="CR16">
+              <CitationNumber>16.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>HG</Initials>
+                  <FamilyName>Thomson</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>J</Initials>
+                  <FamilyName>Winslow</FamilyName>
+                </BibAuthorName>
+                <Year>1989</Year>
+                <ArticleTitle Language="En">Microtia reconstruction: does the cartilage framework grow?</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>84</VolumeID>
+                <IssueID>6</IssueID>
+                <FirstPage>908</FirstPage>
+                <LastPage>915</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/00006534-198912000-00007</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DyaK3c%2FmvVKkuw%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>2587654</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Thomson HG, Winslow J (1989) Microtia reconstruction: does the cartilage framework grow? Plast Reconstr Surg 84(6):908–915</BibUnstructured>
+            </Citation>
+            <Citation ID="CR17">
+              <CitationNumber>17.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>FJ</Initials>
+                  <FamilyName>DellaCroce</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>S</Initials>
+                  <FamilyName>Green</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>EF</Initials>
+                  <FamilyName>Aguilar</FamilyName>
+                  <Suffix>3rd</Suffix>
+                </BibAuthorName>
+                <Year>2001</Year>
+                <ArticleTitle Language="En">Framework growth after reconstruction for microtia: is it real and what are the implications?</ArticleTitle>
+                <JournalTitle>Plast Reconstr Surg</JournalTitle>
+                <VolumeID>108</VolumeID>
+                <IssueID>6</IssueID>
+                <FirstPage>1479</FirstPage>
+                <LastPage>1484</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1097/00006534-200111000-00003</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:STN:280:DC%2BD3MnmvVWjsQ%3D%3D</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>11711912</Handle>
+                </Occurrence>
+                <BibComments>discussion 85–6</BibComments>
+              </BibArticle>
+              <BibUnstructured>DellaCroce FJ, Green S, Aguilar EF 3rd (2001) Framework growth after reconstruction for microtia: is it real and what are the implications? Plast Reconstr Surg 108(6):1479–1484, discussion 85–6</BibUnstructured>
+            </Citation>
+            <Citation ID="CR18">
+              <CitationNumber>18.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>V</Initials>
+                  <FamilyName>Kizhner</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>A</Initials>
+                  <FamilyName>Barak</FamilyName>
+                </BibAuthorName>
+                <Year>2008</Year>
+                <ArticleTitle Language="En">Framework changes using costal cartilage for microtia reconstruction</ArticleTitle>
+                <JournalTitle>Arch Otolaryngol Head Neck Surg</JournalTitle>
+                <VolumeID>134</VolumeID>
+                <IssueID>7</IssueID>
+                <FirstPage>768</FirstPage>
+                <LastPage>770</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1001/archotol.134.7.768</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>18645129</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Kizhner V, Barak A (2008) Framework changes using costal cartilage for microtia reconstruction. Arch Otolaryngol Head Neck Surg 134(7):768–770</BibUnstructured>
+            </Citation>
+            <Citation ID="CR19">
+              <CitationNumber>19.</CitationNumber>
+              <BibArticle>
+                <BibAuthorName>
+                  <Initials>ZC</Initials>
+                  <FamilyName>Xu</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>RH</Initials>
+                  <FamilyName>Zhang</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>Q</Initials>
+                  <FamilyName>Zhang</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>F</Initials>
+                  <FamilyName>Xu</FamilyName>
+                </BibAuthorName>
+                <BibAuthorName>
+                  <Initials>T</Initials>
+                  <FamilyName>Li</FamilyName>
+                  <Particle>da</Particle>
+                </BibAuthorName>
+                <Year>2013</Year>
+                <ArticleTitle Language="En">Anthropometric measurements in 126 microtia reconstructions</ArticleTitle>
+                <JournalTitle>Facial Plast Surg</JournalTitle>
+                <VolumeID>29</VolumeID>
+                <IssueID>4</IssueID>
+                <FirstPage>321</FirstPage>
+                <LastPage>326</LastPage>
+                <Occurrence Type="DOI">
+                  <Handle>10.1055/s-0033-1349357</Handle>
+                </Occurrence>
+                <Occurrence Type="COI">
+                  <Handle>1:CAS:528:DC%2BC2cXhvVSgsbnE</Handle>
+                </Occurrence>
+                <Occurrence Type="PID">
+                  <Handle>23884854</Handle>
+                </Occurrence>
+              </BibArticle>
+              <BibUnstructured>Xu ZC, Zhang RH, Zhang Q, Xu F, da Li T (2013) Anthropometric measurements in 126 microtia reconstructions. Facial Plast Surg 29(4):321–326</BibUnstructured>
+            </Citation>
+          </Bibliography>
+        </ArticleBackmatter>
+      </Article>
+    </JournalOnlineFirst>
+  </Journal>
+</Publisher>

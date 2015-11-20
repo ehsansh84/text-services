@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-014-0802-2" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>802</ArticleID>
+            <ArticleDOI>10.1007/s00066-014-0802-2</ArticleDOI>
+            <ArticleSequenceNumber>3</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Treatment of acromegaly patients with risk-adapted single or fractionated stereotactic high-precision radiotherapy</ArticleTitle>
+            <ArticleSubTitle Language="En">High local control and low toxicity in a pooled series</ArticleSubTitle>
+            <ArticleTitle Language="De">Behandlung von Akromegaliepatienten mit einer risikoadaptierten Einzel- oder fraktionierten stereotaktischen Hochpräzisionsstrahlentherapie</ArticleTitle>
+            <ArticleSubTitle Language="De">Hohe lokale Tumorkontrolle und geringe Toxizität in einer gepoolten Serie</ArticleSubTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>477</ArticleFirstPage>
+            <ArticleLastPage>485</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+              </Received>
+              <Accepted>
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2014</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff4 Aff6" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>PD Dr. med.</Prefix>
+                  <GivenName>Jan Patrick</GivenName>
+                  <FamilyName>Boström</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Phone>+049(0)228/5306/202</Phone>
+                  <Email>Jan.Bostroem@mediclin.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr.</Prefix>
+                  <GivenName>Thomas</GivenName>
+                  <FamilyName>Kinfe</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr.</Prefix>
+                  <GivenName>Almuth</GivenName>
+                  <FamilyName>Meyer</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Dr.</Prefix>
+                  <GivenName>Bogdan</GivenName>
+                  <FamilyName>Pintea</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Prof. Dr.</Prefix>
+                  <GivenName>Rüdiger</GivenName>
+                  <FamilyName>Gerlach</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gunnar</GivenName>
+                  <FamilyName>Surber</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff4 Aff5">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>Prof. Dr. Dr.</Prefix>
+                  <GivenName>Guido</GivenName>
+                  <FamilyName>Lammering</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <Prefix>PD Dr.</Prefix>
+                  <GivenName>Klaus</GivenName>
+                  <FamilyName>Hamm</FamilyName>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Neurosurgery</OrgDivision>
+                <OrgName>HELIOS Klinikum Erfurt</OrgName>
+                <OrgAddress>
+                  <Street>Nordhäuser Strasse 74</Street>
+                  <Postcode>99089</Postcode>
+                  <City>Erfurt</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Endocrinology</OrgDivision>
+                <OrgName>HELIOS Klinikum Erfurt</OrgName>
+                <OrgAddress>
+                  <Street>Nordhäuser Strasse 74</Street>
+                  <Postcode>99089</Postcode>
+                  <City>Erfurt</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Department of Radiosurgery</OrgDivision>
+                <OrgName>HELIOS Klinikum Erfurt</OrgName>
+                <OrgAddress>
+                  <Street>Nordhäuser Strasse 74</Street>
+                  <Postcode>99089</Postcode>
+                  <City>Erfurt</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgDivision>Department of Radiosurgery and Stereotactic Radiotherapy</OrgDivision>
+                <OrgName>Mediclin Robert Janker Clinic and MediClin MVZ Bonn</OrgName>
+                <OrgAddress>
+                  <Street>Villenstrasse 8</Street>
+                  <Postcode>53129</Postcode>
+                  <City>Bonn</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Department of Radiotherapy and Radiation Oncology</OrgDivision>
+                <OrgName>Heinrich-Heine-University of Duesseldorf</OrgName>
+                <OrgAddress>
+                  <Street>Moorenstrasse 5</Street>
+                  <Postcode>40225</Postcode>
+                  <City>Duesseldorf</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff6">
+                <OrgDivision>Department of Neurosurgery</OrgDivision>
+                <OrgName>University Hospital of Bonn</OrgName>
+                <OrgAddress>
+                  <Street>Sigmund-Freud-Strasse 25</Street>
+                  <Postcode>53105</Postcode>
+                  <City>Bonn</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Purpose</Heading>
+                <Para>The purpose of this work was to evaluate a prospectively initiated two-center protocol of risk-adapted stereotactic radiosurgery (SRS) or stereotactic radiotherapy (SRT) in patients with acromegaly.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Patients and methods</Heading>
+                <Para>In total 35 patients (16 men/19 women, mean age 54 years) were prospectively included in a treatment protocol of SRS [planning target volume (PTV &lt; 4 ccm, &gt; 2 mm to optic pathways = low risk] or SRT (PTV ≥ 4 ccm, ≤ 2 mm to optic pathways = high risk). The mean tumor volume was 3.71 ccm (range: 0.11–22.10 ccm). Based on the protocol guidelines, 21 patients were treated with SRS and 12 patients with SRT, 2 patients received both consecutively.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para>The median follow-up (FU) reached 8 years with a 5-year overall survival (OS) of 87.3 % [confidence interval (CI): 70.8–95.6 %] and 5-year local control rate of 97.1 % (CI: 83.4–99.8 %). Almost 80 % (28/35) presented tumor shrinkage during FU. Endocrinological cure was achieved in 23 % and IGF-1 normalization with reduced medication was achieved in 40 % of all patients. An endocrinological response was generally achieved within the first 3 years, but endocrinological cure can require more than 8 years. A new adrenocorticotropic hypopituitarism occurred in 13 patients (46.4 %). A new visual field disorder and a new oculomotor palsy occurred in 1 patient, respectively. Patients with occurrence of visual/neurological impairments had a longer FU (<Emphasis Type="Italic">p</Emphasis> = 0.049).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusion</Heading>
+                <Para>Our SRS/SRT protocol proved to be safe and successful in terms of tumor control and protection of the visual system. The timing and rate of endocrine improvements are difficult to predict. One has to accept an unavoidable rate of additional adrenocorticotropic hypopituitarism in the long term.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="De" OutputMedium="All">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec5">
+                <Heading>Ziel</Heading>
+                <Para>Zielsetzung dieser Arbeit ist die Evaluation eines prospektiv angelegten Behandlungsprotokolls einer risikoadaptierten stereotaktischen Radiochirurgie (SRS) oder stereotaktischen Radiotherapie (SRT) von Patienten mit Akromegalie aus 2 Zentren.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec6">
+                <Heading>Patienten und Methoden</Heading>
+                <Para>Insgesamt 35 Patienten (16 Männer/19 Frauen) mit einem medianen Alter von 54 Jahren wurden nach einem prospektiven Protokoll entweder mit SRS [“planning target volume” (PTV) &lt; 4 ccm, &gt; 2 mm zum optischen System = geringes Risiko] oder SRT (PTV ≥ 4 ccm, ≤ 2 mm zum optischen System = hohes Risiko) behandelt. Das mittlere Tumorvolumen betrug 3,71 ccm (Spannweite: 0,11–22,10 ccm). Nach diesem Protokoll wurden 21 Patienten mit SRS und 12 mit SRT behandelt, 2 erhielten im Verlauf beide Varianten.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7">
+                <Heading>Ergebnisse</Heading>
+                <Para>Ein medianes Follow-up (FU) von 8 Jahren wurde erreicht mit einer 5-Jahres-Überlebensrate von 87,3 % [Konfidenzintervall (KI): 70,8–95,6 %)] und einer lokalen 5-Jahres-Tumorkontrollrate von 97,1 % (KI: 83,4–99,8 %). Nahezu 80 % (28/35) zeigten eine Tumorschrumpfung im FU. Eine endokrinologische Sanierung wurde bei 23 % und eine IGF-1-Normalisierung mit reduzierter Medikation wurde bei 40 % aller Patienten erreicht. Eine endokrinologische Antwort erfolgte in der Regel innerhalb der ersten 3 Jahre, eine endokrinologische Sanierung kann aber länger als 8 Jahre dauern. Eine neue adrenocorticotrope Hypophyseninsuffizienz wurde bei 13 Patienten (46,4 %) beobachtet. Eine neue Gesichtsfeldstörung und eine neue Okulomotoriusparese post SRS/SRT traten bei jeweils 1 Patienten auf. Patienten mit Auftreten einer neurologischen oder Sehstörung hatten ein längeres FU (<Emphasis Type="Italic">p</Emphasis> = 0,049).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8">
+                <Heading>Schlussfolgerung</Heading>
+                <Para>Unser SRS/SRT-Behandlungsprotokoll erwies sich als erfolgreich und sicher hinsichtlich Tumorkontrolle und Schutz des optischen Systems. Der Zeitpunkt und die Rate von endokrinen Verbesserungen sind schwer vorherzusagen. Eine unvermeidliche Rate an zusätzlicher adrenocorticotroper Insuffizienz ist im Langzeitverlauf zu akzeptieren.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Visual fields</Keyword>
+              <Keyword>Treatment protocol</Keyword>
+              <Keyword>Tumor control</Keyword>
+              <Keyword>Hypopituitarism</Keyword>
+              <Keyword>Visual field disorder</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Optisches System</Keyword>
+              <Keyword>Behandlungsprotokoll</Keyword>
+              <Keyword>Tumorkontrolle</Keyword>
+              <Keyword>Hypophyseninsuffizienz</Keyword>
+              <Keyword>Gesichtsfeldstörung</Keyword>
+            </KeywordGroup>
+            <AbbreviationGroup>
+              <Heading>Abbreviations</Heading>
+              <DefinitionList>
+                <DefinitionListEntry>
+                  <Term>PA</Term>
+                  <Description>
+                    <Para>Pituitary adenoma</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>NSA</Term>
+                  <Description>
+                    <Para>Non-secretory adenomas</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SA</Term>
+                  <Description>
+                    <Para>Secretory pituitary adenoma</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SRS</Term>
+                  <Description>
+                    <Para>Stereotactic radiosurgery</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SRT</Term>
+                  <Description>
+                    <Para>Stereotactic radiotherapy</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>OS</Term>
+                  <Description>
+                    <Para>Overall survival</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>PTV</Term>
+                  <Description>
+                    <Para>Planning target volume</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>CTV</Term>
+                  <Description>
+                    <Para>Clinical target volume</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>OARs</Term>
+                  <Description>
+                    <Para>Organs at risk</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>LINAC</Term>
+                  <Description>
+                    <Para>Linear accelerator</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>MRI</Term>
+                  <Description>
+                    <Para>Magnetic resonance imaging</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>CT</Term>
+                  <Description>
+                    <Para>Computed tomography</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>RT</Term>
+                  <Description>
+                    <Para>Radiotherapy</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>Gy</Term>
+                  <Description>
+                    <Para>Gray</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>GH</Term>
+                  <Description>
+                    <Para>Growth hormone</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>SMS</Term>
+                  <Description>
+                    <Para>Somatostatin</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>ACTH</Term>
+                  <Description>
+                    <Para>Adrenocorticotropic hormone</Para>
+                  </Description>
+                </DefinitionListEntry>
+                <DefinitionListEntry>
+                  <Term>RECIST</Term>
+                  <Description>
+                    <Para>Response evaluation criteria in solid tumors</Para>
+                  </Description>
+                </DefinitionListEntry>
+              </DefinitionList>
+            </AbbreviationGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Authors Boström J. and Kinfe T. contributed equally to this work.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <Para>Based on their biochemical properties, pituitary adenomas (PA) are divided into secretory (SA) and non-secretory adenomas (NSA). Growth hormone (GH)-secreting tumors account for approximately 15–20 % of all PA. Clinical manifestation may occur as acromegaly, which significantly increases the risk for morbidity and even death due to the enlargement of organs/soft tissue and extremities. Therefore, treatment is not only indicated to control tumor growth, but likewise aims to eliminate the hormone excess [<CitationRef CitationID="CR1">1</CitationRef>–<CitationRef CitationID="CR3">3</CitationRef>].</Para>
+            <Para>Some studies related to this issue have not systematically distinguished between SA and NSA [<CitationRef CitationID="CR4">4</CitationRef>–<CitationRef CitationID="CR6">6</CitationRef>]. However, we propose to consider these two varieties separately, especially with regard to clinical symptoms and treatment options. Consequently, we excluded NSA from the study presented herein.</Para>
+            <Para>If patients with SA and acromegaly are suited for surgery, standard treatment is microsurgical resection [<CitationRef CitationID="CR1">1</CitationRef>]. However, with surgery alone, endocrinological cure is not always achievable. Therefore, different drugs like somatostatin (SMS) analogues, GH antagonists, and dopamine agonists as well as their combination are also available [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>]. Nevertheless, definitive treatment without lifelong drug therapy should be the goal. In case of residual tumor and/or of insufficient normalization of hormone levels despite drug therapy, stereotactic radiotherapy is nowadays an effective additional option for curative treatment.</Para>
+            <Para>Radiotherapy in the form of stereotactic radiotherapy (SRT) and stereotactic radiosurgery (SRS) has undergone rapid technical improvements, yielding promising results [<CitationRef CitationID="CR9">9</CitationRef>–<CitationRef CitationID="CR12">12</CitationRef>]. However especially in acromegaly, the exact time-course and time-point at which biochemical remission and tumor control occurs remains unclear. Therefore, to make decisions for an additional irradiation treatment and/or concomitant therapeutic strategies (e.g., medication and/or repeated surgery) is a challenge with many uncertainties [<CitationRef CitationID="CR13">13</CitationRef>, <CitationRef CitationID="CR14">14</CitationRef>].</Para>
+            <Para>Until now, most published studies have utilized the Gamma-Knife® as the technique for radiotherapy of acromegaly [<CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>]. Only retrospective series have investigated acromegaly treatment using a linear accelerator (LINAC) [<CitationRef CitationID="CR4">4</CitationRef>–<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>]. To our knowledge, this is the first prospective LINAC study investigating the impact and safety of SRS/SRT in patients with acromegaly using a well-defined treatment protocol. Our study was designed to analyze tumor control, restoration of hormonal imbalances, and adverse effects on nearby crucial anatomic structures (e.g., optic pathways) in a pooled series of acromegaly patients with a median follow-up of 8 years.</Para>
+            <Section1 ID="Sec1">
+              <Heading>Methods and patients</Heading>
+              <Para>From July 2000 to July 2011, a total of 42 patients with acromegaly were prospectively included in a treatment protocol consisting of SRS or SRT using the Novalis® system. Seven patients were lost for follow-up (FU); a total of 35 patients were included in the study. Age ranged from 30–75 years (mean: 54 years). The clinical variables including sex, tumor volume, intervention (Op, SRS/SRT/both), and FU are listed in Table <InternalRef RefID="Tab1">1</InternalRef>.<Table Float="Yes" ID="Tab1">
+                  <Caption Language="En">
+                    <CaptionNumber>Tab. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Patient (<Emphasis Type="Italic">n</Emphasis>Tab.1 = 35) and tumor characteristics</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup cols="4">
+                    <colspec align="left" colname="c1" colnum="1"/>
+                    <colspec align="left" colname="c2" colnum="2"/>
+                    <colspec align="left" colname="c3" colnum="3"/>
+                    <colspec align="left" colname="c4" colnum="4"/>
+                    <thead>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>Variable</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Specification</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>Overall</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>Average</SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> <Emphasis Type="Bold">Age</Emphasis> (range)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(30–75)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>54 (mean)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> <Emphasis Type="Bold">Gender</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Female</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>19</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1"/>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Male</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>16</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Surgery</Emphasis> (range)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Number</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(0–4)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>0.89 (mean)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">RT</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3"/>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Adjuvant</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>24</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>68.5 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Primary</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>31.5 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c4" namest="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Fractionation</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>21</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>60.0 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>11</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>31.5 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> (hf) SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>2.8 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRS/SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>2</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>5.7 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">CTV</Emphasis> (range)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>ccm</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(0.11–22.1)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>3.71 (mean)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(0.11–4.8)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>1.18 (mean)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(2.9–22.1)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>8.00 (mean)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> (hf) SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>0.15</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Fx</Emphasis> (range)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(1–31)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>20–31</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>30 (median)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> (hf) SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>5</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Daily dose</Emphasis>
+                          </SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>Gy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3"/>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>15–36</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>20 (median)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1.8–2.0</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> (hf) SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Total dose</Emphasis> (range) Gy</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(15.00–55.80)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRS</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>15–36</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>20 (median)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>40–55.8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>54 (median)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> (hf) SRT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>35</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4"/>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Follow-up</Emphasis> (range) years</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>(2.0–13.0)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>8 (median)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c4" namest="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Tumor size</Emphasis> (at last follow-up)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Smaller</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>28</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>80 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Stable</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>6</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>17 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Larger</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>3 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c4" namest="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">IGF-1 after RT</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Cure</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>No medication</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>8</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>23  %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Normalization</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>With medication</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>14</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>40 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Sunken</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>With medication</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>12</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>34 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Idem</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>With medication</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>3  %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c4" namest="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Adrenocorticotropic hypopituitarism</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> Before RT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>7</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>20.0 % (7/35)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> New after RT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>13</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>46.4  % (13/28)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> None after RT</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>15</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>42.3  % (15/35)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c4" namest="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Neurological dysfunction after RT</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> New (cranial nerve palsy)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>2.9 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> No new</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>34</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>97.1  %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> None</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>34</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>97.1  %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" nameend="c4" namest="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Dysfunction of optical system after RT</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> New</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2">
+                          <SimplePara>(Visual field)</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c3">
+                          <SimplePara>1</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>2.9 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> No new</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>34</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>97.1 %</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry align="left" colname="c1">
+                          <SimplePara> None</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c2"/>
+                        <entry align="left" colname="c3">
+                          <SimplePara>34</SimplePara>
+                        </entry>
+                        <entry align="left" colname="c4">
+                          <SimplePara>97.1 %</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>
+                      <Emphasis Type="Italic">RT</Emphasis> radiotherapy, SRS stereotactic radiosurgery, SRT stereotactic radiotherapy, <Emphasis Type="Italic">hf</Emphasis> hypofractionated, <Emphasis Type="Italic">CTV</Emphasis> clinical target volume, <Emphasis Type="Italic">Fx</Emphasis> fractionation, <Emphasis Type="Italic">IGF-1</Emphasis> insulin-like growth factor 1</SimplePara>
+                  </tfooter>
+                </Table>
+              </Para>
+              <Para>All patients included in the study had to fulfill the following eligibility criteria: (1) histologically confirmed or image-diagnosed SA with endocrinological findings indicating acromegaly, and/or (2) recurrent cases, patients receiving postoperative adjuvant SRS/SRT, inoperable patients, and patients who refused surgical resection, (3) no prior RT or chemotherapy for any other cranial disease, and (4) willingness to give written informed consent. The patient and tumor characteristics are summarized in Table <InternalRef RefID="Tab1">1</InternalRef>.</Para>
+              <Para>Patients were immobilized with a relocatable stereotactic frame for SRS or with an individually formed aquaplast mask for SRT (both BrainLAB®, Feldkirchen, Germany).</Para>
+              <Para>Patients underwent CT (computed tomography) and MRI (magnetic resonance imaging) by a 1.5-T system scanning with 0.7–1.2 mm slice thickness without gap for treatment planning using a CT-based three-dimensional (3D) treatment planning system (BrainLAB®, Feldkirchen, Germany). After stereotactic registration and image fusion (mutual information technique), GTV/CTV/PTV and organs at risk (OARs) were drawn slice by slice. Gross tumor volume (GTV) was determined on T1-weighted contrast-enhanced axial, coronal, and sagittal MRI scans. GTV was defined as the area of pathological contrast enhancement on T1-weighted MRI. Taking the direction of tumor invasion into consideration, the clinical target volume (CTV) was adjusted based on information from the preoperative images and the planning CT and/or MRI. Planning target volume (PTV) included a safety margin of 1–2 mm for SRT and of 0.5 mm for SRS. Conformal treatment plans with 3D dose distribution were designed for all cases using a planning algorithm that involved setting dose constraints to minimize the irradiation delivered to critical structures such as optic pathways and the brain stem. We used conformal beams and/or dynamic arcs for SRT, as well as dynamic arcs for SRS. All targets were treated with a single isocenter. For SRT, median cumulative dose was 54 Gy. The PTV was encompassed by 90 % of the prescribed dose at the reference point, usually at the isocenter. For SRS, the median single dose was 20 Gy at the isocenter (reference point), PTV encompassing the 80 % isodose. The accepted constraint dose at the brain stem was 50 Gy for SRT and 12 Gy for SRS. The accepted constraint dose at the optical system was 50 Gy for SRT and 8 Gy for SRS. A conformity and homogeneity index was calculated according to the Radiation Therapy Oncology Group 1993 criteria.</Para>
+              <Para>The used Novalis® system (BrainLAB AG, Feldkirchen, Germany) consists of a 6 MV LINAC with a micromultileaf collimator with a leaf thickness of 3 mm and a robotic couch (Varian®, Palo Alto, CA, USA). The geometrical accuracy is 0.3 mm. The entire treatment process typically required 10–15 min for 5 times a week for SRT and approximately 30 min for SRS.</Para>
+              <Para>The following treatment protocol as established and performed at the two institutions: SRS was considered the preferred treatment, if the target volume was smaller than 4 ccm and the closest distance to the optic pathways was greater 2 mm. The mean single dose given was 20 Gy prescribed to the 80 % isodose line. In all other cases, SRT was the preferred treatment technique, consisting of 25–30 fractions in 1.8–2.0 Gy daily doses. Based on these criteria a total of 21 patients were treated with SRS and 12 patients with SRT. Two patients underwent both techniques (see Table <InternalRef RefID="Tab1">1</InternalRef>).</Para>
+              <Para>Patient immobilization, treatment planning, geometric accuracy of, and clinical experiences with the Novalis® system used here have been reported previously [<CitationRef CitationID="CR19">19</CitationRef>–<CitationRef CitationID="CR21">21</CitationRef>]. The most common international remission criteria defined by the acromegaly consensus conference in 2000 with its update in 2010 were used [<CitationRef CitationID="CR22">22</CitationRef>]. GH and insulin-like growth factor 1 (IGF-1) were routinely tested. Our main criterion of remission was the age-adjusted normal IGF-1 level determined by a standardized assay, which was performed at every FU; hence, uni- and multivariate analyses included only this parameter. The oral glucose tolerance test was used in those patients in whom endocrinological cure needed to be proven.</Para>
+              <Para>The adrenocorticotropic axis represents the clinically most important hormone axis. To secure an adrenocorticotropic insufficiency basal cortisol and adrenocorticotropic hormone (ACTH) were determined. In case of further suspicion, in addition a metyrapone test was performed. In individual cases also alternatively a CRH test, a hypoglycemia test, or a 24-h cortisol urine test were carried out. New deficits defined 3 months after radiotherapy were regarded as radiotherapy associated.</Para>
+              <Para>The patients were followed at 6 and 12 months during the first year after SRS/SRT, and at intervals of 12 months thereafter. Regular FU included clinical examination, brain MRI, visual perception tests and examinations of hormonal levels.</Para>
+              <Para>The treatment responses were classified according to the Response Evaluation Criteria in Solid Tumors (RECIST). The exact procedure of volumetric evaluation of the MRIs has been recently described elsewhere [<CitationRef CitationID="CR19">19</CitationRef>].</Para>
+              <Para>The rates of overall survival, local control, and progression-free survival were calculated using the Kaplan–Meier method. Stepwise multiple linear regression tests were used in the analysis of following potential influence factors for tumor shrinkage, IGF-1 response, new adrenocorticotropic hypopituitarism, and new visual/neurological deficit: age at treatment, SRS vs. SRT, primary vs. adjuvant SRS/SRT, CTV, total dose, number of fractions, follow-up in years, number of surgeries. Statistical analysis was performed using SPSS® (SPSS Inc., Chicago, IL, USA) software.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Results</Heading>
+              <Para>Of the 35 patients, 11 patients received radiotherapy without primary surgery (8 SRS, 2 SRT and 1 consecutively both); the remaining 24 patients underwent irradiation to a progressive and/or residual tumor after one or more surgeries in connection with an elevated IGF-1 level despite adequate medication. In all, 20 patients underwent 1 surgery before irradiation, 2 patients 2 previous operations and 1 patient each 3 and 4 prior surgeries.</Para>
+              <Para>Twenty-one patients received SRS due to the small sized tumors with additional sufficient distance from the optical system (&gt; 2 mm). One patient underwent a hypofractionated (hf) SRT with 7 fractions of 5 Gy. In this special case the CTV was suitable for SRS, but the distance to the optical system was too small for a single high-dose treatment. SRT was prescribed in the 13 remaining patients (Table <InternalRef RefID="Tab1">1</InternalRef> and Fig. <InternalRef RefID="Fig1">1a</InternalRef>–<InternalRef RefID="Fig1">c</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 1</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>
+                        <Emphasis Type="Bold">a</Emphasis> SRS case with follow-up MRI and GH/IGF-1 course. <Emphasis Type="Bold">b</Emphasis> fSRT case with follow-up MRI and IGF-1 course. <Emphasis Type="Bold">c</Emphasis> hfSRT case with follow-up MRI and IGF-1 course</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO1">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2014_802_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Follow-up ranged from 2 to 13 years (median: 8 years). In all, 28 patients (80.0 %) presented with a radiological response with tumor shrinkage (partial remission), 6 (17.0 %) showed stable disease, and only 1 patient showed progressive disease (Table <InternalRef RefID="Tab1">1</InternalRef>).</Para>
+              <Para>A local tumor control rate of 97.1 % was achieved [with a confidence interval (CI) of 83.4–99.8 %]. The rate of tumor shrinkage was significantly higher after SRS in relation to SRT (Kaplan–Meier analysis, log-rank test, <Emphasis Type="Italic">p</Emphasis> = 0.0001; Fig. <InternalRef RefID="Fig3">3</InternalRef>). Those patients presenting with tumor remission at FU had almost significantly smaller tumors at first presentation before radiotherapy (<Emphasis Type="Italic">t</Emphasis>-test, <Emphasis Type="Italic">p</Emphasis> = 0.0657).</Para>
+              <Para>Two patients died during the study period. An overall survival rate of 87.3 % (CI: 70.8–95.6 %) was achieved. The cause of death (cardiac in both cases) was certainly not related to the treatment, but possibly related to acromegaly.</Para>
+              <Para>Repeated surgical treatment after irradiation was performed in the one patient presenting with tumor progression at 4 years after SRT and in one patient with insufficient endocrinological success and a basically good operable tumor, who had previously not given informed consent for surgery (6 years after SRS).</Para>
+              <Para>The patient with progression also received a re-irradiation (5 years after SRT) as SRS 3 months after the re-operation. Due to a persistent acromegaly, another patient also underwent SRS of the residual tumor 8.5 years after initially performed SRT.</Para>
+              <Para>Nearly all patients (34/35) showed an improvement in IGF-1 levels. Drug therapy was continued in each case until normalization/clear improvement. Biochemical remission with normalization without additional drug treatment was observed in 8 (23 %) patients, partial remission (normalization with additional medication of SMS analogues or pegvisomant) in 14 (40 %) patients (Table <InternalRef RefID="Tab1">1</InternalRef>). In the cohort presented herein a larger tumor volume—according to our treatment regimen usually associated with a fractionated irradiation—was not associated with a poorer treatment outcome regarding IGF-1 normalization (<Emphasis Type="Italic">t</Emphasis>-test n.s., <Emphasis Type="Italic">p</Emphasis> = 0.0944).</Para>
+              <Para>The mean time period in which IGF-1 was completely restored was 8 years (standard deviation 3 years).</Para>
+              <Para>A post-SRS/SRT visual disorder (visual field disturbance) was observed in only 1 (2.85 %) patient. No radiation-induced brain necrosis occurred and only 1 (2.85 %) oculomotor nerve palsy was described, which recovered after a short period of prednisolone administration (Table <InternalRef RefID="Tab1">1</InternalRef>). These potential radiogenic complications occur overall rarely and with a considerable time lag (<Emphasis Type="Italic">t</Emphasis>-test, <Emphasis Type="Italic">p</Emphasis> = 0.049). Other parameters like tumor size, age, surgery, SRS, or SRT had no statistical effect on the likelihood of late side effects.</Para>
+              <Para>Of the 35 patients, 28 (80 %) presented a normal adrenocorticotropic function before SRS/SRT. A new adrenocorticotropic hypopituitarism post-SRS/SRT was observed in 13 patients (46 %). A total of 15 of the 28 patients (66 %) with normal adrenocorticotropic function before SRS/SRT remained normal after SRS/SRT (Table <InternalRef RefID="Tab1">1</InternalRef>).</Para>
+              <Para>The curve of the cumulative regression rate concerning the IGF-1 outcome was almost flat after 3 years (only mild fluctuations between 21 and 33 % after 3, 6, 9, and 12 years) meaning that the response rate of irradiation on the IGF-1 level is approximately stable after 3 years; therefore, a considerable effect from the irradiation must occurred in the first 3 years after irradiation. The fractionated irradiated patients had a trend towards a better outcome with respect to the IGF-1 response (<Emphasis Type="Italic">p</Emphasis> = 0.075 and <Emphasis Type="Italic">p</Emphasis> = 0.019, stepwise forwards and backwards, respectively). This trend could also be demonstrated by using the Kaplan–Meier analysis of the percentage of IGF-1 normalization after SRT vs. SRS (log-rank test, <Emphasis Type="Italic">p</Emphasis> = 0.033; Fig. <InternalRef RefID="Fig2">2</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Kaplan–Meier analysis of the percentage of IGF-1 normalization after SRT vs. SRS (log-rank test <Emphasis Type="Italic">p</Emphasis> = 0.033)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2014_802_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Discussion</Heading>
+              <Para>This two-center study, presented herein consisted of 35 patients with acromegaly, who have been treated according to a prospectively controlled risk-adapted radiotherapy protocol, conducted with a long follow-up, and collected with detailed radiological, endocrinological, and ophthalmological data.</Para>
+              <Para>We report on a local tumor control rate of 97 % and tumor volume shrinkage in 80 % of the cases with a median follow-up of 8 years. In addition, 63 % (22/35) of our collective patients experienced a biochemical satisfactory response with normalization of IGF-1 levels including 23 % (8/35) with endocrinological cure.</Para>
+              <Para>The treatment of acromegaly remains a challenging multidisciplinary approach, which includes surgery, radiotherapy, and medication. Furthermore, important other issues like indication and timing of retreatment or influence of adjuvant medication must be taken into account and require extra attention.</Para>
+              <Para>A review of Minniti et al. [<CitationRef CitationID="CR23">23</CitationRef>] presented eight studies published from 1997–2005 assessing the long-term effectiveness of conventional RT on patients with acromegaly. In the past, this has been the most common form of radiation therapy for pituitary adenomas. In conventional irradiation with usually a 3- or more field technique including lateral static fields, the target volume—the pituitary adenoma with a sufficient safety margin—is irradiated in a fractionated manner and with standard daily doses of 1.8–2 Gy per day and 5 times per week over 5–6 weeks. This review demonstrated a long-term effectiveness of conventional RT in patients with acromegaly with a tumor control and a normalization of GH/IGF-1 levels of approximately 80–90 and 50–60 % at 10 years, respectively. Hence, on the one hand, it can be taken for granted that conventional RT is effective. On the other hand, the missing precision in the millimeter range led to an increased rate of side effects. For technical reasons, by using of static lateral fields, the temporal lobe, the optical system, and also the pituitary gland itself are not optimally protected and were significantly exposed to the radiation. By using gentle low daily dose, with this technique acute adverse reactions usually could be avoided, but chronic adverse reactions such as blindness, hypopituitarism, and memory disturbances are feared. These side effects can be minimized while increasing also the efficiency due to the use of high-precision irradiation techniques, as a concentration of radiation dose in the millimeter range is possible. In view of the organs at risk in the vicinity of the pituitary gland like optic nerves, chiasm, hypothalamus, and brainstem, the use of high-precision stereotactic radiotherapy is reasonable.</Para>
+              <Para>A recently published paper by Wilson et al. [<CitationRef CitationID="CR18">18</CitationRef>], reporting on the so far largest retrospective series of acromegaly patients treated with LNAC (SRS and SRT), confirmed the safety and efficacy of this method. Other researchers, dealing with this issue using a LINAC, although evaluating smaller sample sizes, confirmed the irradiation success rates [<CitationRef CitationID="CR4">4</CitationRef>–<CitationRef CitationID="CR6">6</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>]. A previous review of five series with a total of 115 patients reported tumor control averaging around 97 % with a biochemical cure rate of 36–80 % using SRT with a total dose between 45 and 52.5 Gy [<CitationRef CitationID="CR15">15</CitationRef>].</Para>
+              <Para>A more reliable number of treated individuals have been reported for Gamma Knife®. Minniti et al. [<CitationRef CitationID="CR15">15</CitationRef>] reported medical data of 1116 Gamma Knife®-irradiated patients (26 series), displaying endocrine restoration rates from 20–85 %. Another study [<CitationRef CitationID="CR16">16</CitationRef>] reviewed 29 series with 964 patients overlapping with those published by Minniti et al. and reported tumor control rates of 92.5–100 %. Similar findings were confirmed in smaller case series for Gamma Knife®/Cyberknife®/proton-beam irradiation [<CitationRef CitationID="CR25">25</CitationRef>–<CitationRef CitationID="CR31">31</CitationRef>].</Para>
+              <Para>Whereas the rate of tumor shrinkage was higher in the SRS group (Fig. <InternalRef RefID="Fig3">3</InternalRef>), the fractionated irradiated patients had with respect to the IGF-1 response a slightly better outcome in our series (Fig. <InternalRef RefID="Fig2">2</InternalRef>). A possible reason for this is that we were, especially in the early years, maybe too careful with an isocentric dose of &lt; 20 Gy for SRS, so we could not expect an advantage of SRS. There are newer Gamma Knife® data with higher marginal doses of 25 Gy and with correspondingly higher isocentric doses of 35 Gy that present with respect to the endocrine response promising results (more effective and faster), but one has to accept probably also slightly more side effects [<CitationRef CitationID="CR32">32</CitationRef>].</Para>
+              <Figure Category="Standard" Float="Yes" ID="Fig3">
+                <Caption Language="En">
+                  <CaptionNumber>Fig. 3</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Kaplan–Meier analysis of the rate of tumor shrinkage after SRT vs. SRS (log-rank test, <Emphasis Type="Italic">p</Emphasis> = 0.0001)</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO3">
+                  <ImageObject Color="Color" FileRef="MediaObjects/66_2014_802_Fig3_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+              <Para>Our prospectively collected data thus confirm the previously known retrospective data from the literature; however, the flexibility of LINAC irradiation should be emphasized, which allows both classical radiosurgery and fractionated stereotactic irradiation in good quality, meaning that the best modality can be chosen for the individual patient.</Para>
+              <Para>The question remains about the course of action in the event that irradiation fails to restore biochemical levels or it takes a longer period than expected to detect a reduction in pathologically increased hormone levels. Still, there is lack of evidence and/or guidelines for further treatment strategies, such as additional irradiation, surgery repetition, or concomitant medication under such circumstances [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR13">13</CitationRef>].</Para>
+              <Para>In our series surgical treatment after irradiation was only performed in one patient with tumor progression 4 years after SRT and in one other patient with insufficient success 6 years after SRS and a technically good operable tumor, who had previously not given consent for surgery. Furthermore, we performed a re-irradiation (SRS) in 2 cases without adequate endocrinological success (one after re-operation, one without re-operation) after 5 and 8.5 years, respectively, which led in both cases to IGF-1 normalization with reduced medication.</Para>
+              <Para>In general, irradiation effects observed on the pituitary axis occur over a longer period and may last for years after irradiation is terminated. It is suggested that endocrinological effects may be measurable within nearly 1–2 years, but observation should be prolonged to a considerably extended FU of 5 years or longer according to the available data [<CitationRef CitationID="CR12">12</CitationRef>–<CitationRef CitationID="CR14">14</CitationRef>]. Yan et al. [<CitationRef CitationID="CR17">17</CitationRef>] observed reduction of GH levels after an extended FU of 13 years. In our series the response rate of irradiation on the IGF-1 level was approximately stable after 3 years; therefore, we conclude that considerable effect of irradiation must occurred in the first 3 years after irradiation, but we found a mean time of 8 years until the IGF-1 level was completely restored. Thus, endocrinological response still remains difficult to predict and should be addressed in future studies.</Para>
+              <Para>Concomitant medication administration was common in our patient cohort, due to increased IGF-1-levels at diagnosis. Whether SMS analogues, GH antagonists, or dopamine agonists act in a radioprotective manner, or the extensive disruption of the GH pathway by pretreatment contribute to the different time patterns related to tumor control and biochemical remission, remains unclear with contradictory findings and recommendations in the current literature [<CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR33">33</CitationRef>–<CitationRef CitationID="CR35">35</CitationRef>]. Yan et al. [<CitationRef CitationID="CR17">17</CitationRef>] observed a slower response curve in the octreotide-treated subpopulation in the first 2 years. This effect was ameliorated at a longer follow-up of 4 years. In addition, health economic related-considerations must be taken into consideration due to the higher cost of prescription drugs compared to surgery and radiotherapy (SRS/SRT).</Para>
+              <Para>Whereas the cost for surgery or radiotherapy is 7,500 €, a sum of around 30,000 or 100,000 € has to be estimated for treatment with SMS analogues or pegvisomant, respectively. In our opinion, the question should be allowed, whether a sole dose reduction of adjuvant drug therapy after irradiation should be considered successful even if according to the stringent clinical remission criteria normalization of IGF-1 values could not be reached? Nearly all our patients experienced an improvement in IGF-1 levels so that a reduction of medication was possible.</Para>
+              <Para>No blindness or visual acuity impairment was observed in any of the patients in our study, whether at the early stages of treatment or at the latest obtained follow-up. Potential other radiogenic dysfunctions of the optical system (one visual field disturbance in our series) or neurological complications (one temporarily cranial nerve palsy in our series) occur overall rarely and if ever with a considerable time lag (1 year and 4 years after RT, respectively).</Para>
+              <Para>With regard to the pituitary gland, new adrenocorticotropic hypopituitarism was found in our series in 13 patients (46 %) requiring replacement therapy, which still reflects a severe side effect of irradiation therapy in this anatomical region. Similar risk profiles can be found for other series using LINAC and Gamma Knife® [<CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>, <CitationRef CitationID="CR36">36</CitationRef>, <CitationRef CitationID="CR37">37</CitationRef>].</Para>
+            </Section1>
+            <Section1 ID="Sec4">
+              <Heading>Limitations</Heading>
+              <Para>Unfortunately, a systematic subgroup analysis concerning concomitant medication in relation to the time course of biochemical remission was not feasible in our study because nearly all of our patients were under medication already before the start of radiotherapy. Although this study is a two-center cohort study with a medium sample size, we believe that the study can still be of value, since the treatment was performed by two major departments of radiosurgery and stereotactic radiotherapy.</Para>
+            </Section1>
+            <Section1 ID="Sec5">
+              <Heading>Conclusion</Heading>
+              <Para>After 10 years of experience, we consider LINAC-SRS or SRT safe and successful treatment modalities in terms of tumor control and normalization of hormonal imbalances, especially in case of tumors located close to the optic pathways. The time course of endocrine improvement is difficult to predict and deserves further investigation. One has to accept an unavoidable rate of additional adrenocorticotrope hypopituitarism in the long term.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2014_Article_802.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Ethics>
+              <Heading>Compliance with ethical guidelines</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Conflict of interest</Heading>
+                <Para>J.P. Boström, T. Kinfe, A. Meyer, B. Pintea, R. Gerlach, G. Surber, G. Lammering and K. Hamm state that there are no conflicts of interest.</Para>
+              </FormalPara>
+              <SimplePara>All studies on humans described in the present manuscript were carried out with the approval of the responsible ethics committee and in accordance with national law and the Helsinki Declaration of 1975 (in its current, revised form). Informed consent was obtained from all patients included in studies.</SimplePara>
+            </Ethics>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ER</Initials>
+                    <FamilyName>Laws</FamilyName>
+                    <Suffix>Jr</Suffix>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Thapar</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Pituitary surgery</ArticleTitle>
+                  <JournalTitle>Endocrinol Metab Clin North Am</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>119</FirstPage>
+                  <LastPage>131</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0889-8529(05)70059-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10207687</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Laws Jr ER, Thapar K (1999) Pituitary surgery. Endocrinol Metab Clin North Am 28:119–131</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Melmed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FF</Initials>
+                    <FamilyName>Casanueva</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Cavagnini</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Guidelines for acromegaly management</ArticleTitle>
+                  <JournalTitle>J Clin Endocrinol Metab</JournalTitle>
+                  <VolumeID>87</VolumeID>
+                  <FirstPage>4054</FirstPage>
+                  <LastPage>4058</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1210/jc.2002-011841</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD38XntFOmur0%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12213843</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Melmed S, Casanueva FF, Cavagnini F et al (2002) Guidelines for acromegaly management. J Clin Endocrinol Metab 87:4054–4058</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Melmed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Colao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Barkan</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Guidelines for acromegaly management: an update</ArticleTitle>
+                  <JournalTitle>J Clin Endocrinol Metab</JournalTitle>
+                  <VolumeID>94</VolumeID>
+                  <FirstPage>1509</FirstPage>
+                  <LastPage>1517</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1210/jc.2008-2421</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1MXlvVCqsbk%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19208732</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Melmed S, Colao A, Barkan A et al (2009) Guidelines for acromegaly management: an update. J Clin Endocrinol Metab 94:1509–1517</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Kopp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Theodorou</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Poullos</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En"> Fractionated stereotactic radiotherapy in the treatment of pituitary adenomas</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>189</VolumeID>
+                  <FirstPage>932</FirstPage>
+                  <LastPage>937</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-013-0433-z</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3sbmtFSktQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24013528</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kopp C, Theodorou M, Poullos N et al (2013) Fractionated stereotactic radiotherapy in the treatment of pituitary adenomas. Strahlenther Onkol 189:932–937</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Milker-Zabel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Debus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Thilmann</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Fractionated stereotactically guided radiotherapy and radiosurgery in the treatment of functional and nonfunctional adenomas of the pituitary gland</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>50</VolumeID>
+                  <FirstPage>1279</FirstPage>
+                  <LastPage>1286</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(01)01535-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MvjslKqsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11483339</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Milker-Zabel S, Debus J, Thilmann C et al (2001) Fractionated stereotactically guided radiotherapy and radiosurgery in the treatment of functional and nonfunctional adenomas of the pituitary gland. Int J Radiat Oncol Biol Phys 50:1279–1286</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Rieken</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Habermehl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Welzel</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Long term toxicity and prognostic factors of radiation therapy for secreting and non-secreting pituitary adenomas</ArticleTitle>
+                  <JournalTitle>Radiat Oncol</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>18</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1748-717X-8-18</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3574020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23343416</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rieken S, Habermehl D, Welzel T et al (2013) Long term toxicity and prognostic factors of radiation therapy for secreting and non-secreting pituitary adenomas. Radiat Oncol 8:18</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Lely</FamilyName>
+                    <Particle>van der</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Kopchick</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Growth hormone receptor antagonists</ArticleTitle>
+                  <JournalTitle>Neuroendocrinology</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>264</FirstPage>
+                  <LastPage>268</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1159/000095537</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17047392</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>van der Lely AJ Kopchick JJ (2006) Growth hormone receptor antagonists. Neuroendocrinology 83:264–268</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Melmed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Casanueva</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Cavagnini</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Consensus statement: medical management of acromegaly</ArticleTitle>
+                  <JournalTitle>Eur J Endocrinol</JournalTitle>
+                  <VolumeID>153</VolumeID>
+                  <FirstPage>737</FirstPage>
+                  <LastPage>740</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1530/eje.1.02036</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD28XjtVWnsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16322377</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Melmed S, Casanueva F, Cavagnini F et al (2005) Consensus statement: medical management of acromegaly. Eur J Endocrinol 153:737–740</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Leksell</FamilyName>
+                  </BibAuthorName>
+                  <Year>1951</Year>
+                  <ArticleTitle Language="En">The stereotaxic method and radiosurgery of the brain</ArticleTitle>
+                  <JournalTitle>Acta Chir Scand</JournalTitle>
+                  <VolumeID>102</VolumeID>
+                  <FirstPage>316</FirstPage>
+                  <LastPage>319</LastPage>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaG38%2FksVCrsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>14914373</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Leksell L (1951) The stereotaxic method and radiosurgery of the brain. Acta Chir Scand 102:316–319</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>TC</Initials>
+                    <FamilyName>Witt</FamilyName>
+                  </BibAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery for pituitary tumors</ArticleTitle>
+                  <JournalTitle>Neurosurg Focus</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>e10</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3171/foc.2003.14.5.11</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15669806</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Witt TC (2003) Stereotactic radiosurgery for pituitary tumors. Neurosurg Focus 14:e10</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Jane</FamilyName>
+                    <Suffix>Jr</Suffix>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Vance</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CJ</Initials>
+                    <FamilyName>Woodburn</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery for hypersecreting pituitary tumors: part of a multimodality approach</ArticleTitle>
+                  <JournalTitle>Neurosurg Focus</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>e12</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3171/foc.2003.14.5.13</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15669808</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jane Jr JA Vance ML Woodburn CJ et al (2003) Stereotactic radiosurgery for hypersecreting pituitary tumors: part of a multimodality approach. Neurosurg Focus 14:e12</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BE</Initials>
+                    <FamilyName>Pollock</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JT</Initials>
+                    <FamilyName>Jacob</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PD</Initials>
+                    <FamilyName>Brown</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Radiosurgery of growth hormone-producing pituitary adenomas: factors associated with biochemical remission</ArticleTitle>
+                  <JournalTitle>J Neurosurg</JournalTitle>
+                  <VolumeID>106</VolumeID>
+                  <FirstPage>833</FirstPage>
+                  <LastPage>838</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3171/jns.2007.106.5.833</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2sXlsF2msbs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17542527</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Pollock BE, Jacob JT, Brown PD et al (2007) Radiosurgery of growth hormone-producing pituitary adenomas: factors associated with biochemical remission. J Neurosurg 106:833–838</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Castinetti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Régis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Dufour</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Role of stereotactic radiosurgery in the management of pituitary adenomas</ArticleTitle>
+                  <JournalTitle>Nat Rev Endocrinol</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>214</FirstPage>
+                  <LastPage>223</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1038/nrendo.2010.4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20177403</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Castinetti F, Régis J, Dufour H et al (2010) Role of stereotactic radiosurgery in the management of pituitary adenomas. Nat Rev Endocrinol 6:214–223</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>FM</Initials>
+                    <FamilyName>Swords</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CA</Initials>
+                    <FamilyName>Allan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PN</Initials>
+                    <FamilyName>Plowman</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery XVI: a treatment for previously irradiated pituitary adenomas</ArticleTitle>
+                  <JournalTitle>J Clin Endocrinol Metab</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>5334</FirstPage>
+                  <LastPage>5340</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1210/jc.2002-020356</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3sXptVynsbs%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>14602770</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Swords FM, Allan CA, Plowman PN et al (2003) Stereotactic radiosurgery XVI: a treatment for previously irradiated pituitary adenomas. J Clin Endocrinol Metab 88:5334–5340</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Minniti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Scaringi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Amelio</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Stereotactic irradiation of GH-secreting pituitary adenomas</ArticleTitle>
+                  <JournalTitle>Int J Endocrinol</JournalTitle>
+                  <VolumeID>482</VolumeID>
+                  <FirstPage>861</FirstPage>
+                </BibArticle>
+                <BibUnstructured>Minniti G, Scaringi C, Amelio D et al (2012) Stereotactic irradiation of GH-secreting pituitary adenomas. Int J Endocrinol 482:861</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JD</Initials>
+                    <FamilyName>Rolston</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LS</Initials>
+                    <FamilyName>Blevins</FamilyName>
+                    <Suffix>Jr</Suffix>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Gamma knife radiosurgery for acromegaly</ArticleTitle>
+                  <JournalTitle>Int J Endocrinol</JournalTitle>
+                  <VolumeID>2012</VolumeID>
+                  <FirstPage>821579</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1155/2012/821579</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3296174</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22518132</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rolston JD, Blevins Jr LS (2012) Gamma knife radiosurgery for acromegaly. Int J Endocrinol 2012:821579</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J-L</Initials>
+                    <FamilyName>Yan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Chen-Nen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Chi-Cheng</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Long-term follow-up of patients with surgical intractable acromegaly after linear accelerator radiosurgery</ArticleTitle>
+                  <JournalTitle>J Formos Med Assoc</JournalTitle>
+                  <VolumeID>112</VolumeID>
+                  <FirstPage>416</FirstPage>
+                  <LastPage>420</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jfma.2012.01.020</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23927981</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yan J-L, Chen-Nen C, Chi-Cheng C et al (2013) Long-term follow-up of patients with surgical intractable acromegaly after linear accelerator radiosurgery. J Formos Med Assoc 112:416–420</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Wilson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KJ</Initials>
+                    <FamilyName>De-Loyde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Williams</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Acromegaly: a single centre</ArticleTitle>
+                  <JournalTitle>J Clin Neurosci</JournalTitle>
+                  <VolumeID>20</VolumeID>
+                  <FirstPage>1506</FirstPage>
+                  <LastPage>1513</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jocn.2012.11.026</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3sfmt1ymsg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23911106</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Wilson PJ, De-Loyde KJ, Williams JR et al (2013) Acromegaly: a single centreʼs experience of stereotactic radiosurgery and radiotherapy for growth hormone secreting pituitary tumors with the linear accelerator. J Clin Neurosci 20:1506–1513</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19</CitationNumber>
+                <BibUnstructured>Boström JP, Meyer A, Pintea B et al (2014) Risk-adapted single or fractionated stereotactic high-precision radiotherapy in a pooled series of nonfunctioning pituitary adenomas. High local control and low toxicity. Strahlenther Onkol. doi:10.1007/s00066-014-0715-0</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Henzel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Hamm</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sitter</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Comparison of stereotactic radiosurgery and fractionated stereotactic radiotherapy of acoustic neurinomas according to 3-D tumor volume shrinkage and quality of life</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>185</VolumeID>
+                  <FirstPage>567</FirstPage>
+                  <LastPage>573</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-009-1959-y</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19756422</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Henzel M, Hamm K, Sitter H et al (2009) Comparison of stereotactic radiosurgery and fractionated stereotactic radiotherapy of acoustic neurinomas according to 3-D tumor volume shrinkage and quality of life. Strahlenther Onkol 185:567–573</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Fahrig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Ganslandt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Lambrecht</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Hypofractionated stereotactic radiotherapy for brain metastases—results from three different dose concepts</ArticleTitle>
+                  <JournalTitle>Strahlenther Onkol</JournalTitle>
+                  <VolumeID>183</VolumeID>
+                  <FirstPage>625</FirstPage>
+                  <LastPage>630</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00066-007-1714-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17960338</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Fahrig A, Ganslandt O, Lambrecht U et al (2007) Hypofractionated stereotactic radiotherapy for brain metastases—results from three different dose concepts. Strahlenther Onkol 183:625–630</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Giustina</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Chanson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MD</Initials>
+                    <FamilyName>Bronstein</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Acromegaly Consensus Group. A consensus on criteria for cure of acromegaly</ArticleTitle>
+                  <JournalTitle>J Clin Endocrinol Metab</JournalTitle>
+                  <VolumeID>95</VolumeID>
+                  <FirstPage>3141</FirstPage>
+                  <LastPage>3148</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1210/jc.2009-2670</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXps12rsLg%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20410227</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Giustina A, Chanson P, Bronstein MD et al (2010) Acromegaly Consensus Group. A consensus on criteria for cure of acromegaly. J Clin Endocrinol Metab 95:3141–3148</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Minniti</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Scaringi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Enrici</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Radiation techniques for acromegaly</ArticleTitle>
+                  <JournalTitle>Radiat Oncol</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>167</FirstPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1186/1748-717X-6-167</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>3275813</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22136376</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Minniti G, Scaringi C, Enrici RM (2011) Radiation techniques for acromegaly. Radiat Oncol 6:167</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Voges</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kocher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Runge</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Linear accelerator radiosurgery for pituitary macroadenomas: a 7-year follow-up study</ArticleTitle>
+                  <JournalTitle>Cancer</JournalTitle>
+                  <VolumeID>107</VolumeID>
+                  <FirstPage>1355</FirstPage>
+                  <LastPage>1364</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1002/cncr.22128</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16894526</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Voges J, Kocher M, Runge M et al (2006) Linear accelerator radiosurgery for pituitary macroadenomas: a 7-year follow-up study. Cancer 107:1355–1364</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>FM</Initials>
+                    <FamilyName>Erdur</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Kilic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Peker</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Gammaknife radiosurgery in patients with acromegaly</ArticleTitle>
+                  <JournalTitle>J Clin Neurosci</JournalTitle>
+                  <VolumeID>18</VolumeID>
+                  <FirstPage>1616</FirstPage>
+                  <LastPage>1620</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.jocn.2011.03.023</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22001240</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Erdur FM, Kilic T, Peker S et al (2011) Gammaknife radiosurgery in patients with acromegaly. J Clin Neurosci 18:1616–1620</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Liu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Kano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Kondziolka</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Gamma knife radiosurgery for clinically persistent acromegaly</ArticleTitle>
+                  <JournalTitle>J Neuroncol</JournalTitle>
+                  <VolumeID>109</VolumeID>
+                  <FirstPage>71</FirstPage>
+                  <LastPage>79</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11060-012-0862-z</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Liu X, Kano H, Kondziolka D et al (2012) Gamma knife radiosurgery for clinically persistent acromegaly. J Neuroncol 109:71–79</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Jagannathan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Sheehan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Pouratian</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Gamma knife radiosurgery for acromegaly: outcomes after failed transsphenoidal surgery</ArticleTitle>
+                  <JournalTitle>Neursurgery</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>1262</FirstPage>
+                  <LastPage>1269</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1227/01.neu.0000333297.41813.3d</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Jagannathan J, Sheehan JP, Pouratian N et al (2008) Gamma knife radiosurgery for acromegaly: outcomes after failed transsphenoidal surgery. Neursurgery 62:1262–1269</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kajiwara</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Saito</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Yoshikawa</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Image-guided stereotactic radiosurgery with the CyberKnife for pituitary adenomas</ArticleTitle>
+                  <JournalTitle>Minim Invasive Neurosurg</JournalTitle>
+                  <VolumeID>48</VolumeID>
+                  <FirstPage>91</FirstPage>
+                  <LastPage>96</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-2004-830261</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD2M3mtlKguw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15906203</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Kajiwara K, Saito K, Yoshikawa K et al (2005) Image-guided stereotactic radiosurgery with the CyberKnife for pituitary adenomas. Minim Invasive Neurosurg 48:91–96</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>BK</Initials>
+                    <FamilyName>Roberts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DL</Initials>
+                    <FamilyName>Ouyang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SP</Initials>
+                    <FamilyName>Lad</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Efficacy and safety of CyberKnife radiosurgery for acromegaly</ArticleTitle>
+                  <JournalTitle>Pituitary</JournalTitle>
+                  <VolumeID>10</VolumeID>
+                  <FirstPage>19</FirstPage>
+                  <LastPage>25</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11102-007-0004-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD2sXjvV2nsL4%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17273921</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Roberts BK, Ouyang DL, Lad SP et al (2007) Efficacy and safety of CyberKnife radiosurgery for acromegaly. Pituitary 10:19–25</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CB</Initials>
+                    <FamilyName>Cho</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HK</Initials>
+                    <FamilyName>Park</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WI</Initials>
+                    <FamilyName>Joo</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery with the CyberKnife for pituitary adenomas</ArticleTitle>
+                  <JournalTitle>J Korean Neurosurg Soc</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>157</FirstPage>
+                  <LastPage>163</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3340/jkns.2009.45.3.157</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PMCID">
+                    <Handle>2666117</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19352477</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cho CB, Park HK, Joo WI et al (2009) Stereotactic radiosurgery with the CyberKnife for pituitary adenomas. J Korean Neurosurg Soc 45:157–163</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Petit</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BMK</Initials>
+                    <FamilyName>Biller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Coen</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Proton stereotactic radiosurgery in management of persistent acromegaly</ArticleTitle>
+                  <JournalTitle>Endocr Pract</JournalTitle>
+                  <VolumeID>13</VolumeID>
+                  <FirstPage>726</FirstPage>
+                  <LastPage>734</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.4158/EP.13.7.726</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18194929</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Petit JH, Biller BMK, Coen JJ et al (2007) Proton stereotactic radiosurgery in management of persistent acromegaly. Endocr Pract 13:726–734</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CC1</Initials>
+                    <FamilyName>Lee</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ML</Initials>
+                    <FamilyName>Vance</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Stereotactic radiosurgery for acromegaly</ArticleTitle>
+                  <JournalTitle>J Clin Endocrinol Metab</JournalTitle>
+                  <VolumeID>99</VolumeID>
+                  <FirstPage>1273</FirstPage>
+                  <LastPage>1281</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1210/jc.2013-3743</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC2cXmtleksLY%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>24471574</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lee CC1, Vance ML, Xu Z et al (2014) Stereotactic radiosurgery for acromegaly. J Clin Endocrinol Metab 99:1273–1281</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Landolt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Haller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Lomax</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2000</Year>
+                  <ArticleTitle Language="En">Octreotide may act as a radioprotective agent in acromegaly</ArticleTitle>
+                  <JournalTitle>J Clin Endocrinol Metab</JournalTitle>
+                  <VolumeID>85</VolumeID>
+                  <FirstPage>1287</FirstPage>
+                  <LastPage>1289</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1210/jcem.85.3.6464</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD3cXisFOqsLY%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10720077</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Landolt AM, Haller D, Lomax N et al (2000) Octreotide may act as a radioprotective agent in acromegaly. J Clin Endocrinol Metab 85:1287–1289</BibUnstructured>
+              </Citation>
+              <Citation ID="CR34">
+                <CitationNumber>34</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rezácová</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Cáp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Vokurková</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Effect of somatostatin on repair of ionizing radiation-induced DNA damage in pituitary adenoma cells GH3</ArticleTitle>
+                  <JournalTitle>Physiol Res</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>225</FirstPage>
+                  <LastPage>235</LastPage>
+                  <Occurrence Type="PID">
+                    <Handle>17552875</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rezácová M, Cáp J, Vokurková D et al (2008) Effect of somatostatin on repair of ionizing radiation-induced DNA damage in pituitary adenoma cells GH3.Physiol Res 57:225–235</BibUnstructured>
+              </Citation>
+              <Citation ID="CR35">
+                <CitationNumber>35</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Ning</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SJ</Initials>
+                    <FamilyName>Knox</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Harsh</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Lanreotide promotes apoptosis and is not radioprotective in GH3 cells</ArticleTitle>
+                  <JournalTitle>Endocr Relat Cancer</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>1045</FirstPage>
+                  <LastPage>1055</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1677/ERC-09-0003</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1MXht1Gnu77M</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19528243</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Ning S, Knox SJ, Harsh GR et al (2009) Lanreotide promotes apoptosis and is not radioprotective in GH3 cells. Endocr Relat Cancer 16:1045–1055</BibUnstructured>
+              </Citation>
+              <Citation ID="CR36">
+                <CitationNumber>36</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SL</Initials>
+                    <FamilyName>Stafford</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BE</Initials>
+                    <FamilyName>Pollock</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Leavitt</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">A study on the radiation tolerance of the optic nerves and chiasm after stereotactic radiosurgery</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>55</VolumeID>
+                  <FirstPage>1177</FirstPage>
+                  <LastPage>1181</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(02)04380-8</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12654424</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Stafford SL, Pollock BE, Leavitt JA et al (2003) A study on the radiation tolerance of the optic nerves and chiasm after stereotactic radiosurgery. Int J Radiat Oncol Biol Phys 55:1177–1181</BibUnstructured>
+              </Citation>
+              <Citation ID="CR37">
+                <CitationNumber>37</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>Z</Initials>
+                    <FamilyName>Xu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Lee Vance</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Schlesinger</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Hypopituitarism after stereotactic radiosurgery for pituitary adenomas</ArticleTitle>
+                  <JournalTitle>Neurosurgery</JournalTitle>
+                  <VolumeID>72</VolumeID>
+                  <FirstPage>630</FirstPage>
+                  <LastPage>637</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1227/NEU.0b013e3182846e44</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23277375</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Xu Z, Lee Vance M, Schlesinger D et al (2013) Hypopituitarism after stereotactic radiosurgery for pituitary adenomas. Neurosurgery 72:630–637</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

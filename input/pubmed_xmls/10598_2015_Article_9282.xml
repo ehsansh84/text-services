@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9282-1" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9282</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9282-1</ArticleDOI>
+            <ArticleSequenceNumber>9</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Fault Detection Tests for Stuck-at Faults on Parity Counter Inputs</ArticleTitle>
+            <ArticleFirstPage>429</ArticleFirstPage>
+            <ArticleLastPage>435</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>D.</GivenName>
+                  <GivenName>S.</GivenName>
+                  <FamilyName>Romanov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>romanov@cs.msu.ru</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Faculty of Computational Mathematics and Cybernetics</OrgDivision>
+                <OrgName>Moscow State University</OrgName>
+                <OrgAddress>
+                  <City>Moscow</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">Bounds are derived on the length of minimal fault-detection tests with stuck-at faults of certain types on the inputs of parity counters.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Boolean function</Keyword>
+              <Keyword>test for circuit inputs</Keyword>
+              <Keyword>linear Boolean function</Keyword>
+              <Keyword>parity counter</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Prikladnaya Matematika i Informatika, No. 46, 2014, pp. 128–136.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9282.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>IA</Initials>
+                    <FamilyName>Chegis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SV</Initials>
+                    <FamilyName>Yablonskii</FamilyName>
+                  </BibAuthorName>
+                  <Year>1958</Year>
+                  <ArticleTitle Language="En">Logic control of electric circuits</ArticleTitle>
+                  <JournalTitle>Trudy MIAN SSSR</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>270</FirstPage>
+                  <LastPage>360</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0092.25306</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>I. A. Chegis and S. V. Yablonskii, “Logic control of electric circuits,” <Emphasis Type="Italic">Trudy MIAN SSSR,</Emphasis>
+                  <Emphasis Type="Bold">51</Emphasis>, 270–360 (1958).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibUnstructured>O. A. Dolotova, “Complexity of fault-detection tests for Post classes,” <Emphasis Type="Italic">Proc. Seminar on Discrete Mathematics and Its Applications</Emphasis> [in Russian], MGU, Moscow (1989), pp. 233–244.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>VB</Initials>
+                    <FamilyName>Kudryavtsev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EE</Initials>
+                    <FamilyName>Gasanov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>OA</Initials>
+                    <FamilyName>Dolotova</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GR</Initials>
+                    <FamilyName>Pogosyan</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <BookTitle>Theory of Logic Circuit Testing [in Russian]</BookTitle>
+                  <PublisherName>Fizmatlit</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>V. B. Kudryavtsev, E. E. Gasanov, O. A. Dolotova, and G. R. Pogosyan, <Emphasis Type="Italic">Theory of Logic Circuit Testing</Emphasis> [in Russian], Fizmatlit, Moscow (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>VG</Initials>
+                    <FamilyName>Khakhulik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Fault-detection tests for a parity counter</ArticleTitle>
+                  <JournalTitle>Diskr. Mat.</JournalTitle>
+                  <VolumeID>7</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>51</FirstPage>
+                  <LastPage>59</LastPage>
+                </BibArticle>
+                <BibUnstructured>V. G. Khakhulik, “Fault-detection tests for a parity counter,” <Emphasis Type="Italic">Diskr. Mat.,</Emphasis>
+                  <Emphasis Type="Bold">7</Emphasis>, No. 4, 51–59 (1995).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Bedzhanova</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">“Easily testable circuits for linear functions,”</ArticleTitle>
+                  <JournalTitle>Vestnik MGU, ser. 1: Matem. Mekhan.</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>57</FirstPage>
+                  <LastPage>59</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2919096</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. R. Bedzhanova, “Easily testable circuits for linear functions,” <Emphasis Type="Italic">Vestnik MGU, ser. 1: Matem. Mekhan.,</Emphasis>
+                  <Emphasis Type="Bold">66</Emphasis>, No. 4, 57–59 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>Kh. A. Madatyan, “A complete test for read-once contact circuits,” <Emphasis Type="Italic">Probl. Kibernet.,</Emphasis> No. 23, 103–118, Nauka, Moscow (1970).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RN</Initials>
+                    <FamilyName>Tonoyan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1971</Year>
+                  <ArticleTitle Language="En">On single-fault tests for contact circuits realizing linear functions</ArticleTitle>
+                  <JournalTitle>Izv. AN ArmSSR</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>61</FirstPage>
+                  <LastPage>66</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0216.56204</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. N. Tonoyan, “On single-fault tests for contact circuits realizing linear functions,” <Emphasis Type="Italic">Izv. AN ArmSSR,</Emphasis>
+                  <Emphasis Type="Bold">6</Emphasis>, No. 1, 61–66 (1971).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibUnstructured>N. P. Red’kin, “On complete fault-detection tests for contact circuits,” <Emphasis Type="Italic">Methods of Discrete Analysis in Investigation of Extremal Structures</Emphasis> [in Russian], No. 39, 80–87, IM SO AN SSSR, Novosibirsk (1983).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Vartanyan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1987</Year>
+                  <BookTitle>Single-fault diagnostic tests for sequential block circuits</BookTitle>
+                  <PublisherName>MGU</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                  <BibComments>Candidate thesis</BibComments>
+                </BibBook>
+                <BibUnstructured>S. M. Vartanyan, “Single-fault diagnostic tests for sequential block circuits,” <Emphasis Type="Bold">Candidate thesis</Emphasis>, MGU, Moscow (1987).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>DS</Initials>
+                    <FamilyName>Romanov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2000</Year>
+                  <BookTitle>Test construction and test parameter estimation for some classes of contact circuits</BookTitle>
+                  <PublisherName>MGU</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                  <BibComments>Candidate thesis</BibComments>
+                </BibBook>
+                <BibUnstructured>D. S. Romanov, “Test construction and test parameter estimation for some classes of contact circuits,” <Emphasis Type="Bold">Candidate thesis</Emphasis>, MGU, Moscow (2000).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibUnstructured>E. V. Morozov and D. S. Romanov, “On tests for local linear coalescences in Boolean functions,” <Emphasis Type="Italic">Vestnik Nizhegorodskogo Univ. im. N. I. Lobachevskii,</Emphasis> No. 5(2), 151–156 (2012)</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibUnstructured>R. Uehara, K, Tsuchida, and I. Wegener, “Optimal attribute-efficient learning of disjunction, parity, and threshold functions,” <Emphasis Type="Italic">Computational Learning Theory, Proc. Third European Conference EuroCOLT’97, Jerusalem, Israel, March 17–19, 1997, Lecture Notes in Computer Science</Emphasis>, <Emphasis Type="Bold">1208</Emphasis>, Springer, Berlin (1997), pp. 171–184.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Rubinfeld</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sudan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Robust characterizations of polynomials with applications to program testing</ArticleTitle>
+                  <JournalTitle>SIAM J. Comput.</JournalTitle>
+                  <VolumeID>25</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>252</FirstPage>
+                  <LastPage>271</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/S0097539793255151</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0844.68062</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1379300</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Rubinfeld and M. Sudan, “Robust characterizations of polynomials with applications to program testing,” <Emphasis Type="Italic">SIAM J. Comput</Emphasis>., <Emphasis Type="Bold">25</Emphasis>, No. 2, 252–271 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibUnstructured>E. Blais, “Testing properties of Boolean functions,” PhD thesis, CMU-CS-12–101, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA (January 2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Blum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Luby</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Rubinfeld</FamilyName>
+                  </BibAuthorName>
+                  <Year>1993</Year>
+                  <ArticleTitle Language="En">Self-testing/correcting with applications to numerical problems</ArticleTitle>
+                  <JournalTitle>J. Comput. Syst. Sci.</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>549</FirstPage>
+                  <LastPage>595</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0022-0000(93)90044-W</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0795.68131</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1248868</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Blum, M. Luby, and R. Rubinfeld, “Self-testing/correcting with applications to numerical problems,” <Emphasis Type="Italic">J. Comput. Syst. Sci</Emphasis>., <Emphasis Type="Bold">47</Emphasis>, 549–595 (1993).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibUnstructured>M. Bellare, S. Goldwasser, C. Lund, and A. Russell, “Efficient probabilistically checkable proofs and applications to approximations,” <Emphasis Type="Italic">Proc. 25th Symposium on Theory of Computing</Emphasis> (1993), pp. 294–304.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibUnstructured>M. Bellare and M. Sudan, “Improved non-approximability results,” <Emphasis Type="Italic">Proc. of the 26th Symposium on Theory of Computing</Emphasis> (1994), pp. 184–193.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bellare</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Coppersmith</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Håstad</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kiwi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Sudan</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Linearity testing in characteristic two</ArticleTitle>
+                  <JournalTitle>IEEE Trans. on Information Theory</JournalTitle>
+                  <VolumeID>42</VolumeID>
+                  <IssueID>6</IssueID>
+                  <FirstPage>1781</FirstPage>
+                  <LastPage>1795</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1109/18.556674</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0867.68060</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Bellare, D. Coppersmith, J. Håstad, M. Kiwi, and M. Sudan, “Linearity testing in characteristic two,” <Emphasis Type="Italic">IEEE Trans. on Information Theory</Emphasis>, <Emphasis Type="Bold">42</Emphasis>, No. 6, 1781–1795 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Kaufman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Litsyn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Ning</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">“Breaking the ε-soundness bound of the linearity test over GF(2),”</ArticleTitle>
+                  <JournalTitle>SIAM J. Comput.</JournalTitle>
+                  <VolumeID>39</VolumeID>
+                  <FirstPage>1988</FirstPage>
+                  <LastPage>2003</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1137/080715548</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1202.68178</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2592041</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Kaufman, S. Litsyn, and Ning Xie, “Breaking the ε-soundness bound of the linearity test over GF(2),” <Emphasis Type="Italic">SIAM J. Comput.</Emphasis>, <Emphasis Type="Bold">39</Emphasis>, 1988–2003 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibUnstructured>E. A. Bender, “Asymptotic methods in enumeration,” in: <Emphasis Type="Italic">Enumeration Problems in Combinatorial Analysis</Emphasis> [Russian translations], Mir, Moscow (1979), pp. 266–311.</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

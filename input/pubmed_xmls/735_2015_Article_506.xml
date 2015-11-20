@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Vienna</PublisherName>
+    <PublisherLocation>Vienna</PublisherLocation>
+  </PublisherInfo>
+  <Journal>
+    <JournalInfo JournalProductType="Magazine" NumberingStyle="Unnumbered" OutputMedium="All">
+      <JournalID>735</JournalID>
+      <JournalPrintISSN>0949-7323</JournalPrintISSN>
+      <JournalElectronicISSN>1613-7574</JournalElectronicISSN>
+      <JournalSPIN>30266115</JournalSPIN>
+      <JournalTitle>ProCare</JournalTitle>
+      <JournalSubTitle>Aktuelle Information, Fort- und Weiterbildung für die MItarbeiter der Gesundheits- und Krankenpflege</JournalSubTitle>
+      <JournalAbbreviatedTitle>ProCare</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH41005" Priority="1" Type="Secondary">Nursing</JournalSubject>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume>
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>20</VolumeIDStart>
+        <VolumeIDEnd>20</VolumeIDEnd>
+        <VolumeIssueCount>10</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular">
+        <IssueInfo TocLevels="0">
+          <IssueIDStart>4</IssueIDStart>
+          <IssueIDEnd>4</IssueIDEnd>
+          <IssueArticleCount>14</IssueArticleCount>
+          <IssueHistory>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+            </CoverDate>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00735-015-0506-6" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="De" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>506</ArticleID>
+            <ArticleDOI>10.1007/s00735-015-0506-6</ArticleDOI>
+            <ArticleSequenceNumber>11</ArticleSequenceNumber>
+            <ArticleTitle Language="De">Nosokomiale Infektionen</ArticleTitle>
+            <ArticleSubTitle Language="De">Konsequente Hygienemaßnahmen und überlegter Antibiotikaeinsatz als Prävention</ArticleSubTitle>
+            <ArticleCategory>hygiene</ArticleCategory>
+            <ArticleFirstPage>30</ArticleFirstPage>
+            <ArticleLastPage>33</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Wien</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+            <ArticleContext>
+              <JournalID>735</JournalID>
+              <VolumeIDStart>20</VolumeIDStart>
+              <VolumeIDEnd>20</VolumeIDEnd>
+              <IssueIDStart>4</IssueIDStart>
+              <IssueIDEnd>4</IssueIDEnd>
+            </ArticleContext>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Hardy-Thorsten</GivenName>
+                  <FamilyName>Panknin</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>ht.panknin@berlin.de</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgAddress>
+                  <Street>Badensche Straße 49</Street>
+                  <Postcode>D-10715</Postcode>
+                  <City>Berlin</City>
+                  <Country>Deutschland</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+          </ArticleHeader>
+          <Body>
+            <Para Type="Trailer">Infektionserkrankungen zählen nach wie vor zu den gesundheitlichen Bedrohungen der Gesellschaft, nicht zuletzt deshalb, weil sich Erreger verändern oder auch gegen zunächst wirksame Medikamente Abwehrmechanismen entwickeln können. Die Prävention, sei es in Form klinikhygienischer Maßnahmen, z.B. Screening auf Problemerreger, einer adäquaten perioperativen Antibiotikaprophylaxe und eines überlegten Einsatzes von Antibiotika erhält daher einen immer höheren Stellenwert.</Para>
+            <Para>Die Maßnahmen, die zur Prävention ergriffen werden können, sind vielfältig. Um die Infektionsanfälligkeit des Patienten zu senken, gehören zur Vorbereitung des Patienten bei geplanten Krankenhausaufenthalten, wie z. B. vor elektiven Operationen, auch wenn möglich eine Gewichtsnormalisierung, die Einstellung von Rauchgewohnheiten, der Ausgleich einer eventuell vorhandenen Anämie und die kritische Überprüfung der laufenden Medikation. Low-dose Corticoide und Magensäure-Sekretionshemmer können die Infektionsanfälligkeit beispielsweise erheblich steigern.</Para>
+            <Para>Die Option einer Impfung gegen nosokomiale Infektionserreger ist dagegen noch kaum in die klinische Praxis implementiert. Eine Übersicht zu diesem international von zahlreichen Forschergruppen bearbeiteten Gebiet wurde von Dr. Alan S. Cross und Mitarbeitern vom Zentrum für Impfstoffentwicklung der Universität Baltimore, Maryland, USA, publiziert. Aktive Impfungen gegen nosokomiale Infektionserreger scheinen auf den ersten Blick kaum möglich zu sein, da Krankenhausaufenthalte meist rasch, zumindest innerhalb von einigen Wochen, geplant und realisiert werden. Ein tragfähiger Impfschutz kann demgegenüber auch bei parenteraler Impfstoffgabe meist erst nach mindestens vier bis sechs Wochen aufgebaut werden. Für Patienten, die wegen chronischer Erkrankungen wie Diabetes mellitus, Dialysepflicht oder Herz-Kreislaufkrankheiten wiederholt und mehrfach ins Krankenhaus aufgenommen werden müssen, könnte eine Impfung aber durchaus sinnvoll sein.</Para>
+            <Para>Cross und Mitarbeiter [<CitationRef CitationID="CR1">1</CitationRef>] forschen seit ca. zwei Jahrzehnten an der Entwicklung von Impfstoffen gegen Hospitalismuserreger. Hierbei sind in erster Linie Erreger im Fokus, die im Krankenhaus von außen an den Patienten herangetragen werden (exogener Infektionsweg). Endogene, d.h. aus der eigenen Flora des Patienten stammende Erreger, eignen sich weniger für eine Impfstoffentwicklung, weil sie auch die natürliche schützende Flora — ungewünscht — aus dem Darmtrakt eliminieren würden und das Spektrum dieser Erreger so vielfältig ist, dass eine Impfung allenfalls gegen gemeinsame Determinanten entwickelt werden könnte. Zwischen den typischen exogenen und endogenen Erregern (<InternalRef RefID="Tab1">Tab. 1</InternalRef>) besteht eine in beiden Richtungen offene Wechselbeziehung.
+<Table Float="Yes" ID="Tab1">
+                <Caption Language="De">
+                  <CaptionNumber>Tabelle 1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Exogene und endogene Krankenhausinfektionserreger</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup align="left" cols="2">
+                  <colspec colname="c1" colnum="1"/>
+                  <colspec colname="c2" colnum="2"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>
+                          <Emphasis Type="Bold">Überwiegend exogene Erreger</Emphasis>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>
+                          <Emphasis Type="Bold">Überwiegend endogene Erreger</Emphasis>
+                        </SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Gram-positive Erreger</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Gram-positive Erreger</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="2">
+                        <SimplePara>Staphylococcus aureus</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Viridans-Streptokokken</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Enterokokken</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>B-Streptokokken</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Gram-negative Erreger</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Gram-negative Erreger</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Pseudomonas aeruginosa</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Escherichia coli</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1" morerows="1">
+                        <SimplePara>Klebsiella pneumoniae</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Enterobacter spp.</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c2">
+                        <SimplePara>Proteus spp.</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Anaerobier</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Anaerobier</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Clostridium difficile</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>Clostridien, Bacteroides spp.</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </Table>
+            </Para>
+            <Para>Die Impfung gegen typische exogene Erreger, wie beispielsweise Staphylococcus aureus, Pseudomonas aeruginosa oder den besonders nach einer längeren Antibiotikatherapie immer mehr zum Problem werdenden Durchfallerreger Clostridium difficile, erscheint daher am ehesten realisierbar. Im Falle von Staphylococcus aureus war hierbei die Beobachtung hilfreich, dass nur zwei Kapselantigene, die Typen 5 und 8, bei mehr als 80 Prozent der klinischen Infektionsisolate vorkommen. Ein die beiden Kapselantigene in Kopplung an einen Proteinträger enthaltender Impfstoff bewirkte in einer Untersuchung, dass die einmalige parenterale Applikation bei Dialysepatienten zu einer Induktion protektiver Antikörper über etwa 40 Wochen führte. In diesem Zeitraum wurde auch die Rate septischer Infektionen durch Staphylococcus aureus halbiert: Bei den evaluierbaren Patienten der Impfgruppe traten nur elf Infektionen bei 892 Patienten (1,2 %) auf, während die Rate bei den Kontrollpatienten mit 26 Infektionen bei 906 Patienten (2,9 %) mehr als doppelt so hoch war (p=0,02). Die Antikörpertiter gingen jedoch danach ebenso zurück wie der klinische Impfschutz. Neuerdings wird daran gearbeitet, den kürzlich identifizierten Kolonisationsfaktor in eine solche Vakzine einzubeziehen, um bereits die Kolonisation durch exogene Staphylococcus-aureus-Stämme zu verhindern.</Para>
+            <Para>Ein Impfstoff gegen Pseudomonas-aeruginosa wurde bereits an Mukoviszidose-Patienten klinisch getestet, die gegen eine Infektion mit diesem Erreger besonders anfällig sind. Der Impfstoff enthält als wirksamen Bestandteil zwei häufig vorkommende Geißelantigene des Erregers und wurde innerhalb des ersten Studienjahrs viermal parenteral appliziert. Eingeschlossen in die Studie wurden ein bis 18 Jahre alte Mukoviszidose-Patienten, die bislang nicht mit Pseudomonas-aeruginosa kolonisiert waren. Im Vergleich zur Kontrollgruppe wurde ein deutlicher Antikörperanstieg gegen die beiden Antigene erzielt (<InternalRef RefID="Fig1">Abb. 1</InternalRef>). Die Infektionsrate in einem 2-Jahre-Beobachtungszeitraum konnte deutlich gesenkt werden, allerdings wurde kein kompletter Schutz erzielt (<InternalRef RefID="Tab2">Tab. 2</InternalRef>).
+<Figure Category="Standard" Float="Yes" ID="Fig1">
+                <Caption Language="De">
+                  <CaptionNumber>Abb. 1</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Antikörperantwort (reziproker Serumantikörpertiter) gegen die beiden in der Pseudomonas-Vakzine enthaltenen Geißelantigene, dargestellt als separate Säulen</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <MediaObject ID="MO1">
+                  <ImageObject Color="Color" FileRef="MediaObjects/735_2015_506_Fig1_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                </MediaObject>
+              </Figure>
+              <Table Float="Yes" ID="Tab2">
+                <Caption Language="De">
+                  <CaptionNumber>Tabelle 2</CaptionNumber>
+                  <CaptionContent>
+                    <SimplePara>Ergebnisse der Pseudomonas-aeruginosa-Impfung bei Mukovizidose</SimplePara>
+                  </CaptionContent>
+                </Caption>
+                <tgroup align="left" cols="5">
+                  <colspec colname="c1" colnum="1"/>
+                  <colspec colname="c2" colnum="2"/>
+                  <colspec colname="c3" colnum="3"/>
+                  <colspec colname="c4" colnum="4"/>
+                  <colspec colname="c5" colnum="5"/>
+                  <thead>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>
+                          <Emphasis Type="Bold">Parameter</Emphasis>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>
+                          <Emphasis Type="Bold">Vakzine-Gruppe</Emphasis>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>
+                          <Emphasis Type="Bold">Kontrollgruppe</Emphasis>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>
+                          <Emphasis Type="Bold">p-Wert</Emphasis>
+                        </SimplePara>
+                      </entry>
+                      <entry colname="c5">
+                        <SimplePara>
+                          <Emphasis Type="Bold">Relatives Risiko</Emphasis>
+                        </SimplePara>
+                      </entry>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Akute P.-aeruginosa-Infektion</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>37/189 (19,6 %)</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>59/192 (30,7 %)</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>0,02</SimplePara>
+                      </entry>
+                      <entry colname="c5">
+                        <SimplePara>0,66</SimplePara>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry colname="c1">
+                        <SimplePara>Chronische P.-aeruginosa-Infektion</SimplePara>
+                      </entry>
+                      <entry colname="c2">
+                        <SimplePara>6/189 (3,2 %)</SimplePara>
+                      </entry>
+                      <entry colname="c3">
+                        <SimplePara>12/192 (6,3 %)</SimplePara>
+                      </entry>
+                      <entry colname="c4">
+                        <SimplePara>0,13</SimplePara>
+                      </entry>
+                      <entry colname="c5">
+                        <SimplePara>0,49</SimplePara>
+                      </entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+                <tfooter>
+                  <SimplePara>nach Döring G et al. Proc Natl Acad Sci 2007;104:11020–11025</SimplePara>
+                </tfooter>
+              </Table>
+            </Para>
+            <Para>Eine Impfung gegen Clostridium difficile wird bald klinisch getestet werden. Eine Impfung gegen die Toxine A und B wurde bereits entwickelt und induzierte bei gesunden Freiwilligen hohe Antikörpertiter. Ein Pilotversuch bei drei Patienten mit chronisch-rezidivierender Clostridium-difficile-Diarrhoe führte bei zwei Patienten zur klinischen Besserung durch die Impfung. Vermutlich werden Patienten, die immer wieder an rekurrierenden Diarrhoen durch Clostridium-difficile erkranken, das Haupteinsatzgebiet für diese Vakzine darstellen.</Para>
+            <Para>Eine ausreichende Antikörperantwort dürfte auch bei immunologisch eingeschränkten Patienten bei entsprechender Wahl des Impfschemas erreichbar sein.</Para>
+            <Para>Neue Impfungen gegen typische exogene Erreger mit zunehmender Erregerresistenz, wie z.B. Staphylococcus aureus sind vielversprechende Optionen in der Prävention. Der Staphylococcus aureus Impfstoff erbrachte allerdings bisher in der Impfung, z.B. in der Herz-Thorax-Chirurgie, nicht den erfolgten Durchbruch in der Phase 3 der klinischen Studie.</Para>
+            <Section1 ID="Sec1">
+              <Heading>Vermeidung von Antibiotikaresistenzen: Antibiotic-Stewardship</Heading>
+              <Para>Da die Entwicklung neuer Antibiotika gegen multiresistente Erreger für die nächsten fünf bis zehn Jahre nicht absehbar ist, ist es notwendig, die momentan noch wirksamen Reserveantibiotika wie Carbapeneme und Polymyxin-Derivate möglichst rational und zurückhaltend einzusetzen [<CitationRef CitationID="CR2">2</CitationRef>, <CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>].</Para>
+              <Para>Um die Zielgenauigkeit von Antibiotika zu verbessern, wurde in einer Untersuchung von Gross [<CitationRef CitationID="CR6">6</CitationRef>] ein Managementprogramm entwickelt, mit dem die Verwendung einzelner Substanzklassen deutlich eingeschränkt wurde. Zwei verschiedene Strategien zur Verbesserung der Antibiotika-Verordnungen wurden verglichen:</Para>
+              <Para>Empfehlungen eines sogenannten Antibiotika-Managementteams, zusammengesetzt aus einem klinischen Pharmakologen und einem Arzt der Infektionsabteilung, und Empfehlungen ausschließlich von Infektionsspezialisten. Parameter für den Therapieerfolg waren die primäre Heilungsrate, die Anzahl der Therapieversager, die Kosten der Behandlung und die Angemessenheit der Behandlung. Insgesamt wurden 180 Patienten evaluiert.</Para>
+              <Para>Das Antibiotika-Managementteam war den Infektionsspezialisten bei allen Erfolgsparametern deutlich überlegen. Antibiotika wurden signifikant häufiger angemessen eingesetzt, die primäre Heilungsrate der Infektionen war mit 64 gegenüber 42 Prozent signifikant höher und Therapieversager waren signifikant seltener. Nur in den ökonomischen Auswirkungen der Antibiotika-Behandlung bestand kein Unterschied.</Para>
+              <Para>Viele Experten propagieren derzeit das „cycling“ oder „rotating“ von Antibiotikaregimen auf der Intensivstation. „Cycling“ beinhaltet den Wechsel der Antibiotikaklassen zur empirischen Initialtherapie in definierten Zeitintervallen von einem Monat bis zu einem halben Jahr. Hintergrund dieses Vorgehens ist die Vorstellung, dass „cycling“ den Selektionsdruck mindert und die Entstehung und Verbreitung resistenter Erreger verringert.</Para>
+              <Para>Durch Umstellung der empirischen Antibiotikatherapie auf Schmalspektrumsubstanzen konnte eine englische Arbeitsgruppe [<CitationRef CitationID="CR4">4</CitationRef>] auch die Inzidenz der Antibiotika-assoziierten Diarrhoen durch Clostridium difficile in einem Akutkrankenhaus signifikant senken. Entscheidend hierbei war auch die Mitwirkung eines in Antibiotikafragen erfahrenen „Apothekers auf Station“. Die Intervention bestand in der Umstellung der empirischen Antibiotikatherapie von Breitspektrumantibiotika (Breitspektrumpenicilline außer Piperacillin-Tazobactam, Cephalosporine, Fluorchinolone) auf eine bevorzugte Anwendung von Schmalspektrumantibiotika (Penicillin G, Clarithromycin, Trimethroprim, Gentamicin, Vancomycin).</Para>
+              <Para>Bei einer Erregeridentifizierung wird eine konsequente Deeskalation der Antibiose empfohlen. Unter Deeskalationstherapie versteht man das Umsteigen auf Antibiotika mit einem schmaleren Wirkungsspektrum, aber auch das Weglassen von Substanzgruppen, deren Einsatz aufgrund der nachgewiesenen Erreger nicht mehr erforderlich ist. Langfristig reduziert ein systematisches Deeskalieren den Selektionsdruck auf einer Intensivstation und minimiert die Entwicklung resistenter Erregerstämme. Mit dieser Option wird der Selektion resistenter Erreger entgegengewirkt und die Wahrscheinlichkeit für eine Clostridium-difficile Infektion gesenkt [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>].</Para>
+              <Para>Wichtige Prinzipien der Antibiotikatherapie bei Sepsis bzw. schweren Infektionen stellt die „Tarragona-Strategie“ nach Hernandez dar (<InternalRef RefID="Tab3">Tab. 3</InternalRef>) [<CitationRef CitationID="CR5">5</CitationRef>].
+<Table Float="Yes" ID="Tab3">
+                  <Caption Language="De">
+                    <CaptionNumber>Tabelle 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Prinzipien der Tarragona-Strategie (5)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="1">
+                    <colspec colname="c1" colnum="1"/>
+                    <thead>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>
+                            <Emphasis Type="Bold">Tarragona-Strategie</Emphasis>
+                          </SimplePara>
+                        </entry>
+                      </row>
+                    </thead>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Antibiotikatherapie sofort beginnen</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Antibiotikatherapie u.U. gezielt gegen Erregertyp des Grampräparates ausrichten</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Therapie abändern nach Erhalt des Kulturergebnisses</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Eine verlängerte Antibiotikatherapie schützt nicht vor Rückfällen</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Patienten mit vorbestehender chronischer Lungenkrankheit oder längerer Beatmung als 1 Woche sollten eine Kombinationstherapie erhalten, wegen des Risikos einer Pseudomonas-aeruginosa-Infektion</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Ohne vorangegangene Antibiotikatherapie liegt meist kein MRSA vor, dagegen sollte bei komatösen Patienten an MSSA gedacht werden</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Eine ungezielte Therapie gegen Pilze ist nicht erforderlich, auch wenn eine Pilzbesiedelung nachgewiesen wurde</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Eine Vancomycinbehandlung von grampositiven Infektionen hat nur eine geringe Erfolgsaussicht</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Die Auswahl der empirisch eingesetzten Antibiotika richtet sich nach dem zuvor eingesetzten Antibiotikum</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Richtlinien sollten regelmäßig auf den neuesten Stand gebracht und an die Verhältnisse vor Ort angepasst werden</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                  <tfooter>
+                    <SimplePara>Abkürzungen: MRSA, methicillinresistenter Staphylococcus aureus, MSSA, methicillinsensibler Staphylococcus aureus</SimplePara>
+                  </tfooter>
+                </Table>
+              </Para>
+              <Para>Ein Hospital Antibiotic Stewardship (Hospital Antibiotika Stewardship = Abkrz. HAS) unter Beteiligung von verschiedenen Berufsgruppen eines Krankenhauses, wie Krankenhausapotheker, Infektiologen, Klinikhygieniker und Mikrobiologen kann für die Patienten das bestmögliche klinische Behandlungsergebnis bei minimaler Toxizität und mit möglichst günstigem Einfluss auf Resistenz-, Kosten- und Verbrauchsentwicklung erreichen (<InternalRef RefID="Fig2">Abb. 2</InternalRef>) [<CitationRef CitationID="CR3">3</CitationRef>, <CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>]. In einer Längsschnittstudie hat eine Arbeitsgruppe von der Vanderbilt Universität in Tennessee, USA, den Einfluss einer von den Autoren als „Antibiotic Stewardship“ bezeichneten, strukturierten Antibiotikapolitik auf die Resistenzrate untersucht.
+<Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="De">
+                    <CaptionNumber>Abb. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Aufbau von „Hospital Antibiotic Stewardship“-Programmen [modifiziert von [9] nach Gerdemann A et al. Pharma Ztg [2005] 150; 496–501]</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/735_2015_506_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Nachdem zuvor eine freie Antibiotikaverordnung stattgefunden hatte, entwickelte eine interdisziplinäre Arbeitsgruppe der beiden Stationen im Jahre 2002 ein Konzept zur Standardisierung des Antibiotikaeinsatzes. Die Grundsätze dabei waren: (1) Möglichst kurz dauernde präoperative Antibiotikaprophylaxe (24 h), (2) Vermeidung langdauernder Therapiezyklen mit Drittgenera-tions-Cephalosporinen und (3) weitest mögliche Vermeidung des Gebrauchs von Fluorchinolonen. Für einzelne Indikationen wurden Standard-Initialregime festgelegt.</Para>
+              <Para>Im Untersuchungszeitraum ging der Verbrauch von Breitspektrumantibiotika auf beiden Intensivstationen signifikant zurück. Die Isolierungsrate Gram-negativer, Infektions-assoziierter Erreger mit multipler Antibiotikaresistenz ging auf der chirurgischen Intensivstation zwischen 2001 und 2008 hochsignifikant zurück. Der Rückgang betrug 76 Prozent für multiresistente Acinetobacter-Stämme (p=0,014), 67 Prozent für multiresistente Enterobakteriazeen (p=0,001) und 72 Prozent für multiresistente Pseudomonas-aeruginosa-Stämme (p=0.012). Auf der Traumatologischen Intensivstation kam es mit Ausnahme der Enterobakteriazeen ebenfalls zu einem hochsignifikanten Rückgang (68 %, p=0,005).</Para>
+              <Para>Die Autoren schließen aus ihren Daten auf einen kombinierten Effekt der strukturierten Antibiotikapolitik und der eingeführten Hygienemaßnahmen auf die Erregerresistenz bzw. den Rückgang von nosokomialen Infektionen durch Gram-negative Erreger.</Para>
+            </Section1>
+            <Section1 ID="Sec2">
+              <Heading>Infektionsprävention</Heading>
+              <Para>Frühzeitig gezielte Screening Maßnahmen (Detektion) von Klinikpatienten auf MRE bei Krankenhausaufnahme von Risikopatienten und stringente Infektionspräventionsmaßnahmen mit Schutzkittel, Handschuhen, Mundschutz sowie Isolierung (Barrierepflege) und Eradikationsmaßnahmen mit ausreichend zur Verfügung stehendem Medizin- und Pflegefachpersonal sind entscheidend im Kampf gegen multiresistente Erreger. Im angloamerikanischen Raum wird dafür der Begriff „Search and Destroy-Strategie“ angewendet. Bei der Infektionsprävention wird dem medizinischen Personal — besonders der adäquaten Durchführung der hygienischen Händedesinfektion — ein hoher Stellenwert eingeräumt (<InternalRef RefID="Tab4">Tab. 4</InternalRef> und <InternalRef RefID="Fig3">Abb. 3</InternalRef>.). Ungenügende krankenhaushygienische Maßnahmen können besonders auf Intensivpflegestationen dazu beitragen, dass multiresistente Erreger, meist durch die Hände des Krankenhauspersonals, von einem Patienten zum anderen übertragen werden.
+<Table Float="Yes" ID="Tab4">
+                  <Caption Language="De">
+                    <CaptionNumber>Tabelle 4</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Allgemeine klinikhygienische Maßnahmen bei resistenten Erregern auf Intensivpflegestationen</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <tgroup align="left" cols="1">
+                    <colspec colname="c1" colnum="1"/>
+                    <tbody>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Unterbringung kolonisierter oder infizierter Patienten in einem Einzelzimmer — sind mehrere Patienten betroffen, können sie im selben Zimmer untergebracht werden (Kohorten-Isolierung),</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Vor Betreten des Zimmers bzw. der Patientenbox: hygienische Händedesinfektion, Anlegen von Einmal-Schutzhandschuhen und eines Kittels: Handschuhe nach Kontakt mit stark Erregerhaltigem Material (z.B. Wundsekreten) wechseln,</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Vor Verlassen des Raumes: Handschuhe im Raum als Infektionsmüll entsorgen, Kittel verbleibt im Zimmer. Wichtigste Maßnahme zur Unterbrechung von Infektionsketten: hygienische Händedesinfektion vor Verlassen des Zimmers, auch wenn Handschuhe getragen wurden,</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Kontakt mit Gegenständen meiden, die potentiell mit den Erregern kontaminiert sind,</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Pflegepersonen auf Intensivpflegestationen sollten im Rahmen ihrer Tätigkeit nur diese(n) Patient(en) betreuen,</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Pflegerische Gegenstände sind nur auf den einzelnen Patienten zu beziehen und nicht für verschiedene Patienten zu verwenden (auch Stethoskope, Blutdruckmanschetten etc.),</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Krankenhausunterlagen von infizierten oder kolonisierten Patienten kennzeichnen, damit der (ehemalige) Trägerstatus sofort erkannt werden kann, (Patienten können, besonders mit MRSA über viele Monate kolonisiert bleiben, deshalb sind bei Wiederaufnahme mikrobiologische Untersuchungen notwendig),</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Information aller Kontakt-Personen über die erforderlichen Präventionsmaßnahmen (pflegerisches und ärztliches Personal, Röntgen-MTA, Reinigungs-Personal, Angehörige usw.)</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Bei Verlegung des Patienten über Infektion oder Kolonisation und erforderliche Maßnahmen informieren</SimplePara>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry colname="c1">
+                          <SimplePara>▪ Scheuer-Wisch-Desinfektion des Patientenzimmers, bevor der Raum von anderen Patienten genutzt werden kann.</SimplePara>
+                        </entry>
+                      </row>
+                    </tbody>
+                  </tgroup>
+                </Table>
+                <Figure Category="Standard" Float="Yes" ID="Fig3">
+                  <Caption Language="De">
+                    <CaptionNumber>Abb. 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Die Händedesinfektion ist die wichtigste Einzelpräventionsmaßnahme zur Verhinderung der Ausbreitung von Infektionserregern. (Mit freundlicher Erlaubnis AKTION Saubere Hände, Institut für Hygiene und Umweltmedizin Charité Universitätsmedizin Berlin.)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO3">
+                    <ImageObject Color="Color" FileRef="MediaObjects/735_2015_506_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Anmerkung: Die Healthcare Infection Control Practices Advisory Committees (HICPAC)-Leitlinie empfiehlt bei MR-GNE die Unterbringung in Einzelzimmern oder in der Kohorte. Neben der Händedesinfektion werden bei Patientenkontakt Schutzkittel und Handschuhe angelegt. Das Tragen eines Mund-Nasenschutzes ist bei Tröpfchenbildung (z.B. Bronchoskopieren) erforderlich. Im ambulanten Bereich wird die Einhaltung von Standardhygienemaßnahmen als ausreichend angesehen. In der von den Centers for Disease Control and Prevention (CDC) und HICPAC aktuellen herausgegebenen „Guidance for control of infections with carbapenem-resistant or carbapenemase-producing Enterobacteriaceae in acute care facilities“ wurden diese Empfehlungen übernommen [<CitationRef CitationID="CR10">10</CitationRef>].</Para>
+            </Section1>
+            <Section1 ID="Sec3">
+              <Heading>Zusammenfassung</Heading>
+              <Para>Die völlige Vermeidung von Klinikinfektionen scheint aktuell nicht möglich. Sie müssen als Nebenwirkung der High-Tech-Medizin hingenommen werden. Intensive Forschung und Entwicklung auf dem Sektor neuer Antibiotika, Impfstoffe, Immunparameter und diese schnell in die Anwendung zu bringen sowie geeigneter Infektionspräventionsstrategien sind essenziell. Hospital-Antibiotic-Stewardship (HAS), Screening Untersuchungen auf MRE, Klinikhygienemaßnahmen mit strikter Isolierung bei Problemerregern mit Multiresistenz stehen gegenwärtig im Kampf gegen diese hoch gefährlichen Hospitalinfektionen zur Verfügung. Zukunftsversprechend ist die Entwicklung von Impfstoffen für die drei oft als exogene Erreger auftretenden Hospitalismus Keime Staphylococcus-aureus, Pseudomonas-aeruginosa und Clostritium-difficile.</Para>
+              <Para>Jeder Tätige im Krankenhaus hat im Interesse der ihm anvertrauen Patienten, dafür Sorge zu tragen, dass es zu keinen Kontakt- bzw. Kreuzinfektionen mit MRE kommt.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/735_2015_Article_506.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>Literatur</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A.</Initials>
+                    <FamilyName>Cross</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A case for immunization against nosocomial infections</ArticleTitle>
+                  <JournalTitle>J Leukoc Biol</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>483</FirstPage>
+                  <LastPage>488</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1189/jlb.0607379</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD1cXjtVaqtr0%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18070981</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Cross AS et al. A case for immunization against nosocomial infections. J Leukoc Biol 2008; 83:483–488</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H.M.</Initials>
+                    <FamilyName>Lode</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Stahlmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M. .</Initials>
+                    <FamilyName>Kresken</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="De">Multiresistente Erreger — eine infektiologische</ArticleTitle>
+                  <JournalTitle>Herausforderung Zentralbl Chir</JournalTitle>
+                  <VolumeID>138</VolumeID>
+                  <FirstPage>549</FirstPage>
+                  <LastPage>553</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-0033-1350885</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC2c%2Fpt1Wnsw%3D%3D</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Lode HM Stahlmann R, Kresken M Multiresistente Erreger — eine infektiologische Herausforderung Zentralbl Chir [2013] 138:549–553</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibUnstructured>Hagel S, Stallmach A, Keller P et al. Multiresistente Erreger. Zentralblatt Chirurgie Online-publiziert http://dx.doiorg/10.1055/s-0032-1328343</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.</Initials>
+                    <FamilyName>Talpaert</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Impact of guidelines and enhanced antibiotic stewardship on reducing broad-spectrum antibiotic usage and its effect on incidence of Clostridium difficile infection</ArticleTitle>
+                  <JournalTitle>J Antimicrob Chemother</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>2168</FirstPage>
+                  <LastPage>2174</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/jac/dkr253</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXhtVeitLbF</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21676904</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Talpaert MJ et al. Impact of guidelines and enhanced antibiotic stewardship on reducing broad-spectrum antibiotic usage and its effect on incidence of Clostridium difficile infection. J Antimicrob Chemother [2011] 66:2168–2174</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G.</Initials>
+                    <FamilyName>Hernandez</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Nosocomial lung infections in adult intensive care units</ArticleTitle>
+                  <JournalTitle>Microbes and Infection</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>1004</FirstPage>
+                  <LastPage>1014</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.micinf.2004.05.019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15345233</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hernandez G et al. Nosocomial lung infections in adult intensive care units. Microbes and Infection [2004] 6:1004–1014</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R.</Initials>
+                    <FamilyName>Gross</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Impact of a Hospital-Based Antimicrobial Management Program on Clinical and Economic Outcomes</ArticleTitle>
+                  <JournalTitle>Clinical Infectious Diseases</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>289</FirstPage>
+                  <LastPage>295</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1086/321880</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3MzosVCltQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11438891</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Gross R et al. Impact of a Hospital-Based Antimicrobial Management Program on Clinical and Economic Outcomes. Clinical Infectious Diseases [2001] 33: 289–295</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M.O.</Initials>
+                    <FamilyName>Talpaert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G.G.</Initials>
+                    <FamilyName>Rao</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B.</Initials>
+                    <FamilyName>Cooper</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Impact of guidelines and enhanced antibiotic stewardship on reducing broad-spectrum antibiotic usage and its effect on incidence of Clostridium difficile infection</ArticleTitle>
+                  <JournalTitle>J Antimicrob Chemother</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>2168</FirstPage>
+                  <LastPage>2174</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1093/jac/dkr253</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3MXhtVeitLbF</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21676904</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Talpaert MO, Rao GG, Cooper BS et al. Impact of guidelines and enhanced antibiotic stewardship on reducing broad-spectrum antibiotic usage and its effect on incidence of Clostridium difficile infection. J Antimicrob Chemother [2011] 66:2168–2174</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K. .</Initials>
+                    <FamilyName>Schatzmann</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="De">Beeinflußung des Antibiotikaverbrauchs in einem Krankenhaus — Erfahrungen aus 10 Jahren Antibiotika-Surveillance</ArticleTitle>
+                  <JournalTitle>Krankenhaushygiene</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>197</FirstPage>
+                  <LastPage>214</LastPage>
+                </BibArticle>
+                <BibUnstructured>Schatzmann K Beeinflußung des Antibiotikaverbrauchs in einem Krankenhaus — Erfahrungen aus 10 Jahren Antibiotika-Surveillance. Krankenhaushygiene up2date [2014] 8:197–214</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K. .</Initials>
+                    <FamilyName>With</FamilyName>
+                    <Particle>de</Particle>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="De">Hospital Antibiotic Stewardship und Deutsche Antibiotika-Resistenzstrategie — Chancen für deutsche Krankenhausapotheker, sich neu zu positionieren</ArticleTitle>
+                  <JournalTitle>Krankenhauspharmazie</JournalTitle>
+                  <VolumeID>30</VolumeID>
+                  <FirstPage>212</FirstPage>
+                  <LastPage>214</LastPage>
+                </BibArticle>
+                <BibUnstructured>de With K Hospital Antibiotic Stewardship und Deutsche Antibiotika-Resistenzstrategie — Chancen für deutsche Krankenhausapotheker, sich neu zu positionieren. Krankenhauspharmazie [2009] 30: 212–214</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibChapter>
+                  <BibAuthorName>
+                    <Initials>F.</Initials>
+                    <FamilyName>Mattner</FamilyName>
+                  </BibAuthorName>
+                  <Etal/>
+                  <Year>2012</Year>
+                  <ChapterTitle Language="De">Prävention der Ausbreitung von multiresistenten gramnegativen Erregern. Vorschläge eines Experten-Workshops der Deutschen Gesellschaft für Hygiene und Mikrobiologie</ChapterTitle>
+                  <BookTitle>DÄB</BookTitle>
+                </BibChapter>
+                <BibUnstructured>Mattner F et al. Prävention der Ausbreitung von multiresistenten gramnegativen Erregern. Vorschläge eines Experten-Workshops der Deutschen Gesellschaft für Hygiene und Mikrobiologie. DÄB [2012] 109: Heft 3-20.01.2012</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

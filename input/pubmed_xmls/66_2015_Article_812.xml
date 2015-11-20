@@ -1,0 +1,2939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer Berlin Heidelberg</PublisherName>
+    <PublisherLocation>Berlin/Heidelberg</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>66</JournalID>
+      <JournalDOI>10.1007/66.1439-099X</JournalDOI>
+      <JournalPrintISSN>0179-7158</JournalPrintISSN>
+      <JournalElectronicISSN>1439-099X</JournalElectronicISSN>
+      <JournalTitle>Strahlentherapie und Onkologie</JournalTitle>
+      <JournalSubTitle>Journal of Radiation Oncology, Biology, Physics</JournalSubTitle>
+      <JournalAbbreviatedTitle>Strahlenther Onkol</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCH" Type="Primary">Medicine &amp; Public Health</JournalSubject>
+        <JournalSubject Code="SCH29056" Priority="1" Type="Secondary">Radiotherapy</JournalSubject>
+        <JournalSubject Code="SCH43008" Priority="2" Type="Secondary">Oncology</JournalSubject>
+        <SubjectCollection Code="SC11">Medicine</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>191</VolumeIDStart>
+        <VolumeIDEnd>191</VolumeIDEnd>
+        <VolumeIssueCount>12</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>6</IssueIDStart>
+          <IssueIDEnd>6</IssueIDEnd>
+          <IssueArticleCount>12</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>6</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s00066-015-0812-8" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="Yes" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>812</ArticleID>
+            <ArticleDOI>10.1007/s00066-015-0812-8</ArticleDOI>
+            <ArticleSequenceNumber>9</ArticleSequenceNumber>
+            <ArticleTitle Language="En">A teaching intervention in a contouring dummy run improved target volume delineation in locally advanced non-small cell lung cancer</ArticleTitle>
+            <ArticleSubTitle Language="En">Reducing the interobserver variability in multicentre clinical studies</ArticleSubTitle>
+            <ArticleTitle Language="De">Verbesserung der Zielvolumendefinition durch einen Dummy Run mit interventionellem Konturierungstraining beim lokal fortgeschrittenen nicht-kleinzelligen Lungenkarzinom</ArticleTitle>
+            <ArticleSubTitle Language="De">Reduktion der Interobserver-Variabilität in klinischen Multizenterstudien</ArticleSubTitle>
+            <ArticleCategory>Original Article</ArticleCategory>
+            <ArticleFirstPage>525</ArticleFirstPage>
+            <ArticleLastPage>533</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+              </RegistrationDate>
+              <Received>
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+              </Received>
+              <Accepted>
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+              </Accepted>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>10</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer-Verlag Berlin Heidelberg</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1 Aff6" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Tanja</GivenName>
+                  <FamilyName>Schimek-Jasch</FamilyName>
+                  <Degrees>M.D.</Degrees>
+                </AuthorName>
+                <Contact>
+                  <Email>tanja.schimek-jasch@uniklinik-freiburg.de</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff2">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Esther G. C.</GivenName>
+                  <FamilyName>Troost</FamilyName>
+                  <Degrees>M.D., Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff3">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Gerta</GivenName>
+                  <FamilyName>Rücker</FamilyName>
+                  <Degrees>Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Vesna</GivenName>
+                  <FamilyName>Prokic</FamilyName>
+                  <Degrees>Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Melanie</GivenName>
+                  <FamilyName>Avlar</FamilyName>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff4">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Viola</GivenName>
+                  <FamilyName>Duncker-Rohr</FamilyName>
+                  <Degrees>M.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff5 Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Michael</GivenName>
+                  <FamilyName>Mix</FamilyName>
+                  <Degrees>Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Christian</GivenName>
+                  <FamilyName>Doll</FamilyName>
+                  <Degrees>M.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Anca-Ligia</GivenName>
+                  <FamilyName>Grosu</FamilyName>
+                  <Degrees>M.D., Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Author AffiliationIDS="Aff1 Aff6">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Ursula</GivenName>
+                  <FamilyName>Nestle</FamilyName>
+                  <Degrees>M.D., Ph.D.</Degrees>
+                </AuthorName>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Radiation Oncology</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <Street>Robert-Koch-Str. 3</Street>
+                  <Postcode>79106</Postcode>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff2">
+                <OrgDivision>Department of Radiation Oncology (MAASTRO), GROW School for Oncology and Developmental Biology</OrgDivision>
+                <OrgName>Maastricht University Medical Centre</OrgName>
+                <OrgAddress>
+                  <City>Maastricht</City>
+                  <Country>The Netherlands</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff3">
+                <OrgDivision>Institute for Medical Biometry and Statistics, Centre for Medical Biometry and Medical Informatics</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff4">
+                <OrgDivision>Department of Radiation Oncology</OrgDivision>
+                <OrgName>Ortenau-Klinikum Offenburg-Gengenbach</OrgName>
+                <OrgAddress>
+                  <City>Gengenbach</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff5">
+                <OrgDivision>Department of Nuclear Medicine</OrgDivision>
+                <OrgName>University Medical Center Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Freiburg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+              <Affiliation ID="Aff6">
+                <OrgName>German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer Consortium (DKTK) partner site: Freiburg</OrgName>
+                <OrgAddress>
+                  <City>Heidelberg</City>
+                  <Country>Germany</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En" OutputMedium="All">
+              <Heading>Abstract</Heading>
+              <AbstractSection ID="ASec1">
+                <Heading>Introduction</Heading>
+                <Para>Interobserver variability in the definition of target volumes (TVs) is a well-known confounding factor in (multicentre) clinical studies employing radiotherapy. Therefore, detailed contouring guidelines are provided in the prospective randomised multicentre PET-Plan (NCT00697333) clinical trial protocol. This trial compares strictly FDG-PET-based TV delineation with conventional TV delineation in patients with locally advanced non-small cell lung cancer (NSCLC). Despite detailed contouring guidelines, their interpretation by different radiation oncologists can vary considerably, leading to undesirable discrepancies in TV delineation. Considering this, as part of the PET-Plan study quality assurance (QA), a contouring dummy run (DR) consisting of two phases was performed to analyse the interobserver variability before and after teaching.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec2">
+                <Heading>Materials and methods</Heading>
+                <Para>In the first phase of the DR (DR1), radiation oncologists from 14 study centres were asked to delineate TVs as defined by the study protocol (gross TV, GTV; and two clinical TVs, CTV-A and CTV-B) in a test patient. A teaching session was held at a study group meeting, including a discussion of the results focussing on discordances in comparison to the per-protocol solution. Subsequently, the second phase of the DR (DR2) was performed in order to evaluate the impact of teaching.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec3">
+                <Heading>Results</Heading>
+                <Para>Teaching after DR1 resulted in a reduction of absolute TVs in DR2, as well as in better concordance of TVs. The Overall Kappa(κ) indices increased from 0.63 to 0.71 (GTV), 0.60 to 0.65 (CTV-A) and from 0.59 to 0.63 (CTV-B), demonstrating improvements in overall interobserver agreement.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec4">
+                <Heading>Conclusion</Heading>
+                <Para>Contouring DRs and study group meetings as part of QA in multicentre clinical trials help to identify misinterpretations of per-protocol TV delineation. Teaching the correct interpretation of protocol contouring guidelines leads to a reduction in interobserver variability and to more consistent contouring, which should consequently improve the validity of the overall study results.</Para>
+              </AbstractSection>
+            </Abstract>
+            <Abstract ID="Abs2" Language="De" OutputMedium="All">
+              <Heading>Zusammenfassung</Heading>
+              <AbstractSection ID="ASec5">
+                <Heading>Einleitung</Heading>
+                <Para>Die Interobserver-Variabilität bei der Definition der Zielvolumina („target volumes“, TVs) ist ein anerkanntes Problem in strahlentherapeutischen (multizentrischen) klinischen Studien. In der prospektiven randomisierten multizentrischen PET-Plan-Studie (NCT00697333) wird eine strikt FDG-PET-basierte mit einer konventionellen TV-Definition bei Patienten mit einem lokal fortgeschrittenen nicht-kleinzelligem Lungenkarzinom (NSCLC) verglichen. Im Studienprotokoll ist eine detaillierte Konturierungsanleitung implementiert. Trotz genauer Vorgaben zur TV-Definition kann deren Interpretation durch verschiedene Strahlentherapeuten sehr differieren und zu unerwünschten Diskrepanzen bei den TVs führen. Unter diesem Gesichtspunkt wurde als ein Aspekt der Qualitätssicherungsmaßnahmen der PET-Plan-Studie ein Konturierungs-„Dummy-Run“ in zwei Abschnitten durchgeführt. Analysiert wurde die Interobserver-Variabilität vor und nach einem Konturierungstraining.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec6">
+                <Heading>Material und Methoden</Heading>
+                <Para>Im ersten Teil des „Dummy Run“ (DR1) wurden Strahlentherapeuten aus 14 Studienzentren gebeten, eine protokollgemäße Definition der TVs (GTV, CTVA, CTV-B) an einem Beispielpatienten durchzuführen. Bei einem Studientreffen wurden die Ergebnisse mit Fokus auf Diskrepanzen im Vergleich zur protokollgemäßen Konturierung diskutiert. Mit dem Ziel, den Einfluss dieses Konturierungstrainings zu evaluieren, wurde der zweite Teil des „Dummy Run“ (DR2) durchgeführt.</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec7">
+                <Heading>Ergebnisse</Heading>
+                <Para>Das Training der protokollgemäßen Konturierung nach dem DR1 führte zu einer Reduktion der absoluten Volumina sowie zu einer besseren Übereinstimmung der TVs im DR2. Der „Overall“-Kappa erhöhte sich von 0,63 auf 0,71 (GTV), von 0,60 auf 0,65 (CTV-A) und von 0,59 auf 0,63 (CTV-B).</Para>
+              </AbstractSection>
+              <AbstractSection ID="ASec8">
+                <Heading>Schlussfolgerung</Heading>
+                <Para>Durch Qualitätssicherungsmaßnahmen wie „Dummy Runs“ und Studientreffen können Fehlinterpretationen bei der protokollgemäßen TV-Definition in multizentrischen klinischen Studien in der Strahlenheilkunde identifiziert und durch entsprechendes Training korrigiert werden. Dies sollte sich positiv auf die Validität der Studienergebnisse auswirken.</Para>
+              </AbstractSection>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Target volume definition</Keyword>
+              <Keyword>Radiochemotherapy</Keyword>
+              <Keyword>Positron-emission tomography</Keyword>
+              <Keyword>Dummy Run</Keyword>
+              <Keyword>nodal irradiation</Keyword>
+            </KeywordGroup>
+            <KeywordGroup Language="De">
+              <Heading>Schlüsselwörter</Heading>
+              <Keyword>Zielvolumendefinition</Keyword>
+              <Keyword>Radiochemotherapie</Keyword>
+              <Keyword>Positronenemissionstomographie</Keyword>
+              <Keyword>Dummy Run</Keyword>
+              <Keyword>Nodalbestrahlung</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>
+                <Emphasis Type="Italic">On behalf of the PET-Plan study group</Emphasis>
+              </SimplePara>
+            </ArticleNote>
+            <ArticleNote Type="ESMHint">
+              <Heading>Electronic supplementary material</Heading>
+              <SimplePara>The online version of this article (doi: <ExternalRef>
+                  <RefSource>10.1007/s00066-015-0812-8</RefSource>
+                  <RefTarget Address="10.1007/s00066-015-0812-8" TargetType="DOI"/>
+                </ExternalRef>) contains supplementary material, which is available to authorized users.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <Body>
+            <Para>Lung cancer ranks first in terms of incidence and is also the leading cause of cancer-related deaths worldwide [<CitationRef CitationID="CR1">1</CitationRef>]. Non-small cell lung cancer (NSCLC) accounts for 80 % of lung tumours and 5-year overall survival is poor [<CitationRef CitationID="CR2">2</CitationRef>]. The majority of patients present with advanced-stage disease, for which concurrent chemoradiotherapy is the treatment of choice [<CitationRef CitationID="CR3">3</CitationRef>]. The continuous optimisation of radiotherapy—e.g., by reducing target volumes (TVs; [<CitationRef CitationID="CR4">4</CitationRef>]), shortening overall treatment times [<CitationRef CitationID="CR5">5</CitationRef>], increasing daily fraction doses [<CitationRef CitationID="CR6">6</CitationRef>] or escalating doses to metabolically resistant tumour subvolumes [<CitationRef CitationID="CR7">7</CitationRef>]—is the objective of several presently accruing clinical trials. With rapidly improving accuracy in treatment delivery and modern radiotherapy techniques, the consistency of TV contouring is of increasing importance.</Para>
+            <Para>Diagnostic information from <Superscript>18</Superscript>F-fluorodeoxyglucose positron-emission tomography (FDG-PET) is often included in radiation therapy planning process. Due to its high sensitivity and specificity, FDG-PET is routinely used for the diagnosis and staging of NSCLC [<CitationRef CitationID="CR8">8</CitationRef>, <CitationRef CitationID="CR9">9</CitationRef>]. FDG-PET has been shown to be the noninvasive method with the highest diagnostic accuracy for nodal staging and can therefore be used to identify involved lymph nodes (LN) in the hilum or mediastinum, facilitating selective nodal irradiation [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>]. In addition, the integration of FDG-PET into radiation therapy planning for NSCLC reduces the interobserver variability in TV delineation [<CitationRef CitationID="CR12">12</CitationRef>–<CitationRef CitationID="CR14">14</CitationRef>]. However, these data were mainly obtained in retrospective studies and a limited number of prospective trials conducted predominantly in the three-dimensional (3D) conformal radiotherapy era. For modern radiotherapy techniques (e.g., intensity-modulated radiation therapy, IMRT; or volumetric-modulated arc therapy, VMAT), targeting of FDG-positive nodal volumes only has not yet been shown to be effective and safe in prospective multicentre cohorts employing combined chemoradiotherapy for locally advanced NSCLC. This is the rationale for the presently recruiting PET-Plan trial (NCT00697333), a prospective randomised multicentre dose escalation trial comparing strictly FDG-PET-based TV delineation with conventional TV delineation in patients with advanced NSCLC [<CitationRef CitationID="CR15">15</CitationRef>, <CitationRef CitationID="CR16">16</CitationRef>].</Para>
+            <Para>Generally in multicentre clinical trials employing radiotherapy, a detailed delineation guide—as provided in the PET-Plan trial protocol—is the basis for consistency in TVs. Despite detailed contouring instructions, the variability in TVs delineated by different radiation oncologists is a recognised problem. Dummy runs (DRs) for TV delineation of various solid tumours including NSCLC, for both conformal and stereotactic body radiotherapy or in the postoperative setting, have been reported [<CitationRef CitationID="CR17">17</CitationRef>–<CitationRef CitationID="CR27">27</CitationRef>].</Para>
+            <Para>In a study investigating the effect of different TV approaches on outcome and toxicity, delineation according to protocol is crucial. Therefore the quality assurance (QA) program of the PET-Plan trial—besides multicentre phantom calibrations for FDG-PET-based TV definition [<CitationRef CitationID="CR28">28</CitationRef>] and radiotherapy review and planning QA—included a two-phase TV contouring DR, on which we report here.</Para>
+            <Para>In the context of this DR, we evaluated the impact of joint discussion and teaching on the compliance of the study centres with protocol contouring guidelines by analysing interobserver variability before and after teaching.</Para>
+            <Section1 ID="Sec1">
+              <Heading>Methods</Heading>
+              <Section2 ID="Sec2">
+                <Heading>Patient data and PET/CT image data sets</Heading>
+                <Para>The FDG-PET and CT image data sets of a female test patient with a cT2pN3cM0 adenocarcinoma of the right lower lobe were selected for the DR.</Para>
+                <Para>The PET scan of the test patient had been acquired in 2009 on a SIEMENS ECAT EXACT 922 scanner (slice thickness 3 mm; Siemens, Forchheim, Germany) and the CT scan on a helical CT scanner (SIEMENS Somatom Emotion 6; Siemens). For the PET scan, the fasting patient was intravenously injected with 495 MBq FDG, adjusted to the patient’s weight. Acquisition of data from the thorax was performed 90 min after tracer injection, extending from the base of the skull to the liver. Attenuation corrections were implemented using a transmission scan and the PET data were reconstructed iteratively. CT and PET scans were acquired on the same day and in the treatment position, with identical positioning during PET and CT scanning verified using radio-opaque markers, a laser coordinate system and photographic documentation.</Para>
+                <Para>The primary tumour had a maximum standardised uptake value (SUV<Subscript>max</Subscript>) of 7.5. FDG-avid LNs were located in the nodal levels 4L (SUV<Subscript>max</Subscript> 4.7), 7 (SUV<Subscript>max</Subscript> 4.4) and 10R (SUV<Subscript>max</Subscript> 4.9). LNs considered pathologically enlarged on CT (short axis &gt; 1 cm) were located in nodal levels 7 and 10R. Histological involvement of LNs in 4L and 7 was verified by mediastinoscopy.</Para>
+              </Section2>
+              <Section2 ID="Sec3">
+                <Heading>PET-Plan contouring guidelines</Heading>
+                <Para>According to the PET-Plan protocol, TV contouring is performed using the planning CT coregistered to the planning 3D-FDG-PET scan, both performed in the radiotherapy treatment position. This can be realised by coregistration of two image datasets acquired separately or by using a planning PET/CT. Before contouring, the quality of registration is checked visually at suitable anatomical landmarks. The gross TV (GTV) of the primary tumour is delineated based on the 3D-FDG-PET; preferably using the semiautomatic contrast-oriented algorithm published previously [<CitationRef CitationID="CR28">28</CitationRef>, <CitationRef CitationID="CR29">29</CitationRef>]. Manual adjustments enlarging the tumour contour proposed by this algorithm according to CT morphology are allowed.</Para>
+                <Para>For the “conventional” study arm A only, a tumour-associated atelectasis is to be included in the GTV up to 3 cm beyond the PET-GTV.</Para>
+                <Para>For both study arms, the clinical TV (CTV) of the primary tumour comprises the respective GTV with a 2-mm circumferential margin.</Para>
+                <Para>For nodal irradiation, the FDG-positive (focal pathological FDG uptake) and/or CT-positive LNs (short axis diameter &gt; 1 cm), as well as those diagnosed by biopsy are allocated to the respective Mountain–Dressler LN levels and delineated anatomically in accordance with the contouring atlas published by Chapet et al. [<CitationRef CitationID="CR30">30</CitationRef>].</Para>
+                <Para>In the conventional study arm A, CT and/or PET and/or biopsy positive LN levels are included in the CTV, while in the experimental arm B, only the PET and/or biopsy positives are included (CTV-B).</Para>
+                <Para>In both study arms, the primary tumour and the affected LN(s) are subject to isotoxic dose escalation (60–74 Gy). Elective nodal irradiation up to a total dose of 50 Gy is given in study arm A only (CTV-A), including all LN levels with a likelihood of LN metastases greater than 10 %, depending on the location of the primary tumour ([<CitationRef CitationID="CR31">31</CitationRef>]; a corresponding table being embodied in the study protocol).</Para>
+                <Para>All CTVs are expanded by a margin of 8–10 mm, thus forming the PTVs.</Para>
+              </Section2>
+              <Section2 ID="Sec4">
+                <Heading>Realisation of the dummy run</Heading>
+                <Para>The study centres (list of institutions and main responsible persons in appendix 1) were electronically provided with the coregistered FDG-PET and CT Digital Imaging and Communications in Medicine (DICOM) files of the DR test patient, which were to be transferred to the individual radiotherapy treatment planning system of the study centre. For both DR phases, the test patient and DICOM files were identical.</Para>
+                <Para>The study centres were provided with CT, PET and biopsy results, and were asked to define TVs using their own radiation treatment planning system: Oncentra Masterplan (Nucletron, Veenendaal, the Netherlands), Eclipse (Varian Medical Systems Inc, Palo Alto, CA, USA) and Pinnacle (Pinnacle Medical Systems, Houston, TX, USA).</Para>
+                <Para>TVs based on PET and CT and according to protocol contouring guidelines were: the primary TV (GTV) and the CTVs for each of the two study arms (A and B). In the given DR test patient, due to the absence of atelectasis, the GTVs were similar for both study arms. CTV-A included the primary tumour; the PET- and/or CT- and/or biopsy-positive LN levels 4L, 7 and 10R, as well as the elective LN levels 2R and 4R. CTV-B included the primary tumour and the PET and/or histologically involved LN levels 4L, 7 and 10R.</Para>
+                <Para>After delineation of the three DR TVs in the DR phase 1 (DR1), the resulting DR radiotherapy structure sets (RTSS) were to be electronically delivered by the participating study centres and imported into the ARTIVIEW software (AQUILAB SAS, Loos les Lille, France) for analysis.</Para>
+              </Section2>
+              <Section2 ID="Sec5">
+                <Heading>Interventional discussion of results and teaching</Heading>
+                <Para>The DR per-protocol solution was demonstrated at a study group meeting and compared with to the DR1 contours provided by the participating study centres. The differences constituted the basis for a teaching discussion with the aim of identifying and correcting misinterpretations of study contouring guidelines, and consequentially clarifying protocol ambiguities.</Para>
+                <Para>Within 6 months of the study group meeting, the DR phase two (DR2) was performed as a replication of DR1, in order to evaluate improvements after the teaching intervention described above. In DR2, study centres were asked to recontour the three volumes from scratch; i.e., to conduct the same steps as in DR1, employing the identical test patient and DICOM files.</Para>
+              </Section2>
+              <Section2 ID="Sec6">
+                <Heading>Evaluation methods</Heading>
+                <Para>The TVs obtained in DR1 and DR2 were compared using the Wilcoxon signed-rank test (using GraphPad Prism for Macintosh, version 4.0c; GraphPad Software, Inc., La Jolla, CA, USA). The concordance between the volumes (the interobserver agreement) delineated in DR1 and DR2 was evaluated by a generalised Kappa index (Overall Kappa), allowing for measurement of observer agreement for more than two observers, as described by Rücker et al. [<CitationRef CitationID="CR32">32</CitationRef>].</Para>
+                <Para>Overall Kappa indices are depicted with the lower and upper limits of the 95 % confidence interval (CI), which can be obtained by the normal approximation: lower = κ - 1.96*SE and upper = κ +  1.96*SE, where SE is the standard error. An interpretation of Kappa values was proposed by Landis and Koch [<CitationRef CitationID="CR33">33</CitationRef>]. According to this, a Kappa value between 0.41 and 0.60 signifies moderate agreement, a value between 0.61 and 0.80 signifies substantial agreement and a Kappa value between 0.81 and 1.00 signifies almost perfect agreement.</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec7">
+              <Heading>Results</Heading>
+              <Para>Eight study centres took part in both DR1 and DR2. Additionally, three study centres participated in either one of the DR phases, adding up to a total of 11 study centres participating in DR1 and/or DR2. Representatives of those centres only participating in DR2 were present at the teaching session conducted after DR1. In five instances, the DR1 and DR2 observers within the study centres were not identical. In DR1, the contours from one centre showed complete noncompliance with the protocol contouring guidelines. In order to avoid reporting of an erroneously large improvement of interobserver variability, all contours from this centre in both DR phases were excluded from further analysis. Therefore, 57 out of 60 TVs were available for inclusion in the final analysis (DR1: GTV <Emphasis Type="Italic">n</Emphasis> = 10, CTV-A <Emphasis Type="Italic">n</Emphasis> = 10, CTV-B <Emphasis Type="Italic">n</Emphasis> = 9; DR2: GTV <Emphasis Type="Italic">n</Emphasis> = 9, CTV-A <Emphasis Type="Italic">n</Emphasis> = 9, CTV-B <Emphasis Type="Italic">n</Emphasis> = 10). The three missing TVs had not been contoured by the participating study centres.</Para>
+              <Section2 ID="Sec8">
+                <Heading>GTV</Heading>
+                <Para>Comparing DR1 and DR2 for all evaluable study centres, the GTVs had median values of 11.57 cm<Superscript>3</Superscript> (minimum 6.73 cm<Superscript>3</Superscript>, maximum 20.67 cm<Superscript>3</Superscript>) in DR1 and 11.73 cm<Superscript>3</Superscript> (range 7.83–19.59 cm<Superscript>3</Superscript>) in DR2. For centres participating in both DR phases (n = 7), the GTVs increased from a median of 11.66 cm<Superscript>3</Superscript> (range 6.73–20.67 cm<Superscript>3</Superscript>) in DR1 to a median of 12.47 cm<Superscript>3</Superscript> (8.40–13.86 cm<Superscript>3</Superscript>) in DR2 (<Emphasis Type="Italic">p</Emphasis> = not significant; Table <InternalRef RefID="Tab1">1</InternalRef>).<Table Float="Yes" ID="Tab1">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Comparison of target volumes between dummy run phases 1 and 2</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="13">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <colspec align="left" colname="c7" colnum="7"/>
+                      <colspec align="left" colname="c8" colnum="8"/>
+                      <colspec align="left" colname="c9" colnum="9"/>
+                      <colspec align="left" colname="c10" colnum="10"/>
+                      <colspec align="left" colname="c11" colnum="11"/>
+                      <colspec align="left" colname="c12" colnum="12"/>
+                      <colspec align="left" colname="c13" colnum="13"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1" morerows="1">
+                            <SimplePara>Volume (cm<Superscript>3</Superscript>)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2" morerows="1">
+                            <SimplePara>Centres</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c7" namest="c3">
+                            <SimplePara>Dummy run phase 1 (DR1)</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c12" namest="c8">
+                            <SimplePara>Dummy run phase 2 (DR2)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13" morerows="1">
+                            <SimplePara>
+                              <Emphasis Type="Italic">P</Emphasis>-value</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c3">
+                            <SimplePara>Mean</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>SD</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>Median</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>Min</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>Max</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>Mean</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>SD</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>Median</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>Min</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>Max</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>GTV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>All study centres (<Emphasis Type="Italic">n</Emphasis> = 10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>13.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>4.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>11.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>6.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>20.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>12.4</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>3.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>11.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>7.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>19.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13"/>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>GTV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Only centres participating in both DRs (<Emphasis Type="Italic">n</Emphasis> = 7)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>13.3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>5.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>11.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>6.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>20.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>11.4</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>2.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>12.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>7.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>13.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13">
+                            <SimplePara>0.58</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-A</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>All study centres (<Emphasis Type="Italic">n</Emphasis> = 10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>124.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>36.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>119.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>86.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>204.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>106.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>22.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>85.4</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>72.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>139.2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13"/>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-A</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Only centres participating in both DRs (<Emphasis Type="Italic">n</Emphasis> = 7)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>114.7</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>29.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>105.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>86.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>167.3</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>102.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>20.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>102.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>72.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>131.2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13">
+                            <SimplePara>0.30</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-B</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>All study centres (<Emphasis Type="Italic">n</Emphasis> = 10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>103.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>31.8</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>93.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>71.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>166.5</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>80.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>25.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>85.4</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>22.2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>107.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13"/>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-B</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Only centres participating in both DRs (<Emphasis Type="Italic">n</Emphasis> = 7)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>94.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>24.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>92.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>71.6</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c7">
+                            <SimplePara>132.9</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c8">
+                            <SimplePara>86.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c9">
+                            <SimplePara>16.2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c10">
+                            <SimplePara>92.0</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c11">
+                            <SimplePara>61.1</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c12">
+                            <SimplePara>105.2</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c13">
+                            <SimplePara>0.38</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>The gross tumour volume (<Emphasis Type="Italic">GTV</Emphasis>) and the clinical target volume of study arm A (<Emphasis Type="Italic">CTV-A</Emphasis>) and study arm B (<Emphasis Type="Italic">CTV-B</Emphasis>) are depicted in cubic centimetres (<Emphasis Type="Italic">cm</Emphasis>
+                        <Superscript>
+                          <Emphasis Type="Italic">3</Emphasis>
+                        </Superscript>) with means and standard deviations (<Emphasis Type="Italic">SD</Emphasis>), and medians with minimum (<Emphasis Type="Italic">Min</Emphasis>) and maximum (<Emphasis Type="Italic">Max</Emphasis>) values. Volumes are presented separately for all ten evaluable study centres and for the seven study centres participating in both dummy run (<Emphasis Type="Italic">DR</Emphasis>) phases, i.e., DR1 and DR2</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+                <Para>As measured by Overall Kappa, the observers showed a good concordance in DR1, which increased after training for all study centres (0.62 in DR1 and 0.71 in DR2), as well as upon consideration of those study centres participating in both DRs only (0.63 in DR1–0.71 in DR2; Table <InternalRef RefID="Tab2">2</InternalRef> and Fig. <InternalRef RefID="Fig1">1a</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig1">
+                    <Caption Language="En">
+                      <CaptionNumber>Fig. 1</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>
+                          <Emphasis Type="Bold">a</Emphasis> Primary tumour/gross target volume (GTV), <Emphasis Type="Bold">b</Emphasis> lymph node level 4L. The agreement of the delineated contours for GTV (<Emphasis Type="Bold">a</Emphasis>) and clinical target volume-B (CTV-B; <Emphasis Type="Bold">b</Emphasis>) is visualized by a prismatic coloured scale in the ARTIVIEW software platform (AQUILAB SAS, Loos les Lille, France). The <Emphasis Type="Italic">red</Emphasis> intersection indicates the common contoured volume (overlap) of all ten participating study centres, whereas the <Emphasis Type="Italic">dark blue</Emphasis> region represents the voxels included in only one contour. <Emphasis Type="Italic">DR</Emphasis> dummy run</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <MediaObject ID="MO1">
+                      <ImageObject Color="Color" FileRef="MediaObjects/66_2015_812_Fig1_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                    </MediaObject>
+                  </Figure>
+                  <Table Float="Yes" ID="Tab2">
+                    <Caption Language="En">
+                      <CaptionNumber>Table 2</CaptionNumber>
+                      <CaptionContent>
+                        <SimplePara>Common agreements for target volumes in dummy run phases 1 and 2, represented by Overall Kappa(κ) values</SimplePara>
+                      </CaptionContent>
+                    </Caption>
+                    <tgroup cols="6">
+                      <colspec align="left" colname="c1" colnum="1"/>
+                      <colspec align="left" colname="c2" colnum="2"/>
+                      <colspec align="left" colname="c3" colnum="3"/>
+                      <colspec align="left" colname="c4" colnum="4"/>
+                      <colspec align="left" colname="c5" colnum="5"/>
+                      <colspec align="left" colname="c6" colnum="6"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>Target volume</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Centres</SimplePara>
+                          </entry>
+                          <entry align="left" nameend="c6" namest="c3">
+                            <SimplePara>Dummy run phase 2 (DR2)</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1"/>
+                          <entry align="left" colname="c2"/>
+                          <entry align="left" colname="c3">
+                            <SimplePara>κ</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>95 % CI</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>κ</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>95 % CI</SimplePara>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>GTV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>All study centres (<Emphasis Type="Italic">n</Emphasis> = 10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.62</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.53; 0.72</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.71</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.60; 0.82</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>GTV</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Only centres participating in both DRs (<Emphasis Type="Italic">n</Emphasis> = 7)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.63</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.47; 0.79</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.71</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.50; 0.92</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-A</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>All study centres (<Emphasis Type="Italic">n</Emphasis> = 10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.62</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.53; 0.72</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.64</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.53; 0.75</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-A</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Only centres participating in both DRs (<Emphasis Type="Italic">n</Emphasis> = 7)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.60</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.44; 0.76</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.65</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.44; 0.85</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-B</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>All study centres (<Emphasis Type="Italic">n</Emphasis> = 10)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.61</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.52; 0.71</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.60</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.50; 0.69</SimplePara>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="c1">
+                            <SimplePara>CTV-B</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c2">
+                            <SimplePara>Only centres participating in both DRs (<Emphasis Type="Italic">n</Emphasis> = 7)</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c3">
+                            <SimplePara>0.59</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c4">
+                            <SimplePara>0.42; 0.75</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c5">
+                            <SimplePara>0.63</SimplePara>
+                          </entry>
+                          <entry align="left" colname="c6">
+                            <SimplePara>0.47; 0.79</SimplePara>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                    <tfooter>
+                      <SimplePara>Overall k values with lower and upper limits of the 95 % confidence interval (CI) are depicted for the gross tumour volume (<Emphasis Type="Italic">GTV</Emphasis>), the clinical target volume of study arms A (<Emphasis Type="Italic">CTV-A</Emphasis>) and B (<Emphasis Type="Italic">CTV-B</Emphasis>), presented separately for all ten evaluable study centres and for the seven study centres participating in both dummy run (DR) phases, i.e. DR1 and DR2</SimplePara>
+                    </tfooter>
+                  </Table>
+                </Para>
+              </Section2>
+              <Section2 ID="Sec9">
+                <Heading>CTV-A</Heading>
+                <Para>For all evaluable study centres, median CTV-A values were 119.67 cm<Superscript>3</Superscript> (86.04–04.69 cm<Superscript>3</Superscript>) in DR1 and 85.37 cm<Superscript>3</Superscript> (72.56–139.16 cm<Superscript>3</Superscript>) in DR2. For centres participating in both DR phases (n = 7), median CTV-A values were 105.50 cm<Superscript>3</Superscript> (86.04–167.30 cm<Superscript>3</Superscript>) in DR1 and 102.57 cm<Superscript>3</Superscript> (72.56–131.16 cm<Superscript>3</Superscript>) in DR2 (<Emphasis Type="Italic">p</Emphasis> = not significant; Table <InternalRef RefID="Tab1">1</InternalRef>).</Para>
+                <Para>The observers showed a good concordance in DR1, which increased after training (Kappa of all study centres: 0.62 in DR1 and 0.64 in DR2); however, this was more pronounced for study centres participating in both DR phases (κ = 0.60 in DR1 and 0.65 in DR2; Table <InternalRef RefID="Tab2">2</InternalRef>).</Para>
+              </Section2>
+              <Section2 ID="Sec10">
+                <Heading>CTV-B</Heading>
+                <Para>For all evaluable study centres, median CTV-B values were 93.05 cm<Superscript>3</Superscript> (71.55–166.49 cm<Superscript>3</Superscript>) in DR1 and 85.37 cm<Superscript>3</Superscript> (22.18–107.08 cm<Superscript>3</Superscript>) in DR2. For centres participating in both DR phases (<Emphasis Type="Italic">n</Emphasis> = 7), median CTV-B values were 92.64 cm<Superscript>3</Superscript> (71.55–132.88 cm<Superscript>3</Superscript>) in DR1 and 92 cm<Superscript>3</Superscript> (62.11–105.21 cm<Superscript>3</Superscript>) in DR2 (<Emphasis Type="Italic">p</Emphasis> = not significant ; Table <InternalRef RefID="Tab1">1</InternalRef>).</Para>
+                <Para>As measured by Overall Kappa, a good to moderate concordance was found in DR1 for all study centres, which decreased slightly after training (0.61 in DR1 and 0.60 in DR2). Contrastingly, for study centres participating in both DR phases, the Overall Kappa value again increased (from 0.59 in DR1 to 0.63 in DR2; Table <InternalRef RefID="Tab2">2</InternalRef> and Fig. <InternalRef RefID="Fig1">1b</InternalRef>).</Para>
+              </Section2>
+            </Section1>
+            <Section1 ID="Sec11">
+              <Heading>Discussion</Heading>
+              <Para>One of the most error-prone steps in the radiotherapy planning process—not only in NSCLC—is the delineation of TVs. The perception of this has triggered multiple publications on this issue [<CitationRef CitationID="CR17">17</CitationRef>–<CitationRef CitationID="CR27">27</CitationRef>]. Consequently, teaching courses focussing primarily on the delineation of the primary tumour have been launched, whereas the definition of guidelines and teaching on the delineation of LNs, both as GTV and CTV, has been somewhat neglected. This has improved since the mid-2000s, fuelled by the trend towards selective nodal irradiation in both small and non-small cell lung cancer, after data were published suggesting a low regional recurrence rate of approximately 2.3–5 % after FDG-PET/CT-based treatment planning of NSCLC [<CitationRef CitationID="CR10">10</CitationRef>, <CitationRef CitationID="CR11">11</CitationRef>].</Para>
+              <Para>In the German multicentre PET-Plan Study testing the noninferiority of FDG-PET-based selective nodal irradiation in advanced NSCLC, an atlas of CT-based definitions of thoracic LNs published in 2005 was implemented as part of the contouring guidelines [<CitationRef CitationID="CR30">30</CitationRef>]. In the present study, we present results underlining the importance of teaching to improve adherence to protocol-specific contouring guidelines by a two phase DR on TV delineation—phase 1 conducted before teaching and phase 2 conducted after teaching.</Para>
+              <Para>The overall size of the primary tumour volume (GTV) remained similar in DR1 and DR 2, whereas the nodal volumes CTV-A (incorporating elective nodal irradiation) and CTV-B (selective nodal irradiation) decreased slightly from DR1 to DR2. Having similar sized 3D TVs does not necessarily mean that the 3D TVs also comply with each other. We assumed that the concordance in 3D TVs (i.e., the interobserver agreement) would improve as a result of interventional teaching. Indeed, as measured by Overall Kappa, the interobserver agreement increased after teaching between DR1 to DR2 [<CitationRef CitationID="CR32">32</CitationRef>]; although the relatively large standard errors prevented this result from being a statistically significant improvement.</Para>
+              <Para>Generally, the Kappa values for the GTV were higher than for CTV-A and CTV-B (Table <InternalRef RefID="Tab2">2</InternalRef>), indicating a better topographic agreement between observers. In contrast to the mediastinal and hilar LN levels, which were to be delineated anatomically, the definition of the primary tumour located in the periphery of the lung seemed to be a task less complex. However, the interobserver agreement from DR1 to DR2 increased considerably more for the GTV than for the CTVs (Fig. <InternalRef RefID="Fig2">2</InternalRef>, Table <InternalRef RefID="Tab2">2</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig2">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 2</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Overall Kappa values, each with lower and upper limits of the 95 % confidence interval (<Emphasis Type="Italic">black bars</Emphasis>), for gross tumour volume (<Emphasis Type="Italic">GTV</Emphasis>), and clinical target volumes A and B (<Emphasis Type="Italic">CTV-A</Emphasis> and <Emphasis Type="Italic">CTV-B</Emphasis>). Depicted are the results of the seven study centres participating in both dummy runs (<Emphasis Type="Italic">DR1</Emphasis> and <Emphasis Type="Italic">DR2</Emphasis>)</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO2">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2015_812_Fig2_HTML.gif" Format="GIF" Rendition="HTML" Type="LinedrawHalftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Interestingly, overall GTV sizes were nearly identical in both DRs (Table <InternalRef RefID="Tab1">1</InternalRef>). Visual inspection of the primary TVs showed that before teaching, there was a trend towards including the TV with FDG-uptake only, and not, as per protocol, also the extension of the primary tumour as visualized by CT. Additionally, the demarcation between the GTV and the right hilum was difficult to determine.</Para>
+              <Para>Regarding CTVs, the chance of multiple observers disagreeing is obviously greater for larger volumes. This was well illustrated by the generally lower Kappa values for CTV-A and CTV-B. The discussion at the study group meeting revealed that the somewhat different anatomy of the test-case in comparison to the atlas-case triggered some equivocal interpretations of LN level location. This may have been the reason why CTVs in DR1 were considerably larger, as the observers may have tended towards the definition of LN levels with erroneous “security” margins (Fig. <InternalRef RefID="Fig3">3</InternalRef>).<Figure Category="Standard" Float="Yes" ID="Fig3">
+                  <Caption Language="En">
+                    <CaptionNumber>Fig. 3</CaptionNumber>
+                    <CaptionContent>
+                      <SimplePara>Comparison of the clinical target volume A contours for lymph node levels 4R/L: the per-protocol solution (<Emphasis Type="Italic">CVT-A per protocol</Emphasis>) vs. the contours delineated by the study centres in dummy run 1 (<Emphasis Type="Italic">CVT-A DR1</Emphasis>) visualized in Oncentra Masterplan (Nucletron, Veenendaal, the Netherlands). Contours in <Emphasis Type="Italic">red</Emphasis> were concordant with the per-protocol solution; contours in <Emphasis Type="Italic">yellow</Emphasis> were concordant but spaciously delineated and the <Emphasis Type="Italic">blue</Emphasis> contour was the one excluded from the analysis due to obvious noncompliance with the protocol contouring guidelines</SimplePara>
+                    </CaptionContent>
+                  </Caption>
+                  <MediaObject ID="MO3">
+                    <ImageObject Color="Color" FileRef="MediaObjects/66_2015_812_Fig3_HTML.jpg" Format="JPEG" Rendition="HTML" Type="Halftone"/>
+                  </MediaObject>
+                </Figure>
+              </Para>
+              <Para>Concerning the delineation of the primary lung tumour and hilar/mediastinal LN levels on CT, van de Steene et al. [<CitationRef CitationID="CR26">26</CitationRef>] also found a large interobserver variability among five physicians (two radiation oncologists, one resident radiation oncologist, one radiologist and one pulmonologist). This interobserver variability could be significantly decreased by combining anatomical and functional information, with a simultaneous reduction in the mean number of corrections and the mean delineation time [<CitationRef CitationID="CR12">12</CitationRef>, <CitationRef CitationID="CR25">25</CitationRef>].</Para>
+              <Para>The need for contouring guidelines was demonstrated by the VU University Medical Centre (VUmc) group [<CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR24">24</CitationRef>]. The postoperative CTVs of two cases delineated by six international thoracic radiation oncologists based on (i), routine clinical practice and (ii), the LungART protocol, were assessed. Routine CTVs varied up to three-fold, with a statistically significant reduction using the study protocol. Also, coverage of the LN levels improved based on the protocol, with the exception of the upper paratracheal nodes. The different CTVs inherently lead to large variations in the treatment-associated risk of lung toxicity.</Para>
+              <Para>Beyond use of both functional imaging and protocol guidelines, the present analysis shows that additional teaching may further improve the consistency of contouring within a multicentre trial group. The main limitation is the fact that not all study centres participated in both DR phases and that there was a possible change of observers in the centres. In only 5 out of 14 centres, the observers remained identical in the two DR phases. However, this represents the situation in real-life multicentre studies, with a group of persons cooperating at a given trial site and a need to communicate relevant study information. We interpret the fact that the Kappa values still increased as support for the benefit of teaching in this setting too.</Para>
+            </Section1>
+            <Section1 ID="Sec12">
+              <Heading>Conclusion</Heading>
+              <Para>Unequivocal contouring guidelines in multicentre clinical studies employing radiotherapy are essential to improve concordance of individual TVs. Beyond this, our data advocate that QA-embedded teaching of TV delineation is a valuable tool for ensuring and improving the adherence to contouring guidelines. This, in turn, reduces interobserver variability and promotes more consistent contouring, which should translate into improved validity of overall study results.</Para>
+            </Section1>
+          </Body>
+          <BodyRef FileRef="BodyRef/PDF/66_2015_Article_812.pdf" OutputMedium="All" PDFType="Typeset" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Ethics>
+              <Heading>Compliance with ethics guidelines</Heading>
+              <FormalPara RenderingStyle="Style1">
+                <Heading>Conflict of interest</Heading>
+                <Para>T. Schimek-Jasch, E.G.C. Troost, G. Rücker, V. Prokic, M. Avlar, V. Duncker-Rohr, M. Mix, C. Doll, A.-L. Grosu and U. Nestle state that there are no conflicts of interest.</Para>
+              </FormalPara>
+              <SimplePara>This study was conducted with the approval of the Ethics Committee of the Albert-Ludwigs-University Freiburg.</SimplePara>
+              <SimplePara>All studies on humans described in the present manuscript were carried out with the approval of the responsible ethics committee and in accordance with national law and the Helsinki Declaration of 1975 (in its current, revised form). Informed consent was obtained from all patients included in studies.</SimplePara>
+              <SimplePara>Consent was obtained from all patients identifiable from images or other information within the manuscript. In the case of underage patients, consent was obtained from a parent or legal guardian.</SimplePara>
+            </Ethics>
+            <Appendix ID="App1" OutputMedium="Online">
+              <Section1 ID="Sec13">
+                <Heading>Electronic supplementary material</Heading>
+                <Para>
+                  <MediaObject ID="MOESM1">
+                    <DataObject FileRef="MediaObjects/66_2015_812_MOESM1_ESM.docx">
+                      <Caption Language="En">
+                        <CaptionContent>
+                          <SimplePara>(DOCX 14 kb)</SimplePara>
+                        </CaptionContent>
+                      </Caption>
+                    </DataObject>
+                  </MediaObject>
+                </Para>
+              </Section1>
+            </Appendix>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1</CitationNumber>
+                <BibUnstructured>WHO (2014) World Health Organization. World cancer factsheet January 2014: world cancer burden (2012). Accessed 6 Nov. 2014</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Auperin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Le Pechoux</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Rolland</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Curran</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Furuse</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Fournel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Belderbos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Clamon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HC</Initials>
+                    <FamilyName>Ulutin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Paulus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Yamanaka</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MC</Initials>
+                    <FamilyName>Bozonnat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Uitterhoeve</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>X</Initials>
+                    <FamilyName>Wang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Stewart</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Arriagada</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Burdett</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JP</Initials>
+                    <FamilyName>Pignon</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Meta-analysis of concomitant versus sequential radiochemotherapy in locally advanced non-small-cell lung cancer</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>2181</FirstPage>
+                  <LastPage>2190</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2009.26.2543</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BC3cXpsFSgsbY%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20351327</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Auperin A, Le Pechoux C, Rolland E, Curran WJ, Furuse K, Fournel P, Belderbos J, Clamon G, Ulutin HC, Paulus R, Yamanaka T, Bozonnat MC, Uitterhoeve A, Wang X, Stewart L, Arriagada R, Burdett S, Pignon JP (2010) Meta-analysis of concomitant versus sequential radiochemotherapy in locally advanced non-small-cell lung cancer. J Clin Oncol 28:2181–2190. doi:10.1200/JCO.2009.26.2543</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Goeckenjan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Sitter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Thomas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Branscheid</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Flentje</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Griesinger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Niederle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Stuschke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Blum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KM</Initials>
+                    <FamilyName>Deppermann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Ficker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Freitag</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AS</Initials>
+                    <FamilyName>Lubbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Reinhold</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Spath-Schwalbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Ukena</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Wickert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Wolf</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Andreas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Auberger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RP</Initials>
+                    <FamilyName>Baum</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Baysal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Beuth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Bickeboller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bocking</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Bohle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Bruske</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Burghuber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Dickgreber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Diederich</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Dienemann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Eberhardt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Eggeling</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Fink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Fischer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Franke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Friedel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Gauler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Gutz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Hautmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Hellmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Hellwig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Herth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CP</Initials>
+                    <FamilyName>Heussel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Hilbe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Hoffmeyer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Horneber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Huber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Hubner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HU</Initials>
+                    <FamilyName>Kauczor</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Kirchbacher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Kirsten</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Kraus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Lang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Martens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mohn-Staudner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KM</Initials>
+                    <FamilyName>Muller</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Muller-Nordhorn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Nowak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Ochmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Passlick</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Petersen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Pirker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Pokrajac</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Reck</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Riha</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Rube</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schmittel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Schonfeld</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Schutte</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Serke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Stamatis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Steingraber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Steins</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Stoelben</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Swoboda</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Teschler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HW</Initials>
+                    <FamilyName>Tessen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Weber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Werner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HE</Initials>
+                    <FamilyName>Wichmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Irlinger Wimmer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Witt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Worth</FamilyName>
+                  </BibAuthorName>
+                  <InstitutionalAuthorName>German Respiratory S</InstitutionalAuthorName>
+                  <InstitutionalAuthorName>German Cancer S</InstitutionalAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Prevention, diagnosis, therapy, and follow-up of lung cancer: interdisciplinary guideline of the German Respiratory Society and the German Cancer Society</ArticleTitle>
+                  <JournalTitle>Pneumologie</JournalTitle>
+                  <VolumeID>65</VolumeID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>59</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-0030-1255961</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3M7mvF2msw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>21157688</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Goeckenjan G, Sitter H, Thomas M, Branscheid D, Flentje M, Griesinger F, Niederle N, Stuschke M, Blum T, Deppermann KM, Ficker JH, Freitag L, Lubbe AS, Reinhold T, Spath-Schwalbe E, Ukena D, Wickert M, Wolf M, Andreas S, Auberger T, Baum RP, Baysal B, Beuth J, Bickeboller H, Bocking A, Bohle RM, Bruske I, Burghuber O, Dickgreber N, Diederich S, Dienemann H, Eberhardt W, Eggeling S, Fink T, Fischer B, Franke M, Friedel G, Gauler T, Gutz S, Hautmann H, Hellmann A, Hellwig D, Herth F, Heussel CP, Hilbe W, Hoffmeyer F, Horneber M, Huber RM, Hubner J, Kauczor HU, Kirchbacher K, Kirsten D, Kraus T, Lang SM, Martens U, Mohn-Staudner A, Muller KM, Muller-Nordhorn J, Nowak D, Ochmann U, Passlick B, Petersen I, Pirker R, Pokrajac B, Reck M, Riha S, Rube C, Schmittel A, Schonfeld N, Schutte W, Serke M, Stamatis G, Steingraber M, Steins M, Stoelben E, Swoboda L, Teschler H, Tessen HW, Weber M, Werner A, Wichmann HE, Irlinger Wimmer E, Witt C, Worth H, German Respiratory S, German Cancer S (2011) Prevention, diagnosis, therapy, and follow-up of lung cancer: interdisciplinary guideline of the German Respiratory Society and the German Cancer Society. Pneumologie 65:39–59. doi:10.1055/s-0030-1255961</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4</CitationNumber>
+                <BibUnstructured>Fleckenstein J, Hellwig D, Kremp S, Grgic A, Groschel A, Kirsch CM, Nestle U, Rube C (2011) F-18-FDG-PET confined radiotherapy of locally advanced NSCLC with concomitant chemotherapy: results of the PET-PLAN pilot trial. International journal of radiation oncology, biology, physics. 81:e283–e289. doi:10.1016/j.ijrobp.2011.01.020</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>van Baardwijk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Wanders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Boersma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Borger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ollers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Dingemans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Bootsma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Geraedts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Pitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lunde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Lambin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>De Ruysscher</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Mature results of an individualized radiation dose prescription study based on normal tissue constraints in stages I to III non-small-cell lung cancer</ArticleTitle>
+                  <JournalTitle>J Clin Oncol</JournalTitle>
+                  <VolumeID>28</VolumeID>
+                  <FirstPage>1380</FirstPage>
+                  <LastPage>1386</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1200/JCO.2009.24.7221</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>20142596</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>van Baardwijk A, Wanders S, Boersma L, Borger J, Ollers M, Dingemans AM, Bootsma G, Geraedts W, Pitz C, Lunde R, Lambin P, De Ruysscher D (2010) Mature results of an individualized radiation dose prescription study based on normal tissue constraints in stages I to III non-small-cell lung cancer. J Clin Oncol 28:1380–1386. doi:10.1200/JCO.2009.24.7221</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Hoffmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EG</Initials>
+                    <FamilyName>Troost</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Huizenga</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JH</Initials>
+                    <FamilyName>Kaanders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bussink</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Individualized dose prescription for hypofractionation in advanced non-small-cell lung cancer radiotherapy: an in silico trial. International journal of radiation oncology, biology, physics.</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>83</VolumeID>
+                  <FirstPage>1596</FirstPage>
+                  <LastPage>1602</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2011.10.032</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22245206</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Hoffmann AL, Troost EG, Huizenga H, Kaanders JH, Bussink J (2012) Individualized dose prescription for hypofractionation in advanced non-small-cell lung cancer radiotherapy: an in silico trial. International journal of radiation oncology, biology, physics. Int J Radiat Oncol Biol Phys 83:1596–1602. doi:10.1016/j.ijrobp.2011.10.032</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>van Elmpt</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>De Ruysscher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>der Salm A</Initials>
+                    <FamilyName>van</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Lakeman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>der Stoep J</Initials>
+                    <FamilyName>van</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Emans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Damen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ollers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Sonke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Belderbos</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">The PET-boost randomised phase II dose-escalation trial in non-small cell lung cancer.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>104</VolumeID>
+                  <FirstPage>67</FirstPage>
+                  <LastPage>71</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2012.03.005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22483675</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>van Elmpt W, De Ruysscher D, van der Salm A, Lakeman A, van der Stoep J, Emans D, Damen E, Ollers M, Sonke JJ, Belderbos J (2012) The PET-boost randomised phase II dose-escalation trial in non-small cell lung cancer. Radiother Oncol 104:67–71. doi:10.1016/j.radonc.2012.03.005</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kremp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Grosu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Practical integration of [18F]-FDG-PET and PET-CT in the planning of radiotherapy for non-small cell lung cancer (NSCLC): the technical basis, ICRU-target volumes, problems, perspectives.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>81</VolumeID>
+                  <FirstPage>209</FirstPage>
+                  <LastPage>225</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2006.09.011</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:CAS:528:DC%2BD28Xht1Sht7fI</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>17064802</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nestle U, Kremp S, Grosu AL (2006) Practical integration of [18F]-FDG-PET and PET-CT in the planning of radiotherapy for non-small cell lung cancer (NSCLC): the technical basis, ICRU-target volumes, problems, perspectives. Radiother Oncol 81:209–225. doi:10.1016/j.radonc.2006.09.011</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>MacManus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KE</Initials>
+                    <FamilyName>Rosenzweig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Carrio</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Messa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Belohlavek</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Danna</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Inoue</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Deniaud-Alexandre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Schipani</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Watanabe</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Dondi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Jeremic</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Use of PET and PET/CT for radiation therapy planning: IAEA expert report 2006–2007.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>85</FirstPage>
+                  <LastPage>94</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2008.11.008</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19100641</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>MacManus M, Nestle U, Rosenzweig KE, Carrio I, Messa C, Belohlavek O, Danna M, Inoue T, Deniaud-Alexandre E, Schipani S, Watanabe N, Dondi M, Jeremic B (2009) Use of PET and PET/CT for radiation therapy planning: IAEA expert report 2006–2007. Radiother Oncol 91:85–94. doi:10.1016/j.radonc.2008.11.008</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Belderbos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WD</Initials>
+                    <FamilyName>Heemsbergen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>De Jaeger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Baas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JV</Initials>
+                    <FamilyName>Lebesque</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Final results of a Phase I/II dose escalation trial in non-small-cell lung cancer using three-dimensional conformal radiotherapy.</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>66</VolumeID>
+                  <FirstPage>126</FirstPage>
+                  <LastPage>134</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2006.04.034</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16904518</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Belderbos JS, Heemsbergen WD, De Jaeger K, Baas P, Lebesque JV (2006) Final results of a Phase I/II dose escalation trial in non-small-cell lung cancer using three-dimensional conformal radiotherapy. Int J Radiat Oncol Biol Phys 66:126–134. doi:10.1016/j.ijrobp.2006.04.034</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>De Ruysscher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Wanders</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>van Haren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hochstenbag</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Geeraedts</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Utama</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Simons</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Dohmen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Rhami</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Buell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Thimister</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Snoep</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Boersma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Verschueren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>van Baardwijk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Minken</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SM</Initials>
+                    <FamilyName>Bentzen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Lambin</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En">Selective mediastinal node irradiation based on FDG-PET scan data in patients with non-small-cell lung cancer: a prospective clinical study.</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>988</FirstPage>
+                  <LastPage>994</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2004.12.019</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>15989999</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>De Ruysscher D, Wanders S, van Haren E, Hochstenbag M, Geeraedts W, Utama I, Simons J, Dohmen J, Rhami A, Buell U, Thimister P, Snoep G, Boersma L, Verschueren T, van Baardwijk A, Minken A, Bentzen SM, Lambin P (2005) Selective mediastinal node irradiation based on FDG-PET scan data in patients with non-small-cell lung cancer: a prospective clinical study. Int J Radiat Oncol Biol Phys 62:988–994. doi:10.1016/j.ijrobp.2004.12.019</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CB</Initials>
+                    <FamilyName>Caldwell</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Mah</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YC</Initials>
+                    <FamilyName>Ung</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CE</Initials>
+                    <FamilyName>Danjoux</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Balogh</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Ganguli</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LE</Initials>
+                    <FamilyName>Ehrlich</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">Observer variation in contouring gross tumor volume in patients with poorly defined non-small-cell lung tumors on CT: the impact of 18FDG-hybrid PET fusion.</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>923</FirstPage>
+                  <LastPage>931</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(01)01722-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3Mnlt1Cksw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11704312</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Caldwell CB, Mah K, Ung YC, Danjoux CE, Balogh JM, Ganguli SN, Ehrlich LE (2001) Observer variation in contouring gross tumor volume in patients with poorly defined non-small-cell lung tumors on CT: the impact of 18FDG-hybrid PET fusion. Int J Radiat Oncol Biol Phys 51:923–931</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Weber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hentschel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Grosu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Biological imaging in radiation therapy: role of positron emission tomography.</ArticleTitle>
+                  <JournalTitle>Phys Med Biol</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>R1</FirstPage>
+                  <LastPage>R25</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1088/0031-9155/54/1/R01</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19060363</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nestle U, Weber W, Hentschel M, Grosu AL (2009) Biological imaging in radiation therapy: role of positron emission tomography. Phys Med Biol 54:R1–R25. doi:10.1088/0031-9155/54/1/R01</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>RJ</Initials>
+                    <FamilyName>Steenbakkers</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Duppen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Fitton</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KE</Initials>
+                    <FamilyName>Deurloo</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LJ</Initials>
+                    <FamilyName>Zijp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EF</Initials>
+                    <FamilyName>Comans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Uitterhoeve</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PT</Initials>
+                    <FamilyName>Rodrigus</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GW</Initials>
+                    <FamilyName>Kramer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bussink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>De Jaeger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Belderbos</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Nowak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Herk</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CR</Initials>
+                    <FamilyName>Rasch</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Reduction of observer variation using matched CT-PET for lung cancer delineation: a three-dimensional analysis.</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>435</FirstPage>
+                  <LastPage>448</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2005.06.034</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16198064</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Steenbakkers RJ, Duppen JC, Fitton I, Deurloo KE, Zijp LJ, Comans EF, Uitterhoeve AL, Rodrigus PT, Kramer GW, Bussink J, De Jaeger K, Belderbos JS, Nowak PJ, van Herk M, Rasch CR (2006) Reduction of observer variation using matched CT-PET for lung cancer delineation: a three-dimensional analysis. Int J Radiat Oncol Biol Phys 64:435–448. doi:10.1016/j.ijrobp.2005.06.034</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mix</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Weber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AL</Initials>
+                    <FamilyName>Grosu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Klinische Studien zum Einsatz der PET in der Bestrahlungsplanung in Deutschland: Ein Update</ArticleTitle>
+                  <JournalTitle>Nuklearmediziner</JournalTitle>
+                  <VolumeID>34</VolumeID>
+                  <FirstPage>130</FirstPage>
+                  <LastPage>132</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-0031-1280790</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Nestle U, Mix M, Weber W, Grosu AL (2011) Klinische Studien zum Einsatz der PET in der Bestrahlungsplanung in Deutschland: Ein Update. Nuklearmediziner 34:130–132. doi:10.1055/s-0031-1280790</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Schimek-Jasch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Küsters</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Hoffmans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <Year>2014</Year>
+                  <ArticleTitle Language="En">Optimierung der Strahlentherapieplanung bei lokal fortgeschrittenen NSCLC durch 18F-FDG PET-CT: Stand der PET-Plan-Studie</ArticleTitle>
+                  <JournalTitle>Nuklearmediziner</JournalTitle>
+                  <VolumeID>37</VolumeID>
+                  <FirstPage>175</FirstPage>
+                  <LastPage>180</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1055/s-0034-1376972</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schimek-Jasch T, Küsters A, Hoffmans H, Nestle U (2014) Optimierung der Strahlentherapieplanung bei lokal fortgeschrittenen NSCLC durch 18F-FDG PET-CT: Stand der PET-Plan-Studie. Nuklearmediziner 37:175–180. doi:10.1055/s-0034-1376972</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Djarv</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Nyman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Baumann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Ekberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Hoyer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Lax</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Lewensohn</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Levin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Lund</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Morhed</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Ericsson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Traberg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Wittgren</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KA</Initials>
+                    <FamilyName>Johansson</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Dummy run for a phase II study of stereotactic body radiotherapy of T1-T2 N0M0 medical inoperable non-small cell lung cancer.</ArticleTitle>
+                  <JournalTitle>Acta Oncol</JournalTitle>
+                  <VolumeID>45</VolumeID>
+                  <FirstPage>973</FirstPage>
+                  <LastPage>977</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1080/02841860600919241</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16982566</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Djarv E, Nyman J, Baumann P, Ekberg L, Hoyer M, Lax I, Lewensohn R, Levin N, Lund JA, Morhed E, Ericsson SR, Traberg A, Wittgren L, Johansson KA (2006) Dummy run for a phase II study of stereotactic body radiotherapy of T1-T2 N0M0 medical inoperable non-small cell lung cancer. Acta Oncol 45:973–977. doi:10.1080/02841860600919241</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Foppiano</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Fiorino</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Frezza</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Greco</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Valdagni</FamilyName>
+                  </BibAuthorName>
+                  <InstitutionalAuthorName>Radiotherapy ANWGoP</InstitutionalAuthorName>
+                  <Year>2003</Year>
+                  <ArticleTitle Language="En">The impact of contouring uncertainty on rectal 3D dose-volume data: results of a dummy run in a multicenter trial (AIROPROS01-02).</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>57</VolumeID>
+                  <FirstPage>573</FirstPage>
+                  <LastPage>579</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(03)00659-X</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>12957271</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Foppiano F, Fiorino C, Frezza G, Greco C, Valdagni R, Radiotherapy ANWGoP (2003) The impact of contouring uncertainty on rectal 3D dose-volume data: results of a dummy run in a multicenter trial (AIROPROS01-02). Int J Radiat Oncol Biol Phys 57:573–579</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Giraud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Elles</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Helfre</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>De Rycke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Servois</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MF</Initials>
+                    <FamilyName>Carette</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Alzieu</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PY</Initials>
+                    <FamilyName>Bondiau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Dubray</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Touboul</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Housset</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JC</Initials>
+                    <FamilyName>Rosenwald</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Cosset</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Conformal radiotherapy for lung cancer: different delineation of the gross tumor volume (GTV) by radiologists and radiation oncologists.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>27</FirstPage>
+                  <LastPage>36</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0167-8140(01)00444-3</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11830310</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Giraud P, Elles S, Helfre S, De Rycke Y, Servois V, Carette MF, Alzieu C, Bondiau PY, Dubray B, Touboul E, Housset M, Rosenwald JC, Cosset JM (2002) Conformal radiotherapy for lung cancer: different delineation of the gross tumor volume (GTV) by radiologists and radiation oncologists. Radiother Oncol 62:27–36</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Matzinger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Poortmans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JY</Initials>
+                    <FamilyName>Giraud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Maingon</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Budiharto</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Bergh</FamilyName>
+                    <Particle>van den</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Davis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Musat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Ataman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>DP</Initials>
+                    <FamilyName>Huyskens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Gulyban</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bolla</FamilyName>
+                  </BibAuthorName>
+                  <InstitutionalAuthorName>Group ERO</InstitutionalAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Quality assurance in the 22991 EORTC ROG trial in localized prostate cancer: dummy run and individual case review.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>90</VolumeID>
+                  <FirstPage>285</FirstPage>
+                  <LastPage>290</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2008.10.022</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19038468</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Matzinger O, Poortmans P, Giraud JY, Maingon P, Budiharto T, van den Bergh AC, Davis JB, Musat E, Ataman F, Huyskens DP, Gulyban A, Bolla M, Group ERO (2009) Quality assurance in the 22991 EORTC ROG trial in localized prostate cancer: dummy run and individual case review. Radiother Oncol 90:285–290. doi:10.1016/j.radonc.2008.10.022</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PM</Initials>
+                    <FamilyName>Poortmans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JL</Initials>
+                    <FamilyName>Venselaar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Struikmans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CW</Initials>
+                    <FamilyName>Hurkmans</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JB</Initials>
+                    <FamilyName>Davis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Huyskens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Tienhoven</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Vlaun</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JJ</Initials>
+                    <FamilyName>Lagendijk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>BJ</Initials>
+                    <FamilyName>Mijnheer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KA</Initials>
+                    <FamilyName>De Winter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MH</Initials>
+                    <FamilyName>Hulst</FamilyName>
+                    <Particle>Van der</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WF</Initials>
+                    <FamilyName>Van den Bogaert</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">The potential impact of treatment variations on the results of radiotherapy of the internal mammary lymph node chain: a quality-assurance report on the dummy run of EORTC Phase III randomized trial 22922/10925 in Stage I-III breast cancer(1)</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>49</VolumeID>
+                  <FirstPage>1399</FirstPage>
+                  <LastPage>1408</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0360-3016(00)01549-2</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3M7pvF2rsQ%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>11286848</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Poortmans PM, Venselaar JL, Struikmans H, Hurkmans CW, Davis JB, Huyskens D, van Tienhoven G, Vlaun V, Lagendijk JJ, Mijnheer BJ, De Winter KA, Van der Hulst MH, Van den Bogaert WF (2001) The potential impact of treatment variations on the results of radiotherapy of the internal mammary lymph node chain: a quality-assurance report on the dummy run of EORTC Phase III randomized trial 22922/10925 in Stage I-III breast cancer(1). Int J Radiat Oncol Biol Phys 49:1399–1408</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22</CitationNumber>
+                <BibUnstructured>Spoelstra FO, Senan S, Le Pechoux C, Ishikura S, Casas F, Ball D, Price A, De Ruysscher D, van Sornsen de Koste JR, Lung Adjuvant Radiotherapy Trial Investigators G (2010) Variations in target volume definition for postoperative radiotherapy in stage III non-small-cell lung cancer: analysis of an international contouring study. Int J Radiat Oncol Biol Phys 76:1106–1113. doi:10.1016/j.ijrobp.2009.02.072</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Senan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>de Koste J</Initials>
+                    <FamilyName>Sornsen</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Samson</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Tankink</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Jansen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PJ</Initials>
+                    <FamilyName>Nowak</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AD</Initials>
+                    <FamilyName>Krol</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Schmitz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FJ</Initials>
+                    <FamilyName>Lagerwaard</FamilyName>
+                  </BibAuthorName>
+                  <Year>1999</Year>
+                  <ArticleTitle Language="En">Evaluation of a target contouring protocol for 3D conformal radiotherapy in non-small cell lung cancer.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>53</VolumeID>
+                  <FirstPage>247</FirstPage>
+                  <LastPage>255</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0167-8140(99)00143-7</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BD3c7itlKjsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>10660205</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Senan S, van Sornsen de Koste J, Samson M, Tankink H, Jansen P, Nowak PJ, Krol AD, Schmitz P, Lagerwaard FJ (1999) Evaluation of a target contouring protocol for 3D conformal radiotherapy in non-small cell lung cancer. Radiother Oncol 53:247–255</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Senan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Le Pechoux</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FO</Initials>
+                    <FamilyName>Spoelstra</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Ishikura</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>F</Initials>
+                    <FamilyName>Casas</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Ball</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Price</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>De Ruysscher</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Sörnsen de Koste</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">A need to standardize post-operative radiotherapy (PORT) fields used for non-small cell lung cancer (NSCLC): analysis of an international dummy-run study: A1–02</ArticleTitle>
+                  <JournalTitle>J Thorac Oncol</JournalTitle>
+                  <VolumeID>2</VolumeID>
+                  <FirstPage>S308</FirstPage>
+                  <LastPage>S309</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1097/01.JTO.0000283091.63723.37</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Senan S, Le Pechoux C, Spoelstra FO, Ishikura S, Casas F, Ball D, Price A, De Ruysscher D, van Sörnsen de Koste JR (2007) A need to standardize post-operative radiotherapy (PORT) fields used for non-small cell lung cancer (NSCLC): analysis of an international dummy-run study: A1–02. J Thorac Oncol 2:S308–S309</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JF</Initials>
+                    <FamilyName>Valley</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Bernier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>PA</Initials>
+                    <FamilyName>Tercier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Fogliata-Cozzi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Rosset</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Garavaglia</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RO</Initials>
+                    <FamilyName>Mirimanoff</FamilyName>
+                  </BibAuthorName>
+                  <Year>1998</Year>
+                  <ArticleTitle Language="En">Quality assurance of the EORTC radiotherapy trial 22931 for head and neck carcinomas: the dummy run.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>44</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0167-8140(97)00218-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaK1c3psVSkuw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>9632290</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Valley JF, Bernier J, Tercier PA, Fogliata-Cozzi A, Rosset A, Garavaglia G, Mirimanoff RO (1998) Quality assurance of the EORTC radiotherapy trial 22931 for head and neck carcinomas: the dummy run. Radiother Oncol 47:37–44</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>de Steene J</Initials>
+                    <FamilyName>Van</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>N</Initials>
+                    <FamilyName>Linthout</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>de Mey</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>V</Initials>
+                    <FamilyName>Vinh-Hung</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Claassens</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Noppen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Bel</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Storme</FamilyName>
+                  </BibAuthorName>
+                  <Year>2002</Year>
+                  <ArticleTitle Language="En">Definition of gross tumor volume in lung cancer: inter-observer variability.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>62</VolumeID>
+                  <FirstPage>37</FirstPage>
+                  <LastPage>49</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S0167-8140(01)00453-4</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Van de Steene J, Linthout N, de Mey J, Vinh-Hung V, Claassens C, Noppen M, Bel A, Storme G (2002) Definition of gross tumor volume in lung cancer: inter-observer variability. Radiother Oncol 62:37–49</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Vorwerk</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Beckmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Bremer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Degen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Dietl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Fietkau</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Gsanger</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Hermann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MK</Initials>
+                    <FamilyName>Alfred Herrmann</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Holler</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Kampen</FamilyName>
+                    <Particle>van</Particle>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Korber</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Maier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Martin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Metz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Richter</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Siekmeyer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Steder</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Wagner</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CF</Initials>
+                    <FamilyName>Hess</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Weiss</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Christiansen</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">The delineation of target volumes for radiotherapy of lung cancer patients.</ArticleTitle>
+                  <JournalTitle>Radiother Oncol</JournalTitle>
+                  <VolumeID>91</VolumeID>
+                  <FirstPage>455</FirstPage>
+                  <LastPage>460</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.radonc.2009.03.014</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>19339069</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Vorwerk H, Beckmann G, Bremer M, Degen M, Dietl B, Fietkau R, Gsanger T, Hermann RM, Alfred Herrmann MK, Holler U, van Kampen M, Korber W, Maier B, Martin T, Metz M, Richter R, Siekmeyer B, Steder M, Wagner D, Hess CF, Weiss E, Christiansen H (2009) The delineation of target volumes for radiotherapy of lung cancer patients. Radiother Oncol 91:455–460. doi:10.1016/j.radonc.2009.03.014</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schaefer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kremp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Hellwig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Grgic</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>HG</Initials>
+                    <FamilyName>Buchholz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>W</Initials>
+                    <FamilyName>Mischke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Gromoll</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Dennert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Plotkin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Senftleben</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Thorwarth</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Tosch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Wahl</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Wengenmair</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Rube</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CM</Initials>
+                    <FamilyName>Kirsch</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Multi-centre calibration of an adaptive thresholding method for PET-based delineation of tumour volumes in radiotherapy planning of lung cancer.</ArticleTitle>
+                  <JournalTitle>Nuklearmedizin</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>101</FirstPage>
+                  <LastPage>110</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3413/Nukmed-0452-11-12</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC38vptlOltg%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>22446512</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schaefer A, Nestle U, Kremp S, Hellwig D, Grgic A, Buchholz HG, Mischke W, Gromoll C, Dennert P, Plotkin M, Senftleben S, Thorwarth D, Tosch M, Wahl A, Wengenmair H, Rube C, Kirsch CM (2012) Multi-centre calibration of an adaptive thresholding method for PET-based delineation of tumour volumes in radiotherapy planning of lung cancer. Nuklearmedizin 51:101–110. doi:10.3413/Nukmed-0452-11-12</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Schaefer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Kremp</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Hellwig</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>C</Initials>
+                    <FamilyName>Rube</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>CM</Initials>
+                    <FamilyName>Kirsch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">A contrast-oriented algorithm for FDG-PET-based delineation of tumour volumes for the radiotherapy of lung cancer: derivation from phantom measurements and validation in patient data.</ArticleTitle>
+                  <JournalTitle>Eur J Nucl Med Mol Imaging</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>1989</FirstPage>
+                  <LastPage>1999</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00259-008-0875-1</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>18661128</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Schaefer A, Kremp S, Hellwig D, Rube C, Kirsch CM, Nestle U (2008) A contrast-oriented algorithm for FDG-PET-based delineation of tumour volumes for the radiotherapy of lung cancer: derivation from phantom measurements and validation in patient data. Eur J Nucl Med Mol Imaging 35:1989–1999. doi:10.1007/s00259-008-0875-1</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>O</Initials>
+                    <FamilyName>Chapet</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>FM</Initials>
+                    <FamilyName>Kong</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LE</Initials>
+                    <FamilyName>Quint</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AC</Initials>
+                    <FamilyName>Chang</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RK</Initials>
+                    <FamilyName>Ten Haken</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Eisbruch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Hayman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2005</Year>
+                  <ArticleTitle Language="En"> CT-based definition of thoracic lymph node stations: an atlas from the University of Michigan.</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>63</VolumeID>
+                  <FirstPage>170</FirstPage>
+                  <LastPage>178</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2004.12.060</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16111586</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Chapet O, Kong FM, Quint LE, Chang AC, Ten Haken RK, Eisbruch A, Hayman JA (2005) CT-based definition of thoracic lymph node stations: an atlas from the University of Michigan. Int J Radiat Oncol Biol Phys 63:170–178. doi:10.1016/j.ijrobp.2004.12.060</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>P</Initials>
+                    <FamilyName>Giraud</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>Y</Initials>
+                    <FamilyName>De Rycke</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Lavole</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>B</Initials>
+                    <FamilyName>Milleron</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JM</Initials>
+                    <FamilyName>Cosset</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KE</Initials>
+                    <FamilyName>Rosenzweig</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Probability of mediastinal involvement in non-small-cell lung cancer: a statistical definition of the clinical target volume for 3-dimensional conformal radiotherapy?</ArticleTitle>
+                  <JournalTitle>Int J Radiat Oncol Biol Phys</JournalTitle>
+                  <VolumeID>64</VolumeID>
+                  <FirstPage>127</FirstPage>
+                  <LastPage>135</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijrobp.2005.06.043</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>16226394</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Giraud P, De Rycke Y, Lavole A, Milleron B, Cosset JM, Rosenzweig KE (2006) Probability of mediastinal involvement in non-small-cell lung cancer: a statistical definition of the clinical target volume for 3-dimensional conformal radiotherapy? Int J Radiat Oncol Biol Phys 64:127–135. doi:10.1016/j.ijrobp.2005.06.043</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>G</Initials>
+                    <FamilyName>Rucker</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Schimek-Jasch</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>U</Initials>
+                    <FamilyName>Nestle</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Measuring inter-observer agreement in contour delineation of medical imaging in a dummy run using Fleissʼ kappa.</ArticleTitle>
+                  <JournalTitle>Methods Inf Med</JournalTitle>
+                  <VolumeID>51</VolumeID>
+                  <FirstPage>489</FirstPage>
+                  <LastPage>494</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.3414/ME12-01-0005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DC%2BC3s7kt1Cjsw%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>23160666</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Rucker G, Schimek-Jasch T, Nestle U (2012) Measuring inter-observer agreement in contour delineation of medical imaging in a dummy run using Fleissʼ kappa. Methods Inf Med 51:489–494. doi:10.3414/ME12-01-0005</BibUnstructured>
+              </Citation>
+              <Citation ID="CR33">
+                <CitationNumber>33</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>JR</Initials>
+                    <FamilyName>Landis</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>GG</Initials>
+                    <FamilyName>Koch</FamilyName>
+                  </BibAuthorName>
+                  <Year>1977</Year>
+                  <ArticleTitle Language="En">The measurement of observer agreement for categorical data</ArticleTitle>
+                  <JournalTitle>Biometrics</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>159</FirstPage>
+                  <LastPage>174</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2307/2529310</Handle>
+                  </Occurrence>
+                  <Occurrence Type="COI">
+                    <Handle>1:STN:280:DyaE2s7jsFWqtA%3D%3D</Handle>
+                  </Occurrence>
+                  <Occurrence Type="PID">
+                    <Handle>843571</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Landis JR, Koch GG (1977) The measurement of observer agreement for categorical data. Biometrics 33:159–174</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

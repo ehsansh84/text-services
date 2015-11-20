@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9274-1" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9274</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9274-1</ArticleDOI>
+            <ArticleSequenceNumber>1</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Generalized Chaplygin Problem: Theoretical Analysis and Numerical Experiments</ArticleTitle>
+            <ArticleCategory>Mathematical Modeling</ArticleCategory>
+            <ArticleFirstPage>299</ArticleFirstPage>
+            <ArticleLastPage>335</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>Yu.</GivenName>
+                  <GivenName>N.</GivenName>
+                  <FamilyName>Kiselev</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>kiselev@cs.msu.su</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>S.</GivenName>
+                  <GivenName>N.</GivenName>
+                  <FamilyName>Avvakumov</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>asn@cs.msu.su</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Faculty of Computational Mathematics and Cybernetics</OrgDivision>
+                <OrgName>Moscow State University</OrgName>
+                <OrgAddress>
+                  <City>Moscow</City>
+                  <Country>Russia</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">We investigate a modified Chaplygin problem with flight path enclosing the maximum area. A twodimensional controlled plant with simple motion and control region in the form of a smooth planar convex compactum with interior point O should describe, in a given time, a closed curve enclosing a plane region of maxi-mum area. The initial and the final points of the trajectory coincide. The direction of the velocity vector at the initial time is given. The problem is solved by the Pontryagin maximum principle. A procedure to construct a programmed optimal control is described. An optimal control law is described in synthesis form (feedback form). The theoretical analysis relies on the apparatus of support and distance functions. The optimal trajectory can be derived from the polar of the control region by simple linear transformations: multiplication by a positive number, rotation through a right angle, and parallel translation. Numerical experiments have been carried out. The discussion is illustrated with graphs.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>optimal control</Keyword>
+              <Keyword>Pontryagin maximum principle</Keyword>
+              <Keyword>maximum-principle boundary-value problem</Keyword>
+              <Keyword>programmed control</Keyword>
+              <Keyword>feedback</Keyword>
+              <Keyword>support and distance functions</Keyword>
+              <Keyword>numerical experiments</Keyword>
+            </KeywordGroup>
+            <ArticleNote Type="Misc">
+              <SimplePara>Translated from Prikladnaya Matematika i Informatika, No. 46, 2014, pp. 5–45.</SimplePara>
+            </ArticleNote>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9274.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>LS</Initials>
+                    <FamilyName>Pontryagin</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VG</Initials>
+                    <FamilyName>Boltyanskii</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RV</Initials>
+                    <FamilyName>Gamkrelidze</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EF</Initials>
+                    <FamilyName>Mishchenko</FamilyName>
+                  </BibAuthorName>
+                  <Year>1961</Year>
+                  <BookTitle>Mathematical Theory of Optimal Processes [in Russian]</BookTitle>
+                  <PublisherName>Fizmatgiz</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, and E. F. Mishchenko, Mathematical Theory of Optimal Processes [in Russian], Fizmatgiz, Moscow (1961).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Avvakumov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Orlov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <BookTitle>Optimal Control. Linear Theory and Applications [in Russian]</BookTitle>
+                  <PublisherName>MAKS Press</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Yu. N. Kiselev, S. N. Avvakumov, and M. V. Orlov, Optimal Control. Linear Theory and Applications [in Russian], MAKS Press, Moscow (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>LS</Initials>
+                    <FamilyName>Pontryagin</FamilyName>
+                  </BibAuthorName>
+                  <Year>1961</Year>
+                  <BookTitle>Ordinary Differential Equations [in Russian]</BookTitle>
+                  <PublisherName>Nauka</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>L. S. Pontryagin, Ordinary Differential Equations [in Russian], Nauka, Moscow (1961).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibUnstructured>Yu. N. Kiselev, “Generalized Chaplygin’s problem,” in: Proc. Tenth Crimean Autumn Math. School, Vol. 10 (2000), pp. 160–163.</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Lavrent’ev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>LA</Initials>
+                    <FamilyName>Lyusternik</FamilyName>
+                  </BibAuthorName>
+                  <Year>1938</Year>
+                  <BookTitle>A Course in Variational Calculus [in Russian]</BookTitle>
+                  <PublisherName>GONTI-NKTI</PublisherName>
+                  <PublisherLocation>Moscow-Leningrad</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>M. A. Lavrent’ev and L. A. Lyusternik, A Course in Variational Calculus [in Russian], GONTI-NKTI, Moscow-Leningrad (1938).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibUnstructured>E. V. Mukhammetzhanov and I. A. Mochalov, The Fuzzy Chaplygin Problem, Nauka i Obrazovanie, e-journal (05 May 2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Controlled systems with an integral invariant</ArticleTitle>
+                  <JournalTitle>Diff. Uravn.</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>44</FirstPage>
+                  <LastPage>51</LastPage>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev, “Controlled systems with an integral invariant,” Diff. Uravn., 32, No. 4, 44–51 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1997</Year>
+                  <ArticleTitle Language="En">Construction of exact solutions for nonlinear time-optimal problems of special form</ArticleTitle>
+                  <JournalTitle>Fund. Prikla. Mat.</JournalTitle>
+                  <VolumeID>3</VolumeID>
+                  <IssueID>3</IssueID>
+                  <FirstPage>847</FirstPage>
+                  <LastPage>868</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0937.49013</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev, “Construction of exact solutions for nonlinear time-optimal problems of special form,” Fund. Prikla. Mat., 3, No. 3, 847–868 (1997).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1988</Year>
+                  <ArticleTitle Language="En">Solution methods for a linear time-optimal problem</ArticleTitle>
+                  <JournalTitle>Trudy Mat. Inst. V. A. Steklova RAN</JournalTitle>
+                  <VolumeID>185</VolumeID>
+                  <FirstPage>106</FirstPage>
+                  <LastPage>115</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0688.49030</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev, “Solution methods for a linear time-optimal problem,” Trudy Mat. Inst. V. A. Steklova RAN, 185, 106–115 (1988).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Avvakumov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Orlov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Methods for optimal control problems using the Pontryagin maximum principle</ArticleTitle>
+                  <JournalTitle>Trudy Mat. Inst. V. A. Steklova RAN</JournalTitle>
+                  <VolumeID>211</VolumeID>
+                  <FirstPage>3</FirstPage>
+                  <LastPage>31</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1423096</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. N. Avvakumov, Yu. N. Kiselev, and M. V. Orlov, “Methods for optimal control problems using the Pontryagin maximum principle,” Trudy Mat. Inst. V. A. Steklova RAN, 211, 3–31 (1995).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>L</Initials>
+                    <FamilyName>Cesari</FamilyName>
+                  </BibAuthorName>
+                  <Year>1983</Year>
+                  <BookTitle>Optimization – Theory and Applications</BookTitle>
+                  <PublisherName>Springer</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/978-1-4613-8165-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0506.49001</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>L. Cesari, Optimization – Theory and Applications, Springer, New York (1983).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Avvakumov</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">“Construction of an analytical solution of the Cauchy problem for a two-dimensional Hamiltonian system”</ArticleTitle>
+                  <JournalTitle>Trudy IMM UrO RAN</JournalTitle>
+                  <VolumeID>19</VolumeID>
+                  <IssueID>4</IssueID>
+                  <FirstPage>131</FirstPage>
+                  <LastPage>141</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2493249</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev and S. N. Avvakumov, “Construction of an analytical solution of the Cauchy problem for a two-dimensional Hamiltonian system,” Trudy IMM UrO RAN, 19, No. 4, 131–141 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibUnstructured>Yu. N. Kiselev, Dynamic Programming Method in Continuous Controlled Systems, Krymskaya Elektronnaya Biblioteka [<ExternalRef>
+                    <RefSource>http://libkruz.com/books/3062.html</RefSource>
+                    <RefTarget Address="http://libkruz.com/books/3062.html" TargetType="URL"/>
+                  </ExternalRef>]</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Avvakumov</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Some optimal control algorithms</ArticleTitle>
+                  <JournalTitle>Trudy Inst. Matem. Mekhan.</JournalTitle>
+                  <VolumeID>12</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>3</FirstPage>
+                  <LastPage>17</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>2338471</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. N. Avvakumov and Yu. N. Kiselev, “Some optimal control algorithms,” Trudy Inst. Matem. Mekhan., 12, No. 2, 3–17 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibUnstructured>S. N. Avvakumov and Yu. N. Kiselev, “Support functions of some special sets, constructive smoothing procedures, and geometrical difference,” Probl. Dynam. Upravl., MAKS Press, Moscow, 1, 24–110 (2005).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1986</Year>
+                  <BookTitle>Linear Theory of Time-Optimal Control with Perturbations [in Russian]</BookTitle>
+                  <PublisherName>MGU</PublisherName>
+                  <PublisherLocation>Moscow</PublisherLocation>
+                </BibBook>
+                <BibUnstructured>Yu. N. Kiselev, Linear Theory of Time-Optimal Control with Perturbations [in Russian], MGU, Moscow (1986).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Fast-converging algorithms for the linear time-optimal problem</ArticleTitle>
+                  <JournalTitle>Kibernetika</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>47</FirstPage>
+                  <LastPage>57</LastPage>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev, “Fast-converging algorithms for the linear time-optimal problem,” Kibernetika, No. 6, 47–57 (1990).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Orlov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1991</Year>
+                  <ArticleTitle Language="En">Numerical algorithms for linear time-optimal control</ArticleTitle>
+                  <JournalTitle>Zh. Vychisl. Matem. i Mat. Fiz.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>12</IssueID>
+                  <FirstPage>1763</FirstPage>
+                  <LastPage>1771</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0756.65101</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1147894</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev and M. V. Orlov, “Numerical algorithms for linear time-optimal control,” Zh. Vychisl. Matem. i Mat. Fiz., 31, No. 12, 1763–1771 (1991).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Orlov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Potential method in linear time-optimal problem</ArticleTitle>
+                  <JournalTitle>Diff. Uravn.</JournalTitle>
+                  <VolumeID>32</VolumeID>
+                  <IssueID>1</IssueID>
+                  <FirstPage>44</FirstPage>
+                  <LastPage>51</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1432948</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev and M. V. Orlov, “Potential method in linear time-optimal problem,” Diff. Uravn., 32, No. 1, 44–51 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MV</Initials>
+                    <FamilyName>Orlov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Methods for the maximum-principle nonlinear boundary-value problem in the time-optimal problem</ArticleTitle>
+                  <JournalTitle>Diff. Uravn.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <IssueID>11</IssueID>
+                  <FirstPage>1843</FirstPage>
+                  <LastPage>1850</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>1434885</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev and M. V. Orlov, “Methods for the maximum-principle nonlinear boundary-value problem in the time-optimal problem,” Diff. Uravn., 31, No. 11, 1843–1850 (1995).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SN</Initials>
+                    <FamilyName>Avvakumov</FamilyName>
+                  </BibAuthorName>
+                  <Year>1996</Year>
+                  <ArticleTitle Language="En">Smooth approximation of convex compacta</ArticleTitle>
+                  <JournalTitle>Trudy Inst. Matem. Mekhan.</JournalTitle>
+                  <VolumeID>4</VolumeID>
+                  <FirstPage>184</FirstPage>
+                  <LastPage>200</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1002.52007</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>1483942</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. N. Avvakumov, “Smooth approximation of convex compacta,” Trudy Inst. Matem. Mekhan., 4, 184–200 (1996).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>YN</Initials>
+                    <FamilyName>Kiselev</FamilyName>
+                  </BibAuthorName>
+                  <Year>1990</Year>
+                  <ArticleTitle Language="En">Construction of optimal feedback in smooth linear time-optimal problem</ArticleTitle>
+                  <JournalTitle>Diff. Uravn.</JournalTitle>
+                  <VolumeID>26</VolumeID>
+                  <IssueID>2</IssueID>
+                  <FirstPage>232</FirstPage>
+                  <LastPage>237</LastPage>
+                </BibArticle>
+                <BibUnstructured>Yu. N. Kiselev, “Construction of optimal feedback in smooth linear time-optimal problem,” Diff. Uravn., 26, No. 2, 232–237 (1990).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>

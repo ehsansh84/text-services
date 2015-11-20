@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN"
+                           "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+  <PublisherInfo>
+    <PublisherName>Springer US</PublisherName>
+    <PublisherLocation>New York</PublisherLocation>
+    <PublisherImprintName>Springer</PublisherImprintName>
+    <PublisherURL>http://www.springer-ny.com</PublisherURL>
+  </PublisherInfo>
+  <Journal OutputMedium="All">
+    <JournalInfo JournalProductType="NonStandardArchiveJournal" NumberingStyle="Unnumbered">
+      <JournalID>10598</JournalID>
+      <JournalDOI>10.1007/10598.1573-837X</JournalDOI>
+      <JournalPrintISSN>1046-283X</JournalPrintISSN>
+      <JournalElectronicISSN>1573-837X</JournalElectronicISSN>
+      <JournalTitle>Computational Mathematics and Modeling</JournalTitle>
+      <JournalAbbreviatedTitle>Comput Math Model</JournalAbbreviatedTitle>
+      <JournalSubjectGroup>
+        <JournalSubject Code="SCM" Type="Primary">Mathematics</JournalSubject>
+        <JournalSubject Code="SCM14068" Priority="1" Type="Secondary">Mathematical Modeling and Industrial Mathematics</JournalSubject>
+        <JournalSubject Code="SCM1400X" Priority="2" Type="Secondary">Computational Mathematics and Numerical Analysis</JournalSubject>
+        <JournalSubject Code="SCM13003" Priority="3" Type="Secondary">Applications of Mathematics</JournalSubject>
+        <JournalSubject Code="SCM26008" Priority="4" Type="Secondary">Optimization</JournalSubject>
+        <SubjectCollection Code="SC10">Mathematics and Statistics</SubjectCollection>
+      </JournalSubjectGroup>
+    </JournalInfo>
+    <Volume OutputMedium="All">
+      <VolumeInfo TocLevels="0" VolumeType="Regular">
+        <VolumeIDStart>26</VolumeIDStart>
+        <VolumeIDEnd>26</VolumeIDEnd>
+        <VolumeIssueCount>4</VolumeIssueCount>
+      </VolumeInfo>
+      <Issue IssueType="Regular" OutputMedium="All">
+        <IssueInfo IssueType="Regular" TocLevels="0">
+          <IssueIDStart>3</IssueIDStart>
+          <IssueIDEnd>3</IssueIDEnd>
+          <IssueArticleCount>11</IssueArticleCount>
+          <IssueHistory>
+            <OnlineDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>30</Day>
+            </OnlineDate>
+            <PrintDate>
+              <Year>2015</Year>
+              <Month>5</Month>
+              <Day>29</Day>
+            </PrintDate>
+            <CoverDate>
+              <Year>2015</Year>
+              <Month>7</Month>
+            </CoverDate>
+            <PricelistYear>2015</PricelistYear>
+          </IssueHistory>
+          <IssueCopyright>
+            <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+            <CopyrightYear>2015</CopyrightYear>
+          </IssueCopyright>
+        </IssueInfo>
+        <Article ID="s10598-015-9279-9" OutputMedium="All">
+          <ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" TocLevels="0">
+            <ArticleID>9279</ArticleID>
+            <ArticleDOI>10.1007/s10598-015-9279-9</ArticleDOI>
+            <ArticleSequenceNumber>6</ArticleSequenceNumber>
+            <ArticleTitle Language="En">Unsteady Hydromagnetic Flow of a Reactive Viscous Fluid in a Vertical Channel with Thermal Diffusion, Diffusion-Thermal and Variable Viscosity Effects</ArticleTitle>
+            <ArticleFirstPage>385</ArticleFirstPage>
+            <ArticleLastPage>397</ArticleLastPage>
+            <ArticleHistory>
+              <RegistrationDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+              </RegistrationDate>
+              <OnlineDate>
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+              </OnlineDate>
+            </ArticleHistory>
+            <ArticleCopyright>
+              <CopyrightHolderName>Springer Science+Business Media New York</CopyrightHolderName>
+              <CopyrightYear>2015</CopyrightYear>
+            </ArticleCopyright>
+            <ArticleGrants Type="Regular">
+              <MetadataGrant Grant="OpenAccess"/>
+              <AbstractGrant Grant="OpenAccess"/>
+              <BodyPDFGrant Grant="Restricted"/>
+              <BodyHTMLGrant Grant="Restricted"/>
+              <BibliographyGrant Grant="Restricted"/>
+              <ESMGrant Grant="Restricted"/>
+            </ArticleGrants>
+          </ArticleInfo>
+          <ArticleHeader>
+            <AuthorGroup>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>I.</GivenName>
+                  <GivenName>J.</GivenName>
+                  <FamilyName>Uwanta</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>imeuwanta@yahoo.com</Email>
+                </Contact>
+              </Author>
+              <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1">
+                <AuthorName DisplayOrder="Western">
+                  <GivenName>M.</GivenName>
+                  <GivenName>M.</GivenName>
+                  <FamilyName>Hamza</FamilyName>
+                </AuthorName>
+                <Contact>
+                  <Email>hmbtamb@yahoo.com</Email>
+                </Contact>
+              </Author>
+              <Affiliation ID="Aff1">
+                <OrgDivision>Department of Mathematics</OrgDivision>
+                <OrgName>Usmanu Danfodiyo University</OrgName>
+                <OrgAddress>
+                  <City>Sokoto</City>
+                  <State>P.M.B</State>
+                  <Postcode>2346</Postcode>
+                  <Country>Nigeria</Country>
+                </OrgAddress>
+              </Affiliation>
+            </AuthorGroup>
+            <Abstract ID="Abs1" Language="En">
+              <Para ID="Par1">Unsteady/steady hydromagnetic natural convection and mass transfer flow characteristics of viscous reactive, incompressible, and electrically conducting fluid in the presence of a transverse magnetic field, thermal diffusion effect, diffusion-thermal effect, and temperature-dependent variable viscosity is investigated. The nonlinear governing equations are solved numerically usan ing unconditionally stable and convergent semi-implicit finite difference scheme. Numerical results are displayed and discussed graphically for various physical parameters embedded in the problem.</Para>
+            </Abstract>
+            <KeywordGroup Language="En">
+              <Heading>Keywords</Heading>
+              <Keyword>Soret</Keyword>
+              <Keyword>Dufour</Keyword>
+              <Keyword>viscosity</Keyword>
+              <Keyword>natural convection</Keyword>
+              <Keyword>heat transfer</Keyword>
+              <Keyword>mass transfer</Keyword>
+              <Keyword>hydromagnetic</Keyword>
+            </KeywordGroup>
+          </ArticleHeader>
+          <BodyRef FileRef="BodyRef/PDF/10598_2015_Article_9279.pdf" TargetType="OnlinePDF"/>
+          <ArticleBackmatter>
+            <Bibliography ID="Bib1">
+              <Heading>References</Heading>
+              <Citation ID="CR1">
+                <CitationNumber>1.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>OA</Initials>
+                    <FamilyName>Beg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TA</Initials>
+                    <FamilyName>Beg</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AY</Initials>
+                    <FamilyName>Bakier</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>VR</Initials>
+                    <FamilyName>Prasad</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Chemically-reacting mixed convective heat and mass transfer along inclined and vertical plates with Soret and Dufour effects: Numerical solutions</ArticleTitle>
+                  <JournalTitle>Int. J. Appl. Math Mech.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>39</FirstPage>
+                  <LastPage>57</LastPage>
+                </BibArticle>
+                <BibUnstructured>O. A. Beg, T. A. Beg, A. Y. Bakier, and V. R. Prasad, “Chemically-reacting mixed convective heat and mass transfer along inclined and vertical plates with Soret and Dufour effects: Numerical solutions,” <Emphasis Type="Italic">Int. J. Appl. Math Mech</Emphasis>., <Emphasis Type="Bold">5</Emphasis>, 39–57 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR2">
+                <CitationNumber>2.</CitationNumber>
+                <BibBook>
+                  <BibAuthorName>
+                    <Initials>ERG</Initials>
+                    <FamilyName>Eckert</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>RM</Initials>
+                    <FamilyName>Drake</FamilyName>
+                  </BibAuthorName>
+                  <Year>1972</Year>
+                  <BookTitle>Analysis of Heat and Mass Transfer</BookTitle>
+                  <PublisherName>McGraw-Hill</PublisherName>
+                  <PublisherLocation>New York</PublisherLocation>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0247.76079</Handle>
+                  </Occurrence>
+                </BibBook>
+                <BibUnstructured>E. R. G. Eckert, and R. M. Drake, <Emphasis Type="Italic">Analysis of Heat and Mass Transfer</Emphasis>, McGraw-Hill, New York (1972).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR3">
+                <CitationNumber>3.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>EM</Initials>
+                    <FamilyName>Sparrow</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>WJ</Initials>
+                    <FamilyName>Minkowyez</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>ERG</Initials>
+                    <FamilyName>Eckert</FamilyName>
+                  </BibAuthorName>
+                  <Year>1964</Year>
+                  <ArticleTitle Language="En">Effects of diffusion thermo and thermal diffusion on heat transfer, flow and mass transfer for the helium-air boundary layer in stagnation flow</ArticleTitle>
+                  <JournalTitle>ASME J. Heat Transfer.</JournalTitle>
+                  <VolumeID>86C</VolumeID>
+                  <FirstPage>508</FirstPage>
+                  <LastPage>512</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1115/1.3688730</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. M. Sparrow, W. J. Minkowyez, and E. R. G. Eckert, “Effects of diffusion thermo and thermal diffusion on heat transfer, flow and mass transfer for the helium-air boundary layer in stagnation flow,” <Emphasis Type="Italic">ASME J. Heat Transfer.</Emphasis>, <Emphasis Type="Bold">86C</Emphasis>, 508–512 (1964).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR4">
+                <CitationNumber>4.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hayat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Mustafa</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>I</Initials>
+                    <FamilyName>Pop</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Heat and mass transfer for Soret and Dufour’s effect on mixed convection boundary layer flow over a stretching vertical surface in a porous medium filled with a visco-elastic fluid</ArticleTitle>
+                  <JournalTitle>Commun. Nonlinear Sci. Numer. Simulat.</JournalTitle>
+                  <VolumeID>15</VolumeID>
+                  <FirstPage>1183</FirstPage>
+                  <LastPage>1196</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cnsns.2009.05.062</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1221.80005</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2563919</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Hayat, M. Mustafa, and I. Pop, “Heat and mass transfer for Soret and Dufour’s effect on mixed convection boundary layer flow over a stretching vertical surface in a porous medium filled with a visco-elastic fluid,” <Emphasis Type="Italic">Commun. Nonlinear Sci. Numer. Simulat</Emphasis>., <Emphasis Type="Bold">15</Emphasis>, 1183–1196 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR5">
+                <CitationNumber>5.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Alam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Rahman</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">“Dufour and Soret effects on mixed convection flow past a vertical porous flat plate with variable suction”, Nonlinear Anal.: Model</ArticleTitle>
+                  <JournalTitle>Control</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>3</FirstPage>
+                  <LastPage>12</LastPage>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1109.76057</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2267498</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. S. Alam, and M. M. Rahman, “Dufour and Soret effects on mixed convection flow past a vertical porous flat plate with variable suction,” <Emphasis Type="Italic">Nonlinear Anal.: Model. Control</Emphasis>, <Emphasis Type="Bold">11</Emphasis>, 3–12 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR6">
+                <CitationNumber>6.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>CY</Initials>
+                    <FamilyName>Cheng</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Soret and Dufour effects on natural convection boundary layer flow over a vertical cone in a porous medium with constant wall heat and mass fluxes</ArticleTitle>
+                  <JournalTitle>Int. Commun. Heat Mass Transf.</JournalTitle>
+                  <VolumeID>38</VolumeID>
+                  <FirstPage>44</FirstPage>
+                  <LastPage>48</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.icheatmasstransfer.2010.09.011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>C. Y. Cheng, “Soret and Dufour effects on natural convection boundary layer flow over a vertical cone in a porous medium with constant wall heat and mass fluxes,” <Emphasis Type="Italic">Int. Commun. Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">38</Emphasis>, 44–48 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR7">
+                <CitationNumber>7.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Numerical study of Soret and Dufour effects on heat and mass transfer from natural convection from over a vertical porous medium with variable wall heat fluxes</ArticleTitle>
+                  <JournalTitle>Comput. Mater. Sci.</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>23</FirstPage>
+                  <LastPage>30</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.commatsci.2009.06.009</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Tsai, and J. S Huang, “Numerical study of Soret and Dufour effects on heat and mass transfer from natural convection from over a vertical porous medium with variable wall heat fluxes,” <Emphasis Type="Italic">Comput. Mater. Sci</Emphasis>., <Emphasis Type="Bold">47</Emphasis>, 23–30 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR8">
+                <CitationNumber>8.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Tsai</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JS</Initials>
+                    <FamilyName>Huang</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Heat and mass transfer for Soret and Dufour’s effects on Hiemenz flow through porous medium onto a stretching surface</ArticleTitle>
+                  <JournalTitle>Int. J. Heat Mass Transf.</JournalTitle>
+                  <VolumeID>52</VolumeID>
+                  <FirstPage>2399</FirstPage>
+                  <LastPage>2406</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijheatmasstransfer.2008.10.017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1158.80315</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>R. Tsai, and J. S. Huang, “Heat and mass transfer for Soret and Dufour’s effects on Hiemenz flow through porous medium onto a stretching surface,” <Emphasis Type="Italic">Int. J. Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">52</Emphasis>, 2399–2406 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR9">
+                <CitationNumber>9.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Eugen</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Postelnicu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Double-diffusive natural convection flows with thermosolutal symmetry in porous media in the presence of the Soret-Dufour effects</ArticleTitle>
+                  <JournalTitle>Transport Porous Med.</JournalTitle>
+                  <VolumeID>88</VolumeID>
+                  <FirstPage>149</FirstPage>
+                  <LastPage>167</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s11242-011-9731-z</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Eugen, and A. Postelnicu, “Double-diffusive natural convection flows with thermosolutal symmetry in porous media in the presence of the Soret-Dufour effects,” <Emphasis Type="Italic">Transport Porous Med.</Emphasis>, <Emphasis Type="Bold">88</Emphasis>, 149–167 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR10">
+                <CitationNumber>10.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Hayat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Nawaz</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Asghar</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>S</Initials>
+                    <FamilyName>Mesloub</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Thermal-diffusion and diffusion-thermal effects on axisymmetric flow of a second grade fluid</ArticleTitle>
+                  <JournalTitle>Int. J. Heat Mass Transf.</JournalTitle>
+                  <VolumeID>54</VolumeID>
+                  <FirstPage>3031</FirstPage>
+                  <LastPage>3041</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijheatmasstransfer.2011.02.045</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1217.80039</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>T. Hayat, M. Nawaz, S. Asghar, and S. Mesloub, “Thermal-diffusion and diffusion-thermal effects on axisymmetric flow of a second grade fluid,” <Emphasis Type="Italic">Int. J. Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">54</Emphasis>, 3031–3041 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR11">
+                <CitationNumber>11.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>D</Initials>
+                    <FamilyName>Pal</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>H</Initials>
+                    <FamilyName>Mondal</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Effects of Soret Dufour, chemical reaction and thermal radiation on MHD non-Darcy unsteady mixed convective heat and mass transfer over a stretching sheet</ArticleTitle>
+                  <JournalTitle>Commun. Nonlinear Sci. Numer. Simul.</JournalTitle>
+                  <VolumeID>16</VolumeID>
+                  <FirstPage>1942</FirstPage>
+                  <LastPage>1958</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cnsns.2010.08.033</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>D. Pal, and H. Mondal, “Effects of Soret Dufour, chemical reaction and thermal radiation on MHD non-Darcy unsteady mixed convective heat and mass transfer over a stretching sheet,” <Emphasis Type="Italic">Commun. Nonlinear Sci. Numer. Simul.</Emphasis>, <Emphasis Type="Bold">16</Emphasis>, 1942–1958 (2011).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR12">
+                <CitationNumber>12.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Postelnicu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Influence of a magnetic field on heat and mass transfer by natural convection from vertical surfaces in porous media considering Soret and Dufour effects</ArticleTitle>
+                  <JournalTitle>Int. J. Heat Mass Transf.</JournalTitle>
+                  <VolumeID>47</VolumeID>
+                  <FirstPage>1467</FirstPage>
+                  <LastPage>1472</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.ijheatmasstransfer.2003.09.017</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1045.76568</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Postelnicu, “Influence of a magnetic field on heat and mass transfer by natural convection from vertical surfaces in porous media considering Soret and Dufour effects,” <Emphasis Type="Italic">Int. J. Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">47</Emphasis>, 1467–1472 (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR13">
+                <CitationNumber>13.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>ST</Initials>
+                    <FamilyName>Shyam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Rajeev</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>KG</Initials>
+                    <FamilyName>Rohit</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Aiyub</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">MHD free convection-radiation interaction along a vertical surface embedded in Darcian porous medium in the presence of Soret and Dufour effects</ArticleTitle>
+                  <JournalTitle>Therm. Sci.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>137</FirstPage>
+                  <LastPage>145</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.2298/TSCI1001137T</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. T. Shyam, M. Rajeev, K. G. Rohit, and K. Aiyub, “MHD free convection-radiation interaction along a vertical surface embedded in Darcian porous medium in the presence of Soret and Dufour effects,” <Emphasis Type="Italic">Therm. Sci</Emphasis>., <Emphasis Type="Bold">14</Emphasis>, 137–145 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR14">
+                <CitationNumber>14.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>PO</Initials>
+                    <FamilyName>Olanrewaju</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>OJ</Initials>
+                    <FamilyName>Fenuga</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>JA</Initials>
+                    <FamilyName>Gbadeyan</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>TG</Initials>
+                    <FamilyName>Okedayo</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Dufour and Soret effects on convection heat and mass transfer in an electrically conducting power law flow over a heated porous plate</ArticleTitle>
+                  <JournalTitle>Int. J. Comput. Methods</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>32</FirstPage>
+                  <LastPage>39</LastPage>
+                  <Occurrence Type="AMSID">
+                    <Handle>3021047</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>P. O. Olanrewaju, O. J. Fenuga, J. A. Gbadeyan, and T. G. Okedayo, “Dufour and Soret effects on convection heat and mass transfer in an electrically conducting power law flow over a heated porous plate,” <Emphasis Type="Italic">Int. J. Comput. Methods</Emphasis>, <Emphasis Type="Bold">14</Emphasis>, 32–39 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR15">
+                <CitationNumber>15.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MG</Initials>
+                    <FamilyName>Reddy</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NB</Initials>
+                    <FamilyName>Reddy</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Soret and Dufour effects on steady MHD free convection flow past a semi-infinite moving vertical plate in a porous medium with viscous dissipation</ArticleTitle>
+                  <JournalTitle>Int. J. Appl. Math. Mech.</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>12</LastPage>
+                </BibArticle>
+                <BibUnstructured>M. G. Reddy, and N. B. Reddy, “Soret and Dufour effects on steady MHD free convection flow past a semi-infinite moving vertical plate in a porous medium with viscous dissipation,” <Emphasis Type="Italic">Int. J. Appl. Math. Mech</Emphasis>., <Emphasis Type="Bold">6</Emphasis>, 1–12 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR16">
+                <CitationNumber>16.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AA</Initials>
+                    <FamilyName>Afify</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Similarity solution in MHD effects of thermal diffusion and diffusion thermo on free convective heat and mass transfer over a stretching surface considering suction or injection</ArticleTitle>
+                  <JournalTitle>Commun. Nonlinear Sci. Numer. Simul.</JournalTitle>
+                  <VolumeID>14</VolumeID>
+                  <FirstPage>2202</FirstPage>
+                  <LastPage>2214</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cnsns.2008.07.001</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1221.76212</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. A. Afify, “Similarity solution in MHD effects of thermal diffusion and diffusion thermo on free convective heat and mass transfer over a stretching surface considering suction or injection,” <Emphasis Type="Italic">Commun. Nonlinear Sci. Numer. Simul</Emphasis>., <Emphasis Type="Bold">14</Emphasis>, 2202–2214 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR17">
+                <CitationNumber>17.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Mahdy</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">MHD non-Darcian free convection from a vertical wavy surface embedded in porous media in the presence of Soret and Dufour effect</ArticleTitle>
+                  <JournalTitle>Int. Commun. Heat Mass Transf.</JournalTitle>
+                  <VolumeID>36</VolumeID>
+                  <FirstPage>1067</FirstPage>
+                  <LastPage>1074</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.icheatmasstransfer.2009.07.004</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Mahdy, “MHD non-Darcian free convection from a vertical wavy surface embedded in porous media in the presence of Soret and Dufour effect,” <Emphasis Type="Italic">Int. Commun. Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">36</Emphasis>, 1067–1074 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR18">
+                <CitationNumber>18.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>E</Initials>
+                    <FamilyName>Osalusi</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>J</Initials>
+                    <FamilyName>Side</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Harris</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Thermal diffusion and diffusion-thermal effects on combined heat and mass transfer of a steady MHD convective and slip flow due to a rotating disk with viscous dissipation and ohmic heating</ArticleTitle>
+                  <JournalTitle>Int. Commun. Heat Mass Transf.</JournalTitle>
+                  <VolumeID>35</VolumeID>
+                  <FirstPage>908</FirstPage>
+                  <LastPage>915</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.icheatmasstransfer.2008.04.011</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>E. Osalusi, J. Side, and R. Harris, “Thermal diffusion and diffusion-thermal effects on combined heat and mass transfer of a steady MHD convective and slip flow due to a rotating disk with viscous dissipation and ohmic heating,” <Emphasis Type="Italic">Int. Commun. Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">35</Emphasis>, 908–915 (2008).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR19">
+                <CitationNumber>19.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MS</Initials>
+                    <FamilyName>Alam</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>MM</Initials>
+                    <FamilyName>Rahman</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Maleque</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>M</Initials>
+                    <FamilyName>Ferdows</FamilyName>
+                  </BibAuthorName>
+                  <Year>2006</Year>
+                  <ArticleTitle Language="En">Dufour and Soret effects on steady MHD combined free-forced convective and mass transfer flow past a semi-infinite vertical plate</ArticleTitle>
+                  <JournalTitle>Thammasat Int. J. Sci. Technol.</JournalTitle>
+                  <VolumeID>11</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>12</LastPage>
+                </BibArticle>
+                <BibUnstructured>M. S. Alam, M. M. Rahman, A. Maleque, and M. Ferdows, “Dufour and Soret effects on steady MHD combined free-forced convective and mass transfer flow past a semi-infinite vertical plate,” <Emphasis Type="Italic">Thammasat Int. J. Sci. Technol</Emphasis>., <Emphasis Type="Bold">11</Emphasis>, 1–12 (2006).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR20">
+                <CitationNumber>20.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>AJ</Initials>
+                    <FamilyName>Chamkha</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Ben-Nakhi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">MHD mixed convection-radiation interaction along a permeable surface immersed in a porous medium in the presence of Soret and Dufour effects</ArticleTitle>
+                  <JournalTitle>Heat Mass Transf.</JournalTitle>
+                  <VolumeID>44</VolumeID>
+                  <FirstPage>845</FirstPage>
+                  <LastPage>856</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00231-007-0296-x</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. J. Chamkha, and A. Ben-Nakhi, “MHD mixed convection-radiation interaction along a permeable surface immersed in a porous medium in the presence of Soret and Dufour effects,” <Emphasis Type="Italic">Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">44</Emphasis>, 845–856 (2008).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR21">
+                <CitationNumber>21.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Postelnicu</FamilyName>
+                  </BibAuthorName>
+                  <Year>2007</Year>
+                  <ArticleTitle Language="En">Influence of chemical reaction on heat and mass transfer by natural convection from vertical surfaces in porous media considering Soret and Dufour effects</ArticleTitle>
+                  <JournalTitle>Heat Mass Transf.</JournalTitle>
+                  <VolumeID>43</VolumeID>
+                  <FirstPage>595</FirstPage>
+                  <LastPage>602</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00231-006-0132-8</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>A. Postelnicu, “Influence of chemical reaction on heat and mass transfer by natural convection from vertical surfaces in porous media considering Soret and Dufour effects,” <Emphasis Type="Italic">Heat Mass Transf.</Emphasis>, <Emphasis Type="Bold">43</Emphasis>, 595–602 (2007).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR22">
+                <CitationNumber>22.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Mansour</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>NF</Initials>
+                    <FamilyName>El-Anssary</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Aly</FamilyName>
+                  </BibAuthorName>
+                  <Year>2008</Year>
+                  <ArticleTitle Language="En">Effects of chemical reaction and thermal stratification on MHD free convective heat and mass transfer over a vertical stretching surface embedded in a porous media considering Soret and Dufour numbers</ArticleTitle>
+                  <JournalTitle>J. Chem. Eng.</JournalTitle>
+                  <VolumeID>145</VolumeID>
+                  <FirstPage>340</FirstPage>
+                  <LastPage>345</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.cej.2008.08.016</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. A. Mansour, N. F. El-Anssary, and A. M. Aly, “Effects of chemical reaction and thermal stratification on MHD free convective heat and mass transfer over a vertical stretching surface embedded in a porous media considering Soret and Dufour numbers,” <Emphasis Type="Italic">J. Chem. Eng</Emphasis>., <Emphasis Type="Bold">145</Emphasis>, 340–345 (2008).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR23">
+                <CitationNumber>23.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SMM</Initials>
+                    <FamilyName>El-Kabeir</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Chamkha</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AM</Initials>
+                    <FamilyName>Rashad</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Heat and mass transfer by MHD stagnation-point flow of a power-law fluid towards a stretching surface with radiation, chemical reaction and Soret and Dufour effects</ArticleTitle>
+                  <JournalTitle>Int. J. Chem. React. Eng.</JournalTitle>
+                  <VolumeID>8</VolumeID>
+                  <FirstPage>1</FirstPage>
+                  <LastPage>18</LastPage>
+                </BibArticle>
+                <BibUnstructured>S. M. M. El-Kabeir, A. Chamkha, and A. M. Rashad, “Heat and mass transfer by MHD stagnation-point flow of a power-law fluid towards a stretching surface with radiation, chemical reaction and Soret and Dufour effects,” <Emphasis Type="Italic">Int. J. Chem. React. Eng</Emphasis>., <Emphasis Type="Bold">8</Emphasis>, 1–18 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR24">
+                <CitationNumber>24.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Gangadhar</FamilyName>
+                  </BibAuthorName>
+                  <Year>2013</Year>
+                  <ArticleTitle Language="En">Soret and Dufour effects on hydromagnetic heat and mass transfer over a vertical plate with a convective surface boundary condition and chemical reaction</ArticleTitle>
+                  <JournalTitle>J. Appl. Fluid Mech.</JournalTitle>
+                  <VolumeID>6</VolumeID>
+                  <FirstPage>95</FirstPage>
+                  <LastPage>105</LastPage>
+                </BibArticle>
+                <BibUnstructured>K. Gangadhar, “Soret and Dufour effects on hydromagnetic heat and mass transfer over a vertical plate with a convective surface boundary condition and chemical reaction,” <Emphasis Type="Italic">J. Appl. Fluid Mech</Emphasis>., <Emphasis Type="Bold">6</Emphasis>, 95–105 (2013).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR25">
+                <CitationNumber>25.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Bhargava</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>R</Initials>
+                    <FamilyName>Sharma</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>OA</Initials>
+                    <FamilyName>Beg</FamilyName>
+                  </BibAuthorName>
+                  <Year>2009</Year>
+                  <ArticleTitle Language="En">Oscillatory chemically-reacting MHD free convection heat and mass transfer in a porous medium with Soret and Dufour effects: Finite element modeling</ArticleTitle>
+                  <JournalTitle>Int. J. Appl. Math. Mech.</JournalTitle>
+                  <VolumeID>5</VolumeID>
+                  <FirstPage>15</FirstPage>
+                  <LastPage>37</LastPage>
+                </BibArticle>
+                <BibUnstructured>R. Bhargava, R. Sharma, and O. A. Beg, “Oscillatory chemically-reacting MHD free convection heat and mass transfer in a porous medium with Soret and Dufour effects: Finite element modeling,” <Emphasis Type="Italic">Int. J. Appl. Math. Mech</Emphasis>., <Emphasis Type="Bold">5</Emphasis>, 15–37 (2009).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR26">
+                <CitationNumber>26.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>SR</Initials>
+                    <FamilyName>Vempati</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>AB</Initials>
+                    <FamilyName>Laxmi-Narayana-Gari</FamilyName>
+                  </BibAuthorName>
+                  <Year>2010</Year>
+                  <ArticleTitle Language="En">Soret and Dufour effects on unsteady MHD flow past an infinite vertical porous plate with thermal radiation</ArticleTitle>
+                  <JournalTitle>Appl. Math. Mech.</JournalTitle>
+                  <VolumeID>31</VolumeID>
+                  <FirstPage>1481</FirstPage>
+                  <LastPage>1496</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10483-010-1378-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1275.76226</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2779915</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>S. R. Vempati, and A. B. Laxmi-Narayana-Gari, “Soret and Dufour effects on unsteady MHD flow past an infinite vertical porous plate with thermal radiation,” <Emphasis Type="Italic">Appl. Math. Mech</Emphasis>., <Emphasis Type="Bold">31</Emphasis>, 1481–1496 (2010).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR27">
+                <CitationNumber>27.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MQ</Initials>
+                    <FamilyName>Al-Odat</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>A</Initials>
+                    <FamilyName>Al-Ghamdi</FamilyName>
+                  </BibAuthorName>
+                  <Year>2012</Year>
+                  <ArticleTitle Language="En">Numerical investigation of Dufour and Soret effects on unsteady MHD natural convection flow past vertical plate embedded in non-Darcy porous medium</ArticleTitle>
+                  <JournalTitle>Appl. Math. Mech.</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>195</FirstPage>
+                  <LastPage>210</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s10483-012-1543-9</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1233.76121</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2934464</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. Q. Al-Odat, and A. Al-Ghamdi, “Numerical investigation of Dufour and Soret effects on unsteady MHD natural convection flow past vertical plate embedded in non-Darcy porous medium,” <Emphasis Type="Italic">Appl. Math. Mech</Emphasis>., <Emphasis Type="Bold">33</Emphasis>, 195–210 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR28">
+                <CitationNumber>28.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Hossain</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Khanafer</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>K</Initials>
+                    <FamilyName>Vafai</FamilyName>
+                  </BibAuthorName>
+                  <Year>2001</Year>
+                  <ArticleTitle Language="En">The effect of radiation on free convection flow of fluid with variable viscosity from a porous vertical plate</ArticleTitle>
+                  <JournalTitle>Int. J. Therm. Sci.</JournalTitle>
+                  <VolumeID>40</VolumeID>
+                  <FirstPage>115</FirstPage>
+                  <LastPage>124</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/S1290-0729(00)01200-X</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. A. Hossain, K. Khanafer, and K. Vafai, “The effect of radiation on free convection flow of fluid with variable viscosity from a porous vertical plate,” <Emphasis Type="Italic">Int. J. Therm. Sci</Emphasis>., <Emphasis Type="Bold">40</Emphasis>, 115–124 (2001).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR29">
+                <CitationNumber>29.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>NG</Initials>
+                    <FamilyName>Kafoussias</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>EW</Initials>
+                    <FamilyName>Willians</FamilyName>
+                  </BibAuthorName>
+                  <Year>1995</Year>
+                  <ArticleTitle Language="En">Thermal diffusion and diffusion-thermal effects on mixed free-forced convective and mass transfer boundary layer flow with temperature dependent viscosity</ArticleTitle>
+                  <JournalTitle>Int. J. Eng. Sci.</JournalTitle>
+                  <VolumeID>33</VolumeID>
+                  <FirstPage>1369</FirstPage>
+                  <LastPage>1384</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/0020-7225(94)00132-4</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>0899.76325</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>N. G. Kafoussias, and E. W. Willians, “Thermal diffusion and diffusion-thermal effects on mixed free-forced convective and mass transfer boundary layer flow with temperature dependent viscosity,” <Emphasis Type="Italic">Int. J. Eng. Sci</Emphasis>., <Emphasis Type="Bold">33</Emphasis>, 1369–1384 (1995).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR30">
+                <CitationNumber>30.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>MA</Initials>
+                    <FamilyName>Seddeek</FamilyName>
+                  </BibAuthorName>
+                  <Year>2004</Year>
+                  <ArticleTitle Language="En">Thermal-diffusion and diffusion-thermal effects on mixed free-forced convective flow and mass transfer with a heat source in the presence of suction and blowing in the case of variable viscosity</ArticleTitle>
+                  <JournalTitle>Acta Mech.</JournalTitle>
+                  <VolumeID>172</VolumeID>
+                  <FirstPage>83</FirstPage>
+                  <LastPage>94</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1007/s00707-004-0139-5</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1071.76050</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>M. A. Seddeek, “Thermal-diffusion and diffusion-thermal effects on mixed free-forced convective flow and mass transfer with a heat source in the presence of suction and blowing in the case of variable viscosity,” <Emphasis Type="Italic">Acta Mech.</Emphasis>, <Emphasis Type="Bold">172</Emphasis>, 83–94 (2004).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR31">
+                <CitationNumber>31.</CitationNumber>
+                <BibUnstructured>M. B. K. Moorthy, and K. Senthilvadivu, “Soret and Dufour effects on natural convection flow past a vertical surface in a porous medium with variable viscosity,” <Emphasis Type="Italic">J. Appl. Math.,</Emphasis> Article I.D <Emphasis Type="Bold">634806</Emphasis>, 1–15 (2012).</BibUnstructured>
+              </Citation>
+              <Citation ID="CR32">
+                <CitationNumber>32.</CitationNumber>
+                <BibArticle>
+                  <BibAuthorName>
+                    <Initials>OD</Initials>
+                    <FamilyName>Makinde</FamilyName>
+                  </BibAuthorName>
+                  <BibAuthorName>
+                    <Initials>T</Initials>
+                    <FamilyName>Chinyoka</FamilyName>
+                  </BibAuthorName>
+                  <Year>2011</Year>
+                  <ArticleTitle Language="En">Numerical study of unsteady hydromagnetic generalized Couette flow of a reactive third-grade fluid with asymmetric convective cooling</ArticleTitle>
+                  <JournalTitle>Comput. Math. Appl.</JournalTitle>
+                  <VolumeID>61</VolumeID>
+                  <FirstPage>1167</FirstPage>
+                  <LastPage>1179</LastPage>
+                  <Occurrence Type="DOI">
+                    <Handle>10.1016/j.camwa.2010.12.066</Handle>
+                  </Occurrence>
+                  <Occurrence Type="ZLBID">
+                    <Handle>1217.76087</Handle>
+                  </Occurrence>
+                  <Occurrence Type="AMSID">
+                    <Handle>2770519</Handle>
+                  </Occurrence>
+                </BibArticle>
+                <BibUnstructured>O. D. Makinde, and T. Chinyoka, “Numerical study of unsteady hydromagnetic generalized Couette flow of a reactive third-grade fluid with asymmetric convective cooling,” <Emphasis Type="Italic">Comput. Math. Appl.</Emphasis>, <Emphasis Type="Bold">61</Emphasis>, 1167–1179 (2011).</BibUnstructured>
+              </Citation>
+            </Bibliography>
+          </ArticleBackmatter>
+        </Article>
+      </Issue>
+    </Volume>
+  </Journal>
+</Publisher>
